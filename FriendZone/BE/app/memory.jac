@@ -55,3 +55,43 @@ walker search_memories(visit_memories) {
 
     can search_memories with memories entry;
 }
+
+walker migrate_profile_data(visit_memories) {
+    has json_file_content:list;
+
+
+    can migrate_profile_data_from_json with memories entry {
+        if len(self.json_file_content) == 0 {
+            
+            return;
+        }
+
+        data = self.json_file_content;
+
+        for item in data {
+            data_block = item["context"];
+            memory_node = memory(
+                memory_id = data_block["memory_id"],
+                session_id = data_block["session_id"],
+                summary = data_block["summary"],
+                when = data_block["when"][0],
+                who = data_block["who"],
+                where = data_block["where"],
+                what = data_block["what"][0],
+                created_at = data_block["created_at"],
+                updated_at = data_block["updated_at"],
+                image_url = " ",
+                conversation = data_block["conversation"]
+            
+            );
+
+            here ++> memory_node;
+        }
+
+        # print("----------------------->");
+        # print([-->](`?memory));
+        # report {};
+
+        
+    }
+}

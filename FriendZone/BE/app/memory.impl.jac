@@ -116,7 +116,10 @@ impl get_memory.get_memory with memory entry {
 }
 
 impl list_memories.list_memories with memories entry {
+    print(here);
     memories_list = [here-->](`?memory);
+    print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Memories List:");
+    print(memories_list);
     if not memories_list {
         logger.warning(f"friends | list_memories | No memories found");
     }

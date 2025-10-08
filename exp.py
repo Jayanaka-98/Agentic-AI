@@ -75,13 +75,11 @@ def load_data(username):
     with open(f'./yipingtest3@jaseci.org/memory.json', 'r') as f:
         profile_json = json.load(f)
 
-    # print(profile_json["reports"])
-
     res = jac2_session.post(
         f"{jac2_url}/walker/migrate_profile_data",
         json={"json_file_content": profile_json["reports"]},
     )
-    # print(res.json())
+    print(res.json())
     if res.status_code == 200:
         print(f"Profile migrated for {user}")
     # jac2_session.headers.update({"Authorization": f"bearer {user_token}"})
@@ -98,3 +96,6 @@ if __name__ == "__main__":
 
     res = jac2_session.post(f"{jac2_url}/walker/list_memories", json={})
     # print(res.json())
+
+    # res = jac2_session.post(f"{jac2_url}/walker/search_memories", json={"query":"What Memories do I have"})
+    print(res.json())

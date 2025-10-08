@@ -94,7 +94,6 @@ if __name__ == "__main__":
         new_password = manage_user_credentials(user, password)
         users[user] = new_password  # Update the dictionary with the password
 
-    print (users)
     login_user(name, users[name])
 
     res = jac2_session.post(f"{jac2_url}/walker/list_memories", json={})

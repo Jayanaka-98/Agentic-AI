@@ -1,5 +1,5 @@
 import from fastapi { HTTPException, status }
-import from nodes_and_edges { profile }
+import from nodes_and_edges { profile, memory, memories }
 
 walker visit_profile {
 
@@ -29,3 +29,7 @@ walker get_profile(visit_profile) {
 
     can get_profile with profile entry;
 }
+
+
+
+

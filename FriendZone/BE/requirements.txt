@@ -1,5 +1,5 @@
 byllm[video]
-jac-cloud==0.2.4
+jac-cloud
 requests==2.32.4
 python-dateutil==2.9.0
 boto3

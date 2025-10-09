@@ -1,0 +1,17 @@
+Retrieval Evaluation Metrics
+============================
+Questions evaluated: 95
+Exact Match (EM):   0.3789
+
+Macro Averages (mean over questions)
+  Precision:        0.8260
+  Recall:           0.8819
+  F1:               0.8329
+
+Micro Averages (global counts)
+  Precision:        0.7902
+  Recall:           0.9031
+  F1:               0.8429
+
+Counts
+  TP: 354  FP: 94  FN: 38

@@ -1,10 +1,10 @@
 import json
 import os
 
-INPUT_JSONL = "results/all_users_answers.jsonl"   # change if needed
-OUTPUT_JSON  = "results/eval_metrics.json"
+INPUT_JSONL = "results/all_users_answers.jsonl"
+OUTPUT_TXT  = "results/eval_metrics.txt"
 
-os.makedirs(os.path.dirname(OUTPUT_JSON), exist_ok=True)
+os.makedirs(os.path.dirname(OUTPUT_TXT), exist_ok=True)
 
 def as_set(x):
     if x is None:
@@ -27,7 +27,6 @@ with open(INPUT_JSONL, "r", encoding="utf-8") as f:
             continue
         rec = json.loads(line)
 
-        # Skip error lines (e.g., login failures)
         if "error" in rec:
             continue
 
@@ -54,26 +53,35 @@ with open(INPUT_JSONL, "r", encoding="utf-8") as f:
         fp_micro += fp
         fn_micro += fn
 
-# Macro (mean over questions)
 macro_p = macro_p_sum / num_q if num_q else 0.0
 macro_r = macro_r_sum / num_q if num_q else 0.0
 macro_f1 = macro_f1_sum / num_q if num_q else 0.0
 exact_match = num_em / num_q if num_q else 0.0
 
-# Micro (aggregate counts)
 micro_p = 0.0 if (tp_micro + fp_micro) == 0 else tp_micro / (tp_micro + fp_micro)
 micro_r = 0.0 if (tp_micro + fn_micro) == 0 else tp_micro / (tp_micro + fn_micro)
 micro_f1 = f1(micro_p, micro_r)
 
-metrics = {
-    "questions_evaluated": num_q,
-    "exact_match": exact_match,
-    "macro": {"precision": macro_p, "recall": macro_r, "f1": macro_f1},
-    "micro": {"precision": micro_p, "recall": micro_r, "f1": micro_f1},
-    "counts": {"tp": tp_micro, "fp": fp_micro, "fn": fn_micro}
-}
+report = []
+report.append("Retrieval Evaluation Metrics")
+report.append("============================")
+report.append(f"Questions evaluated: {num_q}")
+report.append(f"Exact Match (EM):   {exact_match:.4f}")
+report.append("")
+report.append("Macro Averages (mean over questions)")
+report.append(f"  Precision:        {macro_p:.4f}")
+report.append(f"  Recall:           {macro_r:.4f}")
+report.append(f"  F1:               {macro_f1:.4f}")
+report.append("")
+report.append("Micro Averages (global counts)")
+report.append(f"  Precision:        {micro_p:.4f}")
+report.append(f"  Recall:           {micro_r:.4f}")
+report.append(f"  F1:               {micro_f1:.4f}")
+report.append("")
+report.append("Counts")
+report.append(f"  TP: {tp_micro}  FP: {fp_micro}  FN: {fn_micro}")
 
-with open(OUTPUT_JSON, "w", encoding="utf-8") as out:
-    json.dump(metrics, out, indent=2, ensure_ascii=False)
+with open(OUTPUT_TXT, "w", encoding="utf-8") as out:
+    out.write("\n".join(report) + "\n")
 
-print(f"[OK] wrote metrics to {OUTPUT_JSON}")
+print(f"[OK] wrote metrics to {OUTPUT_TXT}")

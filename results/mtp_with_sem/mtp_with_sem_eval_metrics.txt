@@ -1,0 +1,18 @@
+Retrieval Evaluation Metrics (MTP_WITH_SEM)
+==================================================
+Questions evaluated: 200
+Exact Match (EM):   0.3150
+
+Macro Averages (mean over questions)
+  Precision: 0.7642
+  Recall: 0.8518
+  F1: 0.7739
+
+Micro Averages (global counts)
+  Precision: 0.6886
+  Recall: 0.8596
+  F1: 0.7647
+
+Cosine Similarity
+  Mean cosine(pred summaries vs gold answers): 0.2574
+  Mean cosine(gold summaries vs gold answers): 0.2734

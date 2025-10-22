@@ -1,0 +1,63 @@
+{
+  "user_id": "user_012",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "What shows Ethan's transition from student practice to public performances?",
+      "answer_gold": "He began with solo piano rehearsals in Ann Arbor, then joined choir concerts, street performances, open mics, and finally recitals and festivals.",
+      "evidence": [
+        "m01",
+        "m03",
+        "m05",
+        "m07",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "Which cities did Ethan travel to for music-related experiences?",
+      "answer_gold": "Chicago, New York, Boston, Austin, Nashville, Los Angeles, Seattle, and Toronto.",
+      "evidence": [
+        "m02",
+        "m03",
+        "m04",
+        "m05",
+        "m06",
+        "m07",
+        "m08",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "Who accompanied Ethan in his music-related outings?",
+      "answer_gold": "Olivia at jazz club and festival, Julia at the symphony and New Year's Eve, Noah at the studio, and Raj at the festival.",
+      "evidence": [
+        "m02",
+        "m04",
+        "m06",
+        "m08",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which memory reflects Ethan as a performer in a professional setting?",
+      "answer_gold": "His piano recital in Toronto, where he bowed to audience applause.",
+      "evidence": [
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which events highlight Ethan's enjoyment of music as an audience member rather than performer?",
+      "answer_gold": "The jazz club in Chicago, the symphony in Boston, the Seattle music festival, and New Year's Eve concert in New York.",
+      "evidence": [
+        "m02",
+        "m04",
+        "m08",
+        "m10"
+      ]
+    }
+  ]
+}

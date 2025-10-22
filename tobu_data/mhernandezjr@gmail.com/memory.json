@@ -1,0 +1,39 @@
+{
+    "status": 200,
+    "reports": [
+        {
+            "id": "n:memory:66b067bee0bf617cca59a5a9",
+            "context": {
+                "memory_id": "adb378caeb764889986210f24c6ab02b",
+                "summary": "",
+                "comments_summary": "",
+                "when": [
+                    ""
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    ""
+                ],
+                "what": [
+                    ""
+                ],
+                "natural_when": [
+                    ""
+                ],
+                "emotion": "",
+                "created_at": "2024-08-05 05:48:46",
+                "updated_at": "2024-08-05 05:48:46",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/mhernandezjr@gmail.com_66b06756e0bf617cca59a4f1/54950858-0CD2-4516-AB2E-FC477B6BAB62.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [],
+                "session_id": "a76dc994-96a7-4b9b-958e-78d9f4985f6e",
+                "draft": false
+            }
+        }
+    ]
+}

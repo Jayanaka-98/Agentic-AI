@@ -1,0 +1,58 @@
+{
+  "user_id": "user_013",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "What milestones marked Rachel's academic progress across 2025?",
+      "answer_gold": "She presented a poster in Chicago, joined a climate panel in Washington D.C., co-presented a workshop in Toronto, gave a paper talk in London, and celebrated her journal article acceptance in Ann Arbor.",
+      "evidence": [
+        "m02",
+        "m05",
+        "m07",
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "Which collaborators worked with Rachel on research projects, and in what contexts?",
+      "answer_gold": "Dr. Chen advised her manuscript in Boston, Omar collaborated on dataset building in Seattle and later joined the café celebration, and Julia co-presented a workshop in Toronto and celebrated with her.",
+      "evidence": [
+        "m03",
+        "m06",
+        "m07",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What international experiences did Rachel have in 2025?",
+      "answer_gold": "She traveled to Toronto for a workshop and to London for an international paper presentation.",
+      "evidence": [
+        "m07",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which activities reflect Rachel as an attendee versus as a presenter?",
+      "answer_gold": "As an attendee, she listened to a keynote in New York and networked in San Francisco. As a presenter, she gave talks in Chicago, Washington D.C., Toronto, and London.",
+      "evidence": [
+        "m04",
+        "m08",
+        "m02",
+        "m05",
+        "m07",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which memory best captures Rachel's academic success, and why?",
+      "answer_gold": "The December celebration in Ann Arbor, because it marked her journal article's acceptance, a key academic milestone.",
+      "evidence": [
+        "m10"
+      ]
+    }
+  ]
+}

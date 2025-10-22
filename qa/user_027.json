@@ -1,0 +1,50 @@
+{
+  "user_id": "user_027",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Who did Mia collaborate with during her marine research, and what did they achieve together?",
+      "answer_gold": "She worked with divers in Sydney to tag turtles, ecologists in Cape Town to study penguins, and colleagues in Tokyo to discover deep-sea coral formations.",
+      "evidence": [
+        "m02",
+        "m04",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What events illustrate Mia's role as an educator and advocate for ocean conservation?",
+      "answer_gold": "Her student workshops in Bali and teaching course in San Diego highlight her commitment to education and public engagement in marine science.",
+      "evidence": [
+        "m03",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did Mia integrate scientific research with public outreach?",
+      "answer_gold": "Her underwater photography in Okinawa was later showcased in exhibitions, and her Geneva presentation connected research findings to policy discussions.",
+      "evidence": [
+        "m06",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which of Mia's projects contributed directly to species preservation?",
+      "answer_gold": "Her turtle tagging in Sydney and seal rehabilitation in Vancouver directly supported marine species protection and recovery.",
+      "evidence": [
+        "m02",
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What milestone symbolized Mia's impact as a global marine researcher?",
+      "answer_gold": "Her presentation at the UN forum in Geneva marked the recognition of her international contributions to marine science and collaboration.",
+      "evidence": [
+        "m10"
+      ]
+    }
+  ]
+}

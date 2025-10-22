@@ -1,0 +1,51 @@
+{
+  "user_id": "user_026",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Who were Ethan's key collaborators during the year, and how did they contribute to his music?",
+      "answer_gold": "He worked with Jasmine Lee on an R&B EP, Park Minseo on a K-pop fusion track, and Amara Thompson on two soulful collaborations in London and Toronto.",
+      "evidence": [
+        "m01",
+        "m03",
+        "m05",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What events showcased Ethan's mentorship and educational outreach?",
+      "answer_gold": "His youth music workshop in New York and his presentation at the Berlin music expo highlighted his dedication to sharing knowledge and inspiring young producers.",
+      "evidence": [
+        "m04",
+        "m06"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "Which performances demonstrated Ethan's creativity and global reach?",
+      "answer_gold": "His DJ performance in Barcelona and charity concert in Los Angeles showcased his ability to engage diverse audiences and merge music with social causes.",
+      "evidence": [
+        "m07",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "How did Ethan blend technology and artistry in his work?",
+      "answer_gold": "Through his AI-based sound synthesis demo in Berlin and his remote production sessions in Tokyo, he fused human creativity with digital innovation.",
+      "evidence": [
+        "m04",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What event symbolized the culmination of Ethan's creative and philanthropic efforts?",
+      "answer_gold": "The Los Angeles charity concert, uniting his collaborators for a musical cause, represented both personal fulfillment and community impact.",
+      "evidence": [
+        "m10"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+    "status": 200,
+    "reports": [
+        {
+            "id": "n:memory:66a69f73204745c73cd6b692",
+            "context": {
+                "memory_id": "57ef0ce31bae45e5b2d46c794fe858b3",
+                "summary": "You had dinner with your son Sean and his girlfriend Kristen in their new apartment in Los Angeles. Jaden was also there. The sunset was beautiful. It's been hard to not have Sean at home, but he is so happy.",
+                "comments_summary": "",
+                "when": [
+                    "2023-03-29"
+                ],
+                "who": [
+                    "Sean, Kristen, Jaden"
+                ],
+                "where": [
+                    "Los Angeles"
+                ],
+                "what": [
+                    "Dinner with Sean and Kristen"
+                ],
+                "natural_when": [
+                    "2023-03-29"
+                ],
+                "emotion": "happy",
+                "created_at": "2024-03-29T14:35:16.586689",
+                "updated_at": "2024-03-29T14:35:16.586836",
+                "image_urls": [
+                    "https://tobu-mvp-dev.s3.amazonaws.com/jjseanmacs@aol.com_urn:uuid:4d8e9b9c-c3cb-4e89-bbdb-713a24dd9e08/996395E8-C647-427C-A7A9-6A216556CB2A.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Our son, Sean, just moved into his new apartment with his longtime girlfriend, Kristen, in Los Angeles, period. We came over to have dinner with them along with Jaden, period. The sunset was beautiful, period. It's been hard to not have Sean at home, but he is so happy, period. This was taken March 28, 2024."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It sounds like a significant moment. Could you tell me more about what you did during the dinner?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "No."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "No."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Alright, I've captured this memory: On March 28, 2024, you visited your son Sean and his girlfriend Kristen at their new apartment in Los Angeles. You had dinner with them and Jaden. It was a beautiful sunset and although it's been hard not having Sean at home, he is very happy. <END>"
+                    }
+                ],
+                "session_id": "a38f2af2-2a90-4536-b2cd-38fbfb81f038",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f73204745c73cd6b690",
+            "context": {
+                "memory_id": "25393b20eb7d41ec982c68ed6ef88f2b",
+                "summary": "You took your hardworking parents to the beautiful Mauna Lani Resort in Kona, Hawaii on March 23, 2024. It was important for you to give them this amazing trip as they don't often get to enjoy such experiences. During the vacation, you enjoyed a luau and indulged in food and drinks every day. This special time allowed you to get to know your parents even better. Additionally, since your dad has recovered from his knee replacement operation, he was able to walk a lot and exercise in the pool every day, which made you incredibly happy.",
+                "comments_summary": "",
+                "when": [
+                    "2023-03-26"
+                ],
+                "who": [
+                    "Mom, Dad"
+                ],
+                "where": [
+                    "Kona, Hawaii"
+                ],
+                "what": [
+                    "Trip with parents to Mauna Lani Resort"
+                ],
+                "natural_when": [
+                    "2023-03-26"
+                ],
+                "emotion": "Happy",
+                "created_at": "2024-03-26T02:50:15.437905",
+                "updated_at": "2024-03-26T03:16:14.221547",
+                "image_urls": [
+                    "https://tobu-mvp-dev.s3.amazonaws.com/jjseanmacs@aol.com_urn:uuid:4d8e9b9c-c3cb-4e89-bbdb-713a24dd9e08/EBA51D05-7B29-4316-8B16-CA674EEFFD91.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I am with my Mom and Dad in Ko a, Hawaii March 23,2024  We stayed at the beautiful Mauna Lani Resort  Itt"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a wonderful memory! Can you tell me more about what you did during your stay at the Mauna Lani Resort?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I took my parents here so they could enjoy a wonderful vacation  "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's very thoughtful of you! What were some of the activities or highlights of the vacation that you and your parents enjoyed the most?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "we enjoyed a luau and ate and drank everyday  "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Sounds like a fun and relaxing time! Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I got to know my parents even better "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's a precious experience. Thank you for sharing this memory. I have captured it as follows: \n\n\"On March 23, 2024, you took your parents to the beautiful Mauna Lani Resort in Kona, Hawaii. During the vacation, you enjoyed a luau and indulged in food and drinks every day. This special time allowed you to get to know your parents even better.\"\n\nIs there anything else you would like to add or modify? <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "my parents worked so hard and don\u2019t get to do things like this  it was important to me to give tie amazing trip to them h"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's a wonderful sentiment. I've updated the memory as follows:\n\n\"On March 23, 2024, you took your hardworking parents to the beautiful Mauna Lani Resort in Kona, Hawaii. It was important for you to give them this amazing trip as they don't often get to enjoy such experiences. During the vacation, you enjoyed a luau and indulged in food and drinks every day. This special time allowed you to get to know your parents even better.\"\n\nIs there anything else you would like to add or modify? <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "No. Stay right here. There was some notes that you were hitting that I don't think are legal in California. We are sealed! They say I have to choose somebody. Yes! The Voice Me, Net Talk, NBC and Peacock. Everyone can head back, except for you, Aaron. Obviously there's a twist. There's something you should know. The whole truth. This is too much. What is he doing? Aaron!"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I'm sorry, but it seems like the information you've provided is not related to the memory we were discussing. Could you please clarify if there's anything else you'd like to add or modify about your trip to Hawaii with your parents? <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Please delete the last entry. Please delete the last entry."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Of course, I've disregarded the last entry. The memory remains as follows:\n\n\"On March 23, 2024, you took your hardworking parents to the beautiful Mauna Lani Resort in Kona, Hawaii. It was important for you to give them this amazing trip as they don't often get to enjoy such experiences. During the vacation, you enjoyed a luau and indulged in food and drinks every day. This special time allowed you to get to know your parents even better.\"\n\nIs there anything else you would like to add or modify? <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I'd like to add that since my dad has recovered from his knee operation, knee replacement, that it's been a struggle for him to move around. He walked a lot and exercised in the pool every day he was there. It made me so happy."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's a significant detail. I've updated the memory as follows:\n\n\"On March 23, 2024, you took your hardworking parents to the beautiful Mauna Lani Resort in Kona, Hawaii. It was important for you to give them this amazing trip as they don't often get to enjoy such experiences. During the vacation, you enjoyed a luau and indulged in food and drinks every day. This special time allowed you to get to know your parents even better. Your dad, who had been struggling with mobility since his knee replacement, was able to walk a lot and exercise in the pool every day, which brought you immense happiness.\"\n\nIs there anything else you would like to add or modify? <END>"
+                    }
+                ],
+                "session_id": "6cfb5096-c886-4721-bd3c-d23bf5ad8c13",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f73204745c73cd6b694",
+            "context": {
+                "memory_id": "db526ac8564d4e329782ee1b1341ea20",
+                "summary": "During your Hawaii vacation, you took your parents to a luau in Mauna Lani. Here they are dancing to one of the songs performed by the luau. You love seeing their love and how after 65 years of marriage they still have fun together.",
+                "comments_summary": "",
+                "when": [
+                    "2023-03-29"
+                ],
+                "who": [
+                    "Your parents, your husband Mark"
+                ],
+                "where": [
+                    "Hawaii"
+                ],
+                "what": [
+                    "Luau in Mauna Lani"
+                ],
+                "natural_when": [
+                    "2023-03-29"
+                ],
+                "emotion": "joyful",
+                "created_at": "2024-03-29T14:37:58.279225",
+                "updated_at": "2024-03-29T14:37:58.279374",
+                "image_urls": [
+                    "https://tobu-mvp-dev.s3.amazonaws.com/jjseanmacs@aol.com_urn:uuid:4d8e9b9c-c3cb-4e89-bbdb-713a24dd9e08/E708420D-E9A8-454A-8D1A-61BB028F3B00.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "During our Hawaii vacation, we took my parents to a luau in Mauna Lani, period. Here they are dancing to one of the songs performed by the luau, period. I just love seeing their love and how after 65 years of marriage they still have fun together."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a wonderful memory! Could you please tell me when this event took place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "March 21st, 2024."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thank you for sharing that. Who else was present at the luau besides you and your parents?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "My husband, Mark."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's great! Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "No."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thank you for sharing this beautiful memory of your parents dancing at a luau in Mauna Lani during your Hawaii vacation on March 21st, 2024, with your husband, Mark. I have captured this memory. <END>"
+                    }
+                ],
+                "session_id": "e5d223d2-2d68-4fa3-b23f-1a6b91a1326f",
+                "draft": false
+            }
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+  "user_id": "user_024",
+  "memories": [
+    {
+      "memory_id": "m01",
+      "summary": "Noah began the year in Paris at a renowned patisserie school, experimenting with layering techniques for mille-feuille pastries. His instructor praised his innovative use of caramelized puff pastry and citrus-infused cream.",
+      "when": "2025-01-09",
+      "who": ["Noah Bennett", "Chef Laurent Dupuis"],
+      "where": ["Paris"],
+      "what": "Studying advanced pastry layering at a professional culinary school."
+    },
+    {
+      "memory_id": "m02",
+      "summary": "In New York, Noah launched his first pop-up dessert stall at a winter food fair. He sold handmade chocolate tarts and vanilla bean éclairs, drawing a long line of customers and gaining local media attention.",
+      "when": "2025-02-14",
+      "who": ["Noah Bennett"],
+      "where": ["New York"],
+      "what": "Running a pop-up dessert stall at a winter food festival."
+    },
+    {
+      "memory_id": "m03",
+      "summary": "While visiting Tokyo, Noah attended a wagashi workshop to learn traditional Japanese dessert-making. He practiced shaping bean-paste confections and exchanged techniques with a Japanese pastry artisan named Yuto.",
+      "when": "2025-03-20",
+      "who": ["Noah Bennett", "Yuto Tanaka"],
+      "where": ["Tokyo"],
+      "what": "Learning Japanese wagashi dessert artistry from a local expert."
+    },
+    {
+      "memory_id": "m04",
+      "summary": "In Rome, Noah collaborated with an Italian pastry chef to design a cross-cultural dessert menu blending tiramisu and matcha. They spent two weeks testing flavor balances between mascarpone cream and green tea sponge.",
+      "when": "2025-04-22",
+      "who": ["Noah Bennett", "Chef Lucia Romano"],
+      "where": ["Rome"],
+      "what": "Creating a fusion dessert menu combining Italian and Japanese influences."
+    },
+    {
+      "memory_id": "m05",
+      "summary": "Back in Los Angeles, Noah hosted a baking masterclass for amateur chefs. He taught participants how to temper chocolate properly and pipe delicate buttercream flowers, emphasizing patience and precision.",
+      "when": "2025-05-17",
+      "who": ["Noah Bennett", "baking students"],
+      "where": ["Los Angeles"],
+      "what": "Teaching a pastry masterclass on chocolate tempering and decoration."
+    },
+    {
+      "memory_id": "m06",
+      "summary": "During a summer culinary event in London, Noah participated in a televised baking competition. His raspberry pistachio mousse cake earned second place, and the judges praised his attention to texture.",
+      "when": "2025-06-28",
+      "who": ["Noah Bennett", "competition judges"],
+      "where": ["London"],
+      "what": "Competing in a televised pastry competition."
+    },
+    {
+      "memory_id": "m07",
+      "summary": "In San Francisco, Noah visited a farm-to-table culinary festival, where he met local farmers and learned about sustainable ingredient sourcing. He later incorporated organic honey and seasonal fruit into his pastry recipes.",
+      "when": "2025-07-20",
+      "who": ["Noah Bennett", "local farmers"],
+      "where": ["San Francisco"],
+      "what": "Exploring sustainable sourcing for dessert ingredients."
+    },
+    {
+      "memory_id": "m08",
+      "summary": "Noah traveled to Sydney to open a collaborative dessert pop-up with a fellow pastry influencer. Together, they served a limited menu of soufflés and ice cream sandwiches inspired by global flavors.",
+      "when": "2025-09-03",
+      "who": ["Noah Bennett", "Chef Aisha Patel"],
+      "where": ["Sydney"],
+      "what": "Co-hosting an international dessert pop-up event."
+    },
+    {
+      "memory_id": "m09",
+      "summary": "In Toronto, Noah filmed a baking tutorial for an online platform, demonstrating how to create mirror glaze cakes. The video gained thousands of views and introduced his signature flavor combination — yuzu and white chocolate.",
+      "when": "2025-10-14",
+      "who": ["Noah Bennett"],
+      "where": ["Toronto"],
+      "what": "Recording a baking tutorial video for online learners."
+    },
+    {
+      "memory_id": "m10",
+      "summary": "To close the year, Noah returned to Paris to debut his own pastry line, 'Éclat Sucré,' at a winter exhibition. Surrounded by mentors and friends, he showcased his most creative desserts and received offers for retail collaborations.",
+      "when": "2025-12-23",
+      "who": ["Noah Bennett", "Chef Laurent Dupuis", "Chef Lucia Romano"],
+      "where": ["Paris"],
+      "what": "Launching his pastry brand at a professional culinary exhibition."
+    }
+  ],
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Who did Noah collaborate with during his culinary journey, and what did they create together?",
+      "answer_gold": "He collaborated with Yuto in Tokyo to learn wagashi, Chef Lucia in Rome to design fusion desserts, and Chef Aisha in Sydney to run a dessert pop-up.",
+      "evidence": ["m03", "m04", "m08"]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What accomplishments demonstrated Noah's growth and recognition as a pastry chef?",
+      "answer_gold": "His second-place finish in London's televised competition and his brand debut in Paris marked major achievements in skill and reputation.",
+      "evidence": ["m06", "m10"]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did Noah incorporate sustainability and innovation into his dessert creations?",
+      "answer_gold": "He learned about farm-to-table sourcing in San Francisco and applied it to his recipes, later featuring organic honey and local fruits in his new brand line.",
+      "evidence": ["m07", "m10"]
+    },
+    {
+      "qid": "qa_004",
+      "question": "What moments highlight Noah's commitment to education and sharing his craft?",
+      "answer_gold": "His Los Angeles baking class and Toronto tutorial video show his dedication to teaching pastry techniques and inspiring other bakers.",
+      "evidence": ["m05", "m09"]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What event symbolized the culmination of Noah's creative and professional journey for the year?",
+      "answer_gold": "The Paris exhibition where he launched 'Éclat Sucré' showcased his maturity as a pastry artist and marked the transition from student to entrepreneur.",
+      "evidence": ["m10"]
+    }
+  ]
+}

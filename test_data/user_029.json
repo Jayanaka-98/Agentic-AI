@@ -1,0 +1,316 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "Emma began the year in New York, finalizing the script outline for her new documentary series on cultural preservation. She interviewed local artists about how immigrant communities keep their traditions alive through music and storytelling.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-12"
+        ],
+        "who": [
+          "Emma Torres",
+          "New York artists"
+        ],
+        "where": [
+          "New York"
+        ],
+        "what": [
+          "Developing a documentary concept about cultural preservation."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "In Havana, Emma filmed musicians who repurposed household objects as instruments. She collaborated with a local sound engineer to record street performances that reflected Cuba's vibrant improvisational spirit.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-17"
+        ],
+        "who": [
+          "Emma Torres",
+          "local musicians",
+          "sound engineer"
+        ],
+        "where": [
+          "Havana"
+        ],
+        "what": [
+          "Filming music culture and recording street soundscapes for her documentary."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "Emma traveled to Rio de Janeiro to document a community theater troupe performing plays about social inequality. She captured behind-the-scenes footage of rehearsals and spoke with performers about art as resistance.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-24"
+        ],
+        "who": [
+          "Emma Torres",
+          "theater troupe members"
+        ],
+        "where": [
+          "Rio de Janeiro"
+        ],
+        "what": [
+          "Documenting community theater exploring social issues."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "In Cape Town, Emma collaborated with a South African filmmaker named Zanele to co-direct an episode on post-apartheid youth expression. Together they filmed poetry slams and interviews at a youth arts collective.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-29"
+        ],
+        "who": [
+          "Emma Torres",
+          "Zanele Dlamini"
+        ],
+        "where": [
+          "Cape Town"
+        ],
+        "what": [
+          "Co-directing a film episode on youth art and social identity."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "While visiting Athens, Emma joined an artist residency to edit early footage and storyboard the remaining episodes. The residency provided her a quiet space to refine narrative pacing and integrate multilingual subtitles.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-27"
+        ],
+        "who": [
+          "Emma Torres"
+        ],
+        "where": [
+          "Athens"
+        ],
+        "what": [
+          "Editing early documentary footage and planning production structure."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "Emma spent June in Nairobi filming activists who used graffiti as a medium for civic engagement. She captured time-lapse footage of large mural projects across city walls and held a discussion panel about art in activism.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-16"
+        ],
+        "who": [
+          "Emma Torres",
+          "graffiti artists",
+          "activists"
+        ],
+        "where": [
+          "Nairobi"
+        ],
+        "what": [
+          "Filming urban art activism and hosting a public discussion panel."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "In Berlin, Emma collaborated with a sound designer to merge ambient recordings from Havana, Rio, and Nairobi into a cohesive audio landscape. They layered traditional rhythms and city sounds to reflect cultural interconnectedness.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-22"
+        ],
+        "who": [
+          "Emma Torres",
+          "sound designer"
+        ],
+        "where": [
+          "Berlin"
+        ],
+        "what": [
+          "Designing the soundscape to unify footage from multiple locations."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "Emma visited Seoul to film digital artists exploring identity through augmented reality. She conducted interviews on how technology shapes modern storytelling and recorded interactive installations for her series' final act.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-10"
+        ],
+        "who": [
+          "Emma Torres",
+          "digital artists"
+        ],
+        "where": [
+          "Seoul"
+        ],
+        "what": [
+          "Filming AR art projects examining digital identity and creativity."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "Back in London, Emma worked with her editor to finalize the full documentary series, titled 'Echoes of Humanity.' They refined transitions, balanced audio layers, and added narration connecting the global themes.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-30"
+        ],
+        "who": [
+          "Emma Torres",
+          "film editor"
+        ],
+        "where": [
+          "London"
+        ],
+        "what": [
+          "Finalizing documentary edits and adding narration across episodes."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "To conclude the year, Emma premiered 'Echoes of Humanity' at a cultural film festival in Toronto. The audience praised its cross-continental storytelling and immersive sound design, and she received invitations for academic screenings.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-18"
+        ],
+        "who": [
+          "Emma Torres",
+          "film audience"
+        ],
+        "where": [
+          "Toronto"
+        ],
+        "what": [
+          "Premiering her completed documentary series at a film festival."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

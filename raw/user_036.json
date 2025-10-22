@@ -1,0 +1,117 @@
+{
+  "user_id": "user_036",
+  "memories": [
+    {
+      "memory_id": "m01",
+      "summary": "Julian began the year in Istanbul, covering the lives of refugees living in temporary housing near the city's outskirts. He focused on intimate portraits showing community adaptation and perseverance.",
+      "when": "2025-01-07",
+      "who": ["Julian Carter", "refugee families"],
+      "where": ["Istanbul"],
+      "what": "Photographing refugee communities and documenting their resilience."
+    },
+    {
+      "memory_id": "m02",
+      "summary": "In Beirut, Julian joined a nonprofit media program to train young journalists in conflict-sensitive storytelling. He co-led workshops on visual ethics and the power of narrative framing.",
+      "when": "2025-02-16",
+      "who": ["Julian Carter", "local journalists"],
+      "where": ["Beirut"],
+      "what": "Teaching photojournalism ethics and conflict reporting to young journalists."
+    },
+    {
+      "memory_id": "m03",
+      "summary": "Julian traveled to Nairobi to photograph drought-affected regions for an international climate awareness campaign. His images highlighted how communities managed water scarcity through cooperative systems.",
+      "when": "2025-03-25",
+      "who": ["Julian Carter", "climate activists"],
+      "where": ["Nairobi"],
+      "what": "Documenting drought resilience and water conservation practices."
+    },
+    {
+      "memory_id": "m04",
+      "summary": "In Dhaka, Julian collaborated with local NGOs to record urban flooding and displacement in low-income neighborhoods. He created a multimedia series combining photography, interviews, and short film clips.",
+      "when": "2025-04-22",
+      "who": ["Julian Carter", "local NGOs"],
+      "where": ["Dhaka"],
+      "what": "Producing multimedia coverage of climate-induced urban displacement."
+    },
+    {
+      "memory_id": "m05",
+      "summary": "Julian returned to London to curate an exhibition titled 'Displaced Light,' showcasing his Istanbul and Dhaka work. The exhibit raised funds for humanitarian aid through photo sales and public talks.",
+      "when": "2025-05-27",
+      "who": ["Julian Carter", "gallery visitors"],
+      "where": ["London"],
+      "what": "Hosting a fundraising exhibition on refugee and climate displacement."
+    },
+    {
+      "memory_id": "m06",
+      "summary": "In Cape Town, Julian partnered with marine researchers to document coastal communities affected by rising sea levels. His drone footage provided visual data for coastal erosion studies.",
+      "when": "2025-06-30",
+      "who": ["Julian Carter", "marine researchers"],
+      "where": ["Cape Town"],
+      "what": "Filming coastal erosion and its impact on seaside populations."
+    },
+    {
+      "memory_id": "m07",
+      "summary": "Julian visited São Paulo to cover social movements addressing urban inequality. He focused on grassroots art collectives using murals to reclaim neglected public spaces.",
+      "when": "2025-08-05",
+      "who": ["Julian Carter", "local artists"],
+      "where": ["São Paulo"],
+      "what": "Photographing urban activism and community-driven art projects."
+    },
+    {
+      "memory_id": "m08",
+      "summary": "In Geneva, Julian attended a UN media roundtable on ethical visual storytelling. He shared insights from his fieldwork and advocated for greater protection of journalists in humanitarian zones.",
+      "when": "2025-09-18",
+      "who": ["Julian Carter", "UN media delegates"],
+      "where": ["Geneva"],
+      "what": "Speaking on ethics and journalist safety in crisis reporting."
+    },
+    {
+      "memory_id": "m09",
+      "summary": "Julian spent October in Mexico City editing his upcoming photo book 'Resilient Earth,' combining narratives from Istanbul, Dhaka, and Cape Town into a single cohesive project on climate migration.",
+      "when": "2025-10-28",
+      "who": ["Julian Carter"],
+      "where": ["Mexico City"],
+      "what": "Editing and compiling a global photo book on climate resilience."
+    },
+    {
+      "memory_id": "m10",
+      "summary": "To close the year, Julian received the Global Press Award in New York for humanitarian journalism. His work was recognized for bridging visual art and activism to raise global awareness on displacement.",
+      "when": "2025-12-19",
+      "who": ["Julian Carter", "journalism community"],
+      "where": ["New York"],
+      "what": "Receiving an award for humanitarian photojournalism and global impact."
+    }
+  ],
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How did Julian's early refugee documentation evolve into broader environmental storytelling?",
+      "answer_gold": "His Istanbul portraits laid the foundation for later coverage in Dhaka and Cape Town, where he expanded his focus from human migration to environmental displacement, integrating social and ecological narratives.",
+      "evidence": ["m01", "m04", "m06"]
+    },
+    {
+      "qid": "qa_002",
+      "question": "In what ways did Julian merge journalism, education, and activism through his international work?",
+      "answer_gold": "By teaching ethics in Beirut, hosting an awareness exhibition in London, and speaking at the UN in Geneva, he transformed field experience into advocacy and education platforms for responsible journalism.",
+      "evidence": ["m02", "m05", "m08"]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did collaboration with researchers and artists deepen Julian's visual storytelling?",
+      "answer_gold": "His work with scientists in Cape Town and artists in São Paulo diversified his lens, allowing him to merge data-driven reporting with cultural expression that enriched the narrative scope of his projects.",
+      "evidence": ["m06", "m07"]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which chain of events illustrates Julian's journey from field documentation to global recognition?",
+      "answer_gold": "From refugee stories in Istanbul and climate crises in Dhaka to the ‘Displaced Light' exhibition and final recognition in New York, his trajectory reflects the progression from observation to impact.",
+      "evidence": ["m01", "m04", "m05", "m10"]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How did Julian's global collaborations influence the creation of his photo book 'Resilient Earth'?",
+      "answer_gold": "The book unified stories and visuals from multiple continents—climate projects in Nairobi and Cape Town, displacement coverage in Dhaka, and ethical advocacy from Geneva—culminating in a cohesive narrative of global resilience.",
+      "evidence": ["m03", "m04", "m06", "m08", "m09"]
+    }
+  ]
+}

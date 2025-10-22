@@ -1,0 +1,322 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "On January 5, 2025, in Ann Arbor, David shoveled snow in his driveway while his kids played nearby, laughing in the cold air.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-05"
+        ],
+        "who": [
+          "David",
+          "Emma",
+          "Liam"
+        ],
+        "where": [
+          "Ann Arbor, MI"
+        ],
+        "what": [
+          "Snow day with family."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "On February 14, 2025, in Ann Arbor, David cooked dinner with his wife Sarah, candles glowing on the table for Valentine's Day.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-14"
+        ],
+        "who": [
+          "David",
+          "Sarah"
+        ],
+        "where": [
+          "Ann Arbor, MI"
+        ],
+        "what": [
+          "Valentine's Day dinner."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "On March 9, 2025, in Detroit, David joined neighbors for a community clean-up, holding a trash bag with gloves on.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-09"
+        ],
+        "who": [
+          "David",
+          "Carlos",
+          "Maya"
+        ],
+        "where": [
+          "Detroit, MI"
+        ],
+        "what": [
+          "Neighborhood clean-up."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "On April 20, 2025, in Chicago, David took a photo with his sister Anna during an Easter brunch at a crowded restaurant.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-20"
+        ],
+        "who": [
+          "David",
+          "Anna"
+        ],
+        "where": [
+          "Chicago, IL"
+        ],
+        "what": [
+          "Family Easter brunch."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "On May 25, 2025, in Boston, David ran a 5K charity race, smiling at the finish line with a medal around his neck.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-25"
+        ],
+        "who": [
+          "David"
+        ],
+        "where": [
+          "Boston, MA"
+        ],
+        "what": [
+          "Charity race."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "On June 16, 2025, in Ann Arbor, David grilled burgers in his backyard with friends gathered around the picnic table.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-16"
+        ],
+        "who": [
+          "David",
+          "Carlos",
+          "Sarah"
+        ],
+        "where": [
+          "Ann Arbor, MI"
+        ],
+        "what": [
+          "Summer BBQ."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "On July 4, 2025, in Washington D.C., David watched fireworks with his children, holding Emma on his shoulders.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-04"
+        ],
+        "who": [
+          "David",
+          "Emma",
+          "Liam"
+        ],
+        "where": [
+          "Washington, D.C."
+        ],
+        "what": [
+          "Independence Day fireworks."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "On September 6, 2025, in Toronto, David posed with his parents in front of the CN Tower during a family trip.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-06"
+        ],
+        "who": [
+          "David",
+          "Helen",
+          "Robert"
+        ],
+        "where": [
+          "Toronto, Canada"
+        ],
+        "what": [
+          "Family sightseeing."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "On October 31, 2025, in Ann Arbor, David dressed up as a pirate, trick-or-treating with his kids in the neighborhood.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-31"
+        ],
+        "who": [
+          "David",
+          "Emma",
+          "Liam"
+        ],
+        "where": [
+          "Ann Arbor, MI"
+        ],
+        "what": [
+          "Halloween with kids."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "On December 24, 2025, in Ann Arbor, David and his family gathered by the Christmas tree, exchanging gifts in cozy sweaters.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-24"
+        ],
+        "who": [
+          "David",
+          "Sarah",
+          "Emma",
+          "Liam"
+        ],
+        "where": [
+          "Ann Arbor, MI"
+        ],
+        "what": [
+          "Christmas Eve celebration."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

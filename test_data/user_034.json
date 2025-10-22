@@ -1,0 +1,315 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "Noah began the year in Reykjavik, leading a glaciology research expedition measuring ice sheet melt rates using satellite calibration data. His team installed temperature sensors and drone-based monitoring equipment.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-16"
+        ],
+        "who": [
+          "Noah Patel",
+          "glaciology research team"
+        ],
+        "where": [
+          "Reykjavik"
+        ],
+        "what": [
+          "Conducting glacier monitoring and data collection on ice melt dynamics."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "In Oslo, Noah joined a European renewable energy summit, presenting findings that linked Arctic melt data to global energy consumption patterns. He emphasized the need for policy-driven emission reductions.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-21"
+        ],
+        "who": [
+          "Noah Patel",
+          "energy policymakers"
+        ],
+        "where": [
+          "Oslo"
+        ],
+        "what": [
+          "Presenting glacier data implications at a renewable energy policy summit."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "Noah traveled to Nairobi to collaborate with local engineers on a solar-powered water purification system. The prototype aimed to support rural communities affected by drought and contaminated groundwater.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-30"
+        ],
+        "who": [
+          "Noah Patel",
+          "local engineers"
+        ],
+        "where": [
+          "Nairobi"
+        ],
+        "what": [
+          "Building a solar-powered clean water system for drought-prone regions."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "In Abu Dhabi, Noah consulted for an international organization on large-scale carbon capture feasibility. He provided simulation data on atmospheric particle behavior and discussed infrastructure integration with energy firms.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-27"
+        ],
+        "who": [
+          "Noah Patel",
+          "energy consultants"
+        ],
+        "where": [
+          "Abu Dhabi"
+        ],
+        "what": [
+          "Advising on carbon capture system design and atmospheric modeling."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "Back in London, Noah taught a university seminar on climate modeling techniques. He mentored graduate students on predictive simulations and data ethics in environmental monitoring.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-22"
+        ],
+        "who": [
+          "Noah Patel",
+          "graduate students"
+        ],
+        "where": [
+          "London"
+        ],
+        "what": [
+          "Teaching climate modeling and mentoring students in environmental data ethics."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "In Mumbai, Noah helped coordinate a city-level heat resilience program. He worked with local planners to map urban heat islands using drone thermal imagery and propose green canopy interventions.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-29"
+        ],
+        "who": [
+          "Noah Patel",
+          "urban planners"
+        ],
+        "where": [
+          "Mumbai"
+        ],
+        "what": [
+          "Developing urban heat mitigation strategies using remote sensing data."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "Noah spent July in Geneva attending a UN Climate Action Roundtable. He presented integrated models combining glacial data, urban heat analysis, and renewable projects to forecast global climate resilience outcomes.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-17"
+        ],
+        "who": [
+          "Noah Patel",
+          "UN scientists"
+        ],
+        "where": [
+          "Geneva"
+        ],
+        "what": [
+          "Presenting integrated climate models at an international policy forum."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "In Vancouver, Noah worked with a forestry research group to measure carbon sequestration rates in reforested lands. The study informed policies for sustainable land use credits and conservation financing.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-03"
+        ],
+        "who": [
+          "Noah Patel",
+          "forestry scientists"
+        ],
+        "where": [
+          "Vancouver"
+        ],
+        "what": [
+          "Analyzing forest carbon capture efficiency for sustainability programs."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "In Tokyo, Noah collaborated with AI researchers to develop predictive climate tools that integrate ocean temperature data with air quality metrics. The models aimed to assist local governments in policy response planning.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-15"
+        ],
+        "who": [
+          "Noah Patel",
+          "AI researchers"
+        ],
+        "where": [
+          "Tokyo"
+        ],
+        "what": [
+          "Developing AI-based predictive models for integrated climate policy planning."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "To conclude the year, Noah returned to Oslo to receive an award from the Nordic Council for his contributions to sustainable development. He presented his cumulative findings emphasizing the interdependence of data, policy, and technology.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-20"
+        ],
+        "who": [
+          "Noah Patel",
+          "Nordic Council members"
+        ],
+        "where": [
+          "Oslo"
+        ],
+        "what": [
+          "Receiving a sustainability award and presenting a synthesis of climate research."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

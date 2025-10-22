@@ -1,0 +1,59 @@
+{
+  "user_id": "user_011",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Who joined Olivia in different food experiences?",
+      "answer_gold": "Daniel in Chicago and Toronto, Julia in New York and Paris, Leo in San Francisco, Rachel and Maya in Austin, and her parents in Seattle and Ann Arbor.",
+      "evidence": [
+        "m02",
+        "m03",
+        "m04",
+        "m05",
+        "m06",
+        "m08",
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "Which memories involve learning new cooking skills?",
+      "answer_gold": "The cooking class in Chicago and the bread-making workshop in Portland.",
+      "evidence": [
+        "m02",
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What shows Olivia's love for travel combined with food?",
+      "answer_gold": "She explored food in New York, San Francisco, Austin, Seattle, Toronto, and Paris, tying meals to her travels.",
+      "evidence": [
+        "m03",
+        "m04",
+        "m05",
+        "m06",
+        "m08",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which memory reflects a festive family celebration?",
+      "answer_gold": "Hosting Christmas dinner with family in Ann Arbor.",
+      "evidence": [
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which international food experiences stand out?",
+      "answer_gold": "Paris café with Julia and Toronto food trucks with Daniel.",
+      "evidence": [
+        "m08",
+        "m09"
+      ]
+    }
+  ]
+}

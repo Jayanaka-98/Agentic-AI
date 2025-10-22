@@ -1,0 +1,59 @@
+{
+  "user_id": "user_043",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How do family activities across different years show growth and togetherness among the children?",
+      "answer_gold": "The user made viral date bark with their children in Manhattan Beach, celebrated Leo's birthday with family and friends in Lakewood, joined Maya at her first-grade library class, and captured Lila's volleyball milestone in Anaheim. Together these memories reflect a close-knit family growing through shared creative, educational, and sporting moments.",
+      "evidence": [
+        "m02",
+        "m04",
+        "m10",
+        "m12"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "Which memories highlight major life milestones involving love, family, and celebration, and what made them significant?",
+      "answer_gold": "The user proposed to their wife in Napa with friends Ben and Ava, celebrated an engagement party in Scottsdale with loved ones, and later celebrated family birthdays and Valentine's gatherings with their children. Each event symbolizes love and continuity across stages of life.",
+      "evidence": [
+        "m03",
+        "m05",
+        "m10",
+        "m11"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What events showcase the user's connection to California through family and community moments?",
+      "answer_gold": "They made Valentine's desserts in Manhattan Beach, attended Maya's library class in Hermosa's American Martyrs School, celebrated Leo's birthday in Lakewood, and joined Lila's volleyball event in Anaheim. These reflect a life centered around family and community experiences across Southern California.",
+      "evidence": [
+        "m02",
+        "m04",
+        "m10",
+        "m12"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which memories capture children's milestones and the emotions associated with them?",
+      "answer_gold": "Their son's first day of preschool brought nostalgia, Maya's excitement over library day brought joy, and Lila's first varsity volleyball kill filled them with pride. Each represents a meaningful parental moment tied to growing up.",
+      "evidence": [
+        "m04",
+        "m08",
+        "m12"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What artistic or sentimental moments did the user capture involving their children, and how do they reflect family bonds?",
+      "answer_gold": "They observed Leo's art in a minimalist piece, photographed Maya smiling warmly in Manhattan Beach with Leo and Nora, and shared joyful creative cooking sessions making cookies and desserts with their kids. These moments portray affection, creativity, and connection within the family.",
+      "evidence": [
+        "m02",
+        "m11",
+        "m13",
+        "m14"
+      ]
+    }
+  ]
+}

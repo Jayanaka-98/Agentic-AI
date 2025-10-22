@@ -1,0 +1,199 @@
+{
+    "status": 200,
+    "reports": [
+        {
+            "id": "n:memory:675b3f08c0286d2d82ad3810",
+            "context": {
+                "memory_id": "7eea563d2c8c436a98ba714319dd376f",
+                "summary": "Test attended a formal event with Patti Willard in Tempe.",
+                "comments_summary": "",
+                "when": [
+                    "1962-12-01"
+                ],
+                "who": [
+                    "Patti Willard"
+                ],
+                "where": [
+                    "Tempe, Arizona"
+                ],
+                "what": [
+                    "Attending a formal event"
+                ],
+                "natural_when": [
+                    "1962-12-01"
+                ],
+                "emotion": "Pride",
+                "created_at": "2024-12-12 19:52:40",
+                "updated_at": "2024-12-12 19:52:40",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/pmclaughlin@strategicbenefitgroup.com_675b3db3c0286d2d82ad37b6/34A8B148-0187-43D8-B038-3FC8ECF9F601.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "You"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Who did you attend the winter gala with?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "This is a picture of my mother-in-law, Patti Willard, who was an Olympic diving champion in 1960 and 1964."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "What was the location of the winter gala?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "This was the event where they were announcing her as the world champion diver."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "What date did the winter gala take place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "This is not a winter gala."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "What was the specific date of the formal event or gathering?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "December 1962"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "What was the location of the formal event or gathering?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Tempe, Arizona"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "What specific event or gathering was it that you attended in Tempe, Arizona?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "The announcement that Patsy would be in the 2000, or the 1964 Olympics."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "No."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thank you for sharing your memory! Here\u2019s what I have captured:\n\n- **When:** December 1962\n- **Who:** Patti Willard\n- **Where:** Tempe, Arizona\n- **What:** Attending a formal event for the announcement of her participation in the 1964 Olympics.\n\nIf you need to add or change anything, just let me know! <END>"
+                    }
+                ],
+                "session_id": "cc1e698f7c7e4f22b43da71f446fb317",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:675b3fdbc0286d2d82ad3893",
+            "context": {
+                "memory_id": "eaefa62a90c4461ba5a499f9e28153a7",
+                "summary": "Test remembers a formal holiday gathering in Tempe, Arizona, Summer 1963, with Patsy Willard.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-12"
+                ],
+                "who": [
+                    "Patsy Willard"
+                ],
+                "where": [
+                    "Tempe, Arizona"
+                ],
+                "what": [
+                    "Formal holiday gathering"
+                ],
+                "natural_when": [
+                    "2024-12-12"
+                ],
+                "emotion": "Excited",
+                "created_at": "2024-12-12 19:56:11",
+                "updated_at": "2024-12-12 19:56:27",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/pmclaughlin@strategicbenefitgroup.com_675b3db3c0286d2d82ad37b6/09B81731-680F-4F6C-9829-4751526C4B32.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Thank you for watching!"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "What was the location of the formal holiday gathering?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "What was the location of the formal holiday gathering? This is a picture of my mother-in-law, Patsy Willard, being announced that she will be in the 1964 Olympics."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "What date did this formal holiday gathering take place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Summer of 1963."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "What city or venue did the formal holiday gathering take place in?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "This was in Tempe, Arizona, at an event announcing her participation in the 1964 Olympics."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Is there anyone else who was part of this event that you would like to mention?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "No"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "No"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thank you for sharing this memory! I have captured the details: \n\n- **What:** Formal holiday gathering\n- **When:** Summer of 1963\n- **Where:** Tempe, Arizona\n- **Who:** Patsy Willard\n\nIf you need to add or change anything in the future, feel free to let me know! <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Update where to Tempe, Arizona, Update when to Summer of 1963, Update what to Formal holiday gathering, Update who to Patsy Willard, "
+                    }
+                ],
+                "session_id": "5d519d7d889546989575439f5d449c2f",
+                "draft": false
+            }
+        }
+    ]
+}

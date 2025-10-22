@@ -1,0 +1,193 @@
+{
+    "status": 200,
+    "reports": [
+        {
+            "id": "n:memory:66a69f59204745c73cd6af7d",
+            "context": {
+                "memory_id": "a7db0856b7254e22b1fcbf4b0dfbd7d5",
+                "summary": "You are going to a party at Kay's house to celebrate her birthday, Roger's birthday, and your birthday. You will have a picnic tomorrow on June 15th with all the family and friends from around the country.",
+                "comments_summary": "",
+                "when": [
+                    "2023-06-15"
+                ],
+                "who": [
+                    "family and friends from around the country"
+                ],
+                "where": [
+                    "Kay's house"
+                ],
+                "what": [
+                    "party"
+                ],
+                "natural_when": [
+                    "2023-06-15"
+                ],
+                "emotion": "excitement",
+                "created_at": "2024-06-15T03:42:46.292951",
+                "updated_at": "2024-06-15T03:42:46.293109",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "This is a party at Kay's house to celebrate her birthday, Roger's birthday, and my birthday. We'll have a picnic tomorrow on June 15th with all the family and friends from around the country."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a wonderful event! Could you please tell me what time the picnic will start?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Update what to party, Update when to tomorrow on June 15th, Update where to Kay's house, Update who to family and friends from around the country, "
+                    }
+                ],
+                "session_id": "c75abfa2-e5d8-449a-bd0e-b6099df4dadc",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f59204745c73cd6af77",
+            "context": {
+                "memory_id": "0507892840214aef93c2207f4ce12919",
+                "summary": "You had a party in your backyard with friends from the choir on June 21, 2023.",
+                "comments_summary": "",
+                "when": [
+                    "2023-06-01"
+                ],
+                "who": [
+                    "friends from the choir"
+                ],
+                "where": [
+                    "backyard"
+                ],
+                "what": [
+                    "party"
+                ],
+                "natural_when": [
+                    "2023-06-01"
+                ],
+                "emotion": "excitement",
+                "created_at": "2024-05-13T21:11:08.372367",
+                "updated_at": "2024-05-13T21:11:08.372515",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I was in my backyard with friends on June 21, 2023"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a special day. Can you tell me what event or activity you and your friends were doing in your backyard?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "We were having a party"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds fun! Can you tell me who specifically was at the party?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Friends from the choir"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Sounds like a great gathering! Is there anything else you would like to add to this memory?"
+                    }
+                ],
+                "session_id": "37a62d52-ced0-4e17-a997-bfc105273777",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f59204745c73cd6af79",
+            "context": {
+                "memory_id": "99f81a24c22b46f0aa000c09cad528c4",
+                "summary": "",
+                "comments_summary": "",
+                "when": [
+                    "2024-06-15"
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    ""
+                ],
+                "what": [
+                    ""
+                ],
+                "natural_when": [
+                    "2024-06-15"
+                ],
+                "emotion": "",
+                "created_at": "2024-06-15T03:38:27.510802",
+                "updated_at": "2024-06-15T03:38:27.510961",
+                "image_urls": [
+                    "https://tobu-mvp-dev.s3.amazonaws.com/cwsmith6@earthlink.net_urn:uuid:c5319a77-d9b9-4c3c-9f88-d436b4711966/28862086-102F-4F48-B126-40A9FA1402B3.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "user",
+                        "content": "Update what to , Update when to , Update where to , Update who to , "
+                    }
+                ],
+                "session_id": "fa4b18c5-7372-4998-bec5-85026fd0f4ce",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f59204745c73cd6af7b",
+            "context": {
+                "memory_id": "bf7e23e057c54603885fb9d818f4c826",
+                "summary": "",
+                "comments_summary": "",
+                "when": [
+                    "2024-06-15"
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    ""
+                ],
+                "what": [
+                    ""
+                ],
+                "natural_when": [
+                    "2024-06-15"
+                ],
+                "emotion": "",
+                "created_at": "2024-06-15T03:40:21.650120",
+                "updated_at": "2024-06-15T03:40:21.650263",
+                "image_urls": [
+                    "https://tobu-mvp-dev.s3.amazonaws.com/cwsmith6@earthlink.net_urn:uuid:c5319a77-d9b9-4c3c-9f88-d436b4711966/BF5B8F5F-E129-4377-994D-95F96FF45D74.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "user",
+                        "content": "Update what to , Update when to , Update where to , Update who to , "
+                    }
+                ],
+                "session_id": "4d966b29-58f5-440a-a0c6-43461c35d72f",
+                "draft": false
+            }
+        }
+    ]
+}

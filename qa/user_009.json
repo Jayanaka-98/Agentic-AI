@@ -1,0 +1,61 @@
+{
+  "user_id": "user_009",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which forms of art did Maya practice during her travels?",
+      "answer_gold": "Painting in Ann Arbor and Berlin, sketching in Rome, and pottery in Tokyo.",
+      "evidence": [
+        "m01",
+        "m04",
+        "m07",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "Which trips abroad did Maya take with family versus friends?",
+      "answer_gold": "With her brother Leo in Paris and Sydney, with Julia in Madrid and Barcelona, and with Rachel and Omar in London.",
+      "evidence": [
+        "m03",
+        "m05",
+        "m09",
+        "m10",
+        "m06"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "Which memories show Maya connecting with local culture?",
+      "answer_gold": "Shopping at a Madrid market, painting a mural in Berlin, and shaping clay in a Tokyo pottery class.",
+      "evidence": [
+        "m05",
+        "m07",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which memory best reflects celebration, and what details highlight it?",
+      "answer_gold": "New Year's Eve in Barcelona, surrounded by fireworks and cheering crowds.",
+      "evidence": [
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which continents did Maya visit in 2025?",
+      "answer_gold": "Europe (France, Italy, Spain, UK, Germany), Asia (Japan), and Australia (Sydney).",
+      "evidence": [
+        "m03",
+        "m04",
+        "m05",
+        "m06",
+        "m07",
+        "m08",
+        "m09",
+        "m10"
+      ]
+    }
+  ]
+}

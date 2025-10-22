@@ -1,0 +1,52 @@
+{
+    "status": 200,
+    "reports": [
+        {
+            "id": "n:memory:66a69f5b204745c73cd6afdf",
+            "context": {
+                "memory_id": "f7d6ae1577b04ca1aba0374e33d254f0",
+                "summary": "You and Derek flew back to Amsterdam from Arizona on May 5th, 2024 after having a great time meeting up with friends and family.",
+                "comments_summary": "",
+                "when": [
+                    "2023-05-11"
+                ],
+                "who": [
+                    "You and Derek"
+                ],
+                "where": [
+                    "Arizona"
+                ],
+                "what": [
+                    "Flying back to Amsterdam"
+                ],
+                "natural_when": [
+                    "2023-05-11"
+                ],
+                "emotion": "Excitement",
+                "created_at": "2024-05-11T05:50:39.186452",
+                "updated_at": "2024-05-11T05:50:39.186828",
+                "image_urls": [
+                    "https://tobu-mvp-dev.s3.amazonaws.com/court.donofrio@gmail.com_urn:uuid:60350c70-cf90-4bdc-8e86-79b7f69eb161/D05AFC51-4D08-4B20-A698-CA4CD7A894E0.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Me and Derek on the plane leaving Arizona to fly back to Amsterdam on May 5th, 2024. We had such a great time meeting up with lots of friends and family there."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It sounds like a wonderful memory! Could you share more about the specific events or activities you and Derek enjoyed with your friends and family in Arizona?"
+                    }
+                ],
+                "session_id": "5344b654-2846-4dbd-ba39-fba4bd11499f",
+                "draft": false
+            }
+        }
+    ]
+}

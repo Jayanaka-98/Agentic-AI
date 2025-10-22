@@ -1,0 +1,315 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "Aria began the year in Los Angeles producing an experimental track that fused jazz harmonies with electronic textures. She collaborated with local instrumentalists to record live saxophone and drum samples.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-15"
+        ],
+        "who": [
+          "Aria Kim",
+          "Los Angeles musicians"
+        ],
+        "where": [
+          "Los Angeles"
+        ],
+        "what": [
+          "Recording and producing an experimental jazz-electronic fusion track."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "In Seoul, Aria partnered with a K-pop songwriter to co-produce a bilingual single. They combined traditional Korean percussion with modern synth layers to create a cross-cultural rhythm palette.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-22"
+        ],
+        "who": [
+          "Aria Kim",
+          "K-pop songwriter"
+        ],
+        "where": [
+          "Seoul"
+        ],
+        "what": [
+          "Collaborating on a bilingual pop single blending cultural instruments."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "Aria traveled to Nairobi to work with Afrobeat artists on rhythm sampling. She recorded live percussion sessions and field sounds, which she later transformed into digital loops for future projects.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-29"
+        ],
+        "who": [
+          "Aria Kim",
+          "Afrobeat musicians"
+        ],
+        "where": [
+          "Nairobi"
+        ],
+        "what": [
+          "Recording African percussion and environmental sounds for digital use."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "In Berlin, Aria attended a sound engineering residency focusing on spatial audio. She experimented with 3D soundscapes, mixing her Nairobi field recordings into immersive surround formats.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-24"
+        ],
+        "who": [
+          "Aria Kim",
+          "audio engineers"
+        ],
+        "where": [
+          "Berlin"
+        ],
+        "what": [
+          "Creating immersive 3D soundscapes using field samples and surround mixing."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "Back in London, Aria collaborated with a classical string quartet to compose orchestral elements for her upcoming album. She integrated acoustic and electronic layers in her studio sessions.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-20"
+        ],
+        "who": [
+          "Aria Kim",
+          "string quartet"
+        ],
+        "where": [
+          "London"
+        ],
+        "what": [
+          "Composing hybrid orchestral-electronic arrangements for her album."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "In São Paulo, Aria performed at an independent music festival. Her live set featured remixed versions of her Seoul and Nairobi collaborations, receiving strong audience acclaim for its cross-genre energy.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-06"
+        ],
+        "who": [
+          "Aria Kim",
+          "festival audience"
+        ],
+        "where": [
+          "São Paulo"
+        ],
+        "what": [
+          "Performing live fusion remixes combining international collaborations."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "Aria spent August in Mumbai producing tracks with Bollywood vocalists. She explored rhythmic syncopation and emotional dynamics in multilingual songwriting sessions.",
+        "comments_summary": "",
+        "when": [
+          "2025-08-14"
+        ],
+        "who": [
+          "Aria Kim",
+          "Bollywood singers"
+        ],
+        "where": [
+          "Mumbai"
+        ],
+        "what": [
+          "Producing multilingual songs with Bollywood vocalists."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "In Paris, Aria mixed and mastered her debut album 'Woven Frequencies.' She collaborated with engineers to balance cultural sound textures and ensure consistency across genres and languages.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-25"
+        ],
+        "who": [
+          "Aria Kim",
+          "mixing engineers"
+        ],
+        "where": [
+          "Paris"
+        ],
+        "what": [
+          "Finalizing the mixing and mastering of her global fusion album."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "Aria traveled to New York to film a series of behind-the-scenes documentaries about the making of 'Woven Frequencies.' The short films captured her creative process and global collaborations.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-29"
+        ],
+        "who": [
+          "Aria Kim",
+          "film crew"
+        ],
+        "where": [
+          "New York"
+        ],
+        "what": [
+          "Filming documentaries about the creative journey behind her album."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "To close the year, Aria held a global livestream concert connecting artists from six countries. The event celebrated the release of 'Woven Frequencies' and raised funds for global music education initiatives.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-20"
+        ],
+        "who": [
+          "Aria Kim",
+          "international musicians"
+        ],
+        "where": [
+          "Los Angeles"
+        ],
+        "what": [
+          "Hosting a worldwide livestream concert to launch her fusion album."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

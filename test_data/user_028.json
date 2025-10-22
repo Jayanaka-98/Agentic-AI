@@ -1,0 +1,316 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "Lucas began the year in San Francisco, sketching ideas for an AI-powered logistics platform designed to optimize urban deliveries. He spent most of January building the initial wireframes and conducting user interviews with local couriers.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-09"
+        ],
+        "who": [
+          "Lucas Rivera"
+        ],
+        "where": [
+          "San Francisco"
+        ],
+        "what": [
+          "Designing and prototyping an AI logistics startup concept."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "In Austin, Lucas joined a tech incubator that offered mentorship and funding guidance. He presented his prototype to advisors who encouraged him to refine his data models before pitching to investors.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-20"
+        ],
+        "who": [
+          "Lucas Rivera",
+          "startup mentors"
+        ],
+        "where": [
+          "Austin"
+        ],
+        "what": [
+          "Participating in a startup incubator and receiving product feedback."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "Lucas traveled to New York to meet with venture capital firms. His first pitch was rejected due to unclear scalability, prompting him to rework his market projections and strengthen his growth plan.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-14"
+        ],
+        "who": [
+          "Lucas Rivera",
+          "investors"
+        ],
+        "where": [
+          "New York"
+        ],
+        "what": [
+          "Pitching investors and revising growth models after early rejections."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "Back in San Francisco, Lucas partnered with his college friend Maya, a data scientist, to improve the AI's routing algorithms. Together they achieved a 25% increase in delivery time efficiency during pilot tests.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-11"
+        ],
+        "who": [
+          "Lucas Rivera",
+          "Maya Chen"
+        ],
+        "where": [
+          "San Francisco"
+        ],
+        "what": [
+          "Collaborating with a data scientist to optimize the platform's performance."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "In Seattle, Lucas joined a regional startup competition where his team presented the improved product demo. They won second place and gained access to investor networking sessions.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-29"
+        ],
+        "who": [
+          "Lucas Rivera",
+          "Maya Chen",
+          "startup team"
+        ],
+        "where": [
+          "Seattle"
+        ],
+        "what": [
+          "Competing in a startup event and securing investor exposure."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "Lucas attended a product management conference in Boston, where he exchanged ideas with established founders. He took notes on leadership strategies and began outlining his company's hiring roadmap.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-18"
+        ],
+        "who": [
+          "Lucas Rivera",
+          "founders"
+        ],
+        "where": [
+          "Boston"
+        ],
+        "what": [
+          "Learning leadership and team-building approaches at a tech conference."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "In Toronto, Lucas led a two-week design sprint with remote engineers to integrate predictive analytics into the platform. The updated model could now forecast delivery delays based on traffic and weather data.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-23"
+        ],
+        "who": [
+          "Lucas Rivera",
+          "engineering team"
+        ],
+        "where": [
+          "Toronto"
+        ],
+        "what": [
+          "Leading a sprint to implement predictive analytics into the AI system."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "Lucas visited London to pitch his company at an international startup showcase. The refined AI system impressed investors, leading to commitments for Series A funding later that quarter.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-05"
+        ],
+        "who": [
+          "Lucas Rivera",
+          "international investors"
+        ],
+        "where": [
+          "London"
+        ],
+        "what": [
+          "Securing early commitments for Series A investment funding."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "In Singapore, Lucas oversaw the company's first overseas pilot project with a logistics partner. The platform successfully managed hundreds of daily deliveries across the city using localized routing data.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-21"
+        ],
+        "who": [
+          "Lucas Rivera",
+          "logistics partner"
+        ],
+        "where": [
+          "Singapore"
+        ],
+        "what": [
+          "Launching an international pilot for the logistics platform."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "To close the year, Lucas returned to San Francisco to host an open demo event for investors, partners, and media. He announced that his company had officially raised $10 million in Series A funding and planned expansion to Europe.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-19"
+        ],
+        "who": [
+          "Lucas Rivera",
+          "Maya Chen",
+          "investors"
+        ],
+        "where": [
+          "San Francisco"
+        ],
+        "what": [
+          "Announcing Series A success and global expansion plans at a demo event."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

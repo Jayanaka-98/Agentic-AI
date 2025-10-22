@@ -1,0 +1,1553 @@
+{
+    "status": 200,
+    "reports": [
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc74",
+            "context": {
+                "memory_id": "3b9d824db4b6470c840d20b19d9fd694",
+                "summary": "You went camping in Yellowstone with your mom and dad from August 20th to August 26th. The experience was amazing, with beautiful scenery and unique wildlife. It was a special trip as it was the first one you took with your parents in 5 years.",
+                "comments_summary": "",
+                "when": [
+                    "2022-08-17"
+                ],
+                "who": [
+                    "Mom, Dad"
+                ],
+                "where": [
+                    "Yellowstone"
+                ],
+                "what": [
+                    "Camping trip in Yellowstone"
+                ],
+                "natural_when": [
+                    "2022-08-17"
+                ],
+                "emotion": "Excitement and awe",
+                "created_at": "2023-08-17T20:00:49.701519",
+                "updated_at": "2023-08-17T20:00:49.701920",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "went camping in yellowstone and just got back wow the experience was so amazing i want to remember all of it"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a fantastic experience! Can you tell me who you went camping with at Yellowstone?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "i went with my mom and dad. first trip i took with them in like 5 years"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's wonderful! Do you remember the specific dates or how long the camping trip was?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "yeah we left on august 20 and got back on august 26th"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Great! Is there any specific event or moment during this trip that stood out to you the most?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "everything really, the scenary, the animals. it was not like anywhere else  we have ever been before"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds truly special. Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "no that is all"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thank you for sharing this memory with me. I have captured it as follows:\nEvent: Camping trip to Yellowstone\nParticipants: You, your mom, and your dad\nDate: August 20 to August 26\nHighlights: The unique scenery and wildlife, and the special experience of being somewhere unlike any other place you've been before. <END>"
+                    }
+                ],
+                "session_id": "f5d74000-626d-4c3e-be1c-ef2f446628a2",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc96",
+            "context": {
+                "memory_id": "868e9821a68d4e3faf1be51481e8277b",
+                "summary": "My friends and classmates celebrated my birthday at the casino in Detroit on 2023-10-10.",
+                "comments_summary": "",
+                "when": [
+                    "2023-10-10"
+                ],
+                "who": [
+                    "my friends and classmates"
+                ],
+                "where": [
+                    "at the casino in detroit"
+                ],
+                "what": [
+                    "birthday celebration"
+                ],
+                "natural_when": [
+                    "2023-08-19"
+                ],
+                "emotion": "joyful",
+                "created_at": "2023-08-19T00:46:10.775010",
+                "updated_at": "2023-08-19T00:46:10.775179",
+                "image_urls": [
+                    "https://tobu-mvp-dev.s3.amazonaws.com/yipingtest@gmail.com_urn:uuid:b32ce4e0-bf1d-4df4-b361-90019fc7ee30/41b775a2-c345-415b-bfc1-8add720eef25.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "It was my birthday last weekend"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a special day! Where did you celebrate your birthday?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "We went to this Greek restaurant in Detroit "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Sounds like a great place to celebrate. Who were the people that celebrated your birthday with you at the Greek restaurant?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "My family and close friends "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's wonderful. Is there anything else you would like to add to this memory?"
+                    }
+                ],
+                "session_id": "42e7880d-1993-4465-a473-5302d105755e",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc9a",
+            "context": {
+                "memory_id": "c651255282f34a078aa94cfad8d8a5bf",
+                "summary": "You had a picnic at the parking lot behind the gym with your family yesterday.",
+                "comments_summary": "",
+                "when": [
+                    "2024-04-22"
+                ],
+                "who": [
+                    "family"
+                ],
+                "where": [
+                    "The parking lot behind the gym"
+                ],
+                "what": [
+                    "picnic"
+                ],
+                "natural_when": [
+                    "2024-04-22"
+                ],
+                "emotion": "happy",
+                "created_at": "2024-04-23T16:59:29.740283",
+                "updated_at": "2024-04-23T16:59:29.740437",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I went to the park with my family yesterday "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a lovely time. Can you tell me what you did at the park with your family?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Oh we just sit around and chatted with each other.  Brought food and well so it was kind a picnic "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a wonderful picnic. Do you remember any specific topics you chatted about or any special moments during the picnic?"
+                    }
+                ],
+                "session_id": "d091a1d2-0ae1-4a13-93bf-aad60d22e88d",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc94",
+            "context": {
+                "memory_id": "ddd89a4165f14197bd3214900cf09e83",
+                "summary": "You went to see The Weeknd perform in Austin, Texas with Chris on Saturday. The concert was magical, with incredible visuals and a spectacular show.",
+                "comments_summary": "",
+                "when": [
+                    "2023-08-12"
+                ],
+                "who": [
+                    "Chris"
+                ],
+                "where": [
+                    "austin texas"
+                ],
+                "what": [
+                    "concert"
+                ],
+                "natural_when": [
+                    "2023-08-12"
+                ],
+                "emotion": "wonderful",
+                "created_at": "2023-08-18T18:08:51.137709",
+                "updated_at": "2023-08-18T18:08:51.137959",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Hey I went to see the weekend sing in Detroit on Saturday it was magicsl"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a wonderful experience! Who did you go with to the concert?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I went with Chris "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's great! What was the most memorable part of the concert for you?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "The visual and spectacle this guy sure knows how to put on a show "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Sounds like an amazing show! Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "No that\u2019s all"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Alright, I've captured your memory of seeing The Weeknd in concert in Detroit on Saturday with Chris and how magical the visual spectacle was. Thank you for sharing this with me. <END>"
+                    }
+                ],
+                "session_id": "af5d4e87-d934-44c1-a7c4-d17be41b5429",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc80",
+            "context": {
+                "memory_id": "13eccf315a8b4b8a8e87fc5fc1dcfec0",
+                "summary": "a celebration at your house during the weekend with your family and close friends, featuring an amazing BBQ",
+                "comments_summary": "",
+                "when": [
+                    "2023-08-18"
+                ],
+                "who": [
+                    "my family and some close friends"
+                ],
+                "where": [
+                    "my house"
+                ],
+                "what": [
+                    "birthday celebration"
+                ],
+                "natural_when": [
+                    "2023-08-18"
+                ],
+                "emotion": ":birthday:",
+                "created_at": "2023-08-18T13:28:59.102644",
+                "updated_at": "2023-08-18T13:30:51.232022",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "it was my birthday"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a special day! Can you tell me where you celebrated your birthday?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "at my house"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Great! Who were the people present at your birthday celebration?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "my  family and some close friends"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's wonderful! Can you tell me when this birthday celebration took place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "oh it was during the weekend"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Sounds like a fun weekend! Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "jjjjjjjjjjjjjjjjjjyeah we had this amazing bbq"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds delicious! I'll make sure to note that. Is there anything else you'd like to add about your birthday celebration?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "no thats all"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Alright! I've captured your birthday memory: a celebration at your house during the weekend with your family and close friends, featuring an amazing BBQ. Thank you for sharing this with me. <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "exit"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Goodbye! Feel free to return if you have more memories to share. <END>"
+                    }
+                ],
+                "session_id": "383c1cd1-9dac-4768-abc9-90c57383ffa4",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc84",
+            "context": {
+                "memory_id": "479c2649a6ba43259ae220951fa85d63",
+                "summary": "You went to see Drake during the Labor Day weekend in Las Vegas with your good buddy Andy. You also had the most amazing omakase at Nobu.",
+                "comments_summary": "",
+                "when": [
+                    "2023-08-18"
+                ],
+                "who": [
+                    "your good buddy Andy"
+                ],
+                "where": [
+                    "Las Vegas"
+                ],
+                "what": [
+                    "Seeing Drake"
+                ],
+                "natural_when": [
+                    "2023-08-18"
+                ],
+                "emotion": ":star-struck:",
+                "created_at": "2023-08-18T15:09:27.466615",
+                "updated_at": "2023-08-18T15:09:43.265519",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "you would not believe this. i went to see drake finally!"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds exciting! Can you tell me when and where you went to see Drake?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "this was during the labor day weekend"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's great! Could you please specify the location of the concert?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "oh yeah it was in las vegas baby! had a great time there"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Sounds like a blast! Were you there with anyone or did you go alone?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "yeah! i went with my good buddy Andy. it was great hanging out with him too"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's wonderful! Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "oh we also went to Nobu and had the most amazing omakase"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Sounds like a fantastic addition to the memory. I'll make sure to include that. <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "thjanks"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "You're welcome! If you have any other memories you'd like to capture, feel free to share. <END>"
+                    }
+                ],
+                "session_id": "8d51496e-4f65-4160-9d5d-d024265eace3",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc8e",
+            "context": {
+                "memory_id": "808c49f0f9a94ceb844b44f0d2706fa2",
+                "summary": "You went to an amazing buffet with your parents near your place yesterday.",
+                "comments_summary": "",
+                "when": [
+                    "2023-08-17"
+                ],
+                "who": [
+                    "your parents"
+                ],
+                "where": [
+                    "Asian restaurant near your place"
+                ],
+                "what": [
+                    "buffet"
+                ],
+                "natural_when": [
+                    "2023-08-17"
+                ],
+                "emotion": "excitement",
+                "created_at": "2023-08-18T15:53:21.473494",
+                "updated_at": "2023-08-18T15:53:21.473653",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Hey"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Hello! How can I assist you in capturing a memory today?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I had this amazing buffet yesterday "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds delightful! Where did you have this amazing buffet?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "It was at this Asian restaurant near my place I forgt what its called"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's alright. Who did you go to the buffet with?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "My parents we didn\u2019t want to cook last night haha"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Sounds like a fun time! Is there anything else you would like to add to this memory?"
+                    }
+                ],
+                "session_id": "efa3b19d-6c50-4400-9539-92380ada6b4d",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc76",
+            "context": {
+                "memory_id": "422c8596919540a8bd9df139a89c7c4a",
+                "summary": "You had a great weight lifting session at the IM building with Alyson yesterday. You hit a new bench PR!",
+                "comments_summary": "",
+                "when": [
+                    "2023-08-16"
+                ],
+                "who": [
+                    "Alyson"
+                ],
+                "where": [
+                    "IM building"
+                ],
+                "what": [
+                    "weight lifting session"
+                ],
+                "natural_when": [
+                    "2023-08-16"
+                ],
+                "emotion": "feeling strong",
+                "created_at": "2023-08-17T20:06:36.166492",
+                "updated_at": "2023-08-17T20:06:36.166642",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Had a great weight lifting session yesterday feeling strong "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a rewarding experience! Where did this weight lifting session take place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "At the IM building "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Sounds like a good location! Who was with you during this weight lifting session, if anyone?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I was training with Alyson "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's great! Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I hit a new bench PR"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's an impressive accomplishment! I've captured this memory as follows: \"Had a great weight lifting session yesterday at the IM building, feeling strong. I was training with Alyson and hit a new bench PR.\" Is there anything else you want to add or should I save this memory now?"
+                    }
+                ],
+                "session_id": "4d3a47f0-f12a-400e-bc83-50aa241e55e9",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc98",
+            "context": {
+                "memory_id": "eaecfcfbf1684b8e8ed9bb76c66ce288",
+                "summary": "",
+                "comments_summary": "",
+                "when": [
+                    "2023-09-08"
+                ],
+                "who": [
+                    null
+                ],
+                "where": [
+                    "new york"
+                ],
+                "what": [
+                    "parents making food"
+                ],
+                "natural_when": [
+                    "2023-09-08"
+                ],
+                "emotion": "nostalgic",
+                "created_at": "2023-09-08T23:54:33.060685",
+                "updated_at": "2023-09-08T23:54:33.060860",
+                "image_urls": [
+                    "https://tobu-mvp-dev.s3.amazonaws.com/yipingtest@gmail.com_urn:uuid:b32ce4e0-bf1d-4df4-b361-90019fc7ee30/84398ee3-5290-4793-a24c-d3fff836f83c.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Yes, can you record this memory of parents making food at some?"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Of course, I'd be happy to help you capture this memory. Could you please tell me when this event took place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "It happened today"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thank you for sharing that. Could you please specify where this event took place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Ann arnor"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thank you for the information. Could you please tell me what kind of food your parents were making?"
+                    }
+                ],
+                "session_id": "c76d6b58-7639-4d7b-a6df-e751ac38ca9f",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc9c",
+            "context": {
+                "memory_id": "db1076c3352244668e31dc6492f708c5",
+                "summary": "You spent the whole day working on various tasks, including taking care of some clothing. It was a solo effort, and you would have preferred to go for a run instead.",
+                "comments_summary": "",
+                "when": [
+                    null
+                ],
+                "who": [
+                    null
+                ],
+                "where": [
+                    null
+                ],
+                "what": [
+                    "Busy day of work"
+                ],
+                "natural_when": [
+                    null
+                ],
+                "emotion": "Neutral",
+                "created_at": "2024-05-05T16:18:30.438895",
+                "updated_at": "2024-05-05T16:18:30.439046",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I was working all day today."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a busy day! Can you tell me more about where you were working?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Some clothing, some stuff that I need to take care of a while though."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I see, it seems like you were busy with various tasks. Can you clarify who else was involved in this day of work, if anyone?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "No, it was just me, a lot of solo work, I'd rather run, just save this memory for now, thanks."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Of course, I understand. If there's anything else you'd like to add to this memory in the future, feel free to let me know. <END>"
+                    }
+                ],
+                "session_id": "8585ffc2-d5ed-4cb2-9c67-9e0651cf23b2",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc88",
+            "context": {
+                "memory_id": "c14c8640cb314549958299aa70558365",
+                "summary": "You celebrated your daughter's birthday party at your house with your friends and some of your daughter's classmates. Your wife's friend made a hyper realistic Frozen-themed cake that was really cool.",
+                "comments_summary": "",
+                "when": [
+                    "2023-08-18"
+                ],
+                "who": [
+                    "Your friends and some of your daughter's classmates"
+                ],
+                "where": [
+                    "At your house"
+                ],
+                "what": [
+                    "Daughter's birthday party"
+                ],
+                "natural_when": [
+                    "2023-08-18"
+                ],
+                "emotion": "joyful",
+                "created_at": "2023-08-18T15:17:13.235385",
+                "updated_at": "2023-08-18T15:17:13.235577",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Celebrated my daughters birthday party this weekend"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a wonderful event! Where did you celebrate your daughter's birthday party?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "At my house"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Great! Who were the attendees at the party?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "My friends and some of my daughters classmates too"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a fun gathering! Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Oh my wife\u2019s friend made this hyper realistic cake that was frozen themed it was really cool"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a fantastic addition to the party! I'll make sure to note that. Is there anything else you'd like to add to this memory?"
+                    }
+                ],
+                "session_id": "7ea730f8-8607-4ad1-9ab6-118102624d61",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc72",
+            "context": {
+                "memory_id": "f018afb0036148089525dee5af41f038",
+                "summary": "You went on a cruise with your family and friends in November last year. The cruise left from Florida and took you to the Caribbean.",
+                "comments_summary": "",
+                "when": [
+                    "2022-11-17"
+                ],
+                "who": [
+                    "family and friends"
+                ],
+                "where": [
+                    "Florida"
+                ],
+                "what": [
+                    "going on a cruise"
+                ],
+                "natural_when": [
+                    "2022-11-17"
+                ],
+                "emotion": "excitement",
+                "created_at": "2023-08-17T19:56:04.672487",
+                "updated_at": "2023-08-17T19:56:04.672640",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "went on a cruise with family and friends"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a fun experience! Can you tell me when this cruise took place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "this was in november last eyar"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Great! Could you also share where the cruise took you? What destinations did you visit?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "yeah the cruise left from florida and took us to the caribbean "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Sounds like a wonderful trip. Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "no thats all "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thank you for sharing this memory with me. I have captured it as follows: \"Went on a cruise with family and friends in November last year. The cruise left from Florida and took us to the Caribbean.\" <END>"
+                    }
+                ],
+                "session_id": "b11c5a0e-8ec7-4b84-b426-86f2a5525348",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc7a",
+            "context": {
+                "memory_id": "6fdfee87bb4e40febfbda5afec4ca0fd",
+                "summary": "You went on a cruise ship to the Bahamas with Jason and Brian's family. It was a big group and lots of fun. You also had a memorable gambling experience on the ship and won big!",
+                "comments_summary": "",
+                "when": [
+                    "2023-08-17"
+                ],
+                "who": [
+                    "Jason, Brian's family"
+                ],
+                "where": [
+                    "on a cruise ship to the Bahamas"
+                ],
+                "what": [
+                    "going on a cruise ship to the Bahamas with Jason and Brian's family and winning big at the casino"
+                ],
+                "natural_when": [
+                    "2023-08-17"
+                ],
+                "emotion": "excitement",
+                "created_at": "2023-08-17T20:29:44.126285",
+                "updated_at": "2023-08-17T20:29:44.126429",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "i went on a cruise ship last summer it was the best one yet"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a wonderful experience! Can you tell me where the cruise ship took you?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "we went to the bahamas "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's a fantastic destination! Who did you go on this cruise to the Bahamas with?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "i went with jason and brian's family it was a big group lots of fun!"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Sounds like a great group! Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "oh yeah i gambled on the ship and won big!"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's an exciting addition to the memory! I'll make sure to include your big win in the casino. Is there anything else you want to add or should I save this memory now?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "yup save that thank you!"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Great! I've captured your memory of the fantastic cruise to the Bahamas last summer with Jason and Brian's family, where you also had a big win at gambling. <END>"
+                    }
+                ],
+                "session_id": "b524599a-03d5-42a3-8df4-13b506463344",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc7e",
+            "context": {
+                "memory_id": "a6ef13c0d535404182950151163172c1",
+                "summary": "You watched the movie Oppenheimer at the Emagine theater by yourself. It was a thought-provoking movie.",
+                "comments_summary": "",
+                "when": [
+                    "2023-08-17"
+                ],
+                "who": [
+                    "Yourself"
+                ],
+                "where": [
+                    "Emagine theater"
+                ],
+                "what": [
+                    "Watching the movie Oppenheimer"
+                ],
+                "natural_when": [
+                    "2023-08-17"
+                ],
+                "emotion": ":thinking_face:",
+                "created_at": "2023-08-17T21:10:46.105864",
+                "updated_at": "2023-08-17T21:10:46.106200",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "What\u2019s up!"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Hello! Do you have a memory you'd like me to help you capture today?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Oh yeah saw Oppenheimer yesterday it was best movie of 2023 so far"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a great experience! Where did you watch the movie \"Oppenheimer\"?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "At the Emagine theater "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's great! Who did you go to the Emagine theater with to watch \"Oppenheimer\"?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I went myself my friends have already seen it before "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I see. Is there anything else you would like to add to this memory of watching \"Oppenheimer\" at the Emagine theater by yourself?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Nothing in particular it was just a really thought provoking movie and want to remember that "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thank you for sharing. I've captured this memory of you watching the thought-provoking movie \"Oppenheimer\" at the Emagine theater by yourself in 2023. <END>"
+                    }
+                ],
+                "session_id": "1434828e-ed61-4521-addd-a1723d3f8e0d",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc92",
+            "context": {
+                "memory_id": "fccd4b1c85f44b0c8c0c356225050737",
+                "summary": "You went to Vegas with your friend Andy for a weekend getaway. You went to a concert, had some great food, and did a little bit of gambling.",
+                "comments_summary": "",
+                "when": [
+                    "2023-08-18"
+                ],
+                "who": [
+                    "friend Andy"
+                ],
+                "where": [
+                    "Las Vegas"
+                ],
+                "what": [
+                    "Vegas trip"
+                ],
+                "natural_when": [
+                    "2023-08-18"
+                ],
+                "emotion": "excitement",
+                "created_at": "2023-08-18T17:38:27.168672",
+                "updated_at": "2023-08-18T17:38:27.168827",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Hey I went to Vegas for a weekend getaway "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a fun trip! Who did you go with to Vegas?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "My friend Andy who I haven\u2019t seen in a while"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It must have been great to catch up with Andy. Can you tell me more about what you did in Vegas?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "We went to a concert, had some great food and did a little bit gambling haha"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Sounds like a blast! Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "No that\u2019s all"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Great! I've captured your memory of the weekend getaway to Vegas with your friend Andy, where you enjoyed a concert, had some delicious food, and did a bit of gambling. <END>"
+                    }
+                ],
+                "session_id": "7d6d380b-7221-4fcb-a6e6-1aacb51eab5f",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc78",
+            "context": {
+                "memory_id": "5d9ff0707fa64326b911b19c40505f96",
+                "summary": "You were raiding Neltharion with your guild members from Surrendering ITL in WoW last night.",
+                "comments_summary": "",
+                "when": [
+                    "2023-08-17"
+                ],
+                "who": [
+                    "your guild members from Surrendering ITL"
+                ],
+                "where": [
+                    "in WoW"
+                ],
+                "what": [
+                    "raiding Neltharion"
+                ],
+                "natural_when": [
+                    "2023-08-17"
+                ],
+                "emotion": "excitement",
+                "created_at": "2023-08-17T20:27:20.135469",
+                "updated_at": "2023-08-17T20:27:20.135736",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": " We were raiding neltharion last night"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds exciting! Who were you with during this raid?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "My guild members from surrendering itl"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's great! Can you tell me where this raid took place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "in WoW"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Sounds like a thrilling experience! Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "no thats all"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Alright, I've captured this memory of you and your guild members from Surrendering ITL raiding Neltharion in WoW last night. <END>"
+                    }
+                ],
+                "session_id": "1e13fa00-f3bd-49f0-ae04-526f8b596e64",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc86",
+            "context": {
+                "memory_id": "c781b6651b5347089c4ac300e3fbed07",
+                "summary": "You went to the Grand Canyon with your family last weekend. You did a long and challenging hike and were proud to finish it. You also saw the majestic sunrise.",
+                "comments_summary": "",
+                "when": [
+                    "2023-08-18"
+                ],
+                "who": [
+                    "family"
+                ],
+                "where": [
+                    "Grand Canyon"
+                ],
+                "what": [
+                    "Grand Canyon trip"
+                ],
+                "natural_when": [
+                    "2023-08-18"
+                ],
+                "emotion": "excitement",
+                "created_at": "2023-08-18T15:13:24.284871",
+                "updated_at": "2023-08-18T15:13:24.285308",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I went to the Grand Canyon last weekend!"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like an exciting trip! Who did you go with to the Grand Canyon?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I went with my family "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's lovely! What was the most memorable event that happened during your trip to the Grand Canyon with your family?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "We did this pretty long and challenging hike. Pretty proud that we were able to finish it "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's an impressive achievement! Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "We also saw the sunrise it was majestic "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a beautiful sight! I've captured your memory as follows: \"Last weekend, you went to the Grand Canyon with your family. You completed a long and challenging hike, and witnessed a majestic sunrise.\" If there's anything else you'd like to add or change, please let me know. <END>"
+                    }
+                ],
+                "session_id": "40a1aec1-364b-4cc7-8eb7-4de9e606a2a7",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc82",
+            "context": {
+                "memory_id": "9b5995e608a045709fbb881bb5483ba3",
+                "summary": "You spent a great day at the outlets mall with your parents last Saturday. You shopped around and had lunch at the food court.",
+                "comments_summary": "",
+                "when": [
+                    "2023-08-12"
+                ],
+                "who": [
+                    "your parents"
+                ],
+                "where": [
+                    "outlets mall"
+                ],
+                "what": [
+                    "shopping and having lunch at the outlets mall"
+                ],
+                "natural_when": [
+                    "2023-08-12"
+                ],
+                "emotion": ":smile:",
+                "created_at": "2023-08-18T14:57:38.876215",
+                "updated_at": "2023-08-18T14:57:38.876367",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Hey what is going on"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Hello! I'm here to help you capture important events in your life. Do you have any recent memories or experiences you'd like to record?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Oh yeah we spent a great day at the outlets mall last Saturday "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a fun day! Who were you with at the outlets mall?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I went with my parents they needed to get some clothes for upcoming grip"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's nice. Can you tell me more about any specific event or moment that stood out during this trip to the outlets mall?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Nothing specific we just shopped around and had lunch at the food court"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I see. Is there anything else you would like to add to this memory of shopping and having lunch at the outlets mall with your parents last Saturday?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "No that\u2019s all"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Great! I've captured this memory: You had a great day at the outlets mall last Saturday with your parents. You shopped around and had lunch at the food court. If you have any more memories you'd like to record in the future, feel free to share. <END>"
+                    }
+                ],
+                "session_id": "e935429e-8c75-41d4-a4d3-73287318f337",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc7c",
+            "context": {
+                "memory_id": "f9ca428d79674eee85611aa964926b08",
+                "summary": "You saw a funny t-shirt at the Briarwood Mall during your solo shopping trip on the weekend",
+                "comments_summary": "",
+                "when": [
+                    "2023-08-17"
+                ],
+                "who": [
+                    "yourself"
+                ],
+                "where": [
+                    "Briarwood Mall"
+                ],
+                "what": [
+                    "seeing a funny t-shirt at the Briarwood Mall"
+                ],
+                "natural_when": [
+                    "2023-08-17"
+                ],
+                "emotion": "neutral",
+                "created_at": "2023-08-17T20:34:21.922849",
+                "updated_at": "2023-08-17T20:34:21.923182",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Hey! "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Hello! How can I assist you in capturing a memory today?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I saw this really funny t shirt when I went shopping on the weekend"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a fun memory! Where did you go shopping?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "The briarwood mall"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Great! Who were you with when you saw this funny t-shirt at the Briarwood Mall?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Just myself I made a quick trip to grab something "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I see. Is there anything else you would like to add to this memory of seeing the funny t-shirt at the Briarwood Mall during your solo shopping trip on the weekend?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "No that\u2019s all"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Alright, I've captured your memory. Here it is: You saw a really funny t-shirt while you were shopping by yourself at the Briarwood Mall over the weekend. <END>"
+                    }
+                ],
+                "session_id": "9c53db68-6f31-42fc-af63-ac4a259c8a77",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc8c",
+            "context": {
+                "memory_id": "205054d8b12b44b5ab8bb83df1551e13",
+                "summary": "You celebrated your birthday at your house with your family and close friends on Saturday.",
+                "comments_summary": "",
+                "when": [
+                    "2023-08-12"
+                ],
+                "who": [
+                    "family, close friends"
+                ],
+                "where": [
+                    "your house"
+                ],
+                "what": [
+                    "birthday"
+                ],
+                "natural_when": [
+                    "2023-08-12"
+                ],
+                "emotion": "happy",
+                "created_at": "2023-08-18T15:36:39.006248",
+                "updated_at": "2023-08-18T15:36:39.006469",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "it was my birthday on Saturday"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a special day! Where did you celebrate your birthday?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "at my house"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's nice! Who were the people present at your birthday celebration?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "just my family and some close friends. we didn't want to do a big thing"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Sounds like a cozy celebration. Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "no that is all"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Alright, I've captured your memory. Your birthday was celebrated at your house on Saturday with your family and close friends. <END>"
+                    }
+                ],
+                "session_id": "dc1b576c-8f06-4e04-8114-7adc32b38261",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc90",
+            "context": {
+                "memory_id": "e0aa899acd044f83afbaadf869df34b8",
+                "summary": "You went on a great cruise trip to the Bahamas with your college roommates last week.",
+                "comments_summary": "",
+                "when": [
+                    "2023-08-11"
+                ],
+                "who": [
+                    "college roommates"
+                ],
+                "where": [
+                    "the Bahamas"
+                ],
+                "what": [
+                    "cruise trip"
+                ],
+                "natural_when": [
+                    "2023-08-11"
+                ],
+                "emotion": "excitement",
+                "created_at": "2023-08-18T15:56:34.379692",
+                "updated_at": "2023-08-18T15:56:34.380856",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Just came back from a great cruise trip"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a wonderful experience! Can you tell me when this cruise trip took place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "This was last week"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Sounds like a recent fun experience! Where did the cruise trip take you?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "It took us to the Bahamas "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's a beautiful destination! Who joined you on this cruise trip to the Bahamas?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "My college roommates! It was a reunion thing "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That must have been a lot of fun! Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Nah that\u2019s all I will tell you more later "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Alright, I've captured your memory of the cruise trip to the Bahamas with your college roommates last week. Feel free to share more whenever you're ready. <END>"
+                    }
+                ],
+                "session_id": "02cb6f76-aa71-4052-9282-e80282b75343",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f94204745c73cd6bc8a",
+            "context": {
+                "memory_id": "ea4b553862d54833873830c63bea6fa0",
+                "summary": "You had a great dinner with your friends at a new restaurant in town.",
+                "comments_summary": "",
+                "when": [
+                    "2023-08-18"
+                ],
+                "who": [
+                    "your friends"
+                ],
+                "where": [
+                    "new restaurant in town"
+                ],
+                "what": [
+                    "dinner with friends"
+                ],
+                "natural_when": [
+                    "2023-08-18"
+                ],
+                "emotion": "excitement",
+                "created_at": "2023-08-18T15:24:08.652437",
+                "updated_at": "2023-08-18T15:24:08.652625",
+                "image_urls": [
+                    "https://tobu-mvp-dev.s3.amazonaws.com/yipingtest@gmail.com_urn:uuid:b32ce4e0-bf1d-4df4-b361-90019fc7ee30/8bd540e8-b108-4b14-a7f6-13a354aaa2c6.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Hello"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Hello! How can I assist you in capturing a memory today?"
+                    }
+                ],
+                "session_id": "9b3cbe20-530d-4404-bf65-f3e129bca5f2",
+                "draft": false
+            }
+        }
+    ]
+}

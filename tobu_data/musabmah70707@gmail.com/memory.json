@@ -1,0 +1,160 @@
+{
+    "status": 200,
+    "reports": [
+        {
+            "id": "n:memory:66a0f21c7c7185acaa66ce90",
+            "context": {
+                "memory_id": "258d1a044feb4c38802d704ea201f8a7",
+                "summary": "You went to play snooker with your friends last week in Pool 8 Club.",
+                "comments_summary": "",
+                "when": [
+                    "2024-07-17"
+                ],
+                "who": [
+                    "your friends"
+                ],
+                "where": [
+                    "Pool 8 Club"
+                ],
+                "what": [
+                    "playing snooker"
+                ],
+                "natural_when": [
+                    "2024-07-17"
+                ],
+                "emotion": "",
+                "created_at": "2024-07-24 12:22:52",
+                "updated_at": "2024-07-24 12:22:52",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/musabmah70707@gmail.com_02afa155747443e38a7cbc2646cdec27/9c7caccd-b827-450e-9188-40d59aa0e083.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "We went to play snooker with my friends last week in pool 8 club, {}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a fun time! Can you tell me who specifically was there with you?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I enjoyed this, it was really fun and we enjoyed a lot., {\"summary\":\"You went to play snooker with your friends last week in Pool 8 Club.\",\"when\":\"last week\",\"what\":\"playing snooker\",\"where\":\"Pool 8 Club\",\"who\":\"your friends\",\"emotion\":\"\"}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I'm glad to hear you had a great time! Could you share any special moments or highlights from the game that you would like to remember?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Update what to playing snooker, Update when to last week, Update where to Pool 8 Club, Update who to your friends, "
+                    }
+                ],
+                "session_id": "025b1360-3a1f-4ab4-b372-eb931b811e74",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:67c59625de6de556d9f986a0",
+            "context": {
+                "memory_id": "133b593b207c4928a6c6707b21ac0464",
+                "summary": "Video chatting with a friend over breakfast in Colombo on a calm morning.",
+                "comments_summary": "",
+                "when": [
+                    "2025-03-03"
+                ],
+                "who": [],
+                "where": [
+                    "Colombo"
+                ],
+                "what": [
+                    "Video call"
+                ],
+                "natural_when": [
+                    "2025-03-03"
+                ],
+                "emotion": "",
+                "created_at": "2025-03-03 11:44:37",
+                "updated_at": "2025-03-03 11:44:37",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/musabmah70707@gmail.com_66a0f1657c7185acaa66cdc4/48b3cca2-235b-42fa-9784-761588a58d18.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [],
+                "session_id": "f4a63e65a6a0496bb13b072b8c44945d",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:67c59648de6de556d9f986b0",
+            "context": {
+                "memory_id": "0b6b4630004148009aac66c7e7bf54f0",
+                "summary": "Exploring the fruit market, the melons caught my eye with their perfect green skin and inviting price tag.",
+                "comments_summary": "",
+                "when": [
+                    "2025-03-02"
+                ],
+                "who": [],
+                "where": [
+                    "Market stall"
+                ],
+                "what": [
+                    "Market fruit shopping"
+                ],
+                "natural_when": [
+                    "2025-03-02"
+                ],
+                "emotion": "",
+                "created_at": "2025-03-03 11:45:12",
+                "updated_at": "2025-03-03 11:45:12",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/musabmah70707@gmail.com_66a0f1657c7185acaa66cdc4/151dae88-832d-47ae-b7cb-1c2bf1c246a7.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [],
+                "session_id": "f759d1ca37d14fc09d644d24c43a44d1",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:67c59685de6de556d9f986c3",
+            "context": {
+                "memory_id": "7c65807092a64cb58ae9f04233ca1a99",
+                "summary": "A fun group selfie in a trendy office space on a bright February day.",
+                "comments_summary": "",
+                "when": [
+                    "2025-02-27"
+                ],
+                "who": [],
+                "where": [
+                    "Modern office"
+                ],
+                "what": [
+                    "Group selfie"
+                ],
+                "natural_when": [
+                    "2025-02-27"
+                ],
+                "emotion": "",
+                "created_at": "2025-03-03 11:46:13",
+                "updated_at": "2025-03-03 11:46:13",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/musabmah70707@gmail.com_66a0f1657c7185acaa66cdc4/a0e12582-ae4b-4f67-a3c1-068a557fd9d7.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [],
+                "session_id": "0e7a53efc0fb416c84ec34d645475e0d",
+                "draft": false
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+  "user_id": "user_047",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which memories show the user's connections with family and friends through shared experiences, and what emotions do these moments convey?",
+      "answer_gold": "The dinner in Manhattan Beach with Brian and Jason, the Cubs game with Jack and his dad, and Easter with Skyler at the grandparents' house all highlight meaningful relationships. These memories reflect joy, gratitude, and a sense of closeness with both family and friends.",
+      "evidence": [
+        "m02",
+        "m03",
+        "m05"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What events reflect significant milestones in Marley's academic journey, and how do they connect to her family's involvement?",
+      "answer_gold": "Marley's first day of 12th grade in Costa Mesa marked the beginning of her senior year, followed by her senior photo session in Newport Beach and a campus visit to Liberty University with her dad and best friend Bethy. Together these moments trace her transition toward graduation and college, supported by family.",
+      "evidence": [
+        "m10",
+        "m11",
+        "m12"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How does travel serve as a recurring theme in the user's family memories, and what does it reveal about their values?",
+      "answer_gold": "Trips to Israel with Marley, a day under the Manhattan Beach pier, and moments in Laguna Beach before the storm all show the family's love for meaningful travel. Each trip blends reflection, bonding, and appreciation of nature — underscoring family closeness and shared faith.",
+      "evidence": [
+        "m01",
+        "m04",
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "What events emphasize reunions and nostalgia within the family, and what makes them special?",
+      "answer_gold": "The heartwarming reunion with Marley and her brother Austin at North, and the old memory of Jack's childhood skate tournament in Germany, both highlight the passage of time and enduring family pride. These moments combine nostalgia with joy and reconnection.",
+      "evidence": [
+        "m08",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How do the user's memories across celebrations, education, and travel together reflect a broader story of growth and gratitude?",
+      "answer_gold": "From celebrating Easter with Skyler, traveling to Israel with Marley, marking her senior year milestones, and visiting Liberty University, the memories collectively portray a narrative of faith, growth, and thankfulness for family bonds and life transitions.",
+      "evidence": [
+        "m04",
+        "m05",
+        "m10",
+        "m11",
+        "m12"
+      ]
+    }
+  ]
+}

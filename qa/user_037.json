@@ -1,0 +1,58 @@
+{
+  "user_id": "user_037",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How did Aria's early collaborations influence the global sound identity of her album 'Woven Frequencies'?",
+      "answer_gold": "Her sessions in Seoul and Nairobi introduced rhythmic and instrumental diversity that became foundational to her album's aesthetic, later refined through orchestral and electronic integration in London and Paris.",
+      "evidence": [
+        "m02",
+        "m03",
+        "m05",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "In what ways did Aria bridge cultural and technical innovation throughout her creative process?",
+      "answer_gold": "She blended cultural instruments from Seoul and Mumbai with spatial mixing learned in Berlin, merging human tradition and technological depth into immersive sound environments.",
+      "evidence": [
+        "m02",
+        "m04",
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did Aria's performances and visual projects expand the reach of her musical storytelling?",
+      "answer_gold": "Her São Paulo live show and New York documentary project turned her studio work into global engagement, connecting her creative process to audiences worldwide before the album's launch.",
+      "evidence": [
+        "m06",
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which chain of collaborations demonstrates Aria's transformation from producer to cultural ambassador?",
+      "answer_gold": "Her partnerships across Nairobi, London, and Mumbai evolved from technical experiments into intercultural artistic exchanges, culminating in the global livestream concert uniting six nations in performance.",
+      "evidence": [
+        "m03",
+        "m05",
+        "m07",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How did Aria's integration of fieldwork, live performance, and studio refinement shape her album's success?",
+      "answer_gold": "She transformed field recordings from Nairobi into immersive soundscapes in Berlin, performed reimagined versions in São Paulo, and polished the final sound in Paris, blending organic texture with professional precision.",
+      "evidence": [
+        "m03",
+        "m04",
+        "m06",
+        "m08"
+      ]
+    }
+  ]
+}

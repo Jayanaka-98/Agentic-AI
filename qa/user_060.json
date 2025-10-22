@@ -1,0 +1,60 @@
+{
+  "user_id": "user_060",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How do the Grand Canyon trips with Claude and the beach memory on the rocky shoreline reveal the user's appreciation for nature and shared companionship?",
+      "answer_gold": "The Grand Canyon trips with Claude, where they admired rainbows over the mountains and enjoyed food together, highlight the user's wonder toward natural beauty and joy in shared experiences. Similarly, the peaceful seaside moment standing on the rocky shore with a companion captures the same sense of connection — both to nature and to another person — showing a deep appreciation for quiet, awe-filled moments with others.",
+      "evidence": [
+        "m05",
+        "m07",
+        "m09",
+        "m15"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What do the memories of walking with Ashley and the dog, visiting H Mart for mooncakes, and watching movies together show about the user's relationship with Ashley?",
+      "answer_gold": "The walk with Ashley and the dog around the park reflects casual companionship and everyday comfort, while shopping for mooncakes at H Mart adds a shared cultural and social warmth to their bond. The movie theater memory, where Ashley appears playfully on a poster, expresses fondness and humor. Together, these moments portray a relationship rooted in closeness, shared routine, and joy in simple experiences.",
+      "evidence": [
+        "m04",
+        "m10",
+        "m11"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How do the user's gaming experiences in World of Warcraft connect to their sense of adventure found in real-world travels like Disney trips and zoo visits?",
+      "answer_gold": "Playing Hardcore WoW and running Neltharion's Lair with friends reflects the user's excitement for exploration and learning, especially when discovering new challenges as a priest. That same sense of curiosity and discovery appears in real-world adventures — from the thrill of meeting Mickey at Disney parks to observing a monkey at the zoo. Both worlds show the user's love for immersive experiences, whether digital or physical.",
+      "evidence": [
+        "m01",
+        "m03",
+        "m06",
+        "m12"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "What similarities exist between the memories involving Pokémon displays, the Torchic toy, and the zoo visit in how they capture the user's sense of childlike wonder?",
+      "answer_gold": "The Pokémon store visit, with its colorful Articuno and Zapdos displays, immerses the user in nostalgia and imagination, while the Torchic discovery in a child's room evokes warmth and innocence. The zoo visit, where the user connects with a curious monkey against the city skyline, continues this theme of playful wonder and fascination. Together, these moments reveal a consistent joy in rediscovering youthful curiosity and magic in everyday life.",
+      "evidence": [
+        "m12",
+        "m13",
+        "m14"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What does the pattern of traveling with loved ones to places like Disney parks, the Grand Canyon, and seaside locations say about the user's values around joy and connection?",
+      "answer_gold": "Across trips to Disney parks with family, Grand Canyon excursions with Claude, and quiet seaside walks, the user seeks happiness through shared experiences rather than grand gestures. These journeys combine play, wonder, and intimacy — celebrating relationships and the beauty of the world. The recurring theme is not just travel, but the emotional fulfillment of exploring together.",
+      "evidence": [
+        "m02",
+        "m03",
+        "m05",
+        "m07",
+        "m09",
+        "m15"
+      ]
+    }
+  ]
+}

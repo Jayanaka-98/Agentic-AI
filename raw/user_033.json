@@ -1,0 +1,117 @@
+{
+  "user_id": "user_033",
+  "memories": [
+    {
+      "memory_id": "m01",
+      "summary": "Sophia began the year in Copenhagen, leading an urban design study focused on green infrastructure. Her team proposed rooftop gardens and permeable pavements to reduce urban flooding risks in dense neighborhoods.",
+      "when": "2025-01-10",
+      "who": ["Sophia Nguyen", "urban design team"],
+      "where": ["Copenhagen"],
+      "what": "Conducting research on sustainable urban drainage and green infrastructure."
+    },
+    {
+      "memory_id": "m02",
+      "summary": "In Amsterdam, Sophia joined a cross-European workshop on waterfront revitalization. She collaborated with city planners to redesign old harbors into mixed-use public spaces with renewable energy lighting systems.",
+      "when": "2025-02-23",
+      "who": ["Sophia Nguyen", "city planners"],
+      "where": ["Amsterdam"],
+      "what": "Collaborating on harbor redevelopment and renewable energy design."
+    },
+    {
+      "memory_id": "m03",
+      "summary": "Sophia visited Singapore to study high-density housing models that integrate vertical greenery. She analyzed community satisfaction metrics and urban heat reduction effects from existing projects.",
+      "when": "2025-03-28",
+      "who": ["Sophia Nguyen", "local architects"],
+      "where": ["Singapore"],
+      "what": "Researching vertical green housing and heat mitigation techniques."
+    },
+    {
+      "memory_id": "m04",
+      "summary": "In Dubai, Sophia was invited to consult on an urban redevelopment plan emphasizing walkability. She proposed shaded pedestrian corridors and hybrid cooling systems inspired by desert architecture.",
+      "when": "2025-04-26",
+      "who": ["Sophia Nguyen", "municipal design team"],
+      "where": ["Dubai"],
+      "what": "Consulting on walkable design and sustainable cooling in desert cities."
+    },
+    {
+      "memory_id": "m05",
+      "summary": "Back in Copenhagen, Sophia taught a short university course on sustainable materials in architecture. She guided students through practical projects that reused local construction waste for new structural components.",
+      "when": "2025-05-20",
+      "who": ["Sophia Nguyen", "architecture students"],
+      "where": ["Copenhagen"],
+      "what": "Teaching sustainable material reuse in architectural design."
+    },
+    {
+      "memory_id": "m06",
+      "summary": "In Nairobi, Sophia collaborated with a nonprofit organization to design affordable housing using modular bamboo components. The project emphasized community participation and low-carbon materials.",
+      "when": "2025-06-24",
+      "who": ["Sophia Nguyen", "nonprofit architects", "local community"],
+      "where": ["Nairobi"],
+      "what": "Designing low-cost modular housing with local community input."
+    },
+    {
+      "memory_id": "m07",
+      "summary": "Sophia traveled to Vancouver to present her findings on urban resilience at a global architecture symposium. She showcased models from Copenhagen, Amsterdam, and Nairobi to illustrate adaptable city frameworks.",
+      "when": "2025-07-18",
+      "who": ["Sophia Nguyen", "architecture symposium participants"],
+      "where": ["Vancouver"],
+      "what": "Presenting case studies on climate-resilient urban design."
+    },
+    {
+      "memory_id": "m08",
+      "summary": "In Seoul, Sophia joined a smart city research consortium exploring data-driven public space planning. She analyzed pedestrian flow data and designed sensor-based lighting to improve energy efficiency.",
+      "when": "2025-09-03",
+      "who": ["Sophia Nguyen", "smart city researchers"],
+      "where": ["Seoul"],
+      "what": "Developing smart infrastructure models for urban public spaces."
+    },
+    {
+      "memory_id": "m09",
+      "summary": "Sophia spent autumn in Rome restoring a historical plaza. She balanced heritage preservation with modern amenities, incorporating solar benches and digital wayfinding screens for tourists.",
+      "when": "2025-10-19",
+      "who": ["Sophia Nguyen", "heritage architects"],
+      "where": ["Rome"],
+      "what": "Blending historical preservation with sustainable public utilities."
+    },
+    {
+      "memory_id": "m10",
+      "summary": "To conclude the year, Sophia returned to Copenhagen to present her global projects at a public exhibition. Her showcase, titled 'Cities That Breathe,' received acclaim for uniting ecological design and cultural empathy.",
+      "when": "2025-12-22",
+      "who": ["Sophia Nguyen", "public visitors"],
+      "where": ["Copenhagen"],
+      "what": "Curating an exhibition highlighting her international sustainable projects."
+    }
+  ],
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How did Sophia's early European projects influence her later architectural designs in other regions?",
+      "answer_gold": "Her green infrastructure work in Copenhagen and harbor redesign in Amsterdam shaped her sustainable approach, which she later applied in Dubai's walkable city plans and Nairobi's modular housing initiatives.",
+      "evidence": ["m01", "m02", "m04", "m06"]
+    },
+    {
+      "qid": "qa_002",
+      "question": "In what ways did Sophia's experiences in teaching and community collaboration reinforce her architectural philosophy?",
+      "answer_gold": "Her teaching in Copenhagen emphasized local reuse of materials, echoing her hands-on collaboration with Nairobi communities to promote participatory and environmentally responsible design.",
+      "evidence": ["m05", "m06"]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did Sophia bridge traditional urban planning with emerging technology in her later projects?",
+      "answer_gold": "Her research on walkability and human-scale design evolved into data-driven experiments in Seoul, where she merged sensor networks with sustainable architecture to optimize urban efficiency.",
+      "evidence": ["m04", "m08"]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which sequence of events demonstrates Sophia's integration of sustainability and cultural sensitivity?",
+      "answer_gold": "Her projects in Singapore, Nairobi, and Rome combined environmental innovation with local identity, showing her ability to adapt ecological principles to distinct cultural contexts.",
+      "evidence": ["m03", "m06", "m09"]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How did Sophia's international experiences culminate in her Copenhagen exhibition?",
+      "answer_gold": "After gathering insights from diverse urban contexts—from European harbors to African housing—Sophia synthesized her global designs into ‘Cities That Breathe,' reflecting her vision for ecologically and socially connected cities.",
+      "evidence": ["m02", "m06", "m07", "m10"]
+    }
+  ]
+}

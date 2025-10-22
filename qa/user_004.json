@@ -1,0 +1,67 @@
+{
+  "user_id": "user_005",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which friends and family did Emily spend time with across different places?",
+      "answer_gold": "She was with Sarah in Chicago and Austin, Alex in Boston and San Francisco, Daniel in New York and Denver, Omar in Toronto and Boston, and her parents in Seattle.",
+      "evidence": [
+        "m02",
+        "m03",
+        "m04",
+        "m05",
+        "m06",
+        "m07",
+        "m08",
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "Which memories involved food or drinks, and what do they suggest about the occasions?",
+      "answer_gold": "Coffee while studying, ice cream at the CN Tower, tacos at a food truck festival, hot chocolate at a ski lodge, and drinks at a New Year's Eve party — showing both casual and festive occasions.",
+      "evidence": [
+        "m01",
+        "m06",
+        "m07",
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "Which events mark big celebrations, and how do they differ?",
+      "answer_gold": "Alex's graduation, Independence Day fireworks, and the New Year's Eve party — one is a family milestone, one a national holiday, and one a global celebration.",
+      "evidence": [
+        "m03",
+        "m04",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "What shows Emily's travels across the country and abroad?",
+      "answer_gold": "She visited Chicago, Boston, New York, Seattle, Toronto, Austin, San Francisco, Denver, and Boston again — including a trip to Canada.",
+      "evidence": [
+        "m02",
+        "m03",
+        "m04",
+        "m05",
+        "m06",
+        "m07",
+        "m08",
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which memory best reflects a cozy winter atmosphere?",
+      "answer_gold": "Relaxing with Daniel in a ski lodge by the fireplace with hot chocolate in Denver.",
+      "evidence": [
+        "m09"
+      ]
+    }
+  ]
+}

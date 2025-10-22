@@ -1,0 +1,316 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "Marcus began the year in Boston developing an autonomous delivery robot prototype. His team focused on optimizing vision-based navigation using LiDAR and stereo camera fusion.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-12"
+        ],
+        "who": [
+          "Marcus Tan",
+          "robotics team"
+        ],
+        "where": [
+          "Boston"
+        ],
+        "what": [
+          "Designing and testing a delivery robot's visual navigation system."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "In San Francisco, Marcus presented his early prototype at a robotics accelerator. He received feedback from investors and was advised to improve real-world adaptability and obstacle handling.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-24"
+        ],
+        "who": [
+          "Marcus Tan",
+          "investors",
+          "robotics mentors"
+        ],
+        "where": [
+          "San Francisco"
+        ],
+        "what": [
+          "Presenting the delivery robot prototype for feedback and funding guidance."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "Marcus traveled to Zurich to collaborate with an AI lab specializing in reinforcement learning for motion control. He helped integrate adaptive algorithms allowing robots to learn from route irregularities.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-28"
+        ],
+        "who": [
+          "Marcus Tan",
+          "AI researchers"
+        ],
+        "where": [
+          "Zurich"
+        ],
+        "what": [
+          "Integrating reinforcement learning models to improve motion control robustness."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "In Singapore, Marcus joined a smart logistics consortium to test his autonomous robots in real warehouse environments. He collected sensor feedback and refined edge computing efficiency for faster decision-making.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-25"
+        ],
+        "who": [
+          "Marcus Tan",
+          "logistics engineers"
+        ],
+        "where": [
+          "Singapore"
+        ],
+        "what": [
+          "Testing autonomous systems in live logistics environments."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "Marcus visited Tokyo to collaborate with robotics manufacturers on hardware miniaturization. The partnership led to lighter chassis designs and improved battery endurance for extended outdoor operations.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-30"
+        ],
+        "who": [
+          "Marcus Tan",
+          "hardware engineers"
+        ],
+        "where": [
+          "Tokyo"
+        ],
+        "what": [
+          "Co-developing miniaturized and energy-efficient robotic components."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "In Munich, Marcus attended an industrial automation conference where he presented case studies from Singapore and Tokyo. His talk focused on scaling autonomous logistics from pilot to full deployment.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-09"
+        ],
+        "who": [
+          "Marcus Tan",
+          "automation professionals"
+        ],
+        "where": [
+          "Munich"
+        ],
+        "what": [
+          "Presenting deployment strategies for autonomous robotics at an international conference."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "Marcus spent August in Toronto mentoring startup teams at a robotics incubator. He advised young engineers on model compression and simulation-based testing for embedded robotics systems.",
+        "comments_summary": "",
+        "when": [
+          "2025-08-21"
+        ],
+        "who": [
+          "Marcus Tan",
+          "engineering startups"
+        ],
+        "where": [
+          "Toronto"
+        ],
+        "what": [
+          "Mentoring robotics startups on efficient model design and testing."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "In Dubai, Marcus collaborated on a smart-city project integrating delivery robots with urban infrastructure. He coordinated with traffic engineers to ensure safe crosswalk and curbside interactions.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-25"
+        ],
+        "who": [
+          "Marcus Tan",
+          "urban mobility engineers"
+        ],
+        "where": [
+          "Dubai"
+        ],
+        "what": [
+          "Integrating autonomous robots into smart-city traffic systems."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "Marcus returned to Boston to lead field trials of the second-generation delivery robots. The new model featured improved obstacle detection and achieved 30% faster delivery times.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-19"
+        ],
+        "who": [
+          "Marcus Tan",
+          "field engineers"
+        ],
+        "where": [
+          "Boston"
+        ],
+        "what": [
+          "Conducting performance tests for upgraded autonomous delivery systems."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "To conclude the year, Marcus spoke at the World Robotics Forum in Geneva about global collaboration in automation. He emphasized ethical deployment, workforce adaptation, and sustainability in robotics innovation.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-17"
+        ],
+        "who": [
+          "Marcus Tan",
+          "robotics researchers"
+        ],
+        "where": [
+          "Geneva"
+        ],
+        "what": [
+          "Delivering a keynote on ethical and sustainable robotics development."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

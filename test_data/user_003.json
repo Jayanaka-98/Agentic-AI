@@ -1,0 +1,316 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "On March 3, 2025, in Ann Arbor, Julia sat by the window in a coffee shop, reading a book with a latte beside her. The warm sunlight created a calm and quiet atmosphere.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-03"
+        ],
+        "who": [
+          "Julia"
+        ],
+        "where": [
+          "Ann Arbor, MI"
+        ],
+        "what": [
+          "Relaxing in a café with a book."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "On April 15, 2025, in Chicago, Mark and Omar posed in front of the Cloud Gate sculpture, smiling as tourists walked around them on a busy afternoon.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-15"
+        ],
+        "who": [
+          "Mark",
+          "Omar"
+        ],
+        "where": [
+          "Chicago, IL"
+        ],
+        "what": [
+          "Sightseeing at Cloud Gate."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "On May 20, 2025, in New York City, Julia and her college friends gathered at Central Park for a picnic, sitting on a blanket with snacks spread out. The mood was lively and social.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-20"
+        ],
+        "who": [
+          "Julia",
+          "Samantha",
+          "Leo"
+        ],
+        "where": [
+          "Central Park, New York, NY"
+        ],
+        "what": [
+          "Picnic with friends."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "On June 2, 2025, in Los Angeles, Omar attended a jazz concert in a dimly lit club, captured mid-laughter at a table with two colleagues.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-02"
+        ],
+        "who": [
+          "Omar",
+          "Daniel",
+          "Priya"
+        ],
+        "where": [
+          "Los Angeles, CA"
+        ],
+        "what": [
+          "Jazz concert night out."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "On July 10, 2025, in Toronto, Mark stood near the CN Tower holding an ice cream cone, with a bright summer sky behind him.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-10"
+        ],
+        "who": [
+          "Mark"
+        ],
+        "where": [
+          "Toronto, Canada"
+        ],
+        "what": [
+          "Tourist outing near CN Tower."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "On August 22, 2025, in Seattle, Julia took a selfie with Omar at Pike Place Market, holding fresh flowers while street musicians played nearby.",
+        "comments_summary": "",
+        "when": [
+          "2025-08-22"
+        ],
+        "who": [
+          "Julia",
+          "Omar"
+        ],
+        "where": [
+          "Seattle, WA"
+        ],
+        "what": [
+          "Visiting Pike Place Market."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "On September 5, 2025, in San Francisco, Samantha photographed Julia and Mark walking along the Golden Gate Bridge with fog rolling in behind them.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-05"
+        ],
+        "who": [
+          "Julia",
+          "Mark"
+        ],
+        "where": [
+          "San Francisco, CA"
+        ],
+        "what": [
+          "Walking on Golden Gate Bridge."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "On October 1, 2025, in Austin, Omar and David attended a food truck festival, holding tacos and laughing at a street performer's act.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-01"
+        ],
+        "who": [
+          "Omar",
+          "David"
+        ],
+        "where": [
+          "Austin, TX"
+        ],
+        "what": [
+          "Food truck festival."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "On November 18, 2025, in Boston, Julia posed with her parents in front of a decorated Christmas tree at the town square. The lights gave a festive glow.",
+        "comments_summary": "",
+        "when": [
+          "2025-11-18"
+        ],
+        "who": [
+          "Julia",
+          "Helen",
+          "Robert"
+        ],
+        "where": [
+          "Boston, MA"
+        ],
+        "what": [
+          "Family photo by Christmas tree."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "On December 25, 2025, in Denver, Mark and Omar clinked mugs of hot chocolate while sitting near a fireplace in a ski lodge, looking cheerful in winter sweaters.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-25"
+        ],
+        "who": [
+          "Mark",
+          "Omar"
+        ],
+        "where": [
+          "Denver, CO"
+        ],
+        "what": [
+          "Holiday trip at ski lodge."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

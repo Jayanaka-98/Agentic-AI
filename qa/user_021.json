@@ -1,0 +1,53 @@
+{
+  "user_id": "user_021",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Who did Ava collaborate or reconnect with during her travels, and what did they do together?",
+      "answer_gold": "She met her friend Elise in Paris to discuss editing and again in Rome to film a reflective segment. She also collaborated with Felix in Berlin to document sustainable tourism.",
+      "evidence": [
+        "m02",
+        "m06",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What mishap occurred during Ava's filming, and how did she respond to it?",
+      "answer_gold": "In Sydney, her drone was blown away by the wind. She laughed off the incident and continued filming with her handheld camera.",
+      "evidence": [
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did Ava's filming focus evolve throughout her journey?",
+      "answer_gold": "She began with personal storytelling in New York, shifted to cultural exploration in Tokyo and London, and ended with reflective and sustainability-centered content in Berlin, Rome, and Cape Town.",
+      "evidence": [
+        "m01",
+        "m03",
+        "m04",
+        "m06",
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "What moments show Ava balancing work and personal enjoyment?",
+      "answer_gold": "She shared tea and laughter with her cousin Emily in London and took time to relax while editing in San Francisco, showing moments of joy beyond her filming duties.",
+      "evidence": [
+        "m04",
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What does the final episode in Cape Town symbolize for Ava's journey?",
+      "answer_gold": "It represents closure and reflection on her year of travel, gratitude for the people she met, and a renewed focus on sustainability and storytelling.",
+      "evidence": [
+        "m10"
+      ]
+    }
+  ]
+}

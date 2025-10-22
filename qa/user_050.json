@@ -1,0 +1,55 @@
+{
+  "user_id": "user_050",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which memories capture meaningful family transitions and celebrations, and how do they connect across time?",
+      "answer_gold": "The dinner with Stella at Marley's house before she left for Liberty University and the family's first football game at Liberty with Marley and her best friend Bethy both mark important moments of transition and pride. Later, the cherished photo of Jack with their dog Sully reflects enduring family love and nostalgia.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m12"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "How do professional and social gatherings reflect the user's sense of teamwork and community?",
+      "answer_gold": "The Tobu management lunch at the Sicilian Butcher focused on strategizing for the beta launch, while later gatherings at The Event Loft, Bello Chef's Table, and The Sicilian Butcher show continued engagement with colleagues and friends. These events reveal a strong appreciation for collaboration and shared success.",
+      "evidence": [
+        "m04",
+        "m06",
+        "m07",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "Which memories highlight reconnection and the passage of time within family relationships?",
+      "answer_gold": "The reunion lunch at Kachina in Newport Beach with Patrick's parents, cousin Jordan, and fiancée Ashley—after more than 30 years apart—shows deep family reconnection. Combined with the Liberty University football weekend spent with Marley and Holly, it illustrates gratitude for renewed bonds and family continuity.",
+      "evidence": [
+        "m02",
+        "m05"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "In what ways do pets appear across the user's memories, and what emotions do they symbolize?",
+      "answer_gold": "The small black and brown dog sitting calmly on a bed at the summer house and the later memory of Jack with the family dog Sully both represent peace, comfort, and companionship. These moments capture the warmth pets bring to family life across generations.",
+      "evidence": [
+        "m03",
+        "m12"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How do the user's late-2024 memories together reflect joy, reflection, and a balance of personal and professional life?",
+      "answer_gold": "From celebratory dinners and fun outings with friends at Urban Outfitters and Bello Chef's Table to peaceful moments strolling through open fields, the user's late-2024 memories reveal gratitude, connection, and serenity—balancing career achievements with moments of reflection and simple happiness.",
+      "evidence": [
+        "m06",
+        "m07",
+        "m08",
+        "m11"
+      ]
+    }
+  ]
+}

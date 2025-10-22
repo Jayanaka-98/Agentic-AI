@@ -1,0 +1,117 @@
+{
+  "user_id": "user_027",
+  "memories": [
+    {
+      "memory_id": "m01",
+      "summary": "Mia began the year in Honolulu, leading a coral reef survey to assess bleaching after an unusually warm season. Her team documented temperature data and collected coral samples for genetic resilience studies.",
+      "when": "2025-01-07",
+      "who": ["Mia Chen", "research team"],
+      "where": ["Honolulu"],
+      "what": "Conducting coral reef health assessments and data collection."
+    },
+    {
+      "memory_id": "m02",
+      "summary": "In Sydney, Mia collaborated with local divers to tag sea turtles for migration tracking. She spent several days diving off the Great Barrier Reef, carefully attaching transmitters and noting behavioral patterns.",
+      "when": "2025-02-13",
+      "who": ["Mia Chen", "local divers"],
+      "where": ["Sydney"],
+      "what": "Tagging and tracking sea turtles in the Great Barrier Reef."
+    },
+    {
+      "memory_id": "m03",
+      "summary": "Mia traveled to Bali to host a marine conservation workshop for students. She explained how coastal waste impacts coral ecosystems and demonstrated hands-on methods for monitoring microplastic accumulation.",
+      "when": "2025-03-22",
+      "who": ["Mia Chen", "students"],
+      "where": ["Bali"],
+      "what": "Teaching a workshop on microplastic pollution and coral protection."
+    },
+    {
+      "memory_id": "m04",
+      "summary": "In Cape Town, Mia joined a research expedition studying penguin population decline. She worked alongside ecologists to collect blood samples and measure chick growth rates over a two-week period.",
+      "when": "2025-04-29",
+      "who": ["Mia Chen", "ecologists"],
+      "where": ["Cape Town"],
+      "what": "Participating in a penguin population monitoring expedition."
+    },
+    {
+      "memory_id": "m05",
+      "summary": "While visiting Lisbon, Mia attended an international ocean policy summit. She delivered a talk on community-led marine restoration and emphasized the need for localized solutions in global conservation efforts.",
+      "when": "2025-05-23",
+      "who": ["Mia Chen", "summit delegates"],
+      "where": ["Lisbon"],
+      "what": "Presenting at a global ocean conservation conference."
+    },
+    {
+      "memory_id": "m06",
+      "summary": "During her fieldwork in Okinawa, Mia conducted nighttime dives to observe bioluminescent plankton behavior. She captured high-resolution images later used for a public science exhibition in Japan.",
+      "when": "2025-06-17",
+      "who": ["Mia Chen"],
+      "where": ["Okinawa"],
+      "what": "Documenting bioluminescent plankton through underwater photography."
+    },
+    {
+      "memory_id": "m07",
+      "summary": "Mia spent several weeks in Vancouver collaborating with a local nonprofit to rehabilitate stranded seals. She assisted in medical care, feeding schedules, and public education about marine rescue operations.",
+      "when": "2025-07-18",
+      "who": ["Mia Chen", "marine rescue volunteers"],
+      "where": ["Vancouver"],
+      "what": "Rehabilitating stranded seals and supporting marine animal care."
+    },
+    {
+      "memory_id": "m08",
+      "summary": "In San Diego, Mia taught a summer course on oceanography, combining classroom lectures with beachside experiments. She encouraged students to collect sand samples and measure salinity changes across tides.",
+      "when": "2025-09-02",
+      "who": ["Mia Chen", "students"],
+      "where": ["San Diego"],
+      "what": "Teaching field-based lessons on oceanography and marine chemistry."
+    },
+    {
+      "memory_id": "m09",
+      "summary": "Mia returned to Tokyo to work with colleagues on a paper analyzing deep-sea sonar data. The team discovered previously undocumented coral formations at depths exceeding 2,000 meters.",
+      "when": "2025-10-16",
+      "who": ["Mia Chen", "colleagues"],
+      "where": ["Tokyo"],
+      "what": "Researching deep-sea coral structures through sonar analysis."
+    },
+    {
+      "memory_id": "m10",
+      "summary": "To conclude the year, Mia presented her findings at a UN ocean science forum in Geneva. She highlighted how cross-border collaboration can accelerate ocean restoration and shared visual footage from her global dives.",
+      "when": "2025-12-28",
+      "who": ["Mia Chen", "UN scientists"],
+      "where": ["Geneva"],
+      "what": "Presenting global marine research outcomes at an international forum."
+    }
+  ],
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Who did Mia collaborate with during her marine research, and what did they achieve together?",
+      "answer_gold": "She worked with divers in Sydney to tag turtles, ecologists in Cape Town to study penguins, and colleagues in Tokyo to discover deep-sea coral formations.",
+      "evidence": ["m02", "m04", "m09"]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What events illustrate Mia's role as an educator and advocate for ocean conservation?",
+      "answer_gold": "Her student workshops in Bali and teaching course in San Diego highlight her commitment to education and public engagement in marine science.",
+      "evidence": ["m03", "m08"]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did Mia integrate scientific research with public outreach?",
+      "answer_gold": "Her underwater photography in Okinawa was later showcased in exhibitions, and her Geneva presentation connected research findings to policy discussions.",
+      "evidence": ["m06", "m10"]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which of Mia's projects contributed directly to species preservation?",
+      "answer_gold": "Her turtle tagging in Sydney and seal rehabilitation in Vancouver directly supported marine species protection and recovery.",
+      "evidence": ["m02", "m07"]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What milestone symbolized Mia's impact as a global marine researcher?",
+      "answer_gold": "Her presentation at the UN forum in Geneva marked the recognition of her international contributions to marine science and collaboration.",
+      "evidence": ["m10"]
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+    "status": 200,
+    "reports": [
+        {
+            "id": "n:memory:67353d3bd2975d0162877eee",
+            "context": {
+                "memory_id": "01ce3ed6daed49a7b0c83232f7e6caaf",
+                "summary": "",
+                "comments_summary": "",
+                "when": [
+                    "2024-11-13"
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    ""
+                ],
+                "what": [
+                    "Arizona trip "
+                ],
+                "natural_when": [
+                    "2024-11-13"
+                ],
+                "emotion": "",
+                "created_at": "2024-11-13 23:58:51",
+                "updated_at": "2024-11-13 23:58:51",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/fiercesnow@gmail.com_672cfb2ec865d04c0323d638/B94E5696-76E8-4A6F-9D39-50E1C7B378A3.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "user",
+                        "content": "Update what to Arizona trip , Update where to , Update when to , "
+                    }
+                ],
+                "session_id": "e400598c507d4082a12979857c19ae63",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:67356798d2975d016287816c",
+            "context": {
+                "memory_id": "36d11ae80401497dbe0d82bb8c9097e0",
+                "summary": "Lingjia, along with Xayden, Skylar, and Jason, enjoyed a refreshing walk in nature after Xayden's tennis class. They stopped on their way from the gym to home, exploring a grassy field beside a river.",
+                "comments_summary": "",
+                "when": [
+                    "2024-11-09"
+                ],
+                "who": [
+                    "Lingjia, Xayden, Skylar, Jason"
+                ],
+                "where": [
+                    "grassy field beside a river"
+                ],
+                "what": [
+                    "Walk in nature"
+                ],
+                "natural_when": [
+                    "2024-11-09"
+                ],
+                "emotion": "refreshing",
+                "created_at": "2024-11-14 02:59:36",
+                "updated_at": "2024-11-14 03:00:15",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/fiercesnow@gmail.com_672cfb2ec865d04c0323d638/A66EB251-97D5-485B-8703-FEB9F3454E8B.png",
+                    "https://tobu-jac2-dev.s3.amazonaws.com/fiercesnow@gmail.com_672cfb2ec865d04c0323d638/833F66E6-5D40-4AB0-964A-BAC8E8494B27.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Hopped off our car and took a nice walk in nature , "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "When did you take this nice walk in nature?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Last Saturday after Xayden\u2019s tennis class"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Who was with you during this walk in nature?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Xayden , skylar and Jason "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Where exactly did this walk take place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Not sure .  On our way from gym to home "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Nops"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thank you for sharing your memory! Here\u2019s what I have captured:\n\n- **What:** Walk in nature\n- **When:** Last Saturday\n- **Where:** On the way from the gym to home (grassy field beside a river)\n- **Who:** Xayden, Skylar, Jason\n\nIf you need to add or change anything, just let me know! Otherwise, I can save this memory for you. <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Update when to Last Saturday, Update what to Walk in nature, Update where to grassy field beside a river, Update who to Lingjia, Xayden, Skylar, Jason, Update emotion to refreshing, "
+                    }
+                ],
+                "session_id": "c9b0c2598eef43dca0f1fd7593e83506",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:67356826d2975d0162878380",
+            "context": {
+                "memory_id": "3e6521be78024dd1b94bfff8d22c9511",
+                "summary": "",
+                "comments_summary": "",
+                "when": [
+                    "2024-11-14"
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    "festival"
+                ],
+                "what": [
+                    "People enjoying live music and dancing"
+                ],
+                "natural_when": [
+                    "2024-11-14"
+                ],
+                "emotion": "",
+                "created_at": "2024-11-14 03:01:58",
+                "updated_at": "2024-11-14 03:01:58",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/fiercesnow@gmail.com_672cfb2ec865d04c0323d638/B9BC27CB-B104-416F-B61B-015F8562C23A.png",
+                    "https://tobu-jac2-dev.s3.amazonaws.com/fiercesnow@gmail.com_672cfb2ec865d04c0323d638/8E9041ED-8FBB-405B-A743-4AAAFE5E0059.png",
+                    "https://tobu-jac2-dev.s3.amazonaws.com/fiercesnow@gmail.com_672cfb2ec865d04c0323d638/C442A4C4-9E75-480D-BD05-8BADE5B9F98A.png",
+                    "https://tobu-jac2-dev.s3.amazonaws.com/fiercesnow@gmail.com_672cfb2ec865d04c0323d638/23BA398F-F91D-42CB-920C-EA08CB24F007.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "user",
+                        "content": "Update what to People enjoying live music and dancing, Update where to festival, Update when to , "
+                    }
+                ],
+                "session_id": "0159e6abbf8b40f4b7f14dff7ee0356a",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:6736201cd2975d0162878750",
+            "context": {
+                "memory_id": "d5e2155719d54ddd8b4fa3afc1ff48b5",
+                "summary": "",
+                "comments_summary": "",
+                "when": [
+                    "2024-11-14"
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    "play structure area"
+                ],
+                "what": [
+                    "two girls playing and enjoying on a trampoline"
+                ],
+                "natural_when": [
+                    "2024-11-14"
+                ],
+                "emotion": "",
+                "created_at": "2024-11-14 16:06:52",
+                "updated_at": "2024-11-14 16:06:52",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/fiercesnow@gmail.com_672cfb2ec865d04c0323d638/0CFF8105-34A4-4A87-B7F4-A496DF23D976.png",
+                    "https://tobu-jac2-dev.s3.amazonaws.com/fiercesnow@gmail.com_672cfb2ec865d04c0323d638/AC82DD34-60A7-4B5A-8859-46D51C0E8B92.png",
+                    "https://tobu-jac2-dev.s3.amazonaws.com/fiercesnow@gmail.com_672cfb2ec865d04c0323d638/37BF400B-6AC8-4F8F-A530-6B77AAD27B13.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "user",
+                        "content": "Update what to two girls playing and enjoying on a trampoline, Update where to play structure area, Update when to , "
+                    }
+                ],
+                "session_id": "b5d1229b38b94fc6a406cfac58fc307e",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:673d50bf4c3bc4ccf2c79de3",
+            "context": {
+                "memory_id": "07f6567f78124843a7a751bdc78e961e",
+                "summary": "",
+                "comments_summary": "",
+                "when": [
+                    "2024-11-20"
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    ""
+                ],
+                "what": [
+                    "Fun arizona visit "
+                ],
+                "natural_when": [
+                    "2024-11-20"
+                ],
+                "emotion": "",
+                "created_at": "2024-11-20 03:00:15",
+                "updated_at": "2024-11-20 03:00:15",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/fiercesnow@gmail.com_672cfb2ec865d04c0323d638/27056080-10D5-4728-856E-FDC708EDAA26.png",
+                    "https://tobu-jac2-dev.s3.amazonaws.com/fiercesnow@gmail.com_672cfb2ec865d04c0323d638/D5B031EB-3A7B-430C-A990-EB1D44E49EF0.png",
+                    "https://tobu-jac2-dev.s3.amazonaws.com/fiercesnow@gmail.com_672cfb2ec865d04c0323d638/3C23B4B0-FC60-48EA-97B9-A625E1C425B9.png",
+                    "https://tobu-jac2-dev.s3.amazonaws.com/fiercesnow@gmail.com_672cfb2ec865d04c0323d638/A90FF99F-B5A9-44F7-A5F5-030CA0539A83.png",
+                    "https://tobu-jac2-dev.s3.amazonaws.com/fiercesnow@gmail.com_672cfb2ec865d04c0323d638/F27E6737-9EAF-46B7-8535-460175517928.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "user",
+                        "content": "Update when to , Update who to , Update where to , Update what to Fun arizona visit , Update emotion to , "
+                    }
+                ],
+                "session_id": "2c086ef6-cde1-49da-9394-5619dfbb19be",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:67448c164c3bc4ccf2c7b434",
+            "context": {
+                "memory_id": "a371f8ffd26f4ef791745b3d46bf294a",
+                "summary": "Lingjia hosted a play date for Zayden, Skyla, and their friends, including Clayton, at her house. The children had a lot of fun together.",
+                "comments_summary": "",
+                "when": [
+                    "2024-11-24"
+                ],
+                "who": [
+                    "Zayden, Skyla, Clayton"
+                ],
+                "where": [
+                    "Lingjia's house"
+                ],
+                "what": [
+                    "Hosting a play date"
+                ],
+                "natural_when": [
+                    "2024-11-24"
+                ],
+                "emotion": "joyful",
+                "created_at": "2024-11-25 14:39:18",
+                "updated_at": "2024-11-25 14:40:34",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/fiercesnow@gmail.com_672cfb2ec865d04c0323d638/7AF2F67C-4B6F-4BF2-A4C4-59D8A09D629F.png",
+                    "https://tobu-jac2-dev.s3.amazonaws.com/fiercesnow@gmail.com_672cfb2ec865d04c0323d638/DCF7955B-1120-4026-86C1-012677DF3D47.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Hi, um, I was hosting a play date for my kid Zayden and Skyla, and they're having fun with their friends."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a fun play date! When did this play date take place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "It was last Sunday."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Where did the play date take place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "and my house."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Who else was part of the play date?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Um, I think Clayton was here."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Thanks."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It looks like I have all the information I need for this memory. Just to confirm, here\u2019s what I have:\n\n- **When:** Last Sunday (2024-11-23)\n- **Who:** Zayden, Skyla, Clayton\n- **Where:** Your house\n- **What:** Hosting a play date\n\nIf everything looks good, I can save this memory for you! <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Update what to Hosting a play date, Update where to Lingjia's house, Update when to last Sunday, Update who to Zayden, Skyla, Clayton, "
+                    }
+                ],
+                "session_id": "f1d19040d04c4cabba09fdb35c341fc3",
+                "draft": false
+            }
+        }
+    ]
+}

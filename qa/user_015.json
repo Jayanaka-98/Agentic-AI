@@ -1,0 +1,56 @@
+{
+  "user_id": "user_015",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which holidays did Sarah celebrate with her family in 2025, and what did they do?",
+      "answer_gold": "Valentine's Day baking, Easter egg hunt, Fourth of July fireworks, Halloween costumes, and Christmas Eve decorating.",
+      "evidence": [
+        "m02",
+        "m04",
+        "m07",
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What outdoor family activities did Sarah and her children enjoy?",
+      "answer_gold": "Building a snowman, gardening, attending a cherry festival, and watching fireworks.",
+      "evidence": [
+        "m01",
+        "m05",
+        "m06",
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "Which events show Sarah supporting her children's learning or creativity?",
+      "answer_gold": "Visiting the children's museum and walking them to their first day of school.",
+      "evidence": [
+        "m03",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "How do Sarah's family trips differ between winter and summer?",
+      "answer_gold": "Winter trips centered around indoor activities like baking and museum visits, while summer included festivals and fireworks.",
+      "evidence": [
+        "m02",
+        "m03",
+        "m06",
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which memory best reflects a cozy family atmosphere, and why?",
+      "answer_gold": "Decorating the Christmas tree together on Christmas Eve, with music playing and family gathered in warmth.",
+      "evidence": [
+        "m10"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "user_id": "user_023",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Who did Sophia collaborate with on her robotics projects throughout the year, and what did they work on?",
+      "answer_gold": "She worked with Swiss researchers on drone swarm coordination, Japanese engineers on humanoid robots, and a startup team in Palo Alto on vision modules.",
+      "evidence": [
+        "m02",
+        "m04",
+        "m06"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What moments highlight Sophia's mentorship and advocacy for education?",
+      "answer_gold": "Her mentorship of high school students in Singapore and her university lecture in Toronto both demonstrate her commitment to teaching and promoting STEM awareness.",
+      "evidence": [
+        "m05",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What accomplishment demonstrated Sophia's technical innovation to a public audience?",
+      "answer_gold": "Her autonomous delivery robot's live demonstration in San Francisco, where it successfully navigated a crowd, showcased her engineering skill and innovation.",
+      "evidence": [
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "How did Sophia's international experiences shape her research perspective?",
+      "answer_gold": "Her collaborations across Zurich, Berlin, and Tokyo exposed her to global teamwork and ethical AI discussions, influencing the interdisciplinary focus of her final publication.",
+      "evidence": [
+        "m04",
+        "m06",
+        "m08",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What event marked the culmination of Sophia's year-long research efforts?",
+      "answer_gold": "The publication of her paper on cooperative robotics in December marked the peak of her professional progress and research impact.",
+      "evidence": [
+        "m10"
+      ]
+    }
+  ]
+}

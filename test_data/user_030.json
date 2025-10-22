@@ -1,0 +1,315 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "Daniel began the year in Seattle, overseeing the early design phase of a low-orbit communication satellite. He led a small engineering team developing the propulsion and power management subsystems.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-11"
+        ],
+        "who": [
+          "Daniel Kim",
+          "engineering team"
+        ],
+        "where": [
+          "Seattle"
+        ],
+        "what": [
+          "Leading satellite subsystem design and early-stage engineering work."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "In Montreal, Daniel attended a technical summit focused on satellite materials and lightweight alloys. He presented his team's research on thermal shielding and connected with European aerospace partners for future collaborations.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-19"
+        ],
+        "who": [
+          "Daniel Kim",
+          "aerospace researchers"
+        ],
+        "where": [
+          "Montreal"
+        ],
+        "what": [
+          "Presenting research and building international partnerships at a summit."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "Daniel traveled to Munich to visit a testing facility where his prototype's power module underwent vibration and vacuum testing. He worked closely with local engineers to identify mechanical stress issues in the structure.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-25"
+        ],
+        "who": [
+          "Daniel Kim",
+          "German engineers"
+        ],
+        "where": [
+          "Munich"
+        ],
+        "what": [
+          "Conducting vibration and vacuum testing for the satellite power system."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "In Toulouse, Daniel collaborated with aerospace software specialists to integrate guidance and navigation algorithms into the onboard system. The team ran multiple simulations to test orbital stability under variable solar radiation.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-22"
+        ],
+        "who": [
+          "Daniel Kim",
+          "software engineers"
+        ],
+        "where": [
+          "Toulouse"
+        ],
+        "what": [
+          "Developing guidance algorithms and running orbit simulations."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "Back in Seattle, Daniel mentored a group of new graduate engineers, sharing lessons from his European collaboration experiences. He helped them implement automated testing scripts for subsystem calibration.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-20"
+        ],
+        "who": [
+          "Daniel Kim",
+          "graduate engineers"
+        ],
+        "where": [
+          "Seattle"
+        ],
+        "what": [
+          "Mentoring junior engineers and improving internal test automation."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "In Tokyo, Daniel met with aerospace manufacturers to discuss micro-propulsion unit production. He reviewed prototype assemblies on-site and suggested minor design modifications for increased fuel efficiency.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-16"
+        ],
+        "who": [
+          "Daniel Kim",
+          "Japanese manufacturers"
+        ],
+        "where": [
+          "Tokyo"
+        ],
+        "what": [
+          "Coordinating micro-propulsion component production with manufacturers."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "Daniel spent two weeks in Bangalore collaborating with an Indian research institute to design AI-driven fault detection for satellites. The joint project aimed to predict system anomalies during orbit using telemetry data.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-24"
+        ],
+        "who": [
+          "Daniel Kim",
+          "research scientists"
+        ],
+        "where": [
+          "Bangalore"
+        ],
+        "what": [
+          "Developing AI-based predictive fault detection for satellites."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "In Cape Canaveral, Daniel participated in the final pre-launch integration of the communication satellite. He supervised alignment between payload systems and verified successful completion of ground control tests.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-02"
+        ],
+        "who": [
+          "Daniel Kim",
+          "launch engineers"
+        ],
+        "where": [
+          "Cape Canaveral"
+        ],
+        "what": [
+          "Overseeing final satellite integration and ground control checks."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "After the successful launch, Daniel attended a post-launch analysis meeting in Houston. He reviewed telemetry data and confirmed that all systems had stabilized in orbit, marking a major professional milestone.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-10"
+        ],
+        "who": [
+          "Daniel Kim",
+          "mission analysts"
+        ],
+        "where": [
+          "Houston"
+        ],
+        "what": [
+          "Conducting post-launch data analysis and system validation."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "To conclude the year, Daniel returned to Seattle to deliver a keynote at his company's innovation conference. He discussed lessons learned from international cooperation and the successful satellite mission, inspiring younger engineers to pursue aerospace research.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-15"
+        ],
+        "who": [
+          "Daniel Kim",
+          "conference attendees"
+        ],
+        "where": [
+          "Seattle"
+        ],
+        "what": [
+          "Delivering a keynote speech on collaboration and aerospace innovation."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

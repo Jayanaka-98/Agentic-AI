@@ -1,0 +1,316 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "Ethan began the year in Helsinki piloting an AI-assisted tutoring program for middle school students. He gathered feedback from teachers and learners to refine adaptive content recommendations.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-12"
+        ],
+        "who": [
+          "Ethan Wright",
+          "teachers",
+          "students"
+        ],
+        "where": [
+          "Helsinki"
+        ],
+        "what": [
+          "Testing AI tutoring tools for personalized student learning."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "In Singapore, Ethan collaborated with education researchers to design a gamified learning interface for STEM subjects. The platform used reinforcement-based scoring to encourage problem-solving persistence.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-25"
+        ],
+        "who": [
+          "Ethan Wright",
+          "education researchers"
+        ],
+        "where": [
+          "Singapore"
+        ],
+        "what": [
+          "Building a gamified adaptive learning platform for STEM education."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "Ethan traveled to Toronto to conduct teacher training workshops on integrating AI analytics into classroom planning. Participants learned to interpret learning data for differentiated instruction.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-21"
+        ],
+        "who": [
+          "Ethan Wright",
+          "teachers"
+        ],
+        "where": [
+          "Toronto"
+        ],
+        "what": [
+          "Leading professional development on AI-driven education analytics."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "In Seoul, Ethan met with a team of software engineers to improve the algorithmic fairness of his adaptive system. They adjusted the recommendation models to reduce bias in student performance predictions.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-24"
+        ],
+        "who": [
+          "Ethan Wright",
+          "software engineers"
+        ],
+        "where": [
+          "Seoul"
+        ],
+        "what": [
+          "Optimizing algorithmic fairness in AI learning recommendation systems."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "Back in London, Ethan presented his preliminary results at an education technology summit. He showcased early evidence of improved engagement among students using the Helsinki pilot tools.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-19"
+        ],
+        "who": [
+          "Ethan Wright",
+          "edtech professionals"
+        ],
+        "where": [
+          "London"
+        ],
+        "what": [
+          "Presenting pilot results on AI-enhanced learning engagement at a summit."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "In Nairobi, Ethan co-developed an offline-compatible version of his AI platform for low-connectivity regions. He tested it with local schools, gathering insights on scalability and cultural adaptation.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-29"
+        ],
+        "who": [
+          "Ethan Wright",
+          "local educators"
+        ],
+        "where": [
+          "Nairobi"
+        ],
+        "what": [
+          "Developing and testing offline adaptive learning tools for rural education."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "Ethan spent August in San Francisco collaborating with a startup to integrate generative AI features into his learning platform. The system could now generate context-aware practice questions based on student progress.",
+        "comments_summary": "",
+        "when": [
+          "2025-08-12"
+        ],
+        "who": [
+          "Ethan Wright",
+          "AI startup engineers"
+        ],
+        "where": [
+          "San Francisco"
+        ],
+        "what": [
+          "Adding generative AI question synthesis to his adaptive learning system."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "In Sydney, Ethan co-authored a white paper with education policymakers on equitable AI adoption. The publication proposed frameworks for transparency and teacher agency in automated systems.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-16"
+        ],
+        "who": [
+          "Ethan Wright",
+          "education policymakers"
+        ],
+        "where": [
+          "Sydney"
+        ],
+        "what": [
+          "Publishing policy recommendations on equitable and transparent AI in education."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "Ethan visited Washington, D.C. to brief international education leaders on global AI learning adoption. He advocated for a balance between data-driven instruction and human creativity in teaching.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-22"
+        ],
+        "who": [
+          "Ethan Wright",
+          "education leaders"
+        ],
+        "where": [
+          "Washington D.C."
+        ],
+        "what": [
+          "Advising global education policymakers on responsible AI integration."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "To close the year, Ethan returned to Helsinki to present his integrated results at the Global Learning Futures Forum. He announced a partnership with UNESCO to scale his adaptive learning framework across multiple regions.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-17"
+        ],
+        "who": [
+          "Ethan Wright",
+          "UNESCO representatives"
+        ],
+        "where": [
+          "Helsinki"
+        ],
+        "what": [
+          "Presenting global education AI framework and announcing UNESCO collaboration."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "Lily began the year in Milan, sketching her new sustainable fashion line inspired by natural textures. She sourced biodegradable fabrics from local suppliers and worked with textile researchers to test dye retention on organic materials.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-08"
+        ],
+        "who": [
+          "Lily Zhang",
+          "textile researchers"
+        ],
+        "where": [
+          "Milan"
+        ],
+        "what": [
+          "Designing a sustainable fashion collection and testing eco-friendly materials."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "In Paris, Lily met with a French embroidery collective to experiment with hand-stitched details using plant-based threads. She learned traditional craftsmanship techniques to incorporate into her modern silhouettes.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-14"
+        ],
+        "who": [
+          "Lily Zhang",
+          "embroidery artists"
+        ],
+        "where": [
+          "Paris"
+        ],
+        "what": [
+          "Collaborating with artisans to merge sustainable materials and couture craftsmanship."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "Lily traveled to Copenhagen to attend a sustainability summit where she spoke about reducing textile waste in production chains. Her presentation was praised for its integration of design and environmental ethics.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-19"
+        ],
+        "who": [
+          "Lily Zhang",
+          "industry professionals"
+        ],
+        "where": [
+          "Copenhagen"
+        ],
+        "what": [
+          "Speaking at a sustainability conference about ethical fashion production."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "In Tokyo, Lily collaborated with a digital artist to design 3D garment simulations for her collection. This allowed her to preview fits virtually before producing physical samples, reducing waste and cost.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-22"
+        ],
+        "who": [
+          "Lily Zhang",
+          "digital artist"
+        ],
+        "where": [
+          "Tokyo"
+        ],
+        "what": [
+          "Creating digital fashion prototypes to enhance design efficiency."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "Back in New York, Lily held private fittings with models to test her first finalized eco-collection. She recorded reactions and feedback to fine-tune garment comfort and durability for her upcoming runway debut.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-28"
+        ],
+        "who": [
+          "Lily Zhang",
+          "models"
+        ],
+        "where": [
+          "New York"
+        ],
+        "what": [
+          "Conducting fittings and gathering feedback for her sustainable fashion line."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "Lily visited Marrakech to explore local weaving traditions and collaborated with Moroccan artisans to design limited-edition handbags made from recycled palm fibers.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-25"
+        ],
+        "who": [
+          "Lily Zhang",
+          "Moroccan artisans"
+        ],
+        "where": [
+          "Marrakech"
+        ],
+        "what": [
+          "Collaborating on handcrafted accessories using traditional and recycled materials."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "In London, Lily partnered with a fashion school to mentor young designers. She led workshops on sustainable design innovation and provided personalized critiques of students' portfolio projects.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-18"
+        ],
+        "who": [
+          "Lily Zhang",
+          "fashion students"
+        ],
+        "where": [
+          "London"
+        ],
+        "what": [
+          "Teaching sustainability and mentoring design students at a fashion institute."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "Lily showcased her full collection at Milan Fashion Week. The runway featured digital projection effects from her Tokyo collaboration and accessories co-created in Marrakech, receiving a standing ovation for its global fusion theme.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-05"
+        ],
+        "who": [
+          "Lily Zhang",
+          "models",
+          "fashion critics"
+        ],
+        "where": [
+          "Milan"
+        ],
+        "what": [
+          "Debuting her global sustainable collection at Milan Fashion Week."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "In Seoul, Lily met with tech engineers to explore integrating wearable sensors into clothing for health tracking. She began designing a pilot line combining aesthetics with functional technology.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-11"
+        ],
+        "who": [
+          "Lily Zhang",
+          "tech engineers"
+        ],
+        "where": [
+          "Seoul"
+        ],
+        "what": [
+          "Researching smart clothing and health-integrated fashion technology."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "To close the year, Lily returned to Paris to receive an international award for sustainable fashion innovation. She reflected on her global journey, crediting her collaborators and students for shaping her vision of ethical design.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-16"
+        ],
+        "who": [
+          "Lily Zhang",
+          "fashion community"
+        ],
+        "where": [
+          "Paris"
+        ],
+        "what": [
+          "Receiving an award and sharing reflections on her sustainable fashion journey."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

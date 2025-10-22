@@ -1,0 +1,54 @@
+{
+  "user_id": "user_022",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Who did Liam collaborate with during his travels, and what roles did they play?",
+      "answer_gold": "He worked with Rafiq in Marrakech to document artisan crafts, Sofia in Santorini on composition planning, and Olivia in Cape Town and Ann Arbor on landscape shots and gallery curation.",
+      "evidence": [
+        "m03",
+        "m05",
+        "m08",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What challenges or waiting periods did Liam face during his photography work?",
+      "answer_gold": "He waited several nights in Reykjavik to capture the Northern Lights and spent long hours in Banff's freezing dawn light to photograph mountain reflections.",
+      "evidence": [
+        "m01",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did Liam's photography themes evolve over the year?",
+      "answer_gold": "He started with natural landscapes in Banff, expanded to cultural and human elements in Marrakech and Rome, and ended with emotional storytelling through his exhibition in Ann Arbor.",
+      "evidence": [
+        "m01",
+        "m03",
+        "m04",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which experiences show Liam blending nature and human presence in his work?",
+      "answer_gold": "His shots of surfers in Sydney, artisans in Marrakech, and monks in Kyoto reveal how people interact harmoniously with natural and cultural environments.",
+      "evidence": [
+        "m03",
+        "m06",
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What moment signifies both professional fulfillment and personal connection for Liam?",
+      "answer_gold": "The exhibition in Ann Arbor, where he displayed photos taken with Olivia's support, represents both artistic achievement and shared emotional growth.",
+      "evidence": [
+        "m10"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "user_id": "user_021",
+  "memories": [
+    {
+      "memory_id": "m01",
+      "summary": "Ava arrived in New York to begin filming her new travel documentary series. She spent the morning recording her introduction scenes in Times Square, describing her excitement for exploring cultures across the world.",
+      "when": "2025-01-05",
+      "who": ["Ava Carter"],
+      "where": ["New York"],
+      "what": "Filming the opening scenes for her travel documentary."
+    },
+    {
+      "memory_id": "m02",
+      "summary": "In Paris, Ava met her local friend Elise at a riverside café to review video footage. They discussed editing styles and brainstormed creative transitions for her upcoming episodes.",
+      "when": "2025-02-06",
+      "who": ["Ava Carter", "Elise Dupont"],
+      "where": ["Paris"],
+      "what": "Meeting a friend for coffee and creative editing discussions."
+    },
+    {
+      "memory_id": "m03",
+      "summary": "Ava traveled to Tokyo and joined a small group of vloggers to capture cherry blossoms in Ueno Park. She interviewed two Japanese creators about how local culture influences their storytelling.",
+      "when": "2025-03-07",
+      "who": ["Ava Carter", "Kenji Sato", "Mei Tanaka"],
+      "where": ["Tokyo"],
+      "what": "Filming cherry blossoms and interviewing local creators."
+    },
+    {
+      "memory_id": "m04",
+      "summary": "During her stay in London, Ava explored the street markets in Shoreditch with her cousin Emily, recording scenes of vintage stalls and musicians. They shared afternoon tea and laughter after filming.",
+      "when": "2025-04-08",
+      "who": ["Ava Carter", "Emily Carter"],
+      "where": ["London"],
+      "what": "Exploring markets and filming cultural street scenes."
+    },
+    {
+      "memory_id": "m05",
+      "summary": "In Toronto, Ava held a public Q&A event where fans asked questions about travel safety and cultural sensitivity. She also gave away postcards she had collected from previous destinations.",
+      "when": "2025-05-09",
+      "who": ["Ava Carter"],
+      "where": ["Toronto"],
+      "what": "Hosting a live Q&A event with her audience."
+    },
+    {
+      "memory_id": "m06",
+      "summary": "Ava collaborated with a Berlin-based filmmaker named Felix to document eco-friendly hotels. They recorded interviews with local entrepreneurs promoting sustainable tourism.",
+      "when": "2025-06-10",
+      "who": ["Ava Carter", "Felix Meyer"],
+      "where": ["Berlin"],
+      "what": "Filming a sustainability feature with a local filmmaker."
+    },
+    {
+      "memory_id": "m07",
+      "summary": "Ava took a short break in San Francisco, where she spent a few days editing her Berlin footage from a coworking studio overlooking the bay. She shared behind-the-scenes clips on social media.",
+      "when": "2025-07-11",
+      "who": ["Ava Carter"],
+      "where": ["San Francisco"],
+      "what": "Editing and sharing behind-the-scenes travel content."
+    },
+    {
+      "memory_id": "m08",
+      "summary": "While hiking near Bondi Beach in Sydney, Ava lost her drone to a strong gust of wind over the ocean. Despite the mishap, she laughed about it and continued filming with her handheld camera.",
+      "when": "2025-09-12",
+      "who": ["Ava Carter"],
+      "where": ["Sydney"],
+      "what": "Losing her drone while filming near the beach."
+    },
+    {
+      "memory_id": "m09",
+      "summary": "In Rome, Ava reunited with her Paris friend Elise to record a segment on travel burnout. Together they discussed the emotional side of constant movement and the importance of creative rest.",
+      "when": "2025-10-13",
+      "who": ["Ava Carter", "Elise Dupont"],
+      "where": ["Rome"],
+      "what": "Discussing creative fatigue and collaboration on a reflection episode."
+    },
+    {
+      "memory_id": "m10",
+      "summary": "Ava concluded her year-long journey in Cape Town, standing on Signal Hill during sunset to film her closing monologue. She reflected on the people she met, the lessons she learned, and her hopes for sustainable travel advocacy.",
+      "when": "2025-12-14",
+      "who": ["Ava Carter"],
+      "where": ["Cape Town"],
+      "what": "Recording her final travel reflection episode."
+    }
+  ],
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Who did Ava collaborate or reconnect with during her travels, and what did they do together?",
+      "answer_gold": "She met her friend Elise in Paris to discuss editing and again in Rome to film a reflective segment. She also collaborated with Felix in Berlin to document sustainable tourism.",
+      "evidence": ["m02", "m06", "m09"]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What mishap occurred during Ava's filming, and how did she respond to it?",
+      "answer_gold": "In Sydney, her drone was blown away by the wind. She laughed off the incident and continued filming with her handheld camera.",
+      "evidence": ["m08"]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did Ava's filming focus evolve throughout her journey?",
+      "answer_gold": "She began with personal storytelling in New York, shifted to cultural exploration in Tokyo and London, and ended with reflective and sustainability-centered content in Berlin, Rome, and Cape Town.",
+      "evidence": ["m01", "m03", "m04", "m06", "m09", "m10"]
+    },
+    {
+      "qid": "qa_004",
+      "question": "What moments show Ava balancing work and personal enjoyment?",
+      "answer_gold": "She shared tea and laughter with her cousin Emily in London and took time to relax while editing in San Francisco, showing moments of joy beyond her filming duties.",
+      "evidence": ["m04", "m07"]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What does the final episode in Cape Town symbolize for Ava's journey?",
+      "answer_gold": "It represents closure and reflection on her year of travel, gratitude for the people she met, and a renewed focus on sustainability and storytelling.",
+      "evidence": ["m10"]
+    }
+  ]
+}

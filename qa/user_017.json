@@ -1,0 +1,58 @@
+{
+  "user_id": "user_017",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which causes did Leo support through his volunteer work?",
+      "answer_gold": "He contributed to homelessness relief, flood recovery, climate activism, environmental cleanup, and humanitarian water projects.",
+      "evidence": [
+        "m02",
+        "m03",
+        "m05",
+        "m07",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "Which international volunteer activities did Leo participate in?",
+      "answer_gold": "He joined a clean water project in Nairobi and a beach cleanup in Rio de Janeiro.",
+      "evidence": [
+        "m07",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What shows Leo's shift from volunteer work to advocacy and leadership?",
+      "answer_gold": "He started by serving meals and rebuilding homes, then gave speeches at summits, joined policy conferences, and later inspired students through talks.",
+      "evidence": [
+        "m02",
+        "m05",
+        "m04",
+        "m06",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Who collaborated with Leo in his volunteer work, and where?",
+      "answer_gold": "Sarah at the Detroit shelter, David in New Orleans, Omar in Nairobi, Maya in Rio, and Rachel at the climate conference in D.C.",
+      "evidence": [
+        "m02",
+        "m04",
+        "m05",
+        "m07",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which memory best captures Leo's role as a community motivator?",
+      "answer_gold": "His school assembly talk in Ann Arbor, where he encouraged students to engage in volunteering.",
+      "evidence": [
+        "m10"
+      ]
+    }
+  ]
+}

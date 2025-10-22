@@ -1,0 +1,55 @@
+{
+  "user_id": "user_033",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How did Sophia's early European projects influence her later architectural designs in other regions?",
+      "answer_gold": "Her green infrastructure work in Copenhagen and harbor redesign in Amsterdam shaped her sustainable approach, which she later applied in Dubai's walkable city plans and Nairobi's modular housing initiatives.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m04",
+        "m06"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "In what ways did Sophia's experiences in teaching and community collaboration reinforce her architectural philosophy?",
+      "answer_gold": "Her teaching in Copenhagen emphasized local reuse of materials, echoing her hands-on collaboration with Nairobi communities to promote participatory and environmentally responsible design.",
+      "evidence": [
+        "m05",
+        "m06"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did Sophia bridge traditional urban planning with emerging technology in her later projects?",
+      "answer_gold": "Her research on walkability and human-scale design evolved into data-driven experiments in Seoul, where she merged sensor networks with sustainable architecture to optimize urban efficiency.",
+      "evidence": [
+        "m04",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which sequence of events demonstrates Sophia's integration of sustainability and cultural sensitivity?",
+      "answer_gold": "Her projects in Singapore, Nairobi, and Rome combined environmental innovation with local identity, showing her ability to adapt ecological principles to distinct cultural contexts.",
+      "evidence": [
+        "m03",
+        "m06",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How did Sophia's international experiences culminate in her Copenhagen exhibition?",
+      "answer_gold": "After gathering insights from diverse urban contexts—from European harbors to African housing—Sophia synthesized her global designs into ‘Cities That Breathe,' reflecting her vision for ecologically and socially connected cities.",
+      "evidence": [
+        "m02",
+        "m06",
+        "m07",
+        "m10"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "user_id": "user_045",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which memories together describe the user's coastal travel experiences, and how do they reflect relaxation and exploration?",
+      "answer_gold": "The user traveled to Trinco and visited Marble Beach, both evoking a sense of excitement and peaceful exploration near the sea. Another memory took place at a different beach, emphasizing their appreciation for coastal settings and relaxation during travels.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m16"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "How do the user's experiences in Trinco and Colombo differ in atmosphere and purpose?",
+      "answer_gold": "The visit to Trinco and nearby Marble Beach was characterized by leisure and scenic enjoyment, while the time spent in Colombo and the nearby Kandy mountains reflected more urban and cultural exploration, suggesting a balance between nature and city experiences.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m19",
+        "m20"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What memories highlight the user's social interactions and gatherings, and what do they reveal about their relationships?",
+      "answer_gold": "The user attended a friend's engagement party at a hotel, hosted a joyful movie night with friends watching Deadpool, and had dinner with friends and family at a local restaurant, showing strong social ties and enjoyment of shared celebrations.",
+      "evidence": [
+        "m28",
+        "m29",
+        "m30"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "How do the user's food-related experiences vary across different contexts?",
+      "answer_gold": "They enjoyed a delicious meal in one memory, attended a formal engagement dinner at a hotel, and shared a warm dinner gathering with friends and family at a restaurant, reflecting how food connects both everyday comfort and special occasions.",
+      "evidence": [
+        "m03",
+        "m29",
+        "m30"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What emotions and themes are common across the user's travel and social experiences?",
+      "answer_gold": "Across trips to Trinco, the beach, and Kandy, and gatherings with friends and family, the memories consistently express joy, excitement, and togetherness — revealing a lifestyle that values both adventure and meaningful social connection.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m20",
+        "m28",
+        "m30"
+      ]
+    }
+  ]
+}

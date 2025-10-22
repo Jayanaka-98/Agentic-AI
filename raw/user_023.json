@@ -1,0 +1,117 @@
+{
+  "user_id": "user_023",
+  "memories": [
+    {
+      "memory_id": "m01",
+      "summary": "Sophia started the year in Boston, working late nights in her university lab to finalize the prototype of an autonomous delivery robot. She tested its motion tracking system across hallways, noting improvements in navigation precision.",
+      "when": "2025-01-12",
+      "who": ["Sophia Lin"],
+      "where": ["Boston"],
+      "what": "Testing the motion tracking and navigation of her new robot prototype."
+    },
+    {
+      "memory_id": "m02",
+      "summary": "In Palo Alto, Sophia joined a small robotics startup as a consultant, helping the team debug a malfunctioning vision module. She suggested implementing a depth-aware convolutional model to improve object detection accuracy.",
+      "when": "2025-02-18",
+      "who": ["Sophia Lin", "startup engineers"],
+      "where": ["Palo Alto"],
+      "what": "Assisting a robotics startup with computer vision optimization."
+    },
+    {
+      "memory_id": "m03",
+      "summary": "Sophia attended a robotics conference in Seoul where she presented a poster on adaptive grasping using tactile feedback sensors. During a panel discussion, she met an MIT colleague who invited her to co-author a follow-up paper.",
+      "when": "2025-03-23",
+      "who": ["Sophia Lin", "MIT colleague"],
+      "where": ["Seoul"],
+      "what": "Presenting research and networking at an international robotics conference."
+    },
+    {
+      "memory_id": "m04",
+      "summary": "In Zurich, Sophia joined an exchange program to collaborate on drone coordination systems. She worked with a Swiss research team to simulate multi-robot swarming patterns for forest inspection tasks.",
+      "when": "2025-04-19",
+      "who": ["Sophia Lin", "Swiss research team"],
+      "where": ["Zurich"],
+      "what": "Developing and testing drone swarm coordination algorithms."
+    },
+    {
+      "memory_id": "m05",
+      "summary": "Sophia spent May in Singapore mentoring high school students in a robotics competition. She guided them in designing obstacle-avoiding bots and gave a motivational talk about women in STEM.",
+      "when": "2025-05-24",
+      "who": ["Sophia Lin", "student team"],
+      "where": ["Singapore"],
+      "what": "Mentoring students and promoting STEM education."
+    },
+    {
+      "memory_id": "m06",
+      "summary": "Returning to Tokyo, Sophia collaborated with engineers from a tech company to integrate AI-powered sensors into humanoid robots. She spent a week debugging servo-motor latency and refining gesture control algorithms.",
+      "when": "2025-06-17",
+      "who": ["Sophia Lin", "Japanese engineers"],
+      "where": ["Tokyo"],
+      "what": "Collaborating on humanoid robot sensor integration."
+    },
+    {
+      "memory_id": "m07",
+      "summary": "In San Francisco, Sophia demonstrated her delivery robot prototype at a tech expo. The robot successfully recognized dynamic obstacles and rerouted itself through a crowded corridor, earning applause from the audience.",
+      "when": "2025-07-21",
+      "who": ["Sophia Lin"],
+      "where": ["San Francisco"],
+      "what": "Public demo of her autonomous robot at a tech expo."
+    },
+    {
+      "memory_id": "m08",
+      "summary": "During a short visit to Berlin, Sophia met her Zurich collaborators again to plan a joint EU-funded robotics proposal. They discussed drone deployment ethics and AI governance in research applications.",
+      "when": "2025-09-04",
+      "who": ["Sophia Lin", "Swiss collaborators"],
+      "where": ["Berlin"],
+      "what": "Writing a research proposal on ethical drone systems."
+    },
+    {
+      "memory_id": "m09",
+      "summary": "In Toronto, Sophia gave a guest lecture at a university on the topic of robot-human interaction. She emphasized the importance of empathy-driven design and real-world safety testing in commercial robotics.",
+      "when": "2025-10-15",
+      "who": ["Sophia Lin"],
+      "where": ["Toronto"],
+      "what": "Delivering a lecture on responsible robotics design."
+    },
+    {
+      "memory_id": "m10",
+      "summary": "Sophia concluded her year in Boston by publishing a comprehensive paper summarizing her findings on multi-agent learning for cooperative robotics. She celebrated the milestone with her research team at a local café.",
+      "when": "2025-12-20",
+      "who": ["Sophia Lin", "research team"],
+      "where": ["Boston"],
+      "what": "Publishing her major research paper on cooperative robotics."
+    }
+  ],
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Who did Sophia collaborate with on her robotics projects throughout the year, and what did they work on?",
+      "answer_gold": "She worked with Swiss researchers on drone swarm coordination, Japanese engineers on humanoid robots, and a startup team in Palo Alto on vision modules.",
+      "evidence": ["m02", "m04", "m06"]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What moments highlight Sophia's mentorship and advocacy for education?",
+      "answer_gold": "Her mentorship of high school students in Singapore and her university lecture in Toronto both demonstrate her commitment to teaching and promoting STEM awareness.",
+      "evidence": ["m05", "m09"]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What accomplishment demonstrated Sophia's technical innovation to a public audience?",
+      "answer_gold": "Her autonomous delivery robot's live demonstration in San Francisco, where it successfully navigated a crowd, showcased her engineering skill and innovation.",
+      "evidence": ["m07"]
+    },
+    {
+      "qid": "qa_004",
+      "question": "How did Sophia's international experiences shape her research perspective?",
+      "answer_gold": "Her collaborations across Zurich, Berlin, and Tokyo exposed her to global teamwork and ethical AI discussions, influencing the interdisciplinary focus of her final publication.",
+      "evidence": ["m04", "m06", "m08", "m10"]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What event marked the culmination of Sophia's year-long research efforts?",
+      "answer_gold": "The publication of her paper on cooperative robotics in December marked the peak of her professional progress and research impact.",
+      "evidence": ["m10"]
+    }
+  ]
+}

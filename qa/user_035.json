@@ -1,0 +1,57 @@
+{
+  "user_id": "user_035",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How did Elena's early experiments on emotional memory inform her later computational modeling work?",
+      "answer_gold": "Her Zurich and Tokyo studies revealed neural patterns of memory reactivation that guided her collaboration in Tel Aviv, where she simulated similar replay dynamics in artificial neural networks.",
+      "evidence": [
+        "m01",
+        "m03",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What links can be drawn between Elena's machine learning research and her international presentations?",
+      "answer_gold": "The ML algorithms she developed in Boston supported her Chicago and Vienna presentations, where she showcased how computational decoding enhances both biological interpretation and AI modeling of memory.",
+      "evidence": [
+        "m04",
+        "m07",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did Elena's mentorship role influence her broader scientific outreach?",
+      "answer_gold": "By teaching research ethics and data transparency to interns in Zurich, she carried those principles into her Geneva keynote, where she advocated for open-access brain data collaboration.",
+      "evidence": [
+        "m05",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "In what ways did Elena connect human neuroscience with AI research across different continents?",
+      "answer_gold": "Her empirical findings from Zurich and San Diego on hippocampal networks directly inspired her Tel Aviv computational modeling and culminated in a joint Vienna paper merging biological and artificial perspectives.",
+      "evidence": [
+        "m01",
+        "m06",
+        "m08",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which sequence of collaborations best demonstrates Elena's transition from experimental neuroscientist to global research leader?",
+      "answer_gold": "Starting from fMRI experiments in Zurich to cross-lab projects in Tokyo and San Diego, leading to international publications and a keynote in Geneva, Elena's path reflects her evolution into an interdisciplinary research leader.",
+      "evidence": [
+        "m01",
+        "m03",
+        "m06",
+        "m09",
+        "m10"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "user_id": "user_038",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How did Marcus's technical experiments in Boston and Zurich contribute to the robots' successful deployment in Singapore and beyond?",
+      "answer_gold": "His early work on vision-based navigation in Boston and reinforcement learning in Zurich enhanced the robots' adaptability, enabling smoother performance during real-world logistics testing in Singapore and later global pilots.",
+      "evidence": [
+        "m01",
+        "m03",
+        "m04"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What connections can be seen between Marcus's hardware optimization in Tokyo and his large-scale demonstrations in Munich?",
+      "answer_gold": "The lightweight, power-efficient designs co-developed in Tokyo became a central case study for his Munich conference presentation, illustrating how practical engineering improvements scale into industrial deployment.",
+      "evidence": [
+        "m05",
+        "m06"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did Marcus balance engineering innovation with mentorship throughout his global journey?",
+      "answer_gold": "After refining robotics systems in Zurich and Tokyo, Marcus shared his technical insights with startup engineers in Toronto, promoting sustainable innovation through mentorship and collaboration.",
+      "evidence": [
+        "m03",
+        "m05",
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which chain of collaborations best shows Marcus's progression from prototyping to policy advocacy?",
+      "answer_gold": "Beginning with design work in Boston, through real-world deployment in Dubai, and culminating in his Geneva keynote, Marcus transitioned from hands-on engineering to global ethical leadership in robotics.",
+      "evidence": [
+        "m01",
+        "m08",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How did Marcus's international partnerships collectively shape the second-generation delivery robot's performance?",
+      "answer_gold": "Insights from AI optimization in Zurich, hardware miniaturization in Tokyo, and smart-city integration in Dubai all converged to produce the improved model tested in Boston with higher speed and reliability.",
+      "evidence": [
+        "m03",
+        "m05",
+        "m08",
+        "m09"
+      ]
+    }
+  ]
+}

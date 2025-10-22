@@ -1,0 +1,50 @@
+{
+  "user_id": "user_052",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which memories capture the intersection of faith, resilience, and family pride in Patrick's life?",
+      "answer_gold": "Marley's high school graduation at Calvary Chapel High School stands as a profound moment of faith and triumph, especially after her recovery from cancer. The presence of Pastor Greg Laurie and his family added a spiritual touch. Similarly, Patrick's 25th anniversary dinner with Holly at Ocean 48 reflected gratitude for enduring love guided by grace—both memories intertwined by faith, resilience, and family pride.",
+      "evidence": [
+        "m01",
+        "m02"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "How do Patrick's relationships with his children illustrate love, transition, and the bittersweet nature of growth?",
+      "answer_gold": "Patrick's spontaneous photoshoot with his son Jack in a quiet field symbolized pride and nostalgia for his son's adulthood and achievements. Meanwhile, the family's dinner with Marley and Molly before Marley left for Liberty University highlighted both joy and the sadness of parting. These memories capture a father's deep love and bittersweet acceptance of change as his children move forward.",
+      "evidence": [
+        "m04",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What moments reflect Patrick's empathy and emotional awareness during times of joy and loss?",
+      "answer_gold": "The Christmas Eve dinner at Las Brisas showcased Patrick's appreciation for joyful family traditions, while his reunion with longtime friend Brett Elliott at Corona Del Mar reflected compassion and grief after learning about Brett's loss of his son. Together, these memories illustrate Patrick's balance between celebrating joy and embracing empathy amid life's sorrows.",
+      "evidence": [
+        "m06",
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which events demonstrate how Patrick's memories weave together community, friendship, and shared gratitude?",
+      "answer_gold": "Patrick's gathering at Andra Miller's birthday in Laguna Beach captured laughter, intergenerational joy, and friendship during the holidays. Likewise, his dinner with Holly, Marley, and Molly in Belmont Shores embodied the power of companionship and emotional support during turbulent times like the LA fires. These experiences reflect his appreciation for togetherness and connection within his community.",
+      "evidence": [
+        "m05",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How do Patrick's reflections on loss and remembrance evolve across his experiences with tragedy and farewell?",
+      "answer_gold": "Patrick's memory of his friend's photo of the Southern California wildfires captured a sense of helplessness and reflection on widespread loss. Soon after, saying goodbye to his beloved dog Coco alongside his daughter Marley marked a deeply personal experience of grief, love, and closure. Both memories reveal Patrick's contemplative nature and capacity to find peace even amid sorrow.",
+      "evidence": [
+        "m09",
+        "m10"
+      ]
+    }
+  ]
+}

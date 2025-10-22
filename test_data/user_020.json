@@ -1,0 +1,308 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "On January 3, 2025, in Ann Arbor, Emma began her morning yoga practice at home, stretching beside a large window as snow fell outside.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-03"
+        ],
+        "who": [
+          "Emma"
+        ],
+        "where": [
+          "Ann Arbor, MI"
+        ],
+        "what": [
+          "Morning yoga routine."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "On February 12, 2025, in Chicago, Emma attended a mindfulness retreat, meditating in a quiet hall with a small group of participants.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-12"
+        ],
+        "who": [
+          "Emma"
+        ],
+        "where": [
+          "Chicago, IL"
+        ],
+        "what": [
+          "Mindfulness retreat."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "On March 15, 2025, in Detroit, Emma led a weekend fitness class, guiding attendees through light cardio and breathing exercises.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-15"
+        ],
+        "who": [
+          "Emma"
+        ],
+        "where": [
+          "Detroit, MI"
+        ],
+        "what": [
+          "Community fitness session."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "On April 22, 2025, in New York, Emma joined a wellness conference, taking notes during a talk on plant-based nutrition and mental health.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-22"
+        ],
+        "who": [
+          "Emma",
+          "Rachel"
+        ],
+        "where": [
+          "New York, NY"
+        ],
+        "what": [
+          "Wellness conference attendance."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "On May 28, 2025, in Miami, Emma went for a sunrise run along the beach, her sneakers leaving footprints in the damp sand.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-28"
+        ],
+        "who": [
+          "Emma"
+        ],
+        "where": [
+          "Miami, FL"
+        ],
+        "what": [
+          "Morning run by the ocean."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "On June 19, 2025, in Denver, Emma hiked a forest trail with her friend Daniel, stopping to stretch and photograph mountain views.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-19"
+        ],
+        "who": [
+          "Emma",
+          "Daniel"
+        ],
+        "where": [
+          "Denver, CO"
+        ],
+        "what": [
+          "Nature hike for wellness."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "On July 12, 2025, in San Francisco, Emma attended a vegan cooking workshop, preparing colorful plant-based dishes with a local chef.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-12"
+        ],
+        "who": [
+          "Emma"
+        ],
+        "where": [
+          "San Francisco, CA"
+        ],
+        "what": [
+          "Vegan cooking class."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "On September 1, 2025, in Seattle, Emma joined a mental health awareness walk, wearing a blue ribbon with hundreds of other participants.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-01"
+        ],
+        "who": [
+          "Emma",
+          "Sarah"
+        ],
+        "where": [
+          "Seattle, WA"
+        ],
+        "what": [
+          "Mental health awareness event."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "On October 18, 2025, in Toronto, Emma gave a short talk at a wellness expo, sharing her journey of balancing physical and mental health.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-18"
+        ],
+        "who": [
+          "Emma"
+        ],
+        "where": [
+          "Toronto, Canada"
+        ],
+        "what": [
+          "Speaker session at wellness expo."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "On December 29, 2025, in Ann Arbor, Emma reflected on her year while journaling by candlelight, writing about gratitude and growth.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-29"
+        ],
+        "who": [
+          "Emma"
+        ],
+        "where": [
+          "Ann Arbor, MI"
+        ],
+        "what": [
+          "Year-end reflection journaling."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

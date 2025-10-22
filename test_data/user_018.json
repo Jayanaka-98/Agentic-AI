@@ -1,0 +1,308 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "On January 10, 2025, in New York, Julia took a mirror selfie in her apartment, showing her winter outfit before attending Fashion Week events.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-10"
+        ],
+        "who": [
+          "Julia"
+        ],
+        "where": [
+          "New York, NY"
+        ],
+        "what": [
+          "Fashion Week outfit post."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "On February 5, 2025, in Paris, Julia posed on a cobblestone street in a beige trench coat, her friend Maya capturing photos for her blog.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-05"
+        ],
+        "who": [
+          "Julia",
+          "Maya"
+        ],
+        "where": [
+          "Paris, France"
+        ],
+        "what": [
+          "Street style photoshoot."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "On March 14, 2025, in Milan, Julia attended a designer showcase, seated in the front row with a notepad in hand for her upcoming review article.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-14"
+        ],
+        "who": [
+          "Julia"
+        ],
+        "where": [
+          "Milan, Italy"
+        ],
+        "what": [
+          "Fashion show attendance."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "On April 22, 2025, in London, Julia recorded a vlog in a local café, reviewing eco-friendly fashion brands while sipping coffee.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-22"
+        ],
+        "who": [
+          "Julia"
+        ],
+        "where": [
+          "London, UK"
+        ],
+        "what": [
+          "Fashion vlog filming."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "On May 17, 2025, in Los Angeles, Julia collaborated with a sustainable clothing brand, posing for promotional photos in a sunny studio.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-17"
+        ],
+        "who": [
+          "Julia"
+        ],
+        "where": [
+          "Los Angeles, CA"
+        ],
+        "what": [
+          "Brand collaboration shoot."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "On June 28, 2025, in Tokyo, Julia explored a street market, filming short clips for her fashion travel vlog series.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-28"
+        ],
+        "who": [
+          "Julia"
+        ],
+        "where": [
+          "Tokyo, Japan"
+        ],
+        "what": [
+          "Travel vlog filming."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "On July 20, 2025, in Seoul, Julia met with a Korean designer to discuss a cross-cultural fashion collaboration.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-20"
+        ],
+        "who": [
+          "Julia",
+          "Minho"
+        ],
+        "where": [
+          "Seoul, South Korea"
+        ],
+        "what": [
+          "Designer meeting."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "On September 3, 2025, in New York, Julia hosted a live Q&A session with her followers, discussing ethical shopping and creative burnout.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-03"
+        ],
+        "who": [
+          "Julia"
+        ],
+        "where": [
+          "New York, NY"
+        ],
+        "what": [
+          "Online community event."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "On October 14, 2025, in Toronto, Julia attended a blogger summit, sitting on a panel about women in digital entrepreneurship.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-14"
+        ],
+        "who": [
+          "Julia"
+        ],
+        "where": [
+          "Toronto, Canada"
+        ],
+        "what": [
+          "Panel discussion at summit."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "On December 23, 2025, in New York, Julia celebrated reaching 1 million followers, posing with balloons and a cake shaped like a camera.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-23"
+        ],
+        "who": [
+          "Julia",
+          "Maya"
+        ],
+        "where": [
+          "New York, NY"
+        ],
+        "what": [
+          "Social media milestone celebration."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

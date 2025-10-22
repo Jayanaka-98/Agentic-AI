@@ -1,0 +1,50 @@
+{
+  "user_id": "user_024",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Who did Noah collaborate with during his culinary journey, and what did they create together?",
+      "answer_gold": "He collaborated with Yuto in Tokyo to learn wagashi, Chef Lucia in Rome to design fusion desserts, and Chef Aisha in Sydney to run a dessert pop-up.",
+      "evidence": [
+        "m03",
+        "m04",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What accomplishments demonstrated Noah's growth and recognition as a pastry chef?",
+      "answer_gold": "His second-place finish in London's televised competition and his brand debut in Paris marked major achievements in skill and reputation.",
+      "evidence": [
+        "m06",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did Noah incorporate sustainability and innovation into his dessert creations?",
+      "answer_gold": "He learned about farm-to-table sourcing in San Francisco and applied it to his recipes, later featuring organic honey and local fruits in his new brand line.",
+      "evidence": [
+        "m07",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "What moments highlight Noah's commitment to education and sharing his craft?",
+      "answer_gold": "His Los Angeles baking class and Toronto tutorial video show his dedication to teaching pastry techniques and inspiring other bakers.",
+      "evidence": [
+        "m05",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What event symbolized the culmination of Noah's creative and professional journey for the year?",
+      "answer_gold": "The Paris exhibition where he launched 'Éclat Sucré' showcased his maturity as a pastry artist and marked the transition from student to entrepreneur.",
+      "evidence": [
+        "m10"
+      ]
+    }
+  ]
+}

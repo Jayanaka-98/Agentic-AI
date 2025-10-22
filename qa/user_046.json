@@ -1,0 +1,57 @@
+{
+  "user_id": "user_046",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which memories reflect Marley's journey from childhood to young adulthood, and how do they show her personal growth?",
+      "answer_gold": "Marley's milestones include her senior homecoming dance with friends at Calvary Chapel School, taking graduation photos at Newport Beach before heading to Liberty University, and driving to school alone for the first time. Together these show her transformation from a high school student into a confident young adult ready for independence.",
+      "evidence": [
+        "m03",
+        "m04",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "How do the family's celebrations across different times reflect their shared love and togetherness?",
+      "answer_gold": "The family gathered at Coastal Kitchen to pre-celebrate Marley's 18th birthday, shared a reunion near San Diego, and marked Pat and Holly's 25th anniversary in Scottsdale. Each moment captures a spirit of love, gratitude, and the importance of being together during life's milestones.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What moments highlight Pat and Holly's pride and emotional connection with Marley as parents?",
+      "answer_gold": "Pat and Holly's pride is visible when Marley got her haircut in Newport Beach with her dad, when they took her graduation photos at the beach, and when they captured her driving to school alone for the first time. These moments express joy, nostalgia, and excitement for Marley's next chapter.",
+      "evidence": [
+        "m04",
+        "m08",
+        "m12"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which memories capture the user's experiences of both family joy and professional collaboration, and how do these reflect balance in their life?",
+      "answer_gold": "The joyful family moments—like meeting baby Timmy at the Millers', celebrating Marley's milestones, and enjoying family reunions—contrast with the productive AI strategy meeting with the Tobu team in Manhattan Beach. These together show a balanced life filled with both personal warmth and creative ambition.",
+      "evidence": [
+        "m07",
+        "m09",
+        "m10",
+        "m04"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How do themes of celebration and new beginnings appear across different family events?",
+      "answer_gold": "From celebrating the 25th wedding anniversary in Scottsdale to Marley's graduation and birthday, and even welcoming baby Timmy into a friend's family, the memories revolve around love, legacy, and the joy of new chapters in life.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m04",
+        "m10"
+      ]
+    }
+  ]
+}

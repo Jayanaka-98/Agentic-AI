@@ -1,0 +1,327 @@
+{
+    "status": 200,
+    "reports": [
+        {
+            "id": "n:memory:66cf024f66fb702a8955249c",
+            "context": {
+                "memory_id": "df94c911413f43f5b8d13748d4b35ccc",
+                "summary": "",
+                "comments_summary": "",
+                "when": [
+                    ""
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    ""
+                ],
+                "what": [
+                    ""
+                ],
+                "natural_when": [
+                    ""
+                ],
+                "emotion": "",
+                "created_at": "2024-08-28 10:56:15",
+                "updated_at": "2024-08-28 10:56:15",
+                "image_urls": [],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [],
+                "session_id": "c4fb4a20-7832-47e3-85d8-41c24d9cc3ff",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66d0317466fb702a895528b2",
+            "context": {
+                "memory_id": "a79af185bb2b46b185200013c1fc8cd5",
+                "summary": "What happened?",
+                "comments_summary": "",
+                "when": [
+                    ""
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    ""
+                ],
+                "what": [
+                    "undefined"
+                ],
+                "natural_when": [
+                    ""
+                ],
+                "emotion": "confused",
+                "created_at": "2024-08-29 08:29:40",
+                "updated_at": "2024-08-29 08:29:40",
+                "image_urls": [],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "\ub410\uc5b4 \ub410\uc5b4, undefined"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I'm sorry, but I didn't understand what you said. Could you please provide more information about the memory you want me to capture?"
+                    }
+                ],
+                "session_id": "770f698d-036e-4560-ab21-c45f1b6d1d8f",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66d0349d66fb702a89552abe",
+            "context": {
+                "memory_id": "d425f52bcb224275a33067278ee17674",
+                "summary": "You are testing this app for design purposes.",
+                "comments_summary": "",
+                "when": [
+                    "2024-08-29"
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    ""
+                ],
+                "what": [
+                    "testing"
+                ],
+                "natural_when": [
+                    "2024-08-29"
+                ],
+                "emotion": "neutral",
+                "created_at": "2024-08-29 08:43:09",
+                "updated_at": "2024-08-29 08:43:09",
+                "image_urls": [],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Juat testing this app for design purposes , undefined"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I understand. Could you please provide more details about the event you want to capture? For example, what was the event about?"
+                    }
+                ],
+                "session_id": "a451e08d-51b7-4f87-a7d8-c769a37b0826",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66d0353c66fb702a89552c28",
+            "context": {
+                "memory_id": "90c4c872a48a41908955638ae151a78e",
+                "summary": "Jemmy baru saja mencoba untuk kontes desain app ini di Indonesia pada 2024-08-29.",
+                "comments_summary": "",
+                "when": [
+                    "2024-08-29"
+                ],
+                "who": [
+                    "Jemmy"
+                ],
+                "where": [
+                    "Indonesia"
+                ],
+                "what": [
+                    "kontes desain app"
+                ],
+                "natural_when": [
+                    "2024-08-29"
+                ],
+                "emotion": "excited",
+                "created_at": "2024-08-29 08:45:48",
+                "updated_at": "2024-08-29 08:45:48",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/inijemmy@gmail.com_66cf016266fb702a89552436/50D05E92-FC04-4E44-8543-22587A577BF6.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Saya baru saja mencoba untuk contes desain app ini, {}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Itu terdengar menarik! Dapatkah Anda memberi tahu saya kapan kontes desain aplikasi ini berlangsung?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Today until 4days, {\"summary\":\"Anda baru saja mencoba untuk kontes desain app ini\",\"what\":\"kontes desain app\",\"emotion\":\"excited\"}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Terima kasih telah memberi tahu saya kapan kontesnya berlangsung. Di mana kontes desain aplikasi ini diadakan?"
+                    }
+                ],
+                "session_id": "60c2a2ff-ebac-4a35-9341-b3070fb33afc",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66d035e266fb702a89552f34",
+            "context": {
+                "memory_id": "7689a25757ab4698b22aa6e8895f7023",
+                "summary": "",
+                "comments_summary": "",
+                "when": [
+                    ""
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    ""
+                ],
+                "what": [
+                    ""
+                ],
+                "natural_when": [
+                    ""
+                ],
+                "emotion": "",
+                "created_at": "2024-08-29 08:48:34",
+                "updated_at": "2024-08-29 08:48:34",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/inijemmy@gmail.com_66cf016266fb702a89552436/D889490C-C7BC-4D51-9F64-FE58BC826B09.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [],
+                "session_id": "06ffc52c-ec56-41c4-b13a-777cb6304a3c",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66d036e366fb702a895530ec",
+            "context": {
+                "memory_id": "dfc4fb29638c4cdc976dc30de8f1a622",
+                "summary": "You had lunch today at your mom's house.",
+                "comments_summary": "",
+                "when": [
+                    "2024-08-29"
+                ],
+                "who": [
+                    "you and your mom"
+                ],
+                "where": [
+                    "Mommy's house"
+                ],
+                "what": [
+                    "lunch"
+                ],
+                "natural_when": [
+                    "2024-08-29"
+                ],
+                "emotion": "neutral",
+                "created_at": "2024-08-29 08:52:51",
+                "updated_at": "2024-08-29 08:52:51",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/inijemmy@gmail.com_66cf016266fb702a89552436/816FF691-36B1-41A7-8E4D-D6100378BA78.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "My lunch today, {}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds interesting! Where did you have your lunch today?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Mommy house, {\"summary\":\"You had lunch today.\",\"what\":\"lunch\",\"when\":\"today\"}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's nice! Who were you with during this lunch at your mom's house?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "With her, {\"summary\":\"You had lunch today.\",\"when\":\"today\",\"what\":\"lunch\",\"where\":\"Mommy's house\",\"emotion\":\"neutral\"}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Sounds like a lovely time. What did you have for lunch?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Fried kuwe fish with chilly ketchup sausage, {\"summary\":\"You had lunch today.\",\"when\":\"today\",\"what\":\"lunch\",\"where\":\"Mommy's house\",\"who\":\"your mom\",\"emotion\":\"neutral\"}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds delicious! Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Nothing, {\"summary\":\"You had lunch today.\",\"when\":\"today\",\"what\":\"lunch\",\"where\":\"Mommy's house\",\"who\":\"your mom\",\"emotion\":\"neutral\"}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Alright, I have captured your memory of having a lunch of fried kuwe fish with chilly ketchup sausage at your mom's house today. Thank you for sharing this with me. <END>"
+                    }
+                ],
+                "session_id": "fccc2024-7043-4888-b987-807496bd6aca",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66d1117f66fb702a89554ae4",
+            "context": {
+                "memory_id": "d045c844d5ac40e89bb0ce961cd85e57",
+                "summary": "",
+                "comments_summary": "",
+                "when": [
+                    ""
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    ""
+                ],
+                "what": [
+                    ""
+                ],
+                "natural_when": [
+                    ""
+                ],
+                "emotion": "",
+                "created_at": "2024-08-30 00:25:35",
+                "updated_at": "2024-08-30 00:25:35",
+                "image_urls": [],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [],
+                "session_id": "7908f97f-f382-441c-b178-d6c20eccf537",
+                "draft": false
+            }
+        }
+    ]
+}

@@ -1,0 +1,317 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "On January 8, 2025, in Ann Arbor, Olivia baked cookies in her kitchen, smiling while dusted with flour.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-08"
+        ],
+        "who": [
+          "Olivia"
+        ],
+        "where": [
+          "Ann Arbor, MI"
+        ],
+        "what": [
+          "Baking cookies at home."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "On February 10, 2025, in Chicago, Olivia joined a cooking class, chopping vegetables beside her friend Daniel.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-10"
+        ],
+        "who": [
+          "Olivia",
+          "Daniel"
+        ],
+        "where": [
+          "Chicago, IL"
+        ],
+        "what": [
+          "Cooking class."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "On March 15, 2025, in New York, Olivia sampled street food at a night market with her cousin Julia.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-15"
+        ],
+        "who": [
+          "Olivia",
+          "Julia"
+        ],
+        "where": [
+          "New York, NY"
+        ],
+        "what": [
+          "Street food festival."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "On April 6, 2025, in San Francisco, Olivia toured a farmer's market with Leo, holding a basket of fresh produce.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-06"
+        ],
+        "who": [
+          "Olivia",
+          "Leo"
+        ],
+        "where": [
+          "San Francisco, CA"
+        ],
+        "what": [
+          "Farmer's market visit."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "On May 12, 2025, in Austin, Olivia attended a barbecue festival, tasting brisket with friends under string lights.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-12"
+        ],
+        "who": [
+          "Olivia",
+          "Rachel",
+          "Maya"
+        ],
+        "where": [
+          "Austin, TX"
+        ],
+        "what": [
+          "Barbecue festival."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "On June 20, 2025, in Seattle, Olivia enjoyed seafood at a waterfront restaurant with her parents.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-20"
+        ],
+        "who": [
+          "Olivia",
+          "Helen",
+          "Robert"
+        ],
+        "where": [
+          "Seattle, WA"
+        ],
+        "what": [
+          "Seafood dinner with parents."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "On July 18, 2025, in Portland, Olivia learned bread-making at a bakery workshop, holding a loaf fresh from the oven.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-18"
+        ],
+        "who": [
+          "Olivia"
+        ],
+        "where": [
+          "Portland, OR"
+        ],
+        "what": [
+          "Bread-making workshop."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "On September 3, 2025, in Toronto, Olivia visited a food truck park with Daniel, sharing tacos and fries.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-03"
+        ],
+        "who": [
+          "Olivia",
+          "Daniel"
+        ],
+        "where": [
+          "Toronto, Canada"
+        ],
+        "what": [
+          "Food truck park outing."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "On October 11, 2025, in Paris, Olivia dined at a café with Julia, sipping coffee by the street.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-11"
+        ],
+        "who": [
+          "Olivia",
+          "Julia"
+        ],
+        "where": [
+          "Paris, France"
+        ],
+        "what": [
+          "Paris café experience."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "On December 24, 2025, in Ann Arbor, Olivia hosted Christmas dinner, carving a turkey with family gathered around.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-24"
+        ],
+        "who": [
+          "Olivia",
+          "Helen",
+          "Robert",
+          "Daniel"
+        ],
+        "where": [
+          "Ann Arbor, MI"
+        ],
+        "what": [
+          "Christmas dinner at home."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

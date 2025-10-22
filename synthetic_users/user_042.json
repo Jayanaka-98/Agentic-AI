@@ -1,0 +1,225 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "You went to Manhattan Beach with your fraternity brothers.",
+        "comments_summary": "You played beach volleyball, enjoyed a bonfire, and watched a stunning sunset with your fraternity brothers at Manhattan Beach.",
+        "when": ["2024-07-30"],
+        "who": ["fraternity brothers"],
+        "where": ["Manhattan Beach"],
+        "what": ["beach"],
+        "natural_when": ["2024-07-30"],
+        "emotion": "happy",
+        "created_at": "2024-08-03 02:50:32",
+        "updated_at": "2024-08-03 02:50:32",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/synthetic_user_001/A87B589C-EC54-4967-9C15-C97CDF7B28FC.png"
+        ],
+        "new_image_format": "raw",
+        "shared_with": ["synthetic_id_7316"],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Your main objective is to capture what is the event, when and where did the event take place, and who is part of it."
+          },
+          {
+            "role": "user",
+            "content": "Went to the beach with my fraternity brothers, {}"
+          },
+          {
+            "role": "assistant",
+            "content": "That sounds like a fun time! Can you tell me when this beach trip took place?"
+          },
+          {
+            "role": "user",
+            "content": "Last Tuesday, {\"summary\":\"You went to the beach with your fraternity brothers.\",\"what\":\"beach\",\"who\":\"fraternity brothers\",\"emotion\":\"happy\"}"
+          },
+          {
+            "role": "assistant",
+            "content": "Great! Could you please tell me which beach you and your fraternity brothers visited?"
+          },
+          {
+            "role": "user",
+            "content": "Manhattan Beach, {\"summary\":\"You went to the beach with your fraternity brothers.\",\"when\":\"Last Tuesday\",\"what\":\"beach\",\"who\":\"fraternity brothers\",\"emotion\":\"happy\"}"
+          },
+          {
+            "role": "assistant",
+            "content": "Sounds like a wonderful place! Is there anything else you would like to add to this memory?"
+          }
+        ],
+        "session_id": "426783a2-ed09-466d-9d1d-57cca57781a8",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "You played soccer with Ryan.",
+        "comments_summary": "",
+        "when": [""],
+        "who": ["Ryan"],
+        "where": [""],
+        "what": ["soccer"],
+        "natural_when": [""],
+        "emotion": "",
+        "created_at": "2024-08-23 22:27:48",
+        "updated_at": "2024-08-23 22:27:48",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/synthetic_user_001/29C01D36-621D-4F78-917D-9E2A3B26899F.png"
+        ],
+        "new_image_format": "raw",
+        "shared_with": ["synthetic_id_7316"],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. Your goal is to help record what happened, when, where, and who was involved."
+          },
+          {
+            "role": "user",
+            "content": "Ryan soccer, {}"
+          },
+          {
+            "role": "assistant",
+            "content": "I'm sorry, but your message isn't very clear. Could you please provide more details about the event? For instance, what happened during this soccer game with Ryan?"
+          }
+        ],
+        "session_id": "ceab13d8-08d5-4db8-a390-4ba7391cea7c",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "You went on a hiking trip.",
+        "comments_summary": "",
+        "when": ["2024-08-24"],
+        "who": [""],
+        "where": ["mountain"],
+        "what": ["hiking trip"],
+        "natural_when": ["2024-08-24"],
+        "emotion": "excitement",
+        "created_at": "2024-08-24 02:00:34",
+        "updated_at": "2024-08-24 02:00:34",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/synthetic_user_001/FD21B5B5-093B-4F15-AE75-0E39B53C7880.png"
+        ],
+        "new_image_format": "raw",
+        "shared_with": ["synthetic_id_7316"],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture memories."
+          },
+          {
+            "role": "user",
+            "content": "Private sushi chef, {\"summary\":\"You went on a hiking trip\",\"when\":\"last weekend\",\"what\":\"hiking trip\",\"where\":\"mountain\",\"emotion\":\"excitement\"}"
+          },
+          {
+            "role": "assistant",
+            "content": "It sounds like you had an exciting hiking trip last weekend in the mountains. Who was with you on this trip?"
+          }
+        ],
+        "session_id": "8c312443-a8e4-4e9d-bb72-7e1372eb7f36",
+        "draft": false
+      }
+    },
+    {
+      "id": "m19",
+      "context": {
+        "memory_id": "m19",
+        "summary": "On a crisp February evening in Scottsdale, Alex indulged in a stunning seafood platter adorned with delicate pink petals, savoring some of the most exotic fish he's ever tasted in a sophisticated setting.",
+        "comments_summary": "",
+        "when": ["2025-02-15"],
+        "who": [],
+        "where": ["Scottsdale"],
+        "what": ["Omakase dining experience"],
+        "natural_when": ["2025-02-15"],
+        "emotion": "awe",
+        "created_at": "2025-03-01 00:03:10",
+        "updated_at": "2025-03-01 00:03:10",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/synthetic_user_001/0af1f852-788a-4701-aee6-aafbee7d555e.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps Alex capture memories. Your goal is to ask natural follow-up questions to gather complete memory details."
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory: A stunning seafood platter with delicate pink petals, enjoyed in a sophisticated setting in Scottsdale on a crisp February evening."
+          },
+          {
+            "role": "assistant",
+            "content": "That sounds like an amazing experience! Who were you with during this omakase dinner?"
+          }
+        ],
+        "session_id": "0762137e22904e09960bc405508bfa62",
+        "draft": false
+      }
+    },
+    {
+      "id": "m20",
+      "context": {
+        "memory_id": "m20",
+        "summary": "Family photo at the She Believes Cup in Glendale. Proud parents with their child, everyone smiling and ready for the game.",
+        "comments_summary": "",
+        "when": ["2025-02-23"],
+        "who": ["parents", "child"],
+        "where": ["Stadium in Glendale"],
+        "what": ["Family photo"],
+        "natural_when": ["2025-02-23"],
+        "emotion": "joy",
+        "created_at": "2025-03-01 00:04:45",
+        "updated_at": "2025-03-01 00:04:45",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/synthetic_user_001/c3c9d674-684a-42b7-a0aa-70c555c3e955.png"
+        ],
+        "new_image_format": "",
+        "shared_with": ["synthetic_id_6ac77"],
+        "conversation": [],
+        "session_id": "9a65d38ee9c44ec4bac20266137d7079",
+        "draft": false
+      }
+    }
+  ],
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which events show the user's enjoyment of outdoor activities with friends, and what did they do?",
+      "answer_gold": "The user went to Manhattan Beach with fraternity brothers to play volleyball and enjoy a bonfire, played soccer with Ryan, and went hiking in the mountains, all reflecting their love for active and social outdoor experiences.",
+      "evidence": ["m01", "m08", "m09"]
+    },
+    {
+      "qid": "qa_002",
+      "question": "How did the user's social interactions vary between casual outings and family experiences?",
+      "answer_gold": "They spent time with fraternity brothers at Manhattan Beach, played soccer with Ryan, and later shared a joyful family photo at the She Believes Cup in Glendale, showing a mix of friendships and family moments.",
+      "evidence": ["m01", "m08", "m20"]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What experiences reflect the user's appreciation for fine dining or unique food events?",
+      "answer_gold": "The user enjoyed a refined omakase-style seafood platter in Scottsdale, described with awe and sophistication, highlighting their taste for high-quality dining experiences.",
+      "evidence": ["m19"]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which memories together show the user's travel between different cities, and what were they doing in each?",
+      "answer_gold": "They visited Manhattan Beach in California for a beach trip, dined in Scottsdale for an omakase seafood experience, and went to Glendale for a family photo at a sports event, showing a lifestyle mixing leisure, travel, and family.",
+      "evidence": ["m01", "m19", "m20"]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What emotions are expressed across the user's experiences, and how do they differ by context?",
+      "answer_gold": "The user felt happiness during the beach day with fraternity brothers, excitement during the mountain hike, awe at the omakase dinner in Scottsdale, and joy at the family photo event in Glendale, reflecting a range from active thrill to sentimental warmth.",
+      "evidence": ["m01", "m09", "m19", "m20"]
+    }
+  ]
+}

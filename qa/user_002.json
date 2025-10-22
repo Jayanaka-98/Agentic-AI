@@ -1,0 +1,61 @@
+{
+  "user_id": "user_002",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How did Lena's social circle vary across places, and what kinds of activities did they do together?",
+      "answer_gold": "She studied alone, visited an art gallery with Rachel, sight-saw with David, brunched with Julia, walked a bridge with Omar, shopped a market with Rachel, traveled solo in Toronto, tried food trucks with David, watched Broadway with Julia, and celebrated the holidays with Rachel.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m03",
+        "m04",
+        "m05",
+        "m06",
+        "m07",
+        "m08",
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "Which memories feature performances or arts, and how do they differ?",
+      "answer_gold": "An art gallery opening with Rachel and a Broadway show with Julia; one is a visual arts event, the other a live theater performance.",
+      "evidence": [
+        "m02",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What food-related moments show Lena's experiences shifting from casual to celebratory?",
+      "answer_gold": "Tea while studying, brunch with family, food truck tacos with a friend, and hot chocolate by a lodge fireplace — moving from everyday to festive.",
+      "evidence": [
+        "m01",
+        "m04",
+        "m08",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which travel memories took Lena to iconic landmarks or destinations, and with whom?",
+      "answer_gold": "Cloud Gate with David, Golden Gate Bridge with Omar, CN Tower solo, and Pike Place Market with Rachel.",
+      "evidence": [
+        "m03",
+        "m05",
+        "m07",
+        "m06"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which memory best captures a holiday ambiance, and what details indicate it?",
+      "answer_gold": "Christmas Eve at the ski lodge with Rachel; the fireplace, mugs of hot chocolate, and the date indicate a holiday setting.",
+      "evidence": [
+        "m10"
+      ]
+    }
+  ]
+}

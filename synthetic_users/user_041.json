@@ -1,0 +1,257 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "You went camping in Yellowstone with your parents, Emma and David, from August 20th to August 26th. The experience was amazing, with beautiful scenery and unique wildlife. It was a special trip as it was the first one you took with them in 5 years.",
+        "who": ["Emma", "David"],
+        "where": ["Yellowstone"],
+        "what": ["Camping trip in Yellowstone"],
+        "emotion": "Excitement and awe"
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "My friends and classmates celebrated my birthday at the casino in Detroit on 2023-10-10.",
+        "who": ["friends", "classmates"],
+        "where": ["casino in Detroit"],
+        "what": ["birthday celebration"]
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "You had a picnic at the parking lot behind the gym with your family yesterday.",
+        "who": ["family"],
+        "where": ["parking lot behind the gym"],
+        "what": ["picnic"]
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "You went to see The Weeknd perform in Austin, Texas with Lucas on Saturday. The concert was magical, with incredible visuals and a spectacular show.",
+        "who": ["Lucas"],
+        "where": ["Austin, Texas"],
+        "what": ["concert"]
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "A celebration at your house during the weekend with your family and close friends, featuring an amazing BBQ.",
+        "who": ["family", "close friends"],
+        "where": ["your house"],
+        "what": ["birthday celebration"]
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "You went to see Drake during the Labor Day weekend in Las Vegas with your good buddy Noah. You also had the most amazing omakase at Nobu.",
+        "who": ["Noah"],
+        "where": ["Las Vegas"],
+        "what": ["Seeing Drake"]
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "You went to an amazing buffet with your parents near your place yesterday.",
+        "who": ["parents"],
+        "where": ["Asian restaurant near your place"],
+        "what": ["buffet"]
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "You had a great weight lifting session at the IM building with Sophie yesterday. You hit a new bench PR!",
+        "who": ["Sophie"],
+        "where": ["IM building"],
+        "what": ["weight lifting session"]
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "Your parents were making food at home in New York, which made you feel nostalgic.",
+        "who": ["parents"],
+        "where": ["New York"],
+        "what": ["parents making food"]
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "You spent the whole day working on various tasks, including taking care of some clothing. It was a solo effort, and you would have preferred to go for a run instead.",
+        "who": ["yourself"],
+        "what": ["busy day of work"]
+      }
+    },
+    {
+      "id": "m11",
+      "context": {
+        "memory_id": "m11",
+        "summary": "You celebrated your daughter Ava's birthday party at your house with your friends and some of Ava's classmates. Your wife's friend Mia made a hyper-realistic Frozen-themed cake that was really cool.",
+        "who": ["Ava", "friends", "Ava's classmates", "Mia"],
+        "where": ["your house"],
+        "what": ["daughter's birthday party"]
+      }
+    },
+    {
+      "id": "m12",
+      "context": {
+        "memory_id": "m12",
+        "summary": "You went on a cruise with your family and friends in November last year. The cruise left from Florida and took you to the Caribbean.",
+        "who": ["family", "friends"],
+        "where": ["Florida"],
+        "what": ["cruise"]
+      }
+    },
+    {
+      "id": "m13",
+      "context": {
+        "memory_id": "m13",
+        "summary": "You went on a cruise ship to the Bahamas with Liam and Olivia's family. It was a big group and lots of fun. You also had a memorable gambling experience on the ship and won big!",
+        "who": ["Liam", "Olivia's family"],
+        "where": ["cruise ship to the Bahamas"],
+        "what": ["cruise trip and casino win"]
+      }
+    },
+    {
+      "id": "m14",
+      "context": {
+        "memory_id": "m14",
+        "summary": "You watched the movie Oppenheimer at the Emagine theater by yourself. It was a thought-provoking movie.",
+        "who": ["yourself"],
+        "where": ["Emagine theater"],
+        "what": ["watching Oppenheimer"]
+      }
+    },
+    {
+      "id": "m15",
+      "context": {
+        "memory_id": "m15",
+        "summary": "You went to Vegas with your friend Noah for a weekend getaway. You went to a concert, had some great food, and did a little bit of gambling.",
+        "who": ["Noah"],
+        "where": ["Las Vegas"],
+        "what": ["Vegas trip"]
+      }
+    },
+    {
+      "id": "m16",
+      "context": {
+        "memory_id": "m16",
+        "summary": "You were raiding Neltharion with your guild members from Surrendering ITL in WoW last night.",
+        "who": ["guild members from Surrendering ITL"],
+        "where": ["in WoW"],
+        "what": ["raiding Neltharion"]
+      }
+    },
+    {
+      "id": "m17",
+      "context": {
+        "memory_id": "m17",
+        "summary": "You went to the Grand Canyon with your family last weekend. You did a long and challenging hike and were proud to finish it. You also saw the majestic sunrise.",
+        "who": ["family"],
+        "where": ["Grand Canyon"],
+        "what": ["Grand Canyon trip"]
+      }
+    },
+    {
+      "id": "m18",
+      "context": {
+        "memory_id": "m18",
+        "summary": "You spent a great day at the outlets mall with your parents last Saturday. You shopped around and had lunch at the food court.",
+        "who": ["parents"],
+        "where": ["outlets mall"],
+        "what": ["shopping trip"]
+      }
+    },
+    {
+      "id": "m19",
+      "context": {
+        "memory_id": "m19",
+        "summary": "You saw a funny t-shirt at the Briarwood Mall during your solo shopping trip on the weekend.",
+        "who": ["yourself"],
+        "where": ["Briarwood Mall"],
+        "what": ["shopping trip"]
+      }
+    },
+    {
+      "id": "m20",
+      "context": {
+        "memory_id": "m20",
+        "summary": "You celebrated your birthday at your house with your family and close friends on Saturday.",
+        "who": ["family", "close friends"],
+        "where": ["your house"],
+        "what": ["birthday celebration"]
+      }
+    },
+    {
+      "id": "m21",
+      "context": {
+        "memory_id": "m21",
+        "summary": "You went on a great cruise trip to the Bahamas with your college roommates last week.",
+        "who": ["college roommates"],
+        "where": ["Bahamas"],
+        "what": ["cruise trip"]
+      }
+    },
+    {
+      "id": "m22",
+      "context": {
+        "memory_id": "m22",
+        "summary": "You had a great dinner with your friends at a new restaurant in town.",
+        "who": ["friends"],
+        "where": ["new restaurant in town"],
+        "what": ["dinner with friends"]
+      }
+    }
+  ],
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Who are the people the user spent leisure time with across different social events, and what did they do together?",
+      "answer_gold": "The user went camping in Yellowstone with Emma and David, enjoyed a concert with Lucas in Austin, had a buffet with parents, and celebrated a birthday with close friends and family.",
+      "evidence": ["m01", "m04", "m07", "m20"]
+    },
+    {
+      "qid": "qa_002",
+      "question": "In which memories did the user go on trips, and how did the locations and companions differ between them?",
+      "answer_gold": "They camped in Yellowstone with Emma and David, went on a Las Vegas trip with Noah, traveled to the Grand Canyon with family, and took a cruise to the Bahamas with college roommates. Each trip involved different people and purposes — family bonding, concerts, sightseeing, and vacationing with friends.",
+      "evidence": ["m01", "m06", "m17", "m21"]
+    },
+    {
+      "qid": "qa_003",
+      "question": "Which memories involve celebrations or parties, and how were they unique?",
+      "answer_gold": "They celebrated their own birthday with family and friends at home, hosted their daughter Ava's Frozen-themed party, and had a pre-birthday casino gathering in Detroit. Each event varied in setting and people involved — family at home, kids and friends at Ava's party, and classmates in Detroit.",
+      "evidence": ["m02", "m11", "m20"]
+    },
+    {
+      "qid": "qa_004",
+      "question": "What patterns show how the user balances personal enjoyment, fitness, and downtime?",
+      "answer_gold": "They went weight lifting with Sophie, watched Oppenheimer alone, and took solo shopping trips, balancing social workouts, solitary reflection, and casual recreation.",
+      "evidence": ["m08", "m14", "m19"]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How did the user's experiences evolve from family-centered to friend-oriented events across the memories?",
+      "answer_gold": "Early memories focused on family activities such as camping, buffets, and Grand Canyon trips, while later ones include social gatherings and concerts with friends like Noah, Lucas, and Sophie, showing a shift toward more peer-oriented and independent experiences.",
+      "evidence": ["m01", "m07", "m17", "m04", "m06", "m08"]
+    }
+  ]
+}

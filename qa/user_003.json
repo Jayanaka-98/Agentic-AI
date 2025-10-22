@@ -1,0 +1,56 @@
+{
+  "user_id": "user_003",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "What types of social activities did Julia take part in throughout the year?",
+      "answer_gold": "She relaxed alone at a café, joined a picnic with friends, visited Pike Place Market, walked the Golden Gate Bridge, and celebrated with her parents at Christmas.",
+      "evidence": [
+        "m01",
+        "m03",
+        "m06",
+        "m07",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "Which memories capture moments with food or drinks?",
+      "answer_gold": "Julia's café latte, the picnic in Central Park, Marks ice cream by CN Tower, tacos at the food truck festival, and hot chocolate at the ski lodge.",
+      "evidence": [
+        "m01",
+        "m03",
+        "m05",
+        "m08",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "Who did Omar spend time with in different places?",
+      "answer_gold": "He was with colleagues at a jazz concert, Julia at Pike Place Market, David at a food truck festival, and Mark at a ski lodge.",
+      "evidence": [
+        "m04",
+        "m06",
+        "m08",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "What travel destinations outside the U.S. appear in these memories?",
+      "answer_gold": "Toronto, where Mark visited the CN Tower.",
+      "evidence": [
+        "m05"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which memory best reflects a festive family gathering?",
+      "answer_gold": "Julia posing with her parents in front of the Christmas tree in Boston.",
+      "evidence": [
+        "m09"
+      ]
+    }
+  ]
+}

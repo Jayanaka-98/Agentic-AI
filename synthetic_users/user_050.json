@@ -1,0 +1,690 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "You and Stella are meeting for dinner at Marley's house the night before she leaves for college at Liberty in Virginia.",
+        "comments_summary": "You and Stella are meeting for dinner at Marley's house the night before she leaves for college at Liberty in Virginia, and you are already planning an exciting visit to see her soon.",
+        "when": [
+          "2024-08-10"
+        ],
+        "who": [
+          "Isabella, Stella"
+        ],
+        "where": [
+          "Marley's house"
+        ],
+        "what": [
+          "dinner"
+        ],
+        "natural_when": [
+          "2024-08-10"
+        ],
+        "emotion": "",
+        "created_at": "2024-08-10 03:15:56",
+        "updated_at": "2024-08-10 03:15:56",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/084F7103-1CC8-422C-A73B-D9290277E7F4.png"
+        ],
+        "new_image_format": "raw",
+        "shared_with": [
+          "66a2b7d109aff5bf6392dbc4"
+        ],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+          },
+          {
+            "role": "user",
+            "content": "Isabella and Stella are meeting for dinner at Marley's house., {}"
+          },
+          {
+            "role": "assistant",
+            "content": "That sounds like a lovely gathering! When is this dinner at Marley's house taking place?"
+          },
+          {
+            "role": "user",
+            "content": "The night before she leaves to college at Liberty., {\"summary\":\"You and Stella are meeting for dinner at Marley's house.\",\"what\":\"dinner\",\"where\":\"Marley's house\",\"who\":\"Isabella, Stella\"}"
+          },
+          {
+            "role": "assistant",
+            "content": "That's a significant event. What college is she going to?"
+          },
+          {
+            "role": "user",
+            "content": "Liberty in Virginia., {\"summary\":\"You and Stella are meeting for dinner at Marley's house.\",\"when\":\"The night before she leaves to college at Liberty.\",\"what\":\"dinner\",\"where\":\"Marley's house\",\"who\":\"Isabella, Stella\",\"emotion\":\"\"}"
+          },
+          {
+            "role": "assistant",
+            "content": "Thank you for sharing that. Is there anything else you would like to add to this memory?"
+          }
+        ],
+        "session_id": "7c822cc0-8f69-4b38-bf64-71f3342b8548",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "Patrick, his wife Holly, and their daughter Marley attended their first football game at Liberty University. They enjoyed the rainy day with laughter and camaraderie, connecting with Marley's best friend, Bethy.",
+        "comments_summary": "",
+        "when": [
+          "2024-11-08"
+        ],
+        "who": [
+          "Patrick, Holly, Marley, Bethy"
+        ],
+        "where": [
+          "Liberty University"
+        ],
+        "what": [
+          "a group of people enjoying a rainy day together"
+        ],
+        "natural_when": [
+          "2024-11-08"
+        ],
+        "emotion": "joyful",
+        "created_at": "2024-11-08 17:38:28",
+        "updated_at": "2024-11-08 17:38:28",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/C8F3FCA3-7E13-4D49-A963-A5337E335D67.png"
+        ],
+        "new_image_format": "raw",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+          },
+          {
+            "role": "user",
+            "content": "You, if you don't have data, use this {\"what\":\"a group of people enjoying a rainy day together\",\"when\":\"\",\"where\":\"outdoors\"}"
+          },
+          {
+            "role": "assistant",
+            "content": "When did this group of people enjoy the rainy day together?"
+          },
+          {
+            "role": "user",
+            "content": "This was the first football game we went to see at Liberty University with our daughter Marley., if you don't have data, use this {\"summary\":\"Patrick and a group of friends enjoyed a rainy day outdoors, embracing the weather with laughter and camaraderie.\",\"when\":\"\",\"what\":\"a group of people enjoying a rainy day together\",\"where\":\"outdoors\",\"who\":\"\",\"emotion\":\"joyful\"}"
+          },
+          {
+            "role": "assistant",
+            "content": "Who else was part of this group enjoying the rainy day at the football game?"
+          },
+          {
+            "role": "user",
+            "content": "Myself, my wife Holly, and my daughter Marley, as well as we connected with her best friend, Bethy, who she goes to school with at Liberty., if you don't have data, use this {\"summary\":\"Patrick and his daughter Marley attended their first football game at Liberty University, enjoying the rainy day with laughter and camaraderie.\",\"when\":\"\",\"what\":\"a group of people enjoying a rainy day together\",\"where\":\"Liberty University\",\"who\":\"Patrick, Marley\",\"emotion\":\"joyful\"}"
+          },
+          {
+            "role": "assistant",
+            "content": "When did you attend this football game at Liberty University?"
+          },
+          {
+            "role": "user",
+            "content": "This was on, uh, middle of September, 2024., if you don't have data, use this {\"summary\":\"Patrick, his wife Holly, and their daughter Marley attended their first football game at Liberty University. They enjoyed the rainy day with laughter and camaraderie, connecting with Marley's best friend, Bethy.\",\"when\":\"\",\"what\":\"a group of people enjoying a rainy day together\",\"where\":\"Liberty University\",\"who\":\"Patrick, Holly, Marley, Bethy\",\"emotion\":\"joyful\"}"
+          },
+          {
+            "role": "assistant",
+            "content": "Is there anything else you would like to add to this memory?"
+          },
+          {
+            "role": "user",
+            "content": "No, I'm done., if you don't have data, use this {\"summary\":\"Patrick, his wife Holly, and their daughter Marley attended their first football game at Liberty University. They enjoyed the rainy day with laughter and camaraderie, connecting with Marley's best friend, Bethy.\",\"when\":\"middle of September, 2024\",\"what\":\"a group of people enjoying a rainy day together\",\"where\":\"Liberty University\",\"who\":\"Patrick, Holly, Marley, Bethy\",\"emotion\":\"joyful\"}"
+          },
+          {
+            "role": "assistant",
+            "content": "<END>"
+          }
+        ],
+        "session_id": "d36fb13cea8f49eea8e24bee37d7c94c",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "Patrick's son has a small black and brown dog that was sitting on a bed, appearing relaxed and attentive at the summer house.",
+        "comments_summary": "",
+        "when": [
+          "2023-11-08"
+        ],
+        "who": [
+          "Patrick's son"
+        ],
+        "where": [
+          "Summer House"
+        ],
+        "what": [
+          "dog sitting on bed"
+        ],
+        "natural_when": [
+          "2023-11-08"
+        ],
+        "emotion": "calm",
+        "created_at": "2024-11-08 18:10:39",
+        "updated_at": "2024-11-08 18:10:39",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/EA0E2A2D-7F15-49A0-9159-2122639224CB.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+          },
+          {
+            "role": "user",
+            "content": "here's a picture of my dog my son's dog, if you don't have data, use this {\"what\":\"A small black and brown dog sitting on a bed, appearing relaxed and attentive.\",\"when\":\"\",\"where\":\"Summer House\"}"
+          },
+          {
+            "role": "assistant",
+            "content": "When did this event take place?"
+          },
+          {
+            "role": "user",
+            "content": "November 6, 2024, if you don't have data, use this {\"summary\":\"Patrick's son has a small black and brown dog that was sitting on a bed, appearing relaxed and attentive at the summer house.\",\"when\":\"\",\"what\":\"dog sitting on bed\",\"where\":\"Summer House\",\"who\":\"Patrick's son\",\"emotion\":\"calm\"}"
+          },
+          {
+            "role": "assistant",
+            "content": "What emotion did you feel during this event?"
+          },
+          {
+            "role": "user",
+            "content": "Update when to November 6, 2024, Update what to dog sitting on bed, Update where to Summer House, Update who to Patrick's son, Update emotion to calm, "
+          }
+        ],
+        "session_id": "88bc91c5bbd2466389db02c1b2631c23",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "",
+        "comments_summary": "",
+        "when": [
+          "2023-11-23"
+        ],
+        "who": [
+          "Tobu management team"
+        ],
+        "where": [
+          "Sicilian Butcher"
+        ],
+        "what": [
+          "lunch with management team"
+        ],
+        "natural_when": [
+          "2023-11-23"
+        ],
+        "emotion": "",
+        "created_at": "2024-11-23 20:05:31",
+        "updated_at": "2024-11-23 20:05:31",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/6A898A80-2D97-4BF8-B9C2-70807013ABA2.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [
+          "66a14e5c7c7185acaa66f03a"
+        ],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+          },
+          {
+            "role": "user",
+            "content": "This was lunch with our management team for Tobu."
+          },
+          {
+            "role": "assistant",
+            "content": "When did this lunch with your management team take place?"
+          },
+          {
+            "role": "user",
+            "content": "This was on November 13th, 2024 at the Sicilian Butcher."
+          },
+          {
+            "role": "assistant",
+            "content": "What was the main purpose or theme of this lunch with your management team?"
+          },
+          {
+            "role": "user",
+            "content": "You"
+          },
+          {
+            "role": "assistant",
+            "content": "Is there anything else you would like to add to this memory?"
+          },
+          {
+            "role": "user",
+            "content": "We were strategizing about getting our Tobu app ready to launch for our beta test."
+          },
+          {
+            "role": "assistant",
+            "content": "Is there anything else you would like to add to this memory?"
+          },
+          {
+            "role": "user",
+            "content": "No."
+          },
+          {
+            "role": "assistant",
+            "content": "I have captured the memory of your lunch with the Tobu management team on November 13th, 2024, at the Sicilian Butcher, where you strategized about getting the Tobu app ready for its beta test. \n\nIf you need to add or change anything in the future, feel free to let me know! <END>"
+          },
+          {
+            "role": "user",
+            "content": "Update when to November 13th, 2024, Update who to Tobu management team, Update where to Sicilian Butcher, Update what to lunch with management team, Update emotion to , "
+          }
+        ],
+        "session_id": "de83b6e8-2e8a-4ae2-bece-64847ae1b3f2",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "Patrick and his wife Holly had a memorable lunch with Patrick's parents, cousin Jordan, and Jordan's fiancée Ashley at Kachina in Newport Beach. It was a special reunion as Patrick hadn't seen Jordan in over 30 years.",
+        "comments_summary": "",
+        "when": [
+          "2024-11-21"
+        ],
+        "who": [
+          "Patrick, Patrick's wife Holly, Patrick's parents, cousin Jordan, fiancée Ashley"
+        ],
+        "where": [
+          "Kachina, Newport Beach, California"
+        ],
+        "what": [
+          "Parents' lunch outing"
+        ],
+        "natural_when": [
+          "2024-11-21"
+        ],
+        "emotion": "joyful",
+        "created_at": "2024-11-23 20:14:33",
+        "updated_at": "2024-11-23 20:15:07",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/19A9974D-5466-478D-B382-3F48D96651F9.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+          },
+          {
+            "role": "user",
+            "content": "What a great time as my parents got to go to lunch."
+          },
+          {
+            "role": "assistant",
+            "content": "When did this lunch take place?"
+          },
+          {
+            "role": "user",
+            "content": "Start over."
+          },
+          {
+            "role": "assistant",
+            "content": "Where did your parents go for lunch?"
+          },
+          {
+            "role": "user",
+            "content": "What a great time. Me and my wife Holly, my parents, and I got to have lunch with my cousin Jordan and his fiancée Ashley who I have not seen in over 30 years."
+          },
+          {
+            "role": "assistant",
+            "content": "Where did this lunch take place?"
+          },
+          {
+            "role": "user",
+            "content": "Lunch was at a place called Kachina in Newport Beach, California on November 21st, 2021, 2024."
+          },
+          {
+            "role": "assistant",
+            "content": "What was the occasion for this lunch?"
+          },
+          {
+            "role": "user",
+            "content": "To reunite with my cousin Jordan, who is now 38 years old, as I have not seen him in over 30 years."
+          },
+          {
+            "role": "assistant",
+            "content": "Is there anything else you would like to add to this memory?"
+          },
+          {
+            "role": "user",
+            "content": "No."
+          },
+          {
+            "role": "assistant",
+            "content": "Your memory has been captured! If you need to add or recall anything in the future, just let me know. <END>"
+          },
+          {
+            "role": "user",
+            "content": "Update what to Parents' lunch outing, Update where to Kachina, Newport Beach, California, Update when to 2024-11-21, Update who to Patrick, Patrick's wife Holly, Patrick's parents, cousin Jordan, fiancée Ashley, "
+          }
+        ],
+        "session_id": "2cb80d07b60a410fb3be9f0865c55f57",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "",
+        "comments_summary": "",
+        "when": [
+          "2024-12-03"
+        ],
+        "who": [
+          ""
+        ],
+        "where": [
+          "The Event Loft"
+        ],
+        "what": [
+          "Celebrating a fun gathering with delicious food and great company."
+        ],
+        "natural_when": [
+          "2024-12-03"
+        ],
+        "emotion": "",
+        "created_at": "2024-12-04 20:07:49",
+        "updated_at": "2024-12-04 20:07:49",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/A59C9A2B-AF81-423B-90D3-BF29F3DFF2B6.png",
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/03DB001A-6695-48EF-B417-506ACF583167.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "user",
+            "content": "Update what to Celebrating a fun gathering with delicious food and great company., Update where to The Event Loft, Update when to 2024-12-03, "
+          }
+        ],
+        "session_id": "3054f8ba71134bf4b793af849635ee1f",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "",
+        "comments_summary": "",
+        "when": [
+          "2024-12-03"
+        ],
+        "who": [
+          ""
+        ],
+        "where": [
+          "Bello Chef's Table"
+        ],
+        "what": [
+          "Gathering for a meal with friends or family"
+        ],
+        "natural_when": [
+          "2024-12-03"
+        ],
+        "emotion": "",
+        "created_at": "2024-12-04 20:09:10",
+        "updated_at": "2024-12-04 20:09:10",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/58AEADC0-09C5-4276-85DF-5AA885B77F68.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "user",
+            "content": "Update what to Gathering for a meal with friends or family, Update where to Bello Chef's Table, Update when to 2024-12-03, "
+          }
+        ],
+        "session_id": "a360ba1c1dad44ed944fffee05a0aeb9",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "",
+        "comments_summary": "",
+        "when": [
+          "2024-11-14"
+        ],
+        "who": [
+          ""
+        ],
+        "where": [
+          "Urban Outfitters"
+        ],
+        "what": [
+          "A fun outing with friends captured in front of a store"
+        ],
+        "natural_when": [
+          "2024-11-14"
+        ],
+        "emotion": "",
+        "created_at": "2024-12-04 20:10:18",
+        "updated_at": "2024-12-04 20:10:18",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/0224273A-888E-4381-AB05-1588864335ED.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "user",
+            "content": "Update what to A fun outing with friends captured in front of a store, Update where to Urban Outfitters, Update when to 2024-11-14, "
+          }
+        ],
+        "session_id": "fe29a6dfafab400391f895c2e180779a",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "",
+        "comments_summary": "",
+        "when": [
+          "2024-11-14"
+        ],
+        "who": [
+          ""
+        ],
+        "where": [
+          "The Sicilian Butcher"
+        ],
+        "what": [
+          "Sharing a delightful dining experience with friends"
+        ],
+        "natural_when": [
+          "2024-11-14"
+        ],
+        "emotion": "",
+        "created_at": "2024-12-04 20:13:06",
+        "updated_at": "2024-12-04 20:13:06",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/2E5ECE31-BC66-49A9-BAD8-7FEBBC52D61B.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "user",
+            "content": "Update what to Sharing a delightful dining experience with friends, Update where to The Sicilian Butcher, Update when to 2024-11-14, "
+          }
+        ],
+        "session_id": "3cc97d575f8f4560ab821b42fdd7e0b5",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "",
+        "comments_summary": "",
+        "when": [
+          "2024-10-31"
+        ],
+        "who": [
+          ""
+        ],
+        "where": [
+          "LA Furniture Store - Orange County"
+        ],
+        "what": [
+          "Relaxing and bonding with my shaggy dog"
+        ],
+        "natural_when": [
+          "2024-10-31"
+        ],
+        "emotion": "",
+        "created_at": "2024-12-04 20:14:47",
+        "updated_at": "2024-12-04 20:14:47",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/F9E81B91-0BCA-4967-B7BC-9D69239AE61D.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "user",
+            "content": "Update what to Relaxing and bonding with my shaggy dog, Update where to LA Furniture Store - Orange County, Update when to 2024-10-31, "
+          }
+        ],
+        "session_id": "ab29173a64b84dbdb210cc181d0e494a",
+        "draft": false
+      }
+    },
+    {
+      "id": "m11",
+      "context": {
+        "memory_id": "m11",
+        "summary": "",
+        "comments_summary": "",
+        "when": [
+          "2024-12-04"
+        ],
+        "who": [
+          ""
+        ],
+        "where": [
+          "in an open field"
+        ],
+        "what": [
+          "Strolling through a peaceful field and pausing to take a reflective pose for a photo."
+        ],
+        "natural_when": [
+          "2024-12-04"
+        ],
+        "emotion": "",
+        "created_at": "2024-12-04 20:15:55",
+        "updated_at": "2024-12-04 20:15:55",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/F37E5682-E325-4F73-84A9-7D6F3EF36E51.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "user",
+            "content": "Update what to Strolling through a peaceful field and pausing to take a reflective pose for a photo., Update where to in an open field, Update when to , "
+          }
+        ],
+        "session_id": "c7aceb41d01f4490ae9ccf1452fe954f",
+        "draft": false
+      }
+    },
+    {
+      "id": "m12",
+      "context": {
+        "memory_id": "m12",
+        "summary": "This is a cherished photo of our middle son Jack and our dog Sully, taken at a school or community event on 2024-12-04. Holly and I adore this memory.",
+        "comments_summary": "",
+        "when": [
+          "2024-12-04"
+        ],
+        "who": [
+          ""
+        ],
+        "where": [
+          "at a school or community event"
+        ],
+        "what": [
+          "This is a great picture of when our middle son Jack was young with our dig Sully.  Holly and i love this photo.Capturing A Fun Moment With Friends During Childhood."
+        ],
+        "natural_when": [
+          "2024-12-04"
+        ],
+        "emotion": "",
+        "created_at": "2024-12-04 20:16:56",
+        "updated_at": "2024-12-04 20:16:56",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/98B6A3C4-9E36-4BE1-9EAA-70DD9CD3EE19.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "user",
+            "content": "Update what to Capturing a fun moment with friends during childhood., Update where to at a school or community event, Update when to , "
+          }
+        ],
+        "session_id": "d2443b119fd84778a0863d64b08bf4d3",
+        "draft": false
+      }
+    }
+  ],
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which memories capture meaningful family transitions and celebrations, and how do they connect across time?",
+      "answer_gold": "The dinner with Stella at Marley's house before she left for Liberty University and the family's first football game at Liberty with Marley and her best friend Bethy both mark important moments of transition and pride. Later, the cherished photo of Jack with their dog Sully reflects enduring family love and nostalgia.",
+      "evidence": ["m01", "m02", "m12"]
+    },
+    {
+      "qid": "qa_002",
+      "question": "How do professional and social gatherings reflect the user's sense of teamwork and community?",
+      "answer_gold": "The Tobu management lunch at the Sicilian Butcher focused on strategizing for the beta launch, while later gatherings at The Event Loft, Bello Chef's Table, and The Sicilian Butcher show continued engagement with colleagues and friends. These events reveal a strong appreciation for collaboration and shared success.",
+      "evidence": ["m04", "m06", "m07", "m09"]
+    },
+    {
+      "qid": "qa_003",
+      "question": "Which memories highlight reconnection and the passage of time within family relationships?",
+      "answer_gold": "The reunion lunch at Kachina in Newport Beach with Patrick's parents, cousin Jordan, and fiancée Ashley—after more than 30 years apart—shows deep family reconnection. Combined with the Liberty University football weekend spent with Marley and Holly, it illustrates gratitude for renewed bonds and family continuity.",
+      "evidence": ["m02", "m05"]
+    },
+    {
+      "qid": "qa_004",
+      "question": "In what ways do pets appear across the user's memories, and what emotions do they symbolize?",
+      "answer_gold": "The small black and brown dog sitting calmly on a bed at the summer house and the later memory of Jack with the family dog Sully both represent peace, comfort, and companionship. These moments capture the warmth pets bring to family life across generations.",
+      "evidence": ["m03", "m12"]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How do the user's late-2024 memories together reflect joy, reflection, and a balance of personal and professional life?",
+      "answer_gold": "From celebratory dinners and fun outings with friends at Urban Outfitters and Bello Chef's Table to peaceful moments strolling through open fields, the user's late-2024 memories reveal gratitude, connection, and serenity—balancing career achievements with moments of reflection and simple happiness.",
+      "evidence": ["m06", "m07", "m08", "m11"]
+    }
+  ]
+}

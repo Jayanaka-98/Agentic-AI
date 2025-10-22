@@ -1,0 +1,317 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "On January 15, 2025, in Ann Arbor, Emily studied late at night in the library, surrounded by open books and a glowing laptop screen.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-15"
+        ],
+        "who": [
+          "Emily"
+        ],
+        "where": [
+          "Ann Arbor, MI"
+        ],
+        "what": [
+          "Studying in the library."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "On March 2, 2025, in Chicago, Emily posed with her friend Sarah at Millennium Park, smiling in front of Cloud Gate on a chilly afternoon.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-02"
+        ],
+        "who": [
+          "Emily",
+          "Sarah"
+        ],
+        "where": [
+          "Chicago, IL"
+        ],
+        "what": [
+          "Tourist outing with a friend."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "On May 10, 2025, in Boston, Emily celebrated her cousin Alex's graduation, holding balloons while family members gathered in the background.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-10"
+        ],
+        "who": [
+          "Emily",
+          "Alex"
+        ],
+        "where": [
+          "Boston, MA"
+        ],
+        "what": [
+          "Graduation celebration."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "On July 4, 2025, in New York City, Emily watched fireworks over the Hudson River, standing with her friend Daniel among a cheering crowd.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-04"
+        ],
+        "who": [
+          "Emily",
+          "Daniel"
+        ],
+        "where": [
+          "New York, NY"
+        ],
+        "what": [
+          "Independence Day fireworks."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "On August 18, 2025, in Seattle, Emily and her parents posed together at Pike Place Market, holding bouquets of flowers near colorful vendor stalls.",
+        "comments_summary": "",
+        "when": [
+          "2025-08-18"
+        ],
+        "who": [
+          "Emily",
+          "Helen",
+          "Robert"
+        ],
+        "where": [
+          "Seattle, WA"
+        ],
+        "what": [
+          "Family market visit."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "On September 12, 2025, in Toronto, Emily stood with her college friend Omar at the base of the CN Tower, enjoying ice cream on a sunny afternoon.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-12"
+        ],
+        "who": [
+          "Emily",
+          "Omar"
+        ],
+        "where": [
+          "Toronto, Canada"
+        ],
+        "what": [
+          "Tourist outing near CN Tower."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "On October 5, 2025, in Austin, Emily laughed with Sarah at a food truck festival, both holding tacos under strings of lights.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-05"
+        ],
+        "who": [
+          "Emily",
+          "Sarah"
+        ],
+        "where": [
+          "Austin, TX"
+        ],
+        "what": [
+          "Food truck festival with a friend."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "On November 23, 2025, in San Francisco, Emily posed on the Golden Gate Bridge with Alex, fog rolling in behind them.",
+        "comments_summary": "",
+        "when": [
+          "2025-11-23"
+        ],
+        "who": [
+          "Emily",
+          "Alex"
+        ],
+        "where": [
+          "San Francisco, CA"
+        ],
+        "what": [
+          "Golden Gate Bridge walk."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "On December 20, 2025, in Denver, Emily and Daniel relaxed in a ski lodge, sitting by the fireplace with mugs of hot chocolate.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-20"
+        ],
+        "who": [
+          "Emily",
+          "Daniel"
+        ],
+        "where": [
+          "Denver, CO"
+        ],
+        "what": [
+          "Winter ski lodge trip."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "On December 31, 2025, in Boston, Emily took a selfie with friends at a New Year's Eve party, with confetti and streamers filling the background.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-31"
+        ],
+        "who": [
+          "Emily",
+          "Sarah",
+          "Omar",
+          "Daniel"
+        ],
+        "where": [
+          "Boston, MA"
+        ],
+        "what": [
+          "New Year's Eve celebration."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

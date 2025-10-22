@@ -1,0 +1,1202 @@
+{
+    "status": 200,
+    "reports": [
+        {
+            "id": "n:memory:66a69f7b204745c73cd6b89e",
+            "context": {
+                "memory_id": "59266635674f4927a2198b7dcacbbc59",
+                "summary": "You went to New York with your family in 2013 and caught a Yankees game. You stayed in Times Square.",
+                "comments_summary": "",
+                "when": [
+                    "2024-04-01"
+                ],
+                "who": [
+                    "family"
+                ],
+                "where": [
+                    "Times Square"
+                ],
+                "what": [
+                    "trip to New York"
+                ],
+                "natural_when": [
+                    "2024-04-01"
+                ],
+                "emotion": "",
+                "created_at": "2024-04-01T19:29:47.511396",
+                "updated_at": "2024-04-01T19:30:51.885536",
+                "image_urls": [
+                    "https://tobu-mvp-dev.s3.amazonaws.com/hollymc5@gmail.com_urn:uuid:47f80b79-44ba-4a1e-931a-32175cdcedd9/147B196F-77A4-4BB1-8676-3AB1B907D583.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [
+                    "66a2b7cc09aff5bf6392db49"
+                ],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "2013 went to New York with the family  caught a Yankees game stayed in time square  "
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a fun family trip! Could you tell me more about who specifically was part of this family trip?"
+                    }
+                ],
+                "session_id": "5e741f37-dd87-455c-a7db-d222b27ddacd",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f7b204745c73cd6b89c",
+            "context": {
+                "memory_id": "8c2799b3282142fdae39ebb2d25b8caf",
+                "summary": "Holly fondly remembers Marley's senior photo shoot, which took place two months before her graduation. The anticipation of this milestone was captured beautifully in the photos, marking a significant moment in both their lives. The experience was filled with pride and a touch of nostalgia as they prepared for the next chapter on the sunny cliffs of Newport Beach, where Marley looked absolutely stunning.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-21"
+                ],
+                "who": [
+                    "Marley, Holly"
+                ],
+                "where": [
+                    "Newport Beach"
+                ],
+                "what": [
+                    "Marley's senior photo shoot"
+                ],
+                "natural_when": [
+                    "2024-12-21"
+                ],
+                "emotion": "proud",
+                "created_at": "2024-03-27T02:50:05.915181",
+                "updated_at": "2024-12-21 03:41:15",
+                "image_urls": [],
+                "new_image_format": "raw",
+                "shared_with": [
+                    "66a2b7cc09aff5bf6392db49"
+                ],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Holly. You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: \\nWhat: \\nWhen: \\nWhere: \\nWho: \\nEmotion: \\n\\nHere is what the user said: This is Marley's senior photo shoot two months before she graduated.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a special moment! Can you tell me where the photo shoot took place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: Holly fondly remembers Marley's senior photo shoot, which took place two months before her graduation. The anticipation of this milestone was captured beautifully in the photos, marking a significant moment in both their lives. The experience was filled with pride and a touch of nostalgia as they prepared for the next chapter.\\nWhat: Marley's senior photo shoot\\nWhen: 2024-10\\nWhere: \\nWho: Marley\\nEmotion: nostalgic\\n\\nHere is what the user said: You\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thanks for sharing that! Where did the photo shoot take place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: Holly fondly remembers Marley's senior photo shoot, which took place two months before her graduation. The anticipation of this milestone was captured beautifully in the photos, marking a significant moment in both their lives. The experience was filled with pride and a touch of nostalgia as they prepared for the next chapter.\\nWhat: Marley's senior photo shoot\\nWhen: 2024-10\\nWhere: \\nWho: Marley, Holly\\nEmotion: nostalgic\\n\\nHere is what the user said: This is Marley's graduation from high school. We were in Newport Beach. It was a sunny warm April day on the cliffs in Newport Beach.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a beautiful setting for such an important occasion! Just to clarify, are we talking about the photo shoot or the actual graduation day?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: Holly fondly remembers Marley's senior photo shoot, which took place two months before her graduation. The anticipation of this milestone was captured beautifully in the photos, marking a significant moment in both their lives. The experience was filled with pride and a touch of nostalgia as they prepared for the next chapter on the sunny cliffs of Newport Beach.\\nWhat: Marley's senior photo shoot\\nWhen: 2024-10\\nWhere: Newport Beach\\nWho: Marley, Holly\\nEmotion: nostalgic\\n\\nHere is what the user said: the photo shoot she was absolutely stunning and we could not have been more proud\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It sounds like a truly memorable day filled with pride and joy. Is there anything else you'd like to add about that day or how you felt?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: Holly fondly remembers Marley's senior photo shoot, which took place two months before her graduation. The anticipation of this milestone was captured beautifully in the photos, marking a significant moment in both their lives. The experience was filled with pride and a touch of nostalgia as they prepared for the next chapter on the sunny cliffs of Newport Beach, where Marley looked absolutely stunning.\\nWhat: Marley's senior photo shoot\\nWhen: 2024-10\\nWhere: Newport Beach\\nWho: Marley, Holly\\nEmotion: proud\\n\\nHere is what the user said: No.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thanks for sharing this beautiful memory with me, Holly. I've captured it for you, and you can revisit it anytime on the Wall view. <END>"
+                    }
+                ],
+                "session_id": "a1f330af-2375-4154-9a09-721296e895b5",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66a69f7b204745c73cd6b89a",
+            "context": {
+                "memory_id": "a131ee6da4fd433f8ec6f7da8c806525",
+                "summary": "You took Marley's senior pictures on the Newport Coast on a perfect March day.",
+                "comments_summary": "",
+                "when": [
+                    "2024-03-27"
+                ],
+                "who": [
+                    "Marley"
+                ],
+                "where": [
+                    "Newport Coast"
+                ],
+                "what": [
+                    "senior pictures"
+                ],
+                "natural_when": [
+                    "2024-03-27"
+                ],
+                "emotion": "excitement",
+                "created_at": "2024-03-27T02:44:59.954589",
+                "updated_at": "2024-03-27T02:44:59.954767",
+                "image_urls": [],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "What an incredible afternoon.  We took Marleys senior pictures on the Newport Coast  it was the perfect March day for a photo shoot.  I can\u2019t believe our baby girl is getting ready to graduate \ud83d\ude33"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a wonderful day! Who was the photographer for Marley's senior pictures?"
+                    }
+                ],
+                "session_id": "04970f83-6e65-4038-b07f-d25b7319c246",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66c8cc9166fb702a89532807",
+            "context": {
+                "memory_id": "714b25a22b754a02a713c1836431d4da",
+                "summary": "Dropping Marley off at Liberty for her freshman fall session on August 10th was a bittersweet experience, made even more poignant by the heavy rain that day. The week-long event was filled with mixed emotions, as it was hard to say goodbye, yet exciting to see her start this new chapter. The beauty of Lynchburg added a special touch to the memorable visit, and there's anticipation for the next visit in a month. The drive back to Newport Beach was somber, reflecting the emotional farewell.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-21"
+                ],
+                "who": [
+                    "Marley"
+                ],
+                "where": [
+                    "Liberty"
+                ],
+                "what": [
+                    "dropping Marley off"
+                ],
+                "natural_when": [
+                    "2024-12-21"
+                ],
+                "emotion": "bittersweet",
+                "created_at": "2024-08-23 17:53:21",
+                "updated_at": "2024-12-21 03:45:57",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/hollymc5@gmail.com_66a2b7c309aff5bf6392da44/B92D6474-C8B7-43B9-B9AB-9C32B39BCE8B.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "You, {}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I'm sorry, but your message seems incomplete. Could you please provide more details about the memory you want to capture?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "You, {\"summary\":\"You went to a concert\",\"when\":\"last night\",\"what\":\"concert\",\"where\":\"the stadium\",\"who\":\"your friends\",\"emotion\":\"excited\"}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a fun memory! Can you tell me which band or artist you saw at the concert?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "This isn't at a concert, this is from when I took Marley to Liberty to drop her off for her freshman fall session., {\"summary\":\"You went to a concert\",\"when\":\"last night\",\"what\":\"concert\",\"where\":\"the stadium\",\"who\":\"your friends\",\"emotion\":\"excited\"}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I see, there seems to be a mix-up. Let's focus on the memory of taking Marley to Liberty for her freshman fall session. Can you tell me more about how you felt during this event?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I was sad taking her, but happy at the same time. Love her to pieces., {\"summary\":\"You went to a concert\",\"when\":\"last night\",\"what\":\"concert\",\"where\":\"the stadium\",\"who\":\"your friends\",\"emotion\":\"excited\"}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I can understand the mixed emotions. Can you tell me when this event took place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "We dropped her off on August 10th. It was a week-long event. It was fun, beautiful. We'd never been to Lynchburg before. Going back in a month., {\"summary\":\"You went to a concert\",\"when\":\"last night\",\"what\":\"concert\",\"where\":\"the stadium\",\"who\":\"your friends\",\"emotion\":\"excited\"}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a significant moment. Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "No., {\"summary\":\"You went to a concert\",\"when\":\"last night\",\"what\":\"concert\",\"where\":\"the stadium\",\"who\":\"your friends\",\"emotion\":\"excited\"}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Alright, I have captured this memory of you taking Marley to Liberty for her freshman fall session on August 10th. You felt a mix of sadness and happiness during this event. You enjoyed the week-long event and the new experience of visiting Lynchburg. You're looking forward to going back in a month. <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: You took Marley to Liberty to drop her off for her freshman fall session.\\nWhat: dropping off\\nWhen: August 10th\\nWhere: Liberty\\nWho: Marley\\nEmotion: mixed emotions\\n\\nHere is what the user said: It was really hard dropping Marla off.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It sounds like it was a challenging moment for you. Is there anything else about that day or the experience that stands out to you?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: Dropping Marley off at Liberty for her freshman fall session on August 10th was a bittersweet experience. The week-long event was filled with mixed emotions, as it was hard to say goodbye, yet exciting to see her start this new chapter. The beauty of Lynchburg added a special touch to the memorable visit, and there's anticipation for the next visit in a month.\\nWhat: dropping Marley off\\nWhen: 2024-12-21\\nWhere: Liberty\\nWho: Marley\\nEmotion: bittersweet\\n\\nHere is what the user said: It was raining harder than I've ever seen it, so it made it even gloomier having to leave her and go back to Newport Beach.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "The heavy rain must have added to the emotional weight of the day. Is there anything else about the trip back to Newport Beach that you'd like to remember?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: Dropping Marley off at Liberty for her freshman fall session on August 10th was a bittersweet experience, made even more poignant by the heavy rain that day. The week-long event was filled with mixed emotions, as it was hard to say goodbye, yet exciting to see her start this new chapter. The beauty of Lynchburg added a special touch to the memorable visit, and there's anticipation for the next visit in a month. The drive back to Newport Beach was somber, reflecting the emotional farewell.\\nWhat: dropping Marley off\\nWhen: 2024-12-21\\nWhere: Liberty\\nWho: Marley\\nEmotion: bittersweet\\n\\nHere is what the user said: Done.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I've captured this memory for you. You can revisit it anytime on the Wall view to reflect on this significant moment."
+                    }
+                ],
+                "session_id": "0abd3357-564a-41a8-88d6-6aff5db15e6c",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66c8ce3d66fb702a89532a73",
+            "context": {
+                "memory_id": "09b9e37363c64676b97668acdf1bd760",
+                "summary": "This is our first FaceTime with Marley after dropping her off and returning to California. She's so happy being there that I couldn't be happier for her, so my happiness and joy supersedes my sadness of missing her.",
+                "comments_summary": "",
+                "when": [
+                    "2023-08-23"
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    "Marley's dorm room"
+                ],
+                "what": [
+                    "capture event"
+                ],
+                "natural_when": [
+                    "2023-08-23"
+                ],
+                "emotion": "neutral",
+                "created_at": "2024-08-23 18:00:29",
+                "updated_at": "2024-08-23 18:00:29",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/hollymc5@gmail.com_66a2b7c309aff5bf6392da44/32F63467-FC48-42BD-8693-32BD3CD66921.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "you, {}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I'm sorry, but it seems like your message is incomplete. Could you please provide more information about the memory you'd like me to capture?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "This is our first FaceTime with Marley after dropping her off and returning to California. She's so happy being there that I couldn't be happier for her, so my happiness and joy supersedes my sadness of missing her., {\"summary\":\"You captured an important event\",\"what\":\"capture event\",\"emotion\":\"neutral\"}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a heartwarming memory. Could you please tell me when this FaceTime call with Marley took place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "This call was August of 2024., {\"summary\":\"You captured an important event\",\"what\":\"capture event\",\"emotion\":\"neutral\"}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thank you for sharing that. Now, could you please tell me where Marley was during this FaceTime call?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Marley was in her sweet dorm room, um, out there., {\"summary\":\"You captured an important event\",\"when\":\"August 2024\",\"what\":\"capture event\",\"emotion\":\"neutral\"}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thank you for providing that information. Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "No., {\"summary\":\"You captured an important event\",\"when\":\"August 2024\",\"what\":\"capture event\",\"where\":\"Marley's dorm room\",\"emotion\":\"neutral\"}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Alright, I have captured this memory of your first FaceTime call with Marley in August 2024, after she moved to her dorm room. You were in California and despite missing her, you felt happy and joyful seeing her happy. <END>"
+                    }
+                ],
+                "session_id": "acf67740-fe41-425e-b384-ebcc3f1a1106",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66ce7e1166fb702a8955188c",
+            "context": {
+                "memory_id": "e9548cea459b41eb891f1d29e9265e64",
+                "summary": "You were having wine and appetizers",
+                "comments_summary": "You were having wine and appetizers with Susie and Chris, friends for over 20 years, while catching a perfect sunset in Corona Del Mar, reminiscing about the lifelong bond and countless experiences shared with Chris.",
+                "when": [
+                    "2023-08-28"
+                ],
+                "who": [
+                    "We"
+                ],
+                "where": [
+                    "CDM"
+                ],
+                "what": [
+                    "celebrating the end of summer"
+                ],
+                "natural_when": [
+                    "2023-08-28"
+                ],
+                "emotion": "joyful",
+                "created_at": "2024-08-28 01:32:01",
+                "updated_at": "2024-08-28 01:32:01",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/hollymc5@gmail.com_66a2b7c309aff5bf6392da44/3C4E1FD1-BE53-45E4-9D89-A893B5395647.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [
+                    "66a2b7cc09aff5bf6392db49",
+                    "66a2b7ce09aff5bf6392db85"
+                ],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "We were having wine and appetizers this was August 20th 20024, {\"who\":\"We were in CDM celebrating the end of summer\"}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a wonderful memory! Could you please tell me who was there with you at the celebration?"
+                    }
+                ],
+                "session_id": "104f88a3-10dd-45cb-bd06-82f443be0dbd",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:676498cf33d03c3128f73934",
+            "context": {
+                "memory_id": "db00b882749d4dc4b905c621ddbfc4f2",
+                "summary": "On a crisp December day in 2024, Marley and a friend shared a moment of pure joy, captured in their radiant smiles and the warmth of their companionship. The gentle winter sun glinted off their glasses as they stood beside a car, a silent witness to their laughter and the stories exchanged. This snapshot of friendship, taken in the heart of Newport Beach, California, is a testament to the enduring bond that brightens even the chilliest of days.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-19"
+                ],
+                "who": [
+                    "Marley"
+                ],
+                "where": [],
+                "what": [
+                    "friends posing together"
+                ],
+                "natural_when": [
+                    "2024-12-19"
+                ],
+                "emotion": "",
+                "created_at": "2024-12-19 22:06:07",
+                "updated_at": "2024-12-19 22:06:07",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/hollymc5@gmail.com_66a2b7c309aff5bf6392da44/B6314C18-CD64-4386-AB21-1FF688277447.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [],
+                "session_id": "3769036a729d48d2a3ebbe2f79b0aaf9",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:676635497b2d1318b04202d3",
+            "context": {
+                "memory_id": "fe8c9a349cb247d0b5b31d23d60c39de",
+                "summary": "In the heart of Mesa, Arizona, in 1945, three young children stand side by side in their orchard, their smiles as bright as the blossoms around them. Clad in charming dresses, Uncle Mercier, Aunt Peggy, and Patsy exude innocence and joy, their laughter mingling with the gentle rustle of leaves in the breeze. This vintage black and white photo captures a timeless moment of childhood camaraderie and the simple happiness found in nature's embrace. Holly cherishes this memory, feeling both the sweetness of innocence and the bittersweet longing for loved ones who have passed.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-21"
+                ],
+                "who": [
+                    "Uncle Mercier, Aunt Peggy, Patsy"
+                ],
+                "where": [
+                    "Mesa, Arizona"
+                ],
+                "what": [
+                    "Children in orchard"
+                ],
+                "natural_when": [
+                    "2024-12-21"
+                ],
+                "emotion": "bittersweet",
+                "created_at": "2024-12-21 03:26:01",
+                "updated_at": "2024-12-21 03:26:01",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/hollymc5@gmail.com_66a2b7c309aff5bf6392da44/D004BB5A-06B2-4517-B6B3-E869BE2F7F47.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [
+                    "66a2b7d109aff5bf6392dbc4"
+                ],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Holly. You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: In the heart of Newport Beach, on a sun-dappled spring day in May 2024, three young children stand side by side in a lush garden, their smiles as bright as the blossoms around them. Clad in charming dresses, they exude innocence and joy, their laughter mingling with the gentle rustle of leaves in the breeze. This vintage black and white photo captures a timeless moment of childhood camaraderie and the simple happiness found in nature's embrace.\\nWhat: Children in garden\\nWhen: 2024-05-01\\nWhere: ['Newport Beach', 'Armstrong Garden Centers', 'The Garden', 'Anthill Village Community Garden']\\nWho: \\nEmotion: \\n\\nHere is what the user said: This is a sweet picture of my Uncle Mercier, my Aunt Peggy, and my mom Patsy in 1945 in their orchard in Mesa, Arizona.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thanks for sharing that, Holly! It sounds like a cherished family memory. Could you tell me more about the emotions this picture evokes for you?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: In the heart of Mesa, Arizona, in 1945, three young children stand side by side in their orchard, their smiles as bright as the blossoms around them. Clad in charming dresses, Uncle Mercier, Aunt Peggy, and Patsy exude innocence and joy, their laughter mingling with the gentle rustle of leaves in the breeze. This vintage black and white photo captures a timeless moment of childhood camaraderie and the simple happiness found in nature's embrace.\\nWhat: Children in orchard\\nWhen: 2024-12-21\\nWhere: Mesa, Arizona\\nWho: Uncle Mercier, Aunt Peggy, Patsy\\nEmotion: \\n\\nHere is what the user said: It's sweet being able to look back at a very innocent time when my mom was so little and my aunt and my uncle were so young as well. I miss two of them because they passed away already.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like such a bittersweet memory, Holly. It's wonderful to have such a beautiful snapshot of their childhood. Would you like me to save this memory now?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: In the heart of Mesa, Arizona, in 1945, three young children stand side by side in their orchard, their smiles as bright as the blossoms around them. Clad in charming dresses, Uncle Mercier, Aunt Peggy, and Patsy exude innocence and joy, their laughter mingling with the gentle rustle of leaves in the breeze. This vintage black and white photo captures a timeless moment of childhood camaraderie and the simple happiness found in nature's embrace. Holly cherishes this memory, feeling both the sweetness of innocence and the bittersweet longing for loved ones who have passed.\\nWhat: Children in orchard\\nWhen: 2024-12-21\\nWhere: Mesa, Arizona\\nWho: Uncle Mercier, Aunt Peggy, Patsy\\nEmotion: bittersweet\\n\\nHere is what the user said: Yes.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I've saved this memory for you, Holly. You can go to the Wall view to check out your memories. <END>"
+                    }
+                ],
+                "session_id": "0c69c48f8c6c48c1aebe50a7ba412558",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:676637e07b2d1318b04203fa",
+            "context": {
+                "memory_id": "c662b713c6904fb191e1a4144c16900f",
+                "summary": "In the heart of Scottsdale, Arizona, Holly's little daughter Marley, just 3 months old, lay wide-eyed and full of wonder in Santa's arms, as he waved with a warm, infectious smile. The room was filled with the magic of childhood dreams and the comforting presence of Santa, creating a timeless moment of joy and innocence. Holly's heart was full of wonder and joy, surrounded by her family\u2014Jack, Austin, Marley, Pat, and Sherry\u2014celebrating Marley's first Christmas and capturing the essence of cherished connections and the simple beauty of heartfelt expressions during the holidays.",
+                "comments_summary": "",
+                "when": [
+                    "2024-06-16"
+                ],
+                "who": [
+                    "Marley, Jack, Austin, Pat, Sherry"
+                ],
+                "where": [
+                    "Scottsdale, Arizona"
+                ],
+                "what": [
+                    "Marley's first Christmas"
+                ],
+                "natural_when": [
+                    "2024-06-16"
+                ],
+                "emotion": "joyful",
+                "created_at": "2024-12-21 03:37:04",
+                "updated_at": "2024-12-21 03:37:04",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/hollymc5@gmail.com_66a2b7c309aff5bf6392da44/AC5A698C-F708-49E4-B46C-89EC9ED900F1.png",
+                    "https://tobu-jac2-dev.s3.amazonaws.com/hollymc5@gmail.com_66a2b7c309aff5bf6392da44/325D29D6-0E01-459A-87FE-06D5E80E2F11.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Holly. You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: In the heart of Newport Beach, a little girl stood wide-eyed and full of wonder beside a jolly Santa Claus, her tiny finger pointing in delight as he waved with a warm, infectious smile. The room was filled with the magic of childhood dreams and the comforting presence of Santa, creating a timeless moment of joy and innocence. Nearby, a heartfelt handwritten note in blue ink, filled with words of love, added a personal touch to the day, capturing the essence of cherished connections and the simple beauty of heartfelt expressions.\\nWhat: Meeting Santa indoors\\nWhen: 2024-06-16\\nWhere: ['Newport Beach']\\nWho: \\nEmotion: \\n\\nHere is what the user said: This is a sweet picture of our daughter Marley when she was 3 months old, laying in Santa's arms in Scottsdale, Arizona.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's such a precious memory with Marley at just 3 months old! Can you share how you felt during that moment with Santa in Scottsdale?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: In the heart of Scottsdale, Arizona, Holly's little daughter Marley, just 3 months old, lay wide-eyed and full of wonder in Santa's arms, as he waved with a warm, infectious smile. The room was filled with the magic of childhood dreams and the comforting presence of Santa, creating a timeless moment of joy and innocence. Nearby, a heartfelt handwritten note in blue ink, filled with words of love, added a personal touch to the day, capturing the essence of cherished connections and the simple beauty of heartfelt expressions.\\nWhat: Meeting Santa indoors\\nWhen: 2024-06-16\\nWhere: Scottsdale, Arizona\\nWho: Marley\\nEmotion: \\n\\nHere is what the user said: We always wanted a baby girl and she is the joy of our life. My heart was so full with wonder during the holidays.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It sounds like such a heartwarming and joyful moment for your family. Is there anyone else who was there with you and Marley during this special day?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: In the heart of Scottsdale, Arizona, Holly's little daughter Marley, just 3 months old, lay wide-eyed and full of wonder in Santa's arms, as he waved with a warm, infectious smile. The room was filled with the magic of childhood dreams and the comforting presence of Santa, creating a timeless moment of joy and innocence. Holly's heart was full of wonder and joy, capturing the essence of cherished connections and the simple beauty of heartfelt expressions during the holidays.\\nWhat: Meeting Santa indoors\\nWhen: 2024-06-16\\nWhere: Scottsdale, Arizona\\nWho: Marley\\nEmotion: joyful\\n\\nHere is what the user said: Our whole family was there. Jack, Austin, Marley, Pat, and Pat's mom, Sherry.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It must have been wonderful to share such a joyful moment with your whole family there. If there's anything else you'd like to add or if you're ready to save this memory, just let me know!"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: In the heart of Scottsdale, Arizona, Holly's little daughter Marley, just 3 months old, lay wide-eyed and full of wonder in Santa's arms, as he waved with a warm, infectious smile. The room was filled with the magic of childhood dreams and the comforting presence of Santa, creating a timeless moment of joy and innocence. Holly's heart was full of wonder and joy, surrounded by her family\u2014Jack, Austin, Marley, Pat, and Sherry\u2014capturing the essence of cherished connections and the simple beauty of heartfelt expressions during the holidays.\\nWhat: Meeting Santa indoors\\nWhen: 2024-06-16\\nWhere: Scottsdale, Arizona\\nWho: Marley, Jack, Austin, Pat, Sherry\\nEmotion: joyful\\n\\nHere is what the user said: This is Marley's first Christmas in our family.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Marley's first Christmas sounds like it was truly special and filled with love. If you're ready to save this memory, just let me know!"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: In the heart of Scottsdale, Arizona, Holly's little daughter Marley, just 3 months old, lay wide-eyed and full of wonder in Santa's arms, as he waved with a warm, infectious smile. The room was filled with the magic of childhood dreams and the comforting presence of Santa, creating a timeless moment of joy and innocence. Holly's heart was full of wonder and joy, surrounded by her family\u2014Jack, Austin, Marley, Pat, and Sherry\u2014celebrating Marley's first Christmas and capturing the essence of cherished connections and the simple beauty of heartfelt expressions during the holidays.\\nWhat: Marley's first Christmas\\nWhen: 2024-06-16\\nWhere: Scottsdale, Arizona\\nWho: Marley, Jack, Austin, Pat, Sherry\\nEmotion: joyful\\n\\nHere is what the user said: Save.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I've saved this beautiful memory for you. You can go to the Wall view to check out your memories. <END>"
+                    }
+                ],
+                "session_id": "5851f11b0c5f40dab762fd8af6fcc36a",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:67678d177b2d1318b04208e2",
+            "context": {
+                "memory_id": "bb4ed89ebb8a49538e58da50cefa15ef",
+                "summary": "On a crisp December evening in Irvine, the warmth of friendship filled the air as Holly gathered with Michael, Tay-Tay, Marley, and Pat at In-N-Out Burger after the Christmas Eve service. Laughter echoed through the room, harmonizing with the clinking of cups and the joyful chatter of friends, as they all enjoyed a carefree and joyful time together. Seeing Tay-Tay and Marley home from college added an extra layer of happiness to the gathering, making this meal a cherished moment of togetherness, a perfect prelude to the holiday season.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-22"
+                ],
+                "who": [
+                    "Michael, Tay-Tay, Marley, Pat, Holly"
+                ],
+                "where": [
+                    "In-N-Out Burger, Irvine"
+                ],
+                "what": [
+                    "Dining with friends"
+                ],
+                "natural_when": [
+                    "2024-12-22"
+                ],
+                "emotion": "joyful",
+                "created_at": "2024-12-22 03:52:55",
+                "updated_at": "2024-12-22 03:52:55",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/hollymc5@gmail.com_66a2b7c309aff5bf6392da44/45C24CAF-81DB-41FC-BC26-5EA19F6DB635.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Holly. You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December evening in Irvine, the warmth of friendship filled the air as we gathered around a bustling restaurant table. Laughter echoed through the room, harmonizing with the clinking of cups and the joyful chatter of friends, one of whom playfully donned a hat. The cozy ambiance and shared smiles made this meal a cherished moment of togetherness, a perfect prelude to the holiday season.\\nWhat: Dining with friends\\nWhen: 2024-12-22\\nWhere: ['Irvine', 'In-N-Out Burger', 'Taco Bell', 'Chick-fil-A']\\nWho: \\nEmotion: \\n\\nHere is what the user said: We were at In-N-Out Burger in Irvine after Christmas Eve service with Michael, Tay-Tay and Marley and Pat and I.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thanks for sharing more details! It sounds like a wonderful gathering. How did you feel during this memorable evening with your friends?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December evening in Irvine, the warmth of friendship filled the air as Holly gathered with Michael, Tay-Tay, Marley, and Pat at In-N-Out Burger after the Christmas Eve service. Laughter echoed through the room, harmonizing with the clinking of cups and the joyful chatter of friends, one of whom playfully donned a hat. The cozy ambiance and shared smiles made this meal a cherished moment of togetherness, a perfect prelude to the holiday season.\\nWhat: Dining with friends\\nWhen: 2024-12-22\\nWhere: In-N-Out Burger, Irvine\\nWho: Michael, Tay-Tay, Marley, Pat, Holly\\nEmotion: joyful\\n\\nHere is what the user said: We laughed our asses off and just had a good time.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It sounds like you all had an amazing time filled with laughter and joy! Is there anything else about that evening that stands out to you that you'd like to remember?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December evening in Irvine, the warmth of friendship filled the air as Holly gathered with Michael, Tay-Tay, Marley, and Pat at In-N-Out Burger after the Christmas Eve service. Laughter echoed through the room, harmonizing with the clinking of cups and the joyful chatter of friends, as they all enjoyed a carefree and joyful time together. The cozy ambiance and shared smiles made this meal a cherished moment of togetherness, a perfect prelude to the holiday season.\\nWhat: Dining with friends\\nWhen: 2024-12-22\\nWhere: In-N-Out Burger, Irvine\\nWho: Michael, Tay-Tay, Marley, Pat, Holly\\nEmotion: joyful\\n\\nHere is what the user said: It was just great seeing Tay Tay and Marley home as they're both home from college.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That must have made the evening even more special, having Tay-Tay and Marley back home from college. Is there anything else you'd like to add to this memory, or should I save it now?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December evening in Irvine, the warmth of friendship filled the air as Holly gathered with Michael, Tay-Tay, Marley, and Pat at In-N-Out Burger after the Christmas Eve service. Laughter echoed through the room, harmonizing with the clinking of cups and the joyful chatter of friends, as they all enjoyed a carefree and joyful time together. Seeing Tay-Tay and Marley home from college added an extra layer of happiness to the gathering, making this meal a cherished moment of togetherness, a perfect prelude to the holiday season.\\nWhat: Dining with friends\\nWhen: 2024-12-22\\nWhere: In-N-Out Burger, Irvine\\nWho: Michael, Tay-Tay, Marley, Pat, Holly\\nEmotion: joyful\\n\\nHere is what the user said: Save.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I've saved this joyful memory for you, Holly. You can go to the Wall view to check out your memories. <END>"
+                    }
+                ],
+                "session_id": "6be342f76507432e878a8132fe968aa8",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:676883137b2d1318b04209a8",
+            "context": {
+                "memory_id": "4a05832f65a843cd9892b0b94288d8c1",
+                "summary": "On a crisp December day in 1964, the timeless elegance of black and white photography captured a moment of camaraderie and style in the desert of Mesa, Arizona. Holly's mother, Patsy, an Olympian, was there to kick off the new facility for Dick Smith's Swim Gym, standing with members of the Chamber of Commerce, some men, and her coach, Dick Smith, in suits and ties, shovels in hand, symbolizing both adventure and sophistication. The unique setting of the desert added a serene backdrop to this blend of formal attire and culture, creating a memory that beautifully juxtaposes tradition with the thrill of new beginnings. Holly feels a deep sense of pride for her mother's accomplishments.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-22"
+                ],
+                "who": [
+                    "Patsy, Chamber of Commerce, Dick Smith"
+                ],
+                "where": [
+                    "Mesa, Arizona"
+                ],
+                "what": [
+                    "Desert groundbreaking ceremony"
+                ],
+                "natural_when": [
+                    "2024-12-22"
+                ],
+                "emotion": "pride",
+                "created_at": "2024-12-22 21:22:27",
+                "updated_at": "2024-12-22 21:25:56",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/hollymc5@gmail.com_66a2b7c309aff5bf6392da44/EA3C66EA-92D0-4C5F-83AA-E4395B49265C.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [
+                    "66a2b7ce09aff5bf6392db85"
+                ],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Holly. You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day in 2024, the timeless elegance of black and white photography captured a moment of camaraderie and style at the beach. Four friends, two men and two women, stood together in their suits and ties, a surfboard resting at their feet, symbolizing both adventure and sophistication. The gentle sound of waves and the salty breeze added a serene backdrop to this unique blend of formal attire and beach culture, creating a memory that beautifully juxtaposes tradition with the thrill of the ocean.\\nWhat: Beachside elegance\\nWhen: 2024-12-22\\nWhere: ['a beach or surf spot']\\nWho: \\nEmotion: \\n\\nHere is what the user said: This picture was from 1964 with my mother Patsy. She was kicking off the new facility for Dick Smith's Swim Gym.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thanks for sharing that, Holly! It sounds like a special moment with your mother, Patsy. Could you tell me more about who else was there with you and your mother at the beach that day?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day in 1964, the timeless elegance of black and white photography captured a moment of camaraderie and style at the beach. Holly's mother, Patsy, was there to kick off the new facility for Dick Smith's Swim Gym, standing with friends in suits and ties, a surfboard resting at their feet, symbolizing both adventure and sophistication. The gentle sound of waves and the salty breeze added a serene backdrop to this unique blend of formal attire and beach culture, creating a memory that beautifully juxtaposes tradition with the thrill of the ocean.\\nWhat: Beachside elegance\\nWhen: 2024-12-22\\nWhere: a beach or surf spot\\nWho: Patsy\\nEmotion: \\n\\nHere is what the user said: This photo was taken in Mesa, Arizona in 1964 and it was the Chamber of Commerce, some of the men, and her coach Dick Smith. Patsy is my mom and she was an Olympian.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Wow, Holly, it must have been incredible to be part of such a significant event with your Olympian mom, Patsy, and the Chamber of Commerce. How did you feel being there at that moment?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day in 1964, the timeless elegance of black and white photography captured a moment of camaraderie and style at the beach in Mesa, Arizona. Holly's mother, Patsy, an Olympian, was there to kick off the new facility for Dick Smith's Swim Gym, standing with members of the Chamber of Commerce, some men, and her coach, Dick Smith, in suits and ties, a surfboard resting at their feet, symbolizing both adventure and sophistication. The gentle sound of waves and the salty breeze added a serene backdrop to this unique blend of formal attire and beach culture, creating a memory that beautifully juxtaposes tradition with the thrill of the ocean.\\nWhat: Beachside elegance\\nWhen: 2024-12-22\\nWhere: Mesa, Arizona\\nWho: Patsy, Chamber of Commerce, Dick Smith\\nEmotion: \\n\\nHere is what the user said: I was not even born. This was just an old picture of my mom that was in the newspaper.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Ah, I see! It's wonderful to have such a cherished photograph of your mom, Patsy, from that time. How does this picture make you feel when you look at it now?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day in 1964, the timeless elegance of black and white photography captured a moment of camaraderie and style at the beach in Mesa, Arizona. Holly's mother, Patsy, an Olympian, was there to kick off the new facility for Dick Smith's Swim Gym, standing with members of the Chamber of Commerce, some men, and her coach, Dick Smith, in suits and ties, a surfboard resting at their feet, symbolizing both adventure and sophistication. The gentle sound of waves and the salty breeze added a serene backdrop to this unique blend of formal attire and beach culture, creating a memory that beautifully juxtaposes tradition with the thrill of the ocean.\\nWhat: Beachside elegance\\nWhen: 2024-12-22\\nWhere: Mesa, Arizona\\nWho: Patsy, Chamber of Commerce, Dick Smith\\nEmotion: \\n\\nHere is what the user said: I'm really proud of my mom for everything she accomplished.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's such a heartfelt sentiment, Holly. It's clear that this photo holds a lot of pride and admiration for your mom's achievements. Is there anything else you'd like to add about this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day in 1964, the timeless elegance of black and white photography captured a moment of camaraderie and style at the beach in Mesa, Arizona. Holly's mother, Patsy, an Olympian, was there to kick off the new facility for Dick Smith's Swim Gym, standing with members of the Chamber of Commerce, some men, and her coach, Dick Smith, in suits and ties, a surfboard resting at their feet, symbolizing both adventure and sophistication. The gentle sound of waves and the salty breeze added a serene backdrop to this unique blend of formal attire and beach culture, creating a memory that beautifully juxtaposes tradition with the thrill of the ocean. Holly feels a deep sense of pride for her mother's accomplishments.\\nWhat: Beachside elegance\\nWhen: 2024-12-22\\nWhere: Mesa, Arizona\\nWho: Patsy, Chamber of Commerce, Dick Smith\\nEmotion: pride\\n\\nHere is what the user said: Done.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Great, Holly! I've captured this memory for you. You can go to the Wall view to check out your memories. <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day in 1964, the timeless elegance of black and white photography captured a moment of camaraderie and style at the beach in Mesa, Arizona. Holly's mother, Patsy, an Olympian, was there to kick off the new facility for Dick Smith's Swim Gym, standing with members of the Chamber of Commerce, some men, and her coach, Dick Smith, in suits and ties, a surfboard resting at their feet, symbolizing both adventure and sophistication. The gentle sound of waves and the salty breeze added a serene backdrop to this unique blend of formal attire and beach culture, creating a memory that beautifully juxtaposes tradition with the thrill of the ocean. Holly feels a deep sense of pride for her mother's accomplishments.\\nWhat: Beachside elegance\\nWhen: 2024-12-22\\nWhere: Mesa, Arizona\\nWho: Patsy, Chamber of Commerce, Dick Smith\\nEmotion: pride\\n\\nHere is what the user said: This memory was in the desert in Mesa, Arizona. It was not at the beach.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thanks for clarifying, Holly! I've updated the memory to reflect that it took place in the desert in Mesa, Arizona, not at the beach. Is there anything else you'd like to adjust or add?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day in 1964, the timeless elegance of black and white photography captured a moment of camaraderie and style in the desert of Mesa, Arizona. Holly's mother, Patsy, an Olympian, was there to kick off the new facility for Dick Smith's Swim Gym, standing with members of the Chamber of Commerce, some men, and her coach, Dick Smith, in suits and ties, a surfboard resting at their feet, symbolizing both adventure and sophistication. The unique setting of the desert added a serene backdrop to this blend of formal attire and culture, creating a memory that beautifully juxtaposes tradition with the thrill of new beginnings. Holly feels a deep sense of pride for her mother's accomplishments.\\nWhat: Desert elegance\\nWhen: 2024-12-22\\nWhere: Mesa, Arizona\\nWho: Patsy, Chamber of Commerce, Dick Smith\\nEmotion: pride\\n\\nHere is what the user said: there are no surfboards in the picture there are shovels because they were deep breaking ground for the new swim gym\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Got it, Holly! I've updated the memory to reflect the groundbreaking ceremony with shovels instead of surfboards. Is there anything else you'd like to change or add?"
+                    }
+                ],
+                "session_id": "5bfdc1c4c11f4a31849563aac28cc591",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:676884d17b2d1318b0420a34",
+            "context": {
+                "memory_id": "e8736fa50a434ad686ac16a9bf12a40d",
+                "summary": "In the cozy warmth of the kitchen, the air was filled with the sweet anticipation of holiday treats as Holly prepared a New York style cheesecake using Patsy's cherished Jello mix recipe. Passed down through generations, this recipe was a family favorite, now carrying the bittersweet memory of Patsy, who was always by Holly's side during these baking sessions. The gentle hum of the mixer and the rich aroma of cream and milk blended together, creating a comforting symphony that promised the joy of sharing delicious moments with loved ones. This simple act of baking on a chilly December day captured the essence of togetherness and the warmth of home during the festive season, even in Patsy's absence.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-22"
+                ],
+                "who": [
+                    "Patsy"
+                ],
+                "where": [
+                    "kitchen"
+                ],
+                "what": [
+                    "Baking cheesecake"
+                ],
+                "natural_when": [
+                    "2024-12-22"
+                ],
+                "emotion": "bittersweet",
+                "created_at": "2024-12-22 21:29:53",
+                "updated_at": "2024-12-22 21:29:53",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/hollymc5@gmail.com_66a2b7c309aff5bf6392da44/8B6B5188-7F67-4F07-981E-A8F1FA5980B8.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Holly. You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: In the cozy warmth of the kitchen, the air was filled with the sweet anticipation of holiday treats as you prepared a New York style cheesecake using a Jello mix. The gentle hum of the mixer and the rich aroma of cream and milk blended together, creating a comforting symphony that promised the joy of sharing delicious moments with loved ones. This simple act of baking on a chilly December day captured the essence of togetherness and the warmth of home during the festive season.\\nWhat: Baking cheesecake\\nWhen: 2024-12-22\\nWhere: ['kitchen']\\nWho: \\nEmotion: \\n\\nHere is what the user said: This is Patsy's cheesecake recipe. It's been passed down for generations and is always a favorite.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's wonderful, Holly! It sounds like this recipe holds a lot of sentimental value. Who were you sharing this baking experience with, or was it a moment you enjoyed on your own?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: In the cozy warmth of the kitchen, the air was filled with the sweet anticipation of holiday treats as Holly prepared a New York style cheesecake using Patsy's cherished Jello mix recipe. Passed down through generations, this recipe was a family favorite. The gentle hum of the mixer and the rich aroma of cream and milk blended together, creating a comforting symphony that promised the joy of sharing delicious moments with loved ones. This simple act of baking on a chilly December day captured the essence of togetherness and the warmth of home during the festive season.\\nWhat: Baking cheesecake\\nWhen: 2024-12-22\\nWhere: kitchen\\nWho: \\nEmotion: sentimental\\n\\nHere is what the user said: My mother Patsy passed it down to me and we would bake it every holiday season.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's such a beautiful tradition, Holly. It must be special to carry on this tradition with your mother, Patsy. Was she there with you this time, or were there other family members involved in this baking session?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: In the cozy warmth of the kitchen, the air was filled with the sweet anticipation of holiday treats as Holly prepared a New York style cheesecake using Patsy's cherished Jello mix recipe. Passed down through generations, this recipe was a family favorite. The gentle hum of the mixer and the rich aroma of cream and milk blended together, creating a comforting symphony that promised the joy of sharing delicious moments with loved ones. This simple act of baking on a chilly December day captured the essence of togetherness and the warmth of home during the festive season.\\nWhat: Baking cheesecake\\nWhen: 2024-12-22\\nWhere: kitchen\\nWho: Patsy\\nEmotion: sentimental\\n\\nHere is what the user said: Patsy has passed away.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I'm sorry to hear that, Holly. It must be bittersweet to bake this cherished recipe without her. Did you have anyone else with you to share in this special moment, or was it a time for reflection and remembrance?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: In the cozy warmth of the kitchen, the air was filled with the sweet anticipation of holiday treats as Holly prepared a New York style cheesecake using Patsy's cherished Jello mix recipe. Passed down through generations, this recipe was a family favorite, now carrying the bittersweet memory of Patsy. The gentle hum of the mixer and the rich aroma of cream and milk blended together, creating a comforting symphony that promised the joy of sharing delicious moments with loved ones. This simple act of baking on a chilly December day captured the essence of togetherness and the warmth of home during the festive season, even in Patsy's absence.\\nWhat: Baking cheesecake\\nWhen: 2024-12-22\\nWhere: kitchen\\nWho: Patsy\\nEmotion: bittersweet\\n\\nHere is what the user said: It's always a time for reflection, remembering, because we would always make this together, but she's no longer here.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a deeply meaningful way to honor Patsy's memory, Holly. It's beautiful how you continue this tradition, keeping her spirit alive through the love and memories you shared. If there's anything else you'd like to add or if you're ready to save this memory, just let me know."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: In the cozy warmth of the kitchen, the air was filled with the sweet anticipation of holiday treats as Holly prepared a New York style cheesecake using Patsy's cherished Jello mix recipe. Passed down through generations, this recipe was a family favorite, now carrying the bittersweet memory of Patsy, who was always by Holly's side during these baking sessions. The gentle hum of the mixer and the rich aroma of cream and milk blended together, creating a comforting symphony that promised the joy of sharing delicious moments with loved ones. This simple act of baking on a chilly December day captured the essence of togetherness and the warmth of home during the festive season, even in Patsy's absence.\\nWhat: Baking cheesecake\\nWhen: 2024-12-22\\nWhere: kitchen\\nWho: Patsy\\nEmotion: bittersweet\\n\\nHere is what the user said: Save.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I've saved this special memory for you, Holly. You can go to the Wall view to check out your memories. <END>"
+                    }
+                ],
+                "session_id": "af6592944c7c4d80b668632ee742624f",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:676cc8317b2d1318b0421aa1",
+            "context": {
+                "memory_id": "67036a1521dc4af8b448aed650911258",
+                "summary": "On a crisp Christmas day at Newport Beach, wrapped in plaid blankets, Holly sat side by side with Jack, Mickey, Marley, and Pat, their loyal dog Duke nestled between them. The gentle ocean breeze carried the scent of salt and the distant sound of waves, creating a serene backdrop for their quiet moments together. The warmth of the blankets, the companionship of their furry friend, and a call from their oldest son Austin made this holiday afternoon feel like a perfect blend of comfort, gratitude, and love.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-25"
+                ],
+                "who": [
+                    "Jack, Mickey, Duke, Marley, Pat, Austin"
+                ],
+                "where": [
+                    "Newport Beach"
+                ],
+                "what": [
+                    "Cozy beach relaxation"
+                ],
+                "natural_when": [
+                    "2024-12-25"
+                ],
+                "emotion": "Loving and joyful",
+                "created_at": "2024-12-26 03:06:25",
+                "updated_at": "2024-12-26 03:06:25",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/hollymc5@gmail.com_66a2b7c309aff5bf6392da44/FBA9F883-7F1B-428A-A614-0A35E74E02FC.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Holly. You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp Christmas day at Newport Beach, wrapped in plaid blankets, we sat side by side with our loyal dog nestled between us. The gentle ocean breeze carried the scent of salt and the distant sound of waves, creating a serene backdrop for our quiet moments together. The warmth of the blankets and the companionship of our furry friend made this holiday afternoon feel like a perfect blend of comfort and love.\\nWhat: Cozy beach relaxation\\nWhen: 2024-12-25\\nWhere: ['Newport Beach']\\nWho: \\nEmotion: \\n\\nHere is what the user said: This picture is of Jack, Mickey, and their sweet dog Duke on Christmas afternoon after a wonderful day of opening gifts and eating a lot of food.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thanks for sharing that, Holly! It sounds like a lovely Christmas afternoon. How did you feel during this cozy moment at the beach with Jack, Mickey, and Duke?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp Christmas day at Newport Beach, wrapped in plaid blankets, Holly sat side by side with Jack and Mickey, their loyal dog Duke nestled between them. The gentle ocean breeze carried the scent of salt and the distant sound of waves, creating a serene backdrop for their quiet moments together. The warmth of the blankets and the companionship of their furry friend made this holiday afternoon feel like a perfect blend of comfort and love.\\nWhat: Cozy beach relaxation\\nWhen: 2024-12-25\\nWhere: Newport Beach\\nWho: Jack, Mickey, Duke\\nEmotion: \\n\\nHere is what the user said: Marley, Pat and I, along with Jack and Mickey, just were so grateful and thankful for the Christmas that we were able to celebrate together, and then we had our oldest son Austin call in and it was wonderful talking with him.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It sounds like a heartwarming Christmas with everyone together, even connecting with Austin over the phone. How would you describe the overall emotion of this day?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp Christmas day at Newport Beach, wrapped in plaid blankets, Holly sat side by side with Jack, Mickey, Marley, and Pat, their loyal dog Duke nestled between them. The gentle ocean breeze carried the scent of salt and the distant sound of waves, creating a serene backdrop for their quiet moments together. The warmth of the blankets, the companionship of their furry friend, and a call from their oldest son Austin made this holiday afternoon feel like a perfect blend of comfort, gratitude, and love.\\nWhat: Cozy beach relaxation\\nWhen: 2024-12-25\\nWhere: Newport Beach\\nWho: Jack, Mickey, Duke, Marley, Pat, Austin\\nEmotion: \\n\\nHere is what the user said: Loving and joyful.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It sounds like a truly loving and joyful Christmas celebration with your family and friends. I've captured this memory for you, Holly. You can go to the Wall view to check out your memories. <END>"
+                    }
+                ],
+                "session_id": "c78a9c5ccad74fcd82cf2cbb394ac631",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:676db5267b2d1318b0421c2a",
+            "context": {
+                "memory_id": "00488725a2934ef29ae0c752b35d2aa4",
+                "summary": "On a crisp December day, Holly and her family shared warmth and laughter at Las Brisas, captured in a joyful photo. With Pat, Marley, Jack, and Mickey, their smiles reflected the festive spirit during a cozy family gathering by the ocean.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-24"
+                ],
+                "who": [
+                    "Pat, Marley, Jack, Mickey, family"
+                ],
+                "where": [
+                    "Las Brisas"
+                ],
+                "what": [
+                    "sharing festive joy"
+                ],
+                "natural_when": [
+                    "2024-12-24"
+                ],
+                "emotion": "happy",
+                "created_at": "2024-12-26 19:57:26",
+                "updated_at": "2024-12-26 19:59:52",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/hollymc5@gmail.com_66a2b7c309aff5bf6392da44/506148DC-5246-47A0-8061-6DEC935DA4BD.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Holly. You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day, just before Christmas, you and a dear friend shared a moment of warmth and laughter, captured in a photo that radiates joy. Sitting side by side, your glasses catching the light, and your smiles reflecting the festive spirit, you both looked so content. The gentle clink of your necklace and the subtle elegance of his tie added a touch of grace to this cherished memory, set against the backdrop of a cozy gathering.\\nWhat: sharing festive joy\\nWhen: 2024-12-24\\nWhere: \\nWho: \\nEmotion: \\n\\nHere is what the user said: This picture is of Christmas Eve with the family at Las Brisas enjoying Christmas Eve dinner.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a lovely Christmas Eve dinner with your family at Las Brisas. Who was the dear friend you shared this moment with?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day, just before Christmas, Holly and her family shared a moment of warmth and laughter at Las Brisas, captured in a photo that radiates joy. Sitting side by side with a dear friend, their glasses catching the light, and their smiles reflecting the festive spirit, they both looked so content. The gentle clink of Holly's necklace and the subtle elegance of her friend's tie added a touch of grace to this cherished memory, set against the backdrop of a cozy family gathering.\\nWhat: sharing festive joy\\nWhen: 2024-12-24\\nWhere: Las Brisas\\nWho: family\\nEmotion: joyful\\n\\nHere is what the user said: This was with Pat, Marley, Jack, Mickey, and her family.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It sounds like you had a wonderful time with Pat, Marley, Jack, Mickey, and your family. How did you feel during this festive gathering?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day, just before Christmas, Holly and her family shared a moment of warmth and laughter at Las Brisas, captured in a photo that radiates joy. Sitting side by side with Pat, Marley, Jack, and Mickey, their glasses catching the light, and their smiles reflecting the festive spirit, they all looked so content. The gentle clink of Holly's necklace and the subtle elegance of her friend's tie added a touch of grace to this cherished memory, set against the backdrop of a cozy family gathering.\\nWhat: sharing festive joy\\nWhen: 2024-12-24\\nWhere: Las Brisas\\nWho: Pat, Marley, Jack, Mickey, family\\nEmotion: joyful\\n\\nHere is what the user said: It was a great night, right on the ocean, super happy to be with everybody.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Being right on the ocean must have added such a special touch to the evening. Is there anything else you'd like to remember about this night?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day, just before Christmas, Holly and her family shared a moment of warmth and laughter at Las Brisas, captured in a photo that radiates joy. Sitting side by side with Pat, Marley, Jack, and Mickey, their glasses catching the light, and their smiles reflecting the festive spirit, they all looked so content. The gentle clink of Holly's necklace and the subtle elegance of her friend's tie added a touch of grace to this cherished memory, set against the backdrop of a cozy family gathering by the ocean, where happiness filled the air.\\nWhat: sharing festive joy\\nWhen: 2024-12-24\\nWhere: Las Brisas\\nWho: Pat, Marley, Jack, Mickey, family\\nEmotion: happy\\n\\nHere is what the user said: Post.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I've captured this beautiful memory for you. You can go to the Wall view to check out your memories. <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day, just before Christmas, Holly and her family shared a moment of warmth and laughter at Las Brisas, captured in a photo that radiates joy. Sitting side by side with Pat, Marley, Jack, and Mickey, their glasses catching the light, and their smiles reflecting the festive spirit, they all looked so content. The gentle clink of Holly's necklace and the subtle elegance of her friend's tie added a touch of grace to this cherished memory, set against the backdrop of a cozy family gathering by the ocean, where happiness filled the air.\\nWhat: sharing festive joy\\nWhen: 2024-12-24\\nWhere: Las Brisas\\nWho: Pat, Marley, Jack, Mickey, family\\nEmotion: happy\\n\\nHere is what the user said: Please take out my necklace and necktie. There was none of that in this photo.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Got it! I've removed the mention of the necklace and necktie. Is there anything else you'd like to adjust or add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day, just before Christmas, Holly and her family shared a moment of warmth and laughter at Las Brisas, captured in a photo that radiates joy. Sitting side by side with Pat, Marley, Jack, and Mickey, their glasses catching the light, and their smiles reflecting the festive spirit, they all looked so content. This cherished memory was set against the backdrop of a cozy family gathering by the ocean, where happiness filled the air.\\nWhat: sharing festive joy\\nWhen: 2024-12-24\\nWhere: Las Brisas\\nWho: Pat, Marley, Jack, Mickey, family\\nEmotion: happy\\n\\nHere is what the user said: Please make this shorter.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Sure thing! I've shortened the memory for you. Is there anything else you'd like to change?"
+                    }
+                ],
+                "session_id": "4f546bc2cbf64640a10b20465fd521a3",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:677aeb482dee793519793291",
+            "context": {
+                "memory_id": "e090720ee67c47d8a640f9cb61b5bc25",
+                "summary": "In December 2014, amidst the bustling energy of a cycling event in Hawaii, Holly, along with Jack, Marley, and Pat, found themselves at the helmet rental shop, grinning from ear to ear. The collage of smiling faces captured a moment of shared excitement and camaraderie, each helmet reflecting the anticipation of the ride ahead. The air was filled with the buzz of conversation and the subtle scent of fresh rubber, making this gathering a joyful prelude to their cycling adventure.",
+                "comments_summary": "",
+                "when": [
+                    "2025-01-05"
+                ],
+                "who": [
+                    "Jack, Marley, Pat, family"
+                ],
+                "where": [
+                    "Hawaii"
+                ],
+                "what": [
+                    "smiling at cycling event"
+                ],
+                "natural_when": [
+                    "2025-01-05"
+                ],
+                "emotion": "joyful",
+                "created_at": "2025-01-05 20:27:52",
+                "updated_at": "2025-01-05 20:27:52",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/hollymc5@gmail.com_66a2b7c309aff5bf6392da44/BB91DC2B-9787-48F2-89C5-000EB6DCC430.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [
+                    "66a2b7cc09aff5bf6392db49"
+                ],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Holly. You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: Amidst the bustling energy of the cycling event, we found ourselves at the helmet rental shop, grinning from ear to ear. The collage of smiling faces captured a moment of shared excitement and camaraderie, each helmet reflecting the anticipation of the ride ahead. The air was filled with the buzz of conversation and the subtle scent of fresh rubber, making this gathering a joyful prelude to our cycling adventure.\\nWhat: smiling at cycling event\\nWhen: \\nWhere: ['a helmet rental shop or a cycling event location']\\nWho: \\nEmotion: \\n\\nHere is what the user said: This is a collage I put together from 2014 when our family went to Hawaii for two weeks for the Christmas holiday.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like such a wonderful family trip to Hawaii in 2014! Could you tell me who was with you during this cycling event?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: In 2014, amidst the bustling energy of a cycling event in Hawaii, Holly and her family found themselves at the helmet rental shop, grinning from ear to ear. The collage of smiling faces captured a moment of shared excitement and camaraderie, each helmet reflecting the anticipation of the ride ahead. The air was filled with the buzz of conversation and the subtle scent of fresh rubber, making this gathering a joyful prelude to their cycling adventure.\\nWhat: smiling at cycling event\\nWhen: 2014\\nWhere: Hawaii\\nWho: family\\nEmotion: joyful\\n\\nHere is what the user said: Jack, Marley, Pat and Holly, myself, were all on the trip and it couldn't have been more special.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It sounds like Jack, Marley, Pat, and you made some unforgettable memories together. Do you remember exactly when during your two-week holiday this cycling event took place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: In 2014, amidst the bustling energy of a cycling event in Hawaii, Holly, along with Jack, Marley, and Pat, found themselves at the helmet rental shop, grinning from ear to ear. The collage of smiling faces captured a moment of shared excitement and camaraderie, each helmet reflecting the anticipation of the ride ahead. The air was filled with the buzz of conversation and the subtle scent of fresh rubber, making this gathering a joyful prelude to their cycling adventure.\\nWhat: smiling at cycling event\\nWhen: 2014\\nWhere: Hawaii\\nWho: Jack, Marley, Pat, family\\nEmotion: joyful\\n\\nHere is what the user said: I believe it was December of 2014.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "December 2014 sounds like a perfect time for a family adventure in Hawaii. Is there anything else you'd like to add or remember about this special day?"
+                    }
+                ],
+                "session_id": "1981acdf522243b791c2f5ef769b3a27",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:677c7b6d2dee7935197934de",
+            "context": {
+                "memory_id": "9effb40506b54a5e923ae5a1d4262cf4",
+                "summary": "In December 2024, on a sunlit pier in Corona Del Mar, Holly and her college friends Brett and Pat shared laughter and joy as they caught up in their neighborhood. The tranquil beauty of the waterfront, with a solitary boat in the background, added to the essence of companionship and simple pleasures by the water.",
+                "comments_summary": "",
+                "when": [
+                    "2025-01-07"
+                ],
+                "who": [
+                    "Brett and Pat"
+                ],
+                "where": [
+                    "Corona Del Mar"
+                ],
+                "what": [
+                    "Catching up with friends"
+                ],
+                "natural_when": [
+                    "2025-01-07"
+                ],
+                "emotion": "joyful",
+                "created_at": "2025-01-07 00:55:09",
+                "updated_at": "2025-01-07 01:14:16",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/hollymc5@gmail.com_66a2b7c309aff5bf6392da44/00691FB5-ED2A-4339-9CD4-EB47910E1F31.png",
+                    "https://tobu-jac2-dev.s3.amazonaws.com/hollymc5@gmail.com_66a2b7c309aff5bf6392da44/2036E284-43C4-401D-92E3-245AAA713AEC.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Holly. You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a sunlit pier, the gentle murmur of water mingled with laughter as two friends stood side by side, their smiles reflecting the joy of shared moments. The backdrop of a solitary boat against the shimmering expanse of water added a tranquil beauty, capturing the essence of companionship and simple pleasures by the waterfront.\\nWhat: Enjoying time together\\nWhen: \\nWhere: ['a pier by the water, possibly a marina or waterfront area']\\nWho: \\nEmotion: \\n\\nHere is what the user said: The image capture in this photo is incorrect. This is Brett and Pat, college friends who we live by in Corona Del Mar, just enjoying catching up and running into each other in our neighborhood.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thanks for sharing that, Holly! It sounds like a lovely moment with Brett and Pat. Could you tell me when this memory took place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a sunlit pier in Corona Del Mar, Holly and her college friends Brett and Pat shared laughter and joy as they caught up in their neighborhood. The tranquil beauty of the waterfront, with a solitary boat in the background, added to the essence of companionship and simple pleasures by the water.\\nWhat: Catching up with friends\\nWhen: \\nWhere: Corona Del Mar\\nWho: Brett and Pat\\nEmotion: joyful\\n\\nHere is what the user said: This took place in December of 2024, right before the new year.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thanks for letting me know, Holly! It must have been a wonderful way to end the year. If there's anything else you'd like to add or if you're ready to save this memory, just let me know!"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: In December 2024, on a sunlit pier in Corona Del Mar, Holly and her college friends Brett and Pat shared laughter and joy as they caught up in their neighborhood. The tranquil beauty of the waterfront, with a solitary boat in the background, added to the essence of companionship and simple pleasures by the water.\\nWhat: Catching up with friends\\nWhen: 2025-01-07\\nWhere: Corona Del Mar\\nWho: Brett and Pat\\nEmotion: joyful\\n\\nHere is what the user said: Save memory.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Great, Holly! I've saved this joyful memory for you. You can go to the Wall view to check out your memories. <END>"
+                    }
+                ],
+                "session_id": "c2d7b7923078422a8a1486a5666475df",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:677c83972dee793519793537",
+            "context": {
+                "memory_id": "801d4a01c4a6436fadf57b8905364449",
+                "summary": "On January 7, 2025, Holly spent a warm and memorable day with Mom and Dad McLaughlin in Torrance, California, enjoying turkey and reminiscing about old times. The day was filled with heartfelt conversations and the bittersweet moment of saying goodbye. In a separate memory, Holly fondly recalls babysitting Cody, the neighbor's dog, with Pat in Coronado Del Mar over the winter holiday, capturing a moment of joy and companionship with the super fun dog.",
+                "comments_summary": "",
+                "when": [
+                    "2025-01-07"
+                ],
+                "who": [
+                    "Mom and Dad McLaughlin"
+                ],
+                "where": [
+                    "Torrance, California"
+                ],
+                "what": [
+                    "Thanksgiving with family"
+                ],
+                "natural_when": [
+                    "2025-01-07"
+                ],
+                "emotion": "warm",
+                "created_at": "2025-01-07 01:29:59",
+                "updated_at": "2025-01-07 01:32:32",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/hollymc5@gmail.com_66a2b7c309aff5bf6392da44/FDE029C7-A88F-4108-90D7-A1C45D4CA16F.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [
+                    "66a2b7d109aff5bf6392dbc4"
+                ],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Holly. You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: In the gentle embrace of a sunlit afternoon, Patrick, Cody, and Mom and Dad McLaughlin stood beside each other, watching the world slow down around them. As the dog lay contentedly on the bed of grass in the outdoor leisure area, possibly a park or backyard, the air was filled with the scent of blooming flowers and the soft rustle of leaves. It was a moment of pure tranquility, shared smiles, and the comforting presence of a furry friend, a snapshot of happiness in the open embrace of nature.\\nWhat: Relaxing outdoors together\\nWhen: \\nWhere: ['outdoor leisure area, possibly a park or backyard']\\nWho: Patrick and Cody and Mom and Dad McLaughlin\\nEmotion: \\n\\nHere is what the user said: This memory is wrong. These are two separate pictures. The top picture is of mom and dad McLaughlin on Thanksgiving saying goodbye to us as we spent a nice day with them up in Torrance, California. And the bottom picture is of Pat and Cody when we were babysitting Cody, who's the dog in the picture, for our neighbor Kelly.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thanks for clarifying, Holly! Could you tell me more about the day you spent with Mom and Dad McLaughlin in Torrance on Thanksgiving?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On Thanksgiving, Holly spent a warm and memorable day with Mom and Dad McLaughlin in Torrance, California. The day was filled with heartfelt conversations and the bittersweet moment of saying goodbye. In a separate memory, Holly fondly recalls babysitting Cody, the neighbor's dog, with Pat, capturing a moment of joy and companionship.\\nWhat: Thanksgiving with family\\nWhen: 2025-01-07\\nWhere: Torrance, California\\nWho: Mom and Dad McLaughlin\\nEmotion: warm\\n\\nHere is what the user said: It was a great day eating turkey, reminiscing about old times.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a lovely Thanksgiving, Holly! How about the time you spent babysitting Cody with Pat? Can you share more about that experience?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On Thanksgiving, Holly spent a warm and memorable day with Mom and Dad McLaughlin in Torrance, California, enjoying turkey and reminiscing about old times. The day was filled with heartfelt conversations and the bittersweet moment of saying goodbye. In a separate memory, Holly fondly recalls babysitting Cody, the neighbor's dog, with Pat, capturing a moment of joy and companionship.\\nWhat: Thanksgiving with family\\nWhen: 2025-01-07\\nWhere: Torrance, California\\nWho: Mom and Dad McLaughlin\\nEmotion: warm\\n\\nHere is what the user said: Pat's obsessed with Cody and would love to have a Bernadoodle or Goldendoodle. He's a super fun dog and we really enjoyed babysitting him.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Cody sounds like such a delightful dog! When did you and Pat babysit Cody, and where did this take place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On Thanksgiving, Holly spent a warm and memorable day with Mom and Dad McLaughlin in Torrance, California, enjoying turkey and reminiscing about old times. The day was filled with heartfelt conversations and the bittersweet moment of saying goodbye. In a separate memory, Holly fondly recalls babysitting Cody, the neighbor's dog, with Pat, who is obsessed with doodles, capturing a moment of joy and companionship with the super fun dog.\\nWhat: Thanksgiving with family\\nWhen: 2025-01-07\\nWhere: Torrance, California\\nWho: Mom and Dad McLaughlin\\nEmotion: warm\\n\\nHere is what the user said: We babysat Cody in Coronado Del Mar at our home and this was over the winter holiday.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thanks for sharing, Holly! If there's anything else you'd like to add or if you're ready to save this memory, just let me know."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On Thanksgiving, Holly spent a warm and memorable day with Mom and Dad McLaughlin in Torrance, California, enjoying turkey and reminiscing about old times. The day was filled with heartfelt conversations and the bittersweet moment of saying goodbye. In a separate memory, Holly fondly recalls babysitting Cody, the neighbor's dog, with Pat in Coronado Del Mar over the winter holiday, capturing a moment of joy and companionship with the super fun dog.\\nWhat: Thanksgiving with family\\nWhen: 2025-01-07\\nWhere: Torrance, California\\nWho: Mom and Dad McLaughlin\\nEmotion: warm\\n\\nHere is what the user said: Save memory.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I've saved this memory for you, Holly. You can go to the Wall view to check out your memories. <END>"
+                    }
+                ],
+                "session_id": "055701caef904a1680e321ccf90fc126",
+                "draft": false
+            }
+        }
+    ]
+}

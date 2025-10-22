@@ -1,0 +1,58 @@
+{
+  "user_id": "user_034",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How did Noah's early Arctic fieldwork influence his later policy and technological initiatives?",
+      "answer_gold": "His glacial melt research in Reykjavik laid the foundation for policy discussions in Oslo and technical collaborations in Nairobi and Tokyo, linking data-driven observation to practical renewable and predictive solutions.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m03",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What connections can be seen between Noah's renewable energy advocacy and his community-level projects?",
+      "answer_gold": "His advocacy for sustainable energy in Oslo translated into hands-on solutions in Nairobi and Mumbai, where he implemented solar water systems and urban cooling strategies reflecting global-to-local adaptation.",
+      "evidence": [
+        "m02",
+        "m03",
+        "m06"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did Noah integrate academic mentorship with his international collaborations?",
+      "answer_gold": "By teaching climate modeling in London and later applying those simulation methods in Mumbai and Geneva, he bridged education with practical global applications, mentoring both students and policymakers.",
+      "evidence": [
+        "m05",
+        "m06",
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "In what ways did Noah's cross-disciplinary collaborations advance his vision of sustainable policy-making?",
+      "answer_gold": "His joint work on carbon capture in Abu Dhabi, forestry modeling in Vancouver, and AI prediction in Tokyo collectively demonstrated how combining engineering, ecology, and computation informs effective environmental policy.",
+      "evidence": [
+        "m04",
+        "m08",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which sequence of experiences best represents Noah's growth from researcher to global climate advocate?",
+      "answer_gold": "Starting with glacier monitoring in Reykjavik, progressing through renewable initiatives and urban resilience programs, and culminating in policy leadership recognized by the Nordic Council, Noah's journey traces a full evolution toward environmental diplomacy.",
+      "evidence": [
+        "m01",
+        "m03",
+        "m06",
+        "m07",
+        "m10"
+      ]
+    }
+  ]
+}

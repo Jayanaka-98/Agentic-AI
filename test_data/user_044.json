@@ -1,0 +1,573 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "You and Ava sat out by the fire pit in the Arcadia neighborhood, enjoying a Saturday night with Lila. You were waiting for Nora and Leo to come by with sushi.",
+        "comments_summary": "",
+        "when": [
+          "2024-03-24"
+        ],
+        "who": [
+          "Ava, Mia, Lila, Nora, Leo"
+        ],
+        "where": [
+          "Arcadia neighborhood"
+        ],
+        "what": [
+          "Sitting by the fire pit"
+        ],
+        "natural_when": [
+          "2024-03-24"
+        ],
+        "emotion": "joyful",
+        "created_at": "2024-03-24T01:48:22.713615",
+        "updated_at": "2024-03-24T01:48:22.713770",
+        "image_urls": [
+          "https://tobu-mvp-dev.s3.amazonaws.com/veslingc@gmail.com_urn:uuid:ae95de16-9e1f-4d59-84d9-5699f3c53fae/87A43B6D-A59E-4E49-A6B0-E3673AD1FDB5.png"
+        ],
+        "new_image_format": "raw",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+          },
+          {
+            "role": "user",
+            "content": "Ava and Mia sitting out by the fire pit just enjoying a Saturday night with Lila waiting for Nora and Leo to come by with sushi exclamation point"
+          },
+          {
+            "role": "assistant",
+            "content": "It sounds like a wonderful memory! Could you please tell me where this event took place?"
+          },
+          {
+            "role": "user",
+            "content": "Arcadia neighborhood."
+          },
+          {
+            "role": "assistant",
+            "content": "That's great! Could you please tell me when this event happened?"
+          },
+          {
+            "role": "user",
+            "content": "I don't recognize that car. Ben, I like your wheelie. 2024."
+          },
+          {
+            "role": "assistant",
+            "content": "Thank you for sharing. Is there anything else you would like to add to this memory?"
+          },
+          {
+            "role": "user",
+            "content": "No."
+          },
+          {
+            "role": "assistant",
+            "content": "Thank you for sharing this memory of a lovely Saturday night with Ava, Mia, Lila, Nora, and Leo, enjoying sushi by the fire pit in the Arcadia neighborhood in 2024. I have captured this memory. <END>"
+          }
+        ],
+        "session_id": "348a0783-8060-4a61-8040-16c8bb913417",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "You love to sit out in the shade in front of your house in Phoenix, Arcadia every afternoon, just to get a break with your dog Cooper 10 and Daisy 7. Both of them are about ready to turn a year older on their birthday. Daisy was a mom and now she has been a good friend of Cooper.",
+        "comments_summary": "",
+        "when": [
+          "2024-03-23"
+        ],
+        "who": [
+          "Cooper 10, Daisy 7"
+        ],
+        "where": [
+          "Front of house in Phoenix, Arcadia"
+        ],
+        "what": [
+          "Sitting out in the shade"
+        ],
+        "natural_when": [
+          "2024-03-23"
+        ],
+        "emotion": "happy",
+        "created_at": "2024-03-23T20:32:29.962806",
+        "updated_at": "2024-03-23T20:32:29.962968",
+        "image_urls": [
+          "https://tobu-mvp-dev.s3.amazonaws.com/veslingc@gmail.com_urn:uuid:ae95de16-9e1f-4d59-84d9-5699f3c53fae/FB863FDC-F133-4B24-8BB2-8A855F8109C6.png"
+        ],
+        "new_image_format": "raw",
+        "shared_with": [
+          "66a2b7c009aff5bf6392d9ea",
+          "66a2b7c009aff5bf6392d9db",
+          "66a2b7bf09aff5bf6392d9cc",
+          "66a2b7bf09aff5bf6392d9bd",
+          "66a2b7ce09aff5bf6392db85"
+        ],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+          },
+          {
+            "role": "user",
+            "content": "We love to sit out in the shade during the day just to get a break with our dog Cooper 10 and Daisy 7. Both of them are about ready to turn a year older on their birthday. Daisy we got from a kennel for White Labs and she was a mom and now she has been a good friend of Cooper."
+          },
+          {
+            "role": "assistant",
+            "content": "That sounds like a lovely memory. Could you please tell me when this usually happens?"
+          },
+          {
+            "role": "user",
+            "content": "every afternoon"
+          },
+          {
+            "role": "assistant",
+            "content": "That's a nice routine. Where do you usually sit out in the shade?"
+          },
+          {
+            "role": "user",
+            "content": "Usually around 1 or 2 o'clock just before they get their evening meal."
+          },
+          {
+            "role": "assistant",
+            "content": "I'm sorry for the confusion, but I was asking about the location where you and your dogs sit in the shade. Could you please share that?"
+          },
+          {
+            "role": "user",
+            "content": "Out in front of our house in Phoenix, Arcadia."
+          },
+          {
+            "role": "assistant",
+            "content": "Thank you for sharing that. Is there anything else you would like to add to this memory?"
+          },
+          {
+            "role": "user",
+            "content": "No."
+          },
+          {
+            "role": "assistant",
+            "content": "Thank you for sharing this memory with me. I have captured it as follows: \"Every afternoon, around 1 or 2 o'clock, you love to sit out in the shade in front of your house in Phoenix, Arcadia, with your dogs, Cooper and Daisy. Both of them are about to turn a year older. Daisy, a White Lab you got from a kennel, was a mom and is now a good friend of Cooper.\" <END>"
+          }
+        ],
+        "session_id": "55b5a134-bc22-4dd2-9612-ec945b5fe78f",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "You spent time with your dogs Cooper and Daisy.",
+        "comments_summary": "",
+        "when": [
+          null
+        ],
+        "who": [
+          "Cooper, Daisy"
+        ],
+        "where": [
+          null
+        ],
+        "what": [
+          "Spending time with dogs"
+        ],
+        "natural_when": [
+          null
+        ],
+        "emotion": "happy",
+        "created_at": "2024-03-23T20:29:37.484006",
+        "updated_at": "2024-03-23T20:29:37.484163",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+          },
+          {
+            "role": "user",
+            "content": "Here are my two dogs, Cooper and Daisy. Cooper is 11 and Daisy is 7 turning 8."
+          },
+          {
+            "role": "assistant",
+            "content": "That sounds lovely! Could you share a memorable event involving Cooper and Daisy?"
+          }
+        ],
+        "session_id": "bf187664-4039-4ff6-8f3f-f2bc503b5f00",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "On a cozy December afternoon, the kitchen was filled with the comforting aroma of freshly prepared cookie dough. You stood proudly amidst the flurry of ingredients, holding a cookie dough scoop, ready to create sweet delights. The warmth of the kitchen and the anticipation of sharing these treats with loved ones made this moment feel like a cherished holiday tradition.",
+        "comments_summary": "",
+        "when": [
+          "2024-12-15"
+        ],
+        "who": [],
+        "where": [
+          "a home kitchen"
+        ],
+        "what": [
+          "Baking cookies"
+        ],
+        "natural_when": [
+          "2024-12-15"
+        ],
+        "emotion": "",
+        "created_at": "2024-12-21 14:55:50",
+        "updated_at": "2024-12-21 14:55:50",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/veslingc@gmail.com_66a2b7c109aff5bf6392d9f9/6D9EE7B7-7F23-4539-A989-0AEB9CF9C5AA.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "3f51be022e304bc3938fbd7c63a343c9",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "On a crisp December day, you stood poised on the tennis court, the cool air invigorating your senses as you prepared to serve. The spacious room echoed with the soft thud of tennis balls and the gentle hum of anticipation, your casual white shirt and grey pants allowing you to move with ease. This moment, filled with focus and the thrill of the game, captured the essence of your love for tennis and the joy of being in the moment.",
+        "comments_summary": "",
+        "when": [
+          "2024-12-21"
+        ],
+        "who": [],
+        "where": [
+          "tennis court"
+        ],
+        "what": [
+          "Playing tennis indoors"
+        ],
+        "natural_when": [
+          "2024-12-21"
+        ],
+        "emotion": "",
+        "created_at": "2024-12-21 14:56:56",
+        "updated_at": "2024-12-21 14:56:56",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/veslingc@gmail.com_66a2b7c109aff5bf6392d9f9/5932B23D-F06D-4ABF-8A84-3ECE77DDF3CE.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "33e9ed50672c4dd2af9dfb411133e977",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "On a crisp autumn day in late November, the quiet residential street was momentarily brought to life by the presence of two majestic dogs standing side by side. Their alert eyes scanned the surroundings, embodying a sense of companionship and watchfulness. The gentle rustle of fallen leaves underfoot and the soft, golden light of the afternoon sun created a serene backdrop, making this simple moment feel like a cherished pause in time.",
+        "comments_summary": "",
+        "when": [
+          "2024-11-24"
+        ],
+        "who": [],
+        "where": [
+          "a street in a residential area"
+        ],
+        "what": [
+          "Dogs on street"
+        ],
+        "natural_when": [
+          "2024-11-24"
+        ],
+        "emotion": "",
+        "created_at": "2024-12-21 14:57:49",
+        "updated_at": "2024-12-21 14:57:49",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/veslingc@gmail.com_66a2b7c109aff5bf6392d9f9/C8E2BB57-0B95-4A1D-8EE4-3724BEFC3D99.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "d45344b3d16e47b99044c519d4b85aba",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "On a crisp December day in 2024, I found myself wandering through a winter wonderland, where the cityscape was transformed by a gentle snowfall. The river, flanked by snow-laden banks and elegant buildings, whispered softly beneath a charming bridge, creating a serene and picturesque scene. The air was filled with the quiet magic of winter, as I stood there, feeling the cold nip at my cheeks, and the beauty of the moment etched itself into my heart.",
+        "comments_summary": "",
+        "when": [
+          "2024-12-21"
+        ],
+        "who": [],
+        "where": [
+          "a city with a river and snowy landscape, possibly a location like Quebec City or a similar winter city."
+        ],
+        "what": [
+          "Exploring snowy city"
+        ],
+        "natural_when": [
+          "2024-12-21"
+        ],
+        "emotion": "",
+        "created_at": "2024-12-21 14:58:15",
+        "updated_at": "2024-12-21 14:58:15",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/veslingc@gmail.com_66a2b7c109aff5bf6392d9f9/F518A557-1FD1-499D-91B1-AB877A6BB847.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "5030894dccca4afeb7eba29f526b32c2",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "On a sun-drenched October day in Tucson, the camaraderie of friendship was captured as three men, clad in matching blue and red shirts and sunglasses, posed together on a vibrant football field. The laughter and shared joy were palpable, echoing the spirit of the game and the warmth of the autumn sun. In the background, the lively buzz of others on the field added to the festive atmosphere, making this moment a cherished snapshot of connection and shared experiences.",
+        "comments_summary": "",
+        "when": [
+          "2024-10-19"
+        ],
+        "who": [],
+        "where": [
+          "Tucson"
+        ],
+        "what": [
+          "Posing on football field"
+        ],
+        "natural_when": [
+          "2024-10-19"
+        ],
+        "emotion": "",
+        "created_at": "2024-12-21 14:59:05",
+        "updated_at": "2024-12-21 14:59:05",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/veslingc@gmail.com_66a2b7c109aff5bf6392d9f9/C5815460-2646-4503-A548-85D76570BB8C.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "31008d05c28049158c680990c80046b8",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "On a warm August day in Phoenix, the sun cast a golden glow over three friends as they stood shoulder to shoulder, their smiles as bright as the clear blue sky above. With backpacks slung over their shoulders, they seemed ready for an adventure, capturing this moment of camaraderie and anticipation. The parked cars in the background were mere spectators to the joy and excitement that filled the air, a testament to the bonds shared and the memories yet to be made.",
+        "comments_summary": "",
+        "when": [
+          "2024-08-09"
+        ],
+        "who": [],
+        "where": [
+          "Phoenix"
+        ],
+        "what": [
+          "friends posing together"
+        ],
+        "natural_when": [
+          "2024-08-09"
+        ],
+        "emotion": "",
+        "created_at": "2024-12-21 15:00:05",
+        "updated_at": "2024-12-21 15:00:05",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/veslingc@gmail.com_66a2b7c109aff5bf6392d9f9/12C59084-3578-4155-8BD2-F484946CBE31.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "dbb6e7362cc944e8b2fed7d0a372df04",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "On a warm July 4th, the air was filled with laughter and camaraderie as we gathered together, five friends united in joy. The sun cast a golden glow, highlighting our smiles as we posed closely for the camera, capturing a moment of pure happiness and friendship. This snapshot of togetherness reminds me of the warmth and connection we shared on that special day.",
+        "comments_summary": "",
+        "when": [
+          "2023-07-04"
+        ],
+        "who": [],
+        "where": [
+          ""
+        ],
+        "what": [
+          "Posing with friends"
+        ],
+        "natural_when": [
+          "2023-07-04"
+        ],
+        "emotion": "",
+        "created_at": "2024-12-21 15:03:03",
+        "updated_at": "2024-12-21 15:03:03",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/veslingc@gmail.com_66a2b7c109aff5bf6392d9f9/851858AF-8D64-4CE9-AE5E-7F634354F026.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "12d9872059fc466f8de515572292eaa5",
+        "draft": false
+      }
+    },
+    {
+      "id": "m11",
+      "context": {
+        "memory_id": "m11",
+        "summary": "On a sunlit June afternoon in Atrani, the gentle murmur of the sea provided a soothing backdrop as we gathered on the patio, overlooking the shimmering waters. The warmth of friendship enveloped us as we clinked glasses, savoring the flavors of our meal and the joy of shared stories. The scene was a perfect blend of laughter, the salty breeze, and the serene beauty of the coastline, etching a cherished moment in our hearts.",
+        "comments_summary": "",
+        "when": [
+          "2023-06-29"
+        ],
+        "who": [],
+        "where": [
+          "Atrani"
+        ],
+        "what": [
+          "Dining by the sea"
+        ],
+        "natural_when": [
+          "2023-06-29"
+        ],
+        "emotion": "",
+        "created_at": "2024-12-21 15:05:34",
+        "updated_at": "2024-12-21 15:05:34",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/veslingc@gmail.com_66a2b7c109aff5bf6392d9f9/DB856206-E31E-45DB-A3CE-2462FFAA9C71.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "d050cde1ad654e0a8077055d2820a14b",
+        "draft": false
+      }
+    },
+    {
+      "id": "m12",
+      "context": {
+        "memory_id": "m12",
+        "summary": "On a sun-drenched day in July, the lush green of the golf course stretched out like a serene oasis, where laughter and camaraderie filled the air. Standing side by side, with golf clubs in hand, the two of you captured a moment of friendship and shared passion, framed by the gentle rustle of leaves and the distant chirping of birds. The visor and hat you wore not only shielded you from the sun but also became symbols of a day well spent, a memory etched in the golden light of summer.",
+        "comments_summary": "",
+        "when": [
+          "2022-07-27"
+        ],
+        "who": [],
+        "where": [
+          "golf course"
+        ],
+        "what": [
+          "Posing on golf course"
+        ],
+        "natural_when": [
+          "2022-07-27"
+        ],
+        "emotion": "",
+        "created_at": "2024-12-21 15:09:10",
+        "updated_at": "2024-12-21 15:09:10",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/veslingc@gmail.com_66a2b7c109aff5bf6392d9f9/7D8F29DC-5B31-48C1-8632-A613D989294F.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "39a65e36f2a4407cacad557fcd13181d",
+        "draft": false
+      }
+    },
+    {
+      "id": "m13",
+      "context": {
+        "memory_id": "m13",
+        "summary": "On a serene December day, Alex found himself captivated by the timeless elegance of a lone palm tree silhouetted against the sky. The black and white photograph, taken in a lush tropical setting, evoked a sense of tranquility and nostalgia, as if time stood still amidst the gentle rustle of palm leaves. This moment, captured just days before Christmas, was a peaceful escape into nature's quiet beauty, far from the holiday hustle and bustle, along the Mt. Grove alleys with his wife Ava and daughter Lila. Despite a touch of concern for their little dogs' safety from the owls, it was a very relaxing and beautiful evening.",
+        "comments_summary": "The family shared laughter and stories as they strolled, creating cherished memories under the watchful gaze of the Mount Grove owls.",
+        "when": [
+          "2024-12-22"
+        ],
+        "who": [
+          "Ava, Lila"
+        ],
+        "where": [
+          "Mt. Grove alleys"
+        ],
+        "what": [
+          "photographing palm trees"
+        ],
+        "natural_when": [
+          "2024-12-22"
+        ],
+        "emotion": "relaxing and beautiful",
+        "created_at": "2024-12-23 19:21:05",
+        "updated_at": "2024-12-23 19:21:05",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/veslingc@gmail.com_66a2b7c109aff5bf6392d9f9/55451B87-672E-459E-9A28-6B2DCC10527F.png"
+        ],
+        "new_image_format": "raw",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Alex. You can use this in your answers and you should use this when generating the summary in third person POV."
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: On a serene December day, I found myself captivated by the timeless elegance of a lone palm tree silhouetted against the sky. The black and white photograph, taken in a lush tropical setting, evoked a sense of tranquility and nostalgia, as if time stood still amidst the gentle rustle of palm leaves. This moment, captured just days before Christmas, was a peaceful escape into nature's quiet beauty, far from the holiday hustle and bustle.\\nWhat: photographing palm trees\\nWhen: 2024-12-22\\nWhere: ['tropical location with palm trees, possibly a beach or resort area']\\nWho: \\nEmotion: \\n\\nHere is what the user said: These are our two Mt. Grove alleys.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "It sounds like you were with someone special when you captured this beautiful moment. Who was with you during this peaceful escape?"
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: On a serene December day, Alex found himself captivated by the timeless elegance of a lone palm tree silhouetted against the sky. The black and white photograph, taken in a lush tropical setting, evoked a sense of tranquility and nostalgia, as if time stood still amidst the gentle rustle of palm leaves. This moment, captured just days before Christmas, was a peaceful escape into nature's quiet beauty, far from the holiday hustle and bustle, along the Mt. Grove alleys.\\nWhat: photographing palm trees\\nWhen: 2024-12-22\\nWhere: Mt. Grove alleys\\nWho: \\nEmotion: \\n\\nHere is what the user said: Ava, my wife, and Lila, our daughter.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "It must have been a lovely family moment with Ava and Lila. How did you feel during this peaceful escape with them?"
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: On a serene December day, Alex found himself captivated by the timeless elegance of a lone palm tree silhouetted against the sky. The black and white photograph, taken in a lush tropical setting, evoked a sense of tranquility and nostalgia, as if time stood still amidst the gentle rustle of palm leaves. This moment, captured just days before Christmas, was a peaceful escape into nature's quiet beauty, far from the holiday hustle and bustle, along the Mt. Grove alleys with his wife Ava and daughter Lila.\\nWhat: photographing palm trees\\nWhen: 2024-12-22\\nWhere: Mt. Grove alleys\\nWho: Ava, Lila\\nEmotion: \\n\\nHere is what the user said: We were a little worried that the owls, O-W-L-S, would grab our little dogs that Lila has.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "It sounds like there was a mix of tranquility and a bit of concern for your dogs' safety. Overall, how would you describe the emotions of that day?"
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: On a serene December day, Alex found himself captivated by the timeless elegance of a lone palm tree silhouetted against the sky. The black and white photograph, taken in a lush tropical setting, evoked a sense of tranquility and nostalgia, as if time stood still amidst the gentle rustle of palm leaves. This moment, captured just days before Christmas, was a peaceful escape into nature's quiet beauty, far from the holiday hustle and bustle, along the Mt. Grove alleys with his wife Ava and daughter Lila, though there was a touch of concern for their little dogs' safety from the owls.\\nWhat: photographing palm trees\\nWhen: 2024-12-22\\nWhere: Mt. Grove alleys\\nWho: Ava, Lila\\nEmotion: tranquil with concern\\n\\nHere is what the user said: A very relaxing and beautiful evening.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "It sounds like the evening was truly special and relaxing despite the little worry about the owls. If there's anything else you'd like to add or if you're ready to save this memory, just let me know!"
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: On a serene December day, Alex found himself captivated by the timeless elegance of a lone palm tree silhouetted against the sky. The black and white photograph, taken in a lush tropical setting, evoked a sense of tranquility and nostalgia, as if time stood still amidst the gentle rustle of palm leaves. This moment, captured just days before Christmas, was a peaceful escape into nature's quiet beauty, far from the holiday hustle and bustle, along the Mt. Grove alleys with his wife Ava and daughter Lila. Despite a touch of concern for their little dogs' safety from the owls, it was a very relaxing and beautiful evening.\\nWhat: photographing palm trees\\nWhen: 2024-12-22\\nWhere: Mt. Grove alleys\\nWho: Ava, Lila\\nEmotion: relaxing and beautiful\\n\\nHere is what the user said: Save Memory\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "Great! I've saved this beautiful memory for you. You can go to the Wall view to check out your memories anytime. <END>"
+          }
+        ],
+        "session_id": "4a212d2b8ee94f5a944a0a1596b26892",
+        "draft": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "user_id": "user_010",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which sports did Liam play competitively versus casually?",
+      "answer_gold": "Competitively: soccer, triathlon, marathon. Casually: basketball, tennis, volleyball, cycling.",
+      "evidence": [
+        "m02",
+        "m04",
+        "m07",
+        "m09",
+        "m08",
+        "m10",
+        "m06"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What outdoor activities show Liam's love for nature?",
+      "answer_gold": "Hiking in Denver, cycling in Seattle, triathlon in Toronto, marathon in San Francisco, and beach volleyball in Miami.",
+      "evidence": [
+        "m05",
+        "m06",
+        "m07",
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "Which friends joined Liam in different sports?",
+      "answer_gold": "Noah and David in basketball, Sophia in running and tennis, Omar and Raj in soccer, Julia on a hike, Rachel in cycling, Maya and Noah in a marathon, and Raj again in volleyball.",
+      "evidence": [
+        "m02",
+        "m03",
+        "m04",
+        "m05",
+        "m06",
+        "m08",
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which international trip involved competition, and what event was it?",
+      "answer_gold": "Toronto for a summer triathlon.",
+      "evidence": [
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which memory best reflects a festive sports atmosphere?",
+      "answer_gold": "The beach volleyball game in Miami with teammates at sunset.",
+      "evidence": [
+        "m10"
+      ]
+    }
+  ]
+}

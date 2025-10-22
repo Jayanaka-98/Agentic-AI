@@ -1,0 +1,314 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "Ethan began the year in Los Angeles, producing tracks for an emerging R&B artist in his home studio. He experimented with analog synth layers and ambient reverb to craft a nostalgic yet modern sound for their debut EP.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-10"
+        ],
+        "who": [
+          "Ethan Miles",
+          "Jasmine Lee"
+        ],
+        "where": [
+          "Los Angeles"
+        ],
+        "what": [
+          "Producing a debut R&B EP using analog synths and ambient effects."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "In Nashville, Ethan joined a songwriting retreat with country and folk musicians. Over a week, they co-wrote several tracks blending acoustic storytelling with electronic textures — one of which later charted regionally.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-15"
+        ],
+        "who": [
+          "Ethan Miles",
+          "songwriters"
+        ],
+        "where": [
+          "Nashville"
+        ],
+        "what": [
+          "Collaborating at a cross-genre songwriting retreat."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "Ethan traveled to Seoul to collaborate with a K-pop producer on an upbeat fusion single. The session combined Western bass grooves with traditional Korean percussion instruments, creating a unique global rhythm.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-19"
+        ],
+        "who": [
+          "Ethan Miles",
+          "Park Minseo"
+        ],
+        "where": [
+          "Seoul"
+        ],
+        "what": [
+          "Producing a global fusion track with a K-pop producer."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "In Berlin, Ethan attended an electronic music expo to present his modular sound design software. He hosted a demo booth and conducted workshops on blending AI-driven sound synthesis with human creativity.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-21"
+        ],
+        "who": [
+          "Ethan Miles"
+        ],
+        "where": [
+          "Berlin"
+        ],
+        "what": [
+          "Presenting music software and hosting workshops at an expo."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "While in London, Ethan collaborated with a soul vocalist named Amara to record a live studio session. They captured the performance on analog tape, emphasizing warmth and imperfection as part of the sound aesthetic.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-26"
+        ],
+        "who": [
+          "Ethan Miles",
+          "Amara Thompson"
+        ],
+        "where": [
+          "London"
+        ],
+        "what": [
+          "Recording a soulful live session on analog tape."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "Ethan returned to New York to mentor aspiring producers at a youth music program. He discussed creative workflows, mixing fundamentals, and encouraged participants to develop authentic personal sounds.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-16"
+        ],
+        "who": [
+          "Ethan Miles",
+          "music students"
+        ],
+        "where": [
+          "New York"
+        ],
+        "what": [
+          "Mentoring young producers at a community music workshop."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "In Barcelona, Ethan performed a live DJ set at a summer festival, combining ambient house with sampled city sounds. The performance attracted a large audience and was later streamed by an independent music platform.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-19"
+        ],
+        "who": [
+          "Ethan Miles"
+        ],
+        "where": [
+          "Barcelona"
+        ],
+        "what": [
+          "Performing a DJ set blending ambient and cityscape audio samples."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "Ethan spent early autumn in Tokyo, collaborating remotely with artists across three continents. He mixed and mastered multiple singles from his hotel studio, building a reputation for fast, high-quality remote production.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-03"
+        ],
+        "who": [
+          "Ethan Miles",
+          "international artists"
+        ],
+        "where": [
+          "Tokyo"
+        ],
+        "what": [
+          "Mixing and mastering global projects remotely."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "In Toronto, Ethan reunited with Amara to record their second collaboration, a stripped-down acoustic version of their earlier single. The intimate sound received positive feedback for its emotional depth.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-20"
+        ],
+        "who": [
+          "Ethan Miles",
+          "Amara Thompson"
+        ],
+        "where": [
+          "Toronto"
+        ],
+        "what": [
+          "Recording an acoustic duet with a previous collaborator."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "Ethan ended the year back in Los Angeles, curating a charity concert featuring artists he worked with throughout 2025. The event raised funds for youth music programs and closed with his emotional piano performance.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-30"
+        ],
+        "who": [
+          "Ethan Miles",
+          "Jasmine Lee",
+          "Amara Thompson"
+        ],
+        "where": [
+          "Los Angeles"
+        ],
+        "what": [
+          "Hosting a charity concert featuring collaborators from his year's projects."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

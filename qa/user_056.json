@@ -1,0 +1,52 @@
+{
+  "user_id": "user_056",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How do the coconut cracking event at the island resort and the trip to Athens together show the user's enthusiasm for exploring new cultures?",
+      "answer_gold": "Both experiences reflect the user's curiosity and appreciation for local traditions. Watching a coconut cracking demonstration while relaxing at the island resort shows engagement with authentic local activities, while visiting Athens to explore ancient ruins and Greek cuisine demonstrates a deeper fascination with history and culture. Together, these memories capture the user's enjoyment of travel as a way to experience both playfulness and learning.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m04"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "How do the soccer memories reveal both the user's competitive and lighthearted side?",
+      "answer_gold": "In one memory, the user vividly recalls playing soccer with friends and getting scored on, which evokes amusement rather than frustration. Another memory of playing a soccer game conveys a routine but enjoyable athletic experience. Together, these show that the user approaches competition with excitement and humor, valuing connection and fun over winning.",
+      "evidence": [
+        "m03",
+        "m06"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What connection can be made between the desert and the music festival experiences?",
+      "answer_gold": "The desert scene and the music festival, possibly linked through the event 'Sandstorm,' both express adventure and sensory immersion. The vast desert landscape evokes solitude and reflection, while the music festival channels energy, sound, and communal joy. Together, they represent the user's balance between peaceful solitude and vibrant social experiences.",
+      "evidence": [
+        "m07",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "How does the ‘important event' memory involving seeing Cinderella reflect the user's tendency to find meaning in shared experiences?",
+      "answer_gold": "The ‘important event' memory, where the user and Demo One saw Cinderella, suggests a value for shared enjoyment and connection through storytelling and culture. The user tends to cherish small moments of shared wonder — whether a movie, a festival, or a performance — transforming them into emotionally resonant memories.",
+      "evidence": [
+        "m09",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What does the user's mix of leisure, curiosity, and humor across different travel memories say about their personality?",
+      "answer_gold": "The coconut demonstration, ancient ruins visit, and Athens trip all highlight a curious, humorous, and lighthearted traveler who finds joy in every detail — from failing to crack a coconut while tipsy to admiring the grandeur of historical architecture. The user balances amusement with appreciation, showing a personality that seeks laughter and meaning in equal measure wherever they go.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m04"
+      ]
+    }
+  ]
+}

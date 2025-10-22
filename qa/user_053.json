@@ -1,0 +1,50 @@
+{
+  "user_id": "user_053",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How did Patrick find comfort and meaning in family connections during times of loss and remembrance?",
+      "answer_gold": "Patrick's visit to the Kiwanis Club in Hermosa Beach for the celebration of life of T.J. Faye's father, Fireball, brought him together with his brother Chris and old friends in a moment of collective remembrance and reconnection. Later, saying goodbye to his beloved dog Coco with his daughter Marley reflected the same tenderness and acceptance of loss. Across both memories, Patrick found comfort in the presence of loved ones and the reminder that life's endings are softened by shared love and memory.",
+      "evidence": [
+        "m04",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What do Patrick's hospital memories of Marley reveal about her resilience and the family's emotional strength?",
+      "answer_gold": "Both memories of Marley's hospitalization — her surgery and recovery in 2011 and the joyful visit from six of her friends during her fight with thyroid cancer — highlight her incredible resilience and the unwavering love surrounding her. Despite the challenges of childhood illness, Marley's radiant smile and the family's gratitude for friendship and faith transformed those moments into symbols of strength and hope.",
+      "evidence": [
+        "m01",
+        "m05"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "In what ways do Patrick's family gatherings around the holidays capture the theme of gratitude and togetherness?",
+      "answer_gold": "The Christmas Day gathering in Corona Del Mar, where Jack, Mickey, and their dog Duke enjoyed a cozy day watching old movies, reflects Patrick's joy in simple moments with family. Similarly, the quiet birthday celebration for his wife Holly in Newport Beach with their son Jack embodied gratitude for togetherness over extravagance. Both memories celebrate love and presence as the most meaningful gifts of family life.",
+      "evidence": [
+        "m06",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "How do Patrick's friendships bring lightness and reflection into his life alongside family moments?",
+      "answer_gold": "Patrick's reunion with his high school friends Tom Rogers and Molly Balmer at Fireball's celebration of life reminded him of enduring friendship and shared history. Later, attending a joyful event with his dear friend Moira at the Intercontinental Hotel to honor Mollie Balmer showed his appreciation for community and connection beyond family. These moments of camaraderie balance his deeply personal family experiences with joyful social bonds.",
+      "evidence": [
+        "m02",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How does Patrick's perspective on family evolve from early memories of his children to their adult lives?",
+      "answer_gold": "The nostalgic photograph of his young son Jack with their Saint Bernard Sully in 2004 represents the innocence and warmth of Patrick's early family years. Decades later, seeing his sons Austin and Jack share dinner together in Phoenix captures his pride in their maturity and enduring sibling bond. Together, these memories trace a father's evolving joy—from nurturing young children to cherishing their adult companionship.",
+      "evidence": [
+        "m03",
+        "m07"
+      ]
+    }
+  ]
+}

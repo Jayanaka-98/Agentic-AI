@@ -1,0 +1,312 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "On January 4, 2025, in Denver, Jack hiked through a snowy forest trail, his breath visible in the cold air as he stopped to take photos of pine trees.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-04"
+        ],
+        "who": [
+          "Jack"
+        ],
+        "where": [
+          "Denver, CO"
+        ],
+        "what": [
+          "Winter forest hike."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "On February 16, 2025, in Sedona, Jack climbed red rock formations with his friend Maya, pausing at the top to watch the sunset.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-16"
+        ],
+        "who": [
+          "Jack",
+          "Maya"
+        ],
+        "where": [
+          "Sedona, AZ"
+        ],
+        "what": [
+          "Sunset rock climb."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "On March 20, 2025, in Yosemite National Park, Jack camped with his cousin Ethan, roasting marshmallows beside a glowing campfire.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-20"
+        ],
+        "who": [
+          "Jack",
+          "Ethan"
+        ],
+        "where": [
+          "Yosemite National Park, CA"
+        ],
+        "what": [
+          "Camping trip."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "On April 10, 2025, in Zion National Park, Jack hiked The Narrows, wading through shallow water surrounded by towering canyon walls.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-10"
+        ],
+        "who": [
+          "Jack"
+        ],
+        "where": [
+          "Zion National Park, UT"
+        ],
+        "what": [
+          "Canyon hiking."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "On May 18, 2025, in Grand Canyon Village, Jack took a panoramic photo from the South Rim with his parents smiling beside him.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-18"
+        ],
+        "who": [
+          "Jack",
+          "Helen",
+          "Robert"
+        ],
+        "where": [
+          "Grand Canyon, AZ"
+        ],
+        "what": [
+          "Family trip to Grand Canyon."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "On June 22, 2025, in Seattle, Jack went kayaking on Lake Union with his friend Daniel, paddling beneath the city skyline.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-22"
+        ],
+        "who": [
+          "Jack",
+          "Daniel"
+        ],
+        "where": [
+          "Seattle, WA"
+        ],
+        "what": [
+          "Kayaking adventure."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "On July 25, 2025, in Banff National Park, Jack stood near a turquoise lake, his reflection mirrored on the calm water.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-25"
+        ],
+        "who": [
+          "Jack"
+        ],
+        "where": [
+          "Banff National Park, Canada"
+        ],
+        "what": [
+          "Lakeside hike."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "On September 7, 2025, in Glacier National Park, Jack joined a hiking group, trekking along a mountain ridge under clear blue skies.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-07"
+        ],
+        "who": [
+          "Jack",
+          "Maya",
+          "Ethan"
+        ],
+        "where": [
+          "Glacier National Park, MT"
+        ],
+        "what": [
+          "Group mountain hike."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "On October 15, 2025, in Acadia National Park, Jack biked through autumn-colored trails, leaves scattering beneath his tires.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-15"
+        ],
+        "who": [
+          "Jack"
+        ],
+        "where": [
+          "Acadia National Park, ME"
+        ],
+        "what": [
+          "Fall biking trip."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "On December 5, 2025, in Denver, Jack sat beside a campfire in his backyard, sipping cocoa while reviewing photos from his year of travels.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-05"
+        ],
+        "who": [
+          "Jack"
+        ],
+        "where": [
+          "Denver, CO"
+        ],
+        "what": [
+          "Reflecting on the year outdoors."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

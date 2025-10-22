@@ -1,0 +1,308 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "On January 8, 2025, in Banff National Park, Daniel stood on a frozen lake, photographing snow-covered peaks under a bright winter sun.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-08"
+        ],
+        "who": [
+          "Daniel"
+        ],
+        "where": [
+          "Banff National Park, Canada"
+        ],
+        "what": [
+          "Winter mountain photography."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "On February 11, 2025, in New York, Daniel captured the skyline from the Brooklyn Bridge at sunrise, the sky glowing orange and gold.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-11"
+        ],
+        "who": [
+          "Daniel"
+        ],
+        "where": [
+          "New York, NY"
+        ],
+        "what": [
+          "Cityscape photography at sunrise."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "On March 18, 2025, in Marrakech, Daniel photographed vibrant markets filled with spices, textiles, and colorful lamps.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-18"
+        ],
+        "who": [
+          "Daniel"
+        ],
+        "where": [
+          "Marrakech, Morocco"
+        ],
+        "what": [
+          "Cultural market photography."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "On April 22, 2025, in Rome, Daniel took street photos of daily life near the Colosseum, capturing tourists and locals crossing sunlit cobblestones.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-22"
+        ],
+        "who": [
+          "Daniel"
+        ],
+        "where": [
+          "Rome, Italy"
+        ],
+        "what": [
+          "Urban street photography."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "On May 26, 2025, in Santorini, Daniel photographed white cliffside houses against the blue Aegean Sea at sunset.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-26"
+        ],
+        "who": [
+          "Daniel"
+        ],
+        "where": [
+          "Santorini, Greece"
+        ],
+        "what": [
+          "Sunset coastal photography."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "On June 14, 2025, in Kyoto, Daniel captured a series of temple photos framed by red torii gates and green mossy gardens.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-14"
+        ],
+        "who": [
+          "Daniel"
+        ],
+        "where": [
+          "Kyoto, Japan"
+        ],
+        "what": [
+          "Architectural temple photography."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "On July 19, 2025, in Sydney, Daniel photographed surfers riding waves near Bondi Beach under bright summer skies.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-19"
+        ],
+        "who": [
+          "Daniel"
+        ],
+        "where": [
+          "Sydney, Australia"
+        ],
+        "what": [
+          "Action beach photography."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "On September 2, 2025, in Cape Town, Daniel hiked Table Mountain with his camera gear, taking panoramic shots of the coastline below.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-02"
+        ],
+        "who": [
+          "Daniel",
+          "Olivia"
+        ],
+        "where": [
+          "Cape Town, South Africa"
+        ],
+        "what": [
+          "Landscape hike photography."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "On October 10, 2025, in Reykjavik, Daniel photographed the Northern Lights, green waves of light rippling above the icy landscape.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-10"
+        ],
+        "who": [
+          "Daniel"
+        ],
+        "where": [
+          "Reykjavik, Iceland"
+        ],
+        "what": [
+          "Night sky photography."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "On December 28, 2025, in Ann Arbor, Daniel curated his annual photo exhibition, showcasing framed prints from around the world to a local audience.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-28"
+        ],
+        "who": [
+          "Daniel",
+          "Olivia",
+          "Maya"
+        ],
+        "where": [
+          "Ann Arbor, MI"
+        ],
+        "what": [
+          "Photography exhibition."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

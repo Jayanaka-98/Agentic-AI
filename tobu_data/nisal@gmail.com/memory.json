@@ -1,0 +1,190 @@
+{
+    "status": 200,
+    "reports": [
+        {
+            "id": "n:memory:66c88aa766fb702a89531b58",
+            "context": {
+                "memory_id": "3131afb68cda422d99a44802fc3407ec",
+                "summary": "",
+                "comments_summary": "It looks like there are no additional comments or replies that provide new information to complement your original memory summary.",
+                "when": [
+                    ""
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    ""
+                ],
+                "what": [
+                    ""
+                ],
+                "natural_when": [
+                    ""
+                ],
+                "emotion": "",
+                "created_at": "2024-08-23 13:12:07",
+                "updated_at": "2024-08-23 13:12:07",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/nisal@gmail.com_66c8807566fb702a89530b2f/0c55cc6c-d868-4203-b372-dc03f2abe46e.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [],
+                "session_id": "1796740e-4094-49de-a489-8fdd3446b997",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66c88ac166fb702a89531bd4",
+            "context": {
+                "memory_id": "44e274c33eec4ae5b366864ff6b956bb",
+                "summary": "",
+                "comments_summary": "There is no new information in the comments and replies that is complimentary to the original summary.",
+                "when": [
+                    ""
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    ""
+                ],
+                "what": [
+                    ""
+                ],
+                "natural_when": [
+                    ""
+                ],
+                "emotion": "",
+                "created_at": "2024-08-23 13:12:33",
+                "updated_at": "2024-08-23 13:12:33",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/nisal@gmail.com_66c8807566fb702a89530b2f/65df0364-b7f4-4dc6-a4eb-3a7799d91bb0.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [],
+                "session_id": "e5a96a6c-1463-4b5c-99e2-6450bce9ddad",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66c88aeb66fb702a89531c86",
+            "context": {
+                "memory_id": "c3a6062be6e34ff98a0b391a00f541a3",
+                "summary": "Party at home on Friday with friends.",
+                "comments_summary": "No new information was provided in the comments and replies.",
+                "when": [
+                    "Friday "
+                ],
+                "who": [
+                    "With friends "
+                ],
+                "where": [
+                    "At home"
+                ],
+                "what": [
+                    "Party at home"
+                ],
+                "natural_when": [
+                    ""
+                ],
+                "emotion": "",
+                "created_at": "2024-08-23 13:13:15",
+                "updated_at": "2024-08-23 13:13:15",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/nisal@gmail.com_66c8807566fb702a89530b2f/398abf93-0d5a-457f-a49e-26bf0d9b34dd.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [],
+                "session_id": "6eef4108-a9cb-4481-958e-1d01db5ca198",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66cd7a4366fb702a8954b1c2",
+            "context": {
+                "memory_id": "fe098d4f581b473683590059e7bc789c",
+                "summary": "You went on a trip to Riverston.",
+                "comments_summary": "There are no additional details in the comments and replies that complement the original summary.",
+                "when": [
+                    ""
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    "Riverston"
+                ],
+                "what": [
+                    "trip to Riverston"
+                ],
+                "natural_when": [
+                    ""
+                ],
+                "emotion": "",
+                "created_at": "2024-08-27 07:03:31",
+                "updated_at": "2024-08-27 07:03:31",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/nisal@gmail.com_66c8807566fb702a89530b2f/a5e85aba-5e6e-45f9-8353-9a36c8e97e0b.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Trip to Riverston, {}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a great trip! When did this trip to Riverston take place?"
+                    }
+                ],
+                "session_id": "90b17b3c-a2c8-4f34-ad01-1971693f993e",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66d0950b66fb702a89553db0",
+            "context": {
+                "memory_id": "53b34e6a6b2c4862b95594016b5cb2d2",
+                "summary": "",
+                "comments_summary": "There is no new information provided in the comments and replies that is complimentary to the original summary.",
+                "when": [
+                    ""
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    ""
+                ],
+                "what": [
+                    ""
+                ],
+                "natural_when": [
+                    ""
+                ],
+                "emotion": "",
+                "created_at": "2024-08-29 15:34:35",
+                "updated_at": "2024-08-29 15:34:35",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/nisal@gmail.com_66c8807566fb702a89530b2f/9485ae0b-5f00-4035-b045-4a2070053c42.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [
+                    "66a7cd63358a08da6fd4f60e"
+                ],
+                "conversation": [],
+                "session_id": "40015e66-84ea-4854-86d8-f3559b41ce6d",
+                "draft": false
+            }
+        }
+    ]
+}

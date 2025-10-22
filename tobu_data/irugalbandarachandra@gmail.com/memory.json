@@ -1,0 +1,179 @@
+{
+    "status": 200,
+    "reports": [
+        {
+            "id": "n:memory:66a69f5c204745c73cd6b05b",
+            "context": {
+                "memory_id": "54161845c790473e8b5de03a9ef01d04",
+                "summary": "You and Amma went for a time out near Kurunegala lake with some take away from Dominoes.",
+                "comments_summary": "",
+                "when": [
+                    "2024-05-03"
+                ],
+                "who": [
+                    "Akka and Amma"
+                ],
+                "where": [
+                    "Kurunegala lake"
+                ],
+                "what": [
+                    "Spontaneous outing near Kurunegala lake"
+                ],
+                "natural_when": [
+                    "2024-05-03"
+                ],
+                "emotion": "Happy",
+                "created_at": "2024-05-10T16:58:03.751027",
+                "updated_at": "2024-05-10T16:58:03.751180",
+                "image_urls": [
+                    "https://tobu-mvp-dev.s3.amazonaws.com/irugalbandarachandra@gmail.com_urn:uuid:c2f6c631-50ca-4bdd-9d21-40da7d6ebf9d/9ff1335b-8168-47fc-96cf-305e361603d5.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Akka and Amma went for a time out near kurunegala lake with some take away from dominoes."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a lovely memory. Could you please tell me when this event took place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Week ago"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thank you for sharing that. What was the occasion for this outing?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Nothing just went out"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I see, sometimes spontaneous outings are the best. Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "No that's it"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Alright, I've captured this memory of Akka and Amma's spontaneous outing to Kurunegala Lake with some take away from Dominoes a week ago. Thank you for sharing this with me. <END>"
+                    }
+                ],
+                "session_id": "d5c6e423-a3a8-4892-ac4f-3a3d0e4d5a8c",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:67649ff633d03c3128f73a4e",
+            "context": {
+                "memory_id": "e761fe5f27764786be9b47bad5836b1e",
+                "summary": "On a crisp December day, you stood elegantly in a grassy field, dressed in a sharp suit and holding a cane, embodying a sense of timeless grace. The playful presence of two cats, one weaving through the grass near your feet and the other perched higher up, added a touch of whimsy to the serene setting. The cool air and the soft rustle of leaves created a peaceful moment, capturing a unique blend of sophistication and nature's charm.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-18"
+                ],
+                "who": [],
+                "where": [
+                    "grassy field, possibly a park or garden"
+                ],
+                "what": [
+                    "Standing in grassy field"
+                ],
+                "natural_when": [
+                    "2024-12-18"
+                ],
+                "emotion": "",
+                "created_at": "2024-12-19 22:36:38",
+                "updated_at": "2024-12-19 22:36:38",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/irugalbandarachandra@gmail.com_66a2b7aa09aff5bf6392d765/62FE1682-2188-460F-9004-188812CCB9DC.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [],
+                "session_id": "243be1cb30bf43db8e97c1c8212f44dc",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:6764a02633d03c3128f73a69",
+            "context": {
+                "memory_id": "87908f322dd04ec087b3baf67dd00da6",
+                "summary": "On a brisk December day in 2024, the ocean's vibrant blue waves danced energetically under a sky electrified by a striking lightning bolt. The scene was set against the backdrop of 'Talent Zoo,' an event that seemed to capture the raw, untamed beauty of nature and creativity. Standing there, Chandra felt the salty breeze on their face and the thrill of the moment, as if the universe itself was putting on a show just for them, with President Biden also present, leaving them with a positive feeling.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-19"
+                ],
+                "who": [
+                    "President Biden"
+                ],
+                "where": [
+                    "a beach or coastal area, possibly associated with a brand or event called 'Talent Zoo'."
+                ],
+                "what": [
+                    "Beach event experience"
+                ],
+                "natural_when": [
+                    "2024-12-19"
+                ],
+                "emotion": "positive",
+                "created_at": "2024-12-19 22:37:26",
+                "updated_at": "2024-12-19 22:39:21",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/irugalbandarachandra@gmail.com_66a2b7aa09aff5bf6392d765/90365A26-290B-4A19-B798-2B2E9CA60B9C.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Chandra. You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a brisk December day in 2024, the ocean's vibrant blue waves danced energetically under a sky electrified by a striking lightning bolt. The scene was set against the backdrop of 'Talent Zoo,' an event that seemed to capture the raw, untamed beauty of nature and creativity. Standing there, you felt the salty breeze on your face and the thrill of the moment, as if the universe itself was putting on a show just for you.\\nWhat: Beach event experience\\nWhen: 2024-12-19\\nWhere: [\"a beach or coastal area, possibly associated with a brand or event called 'Talent Zoo'.\"]\\nWho: \\nEmotion: \\n\\nHere is what the user said: What is this \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It sounds like you had an amazing experience at the beach during the 'Talent Zoo' event! Could you tell me who was with you during this memorable day?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a brisk December day in 2024, the ocean's vibrant blue waves danced energetically under a sky electrified by a striking lightning bolt. The scene was set against the backdrop of 'Talent Zoo,' an event that seemed to capture the raw, untamed beauty of nature and creativity. Standing there, Chandra felt the salty breeze on their face and the thrill of the moment, as if the universe itself was putting on a show just for them.\\nWhat: Beach event experience\\nWhen: 2024-12-19\\nWhere: a beach or coastal area, possibly associated with a brand or event called 'Talent Zoo'.\\nWho: \\nEmotion: \\n\\nHere is what the user said: Biden\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Wow, it must have been quite an event if President Biden was there! How did being at the 'Talent Zoo' event make you feel overall?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a brisk December day in 2024, the ocean's vibrant blue waves danced energetically under a sky electrified by a striking lightning bolt. The scene was set against the backdrop of 'Talent Zoo,' an event that seemed to capture the raw, untamed beauty of nature and creativity. Standing there, Chandra felt the salty breeze on their face and the thrill of the moment, as if the universe itself was putting on a show just for them, with President Biden also present.\\nWhat: Beach event experience\\nWhen: 2024-12-19\\nWhere: a beach or coastal area, possibly associated with a brand or event called 'Talent Zoo'.\\nWho: President Biden\\nEmotion: \\n\\nHere is what the user said: Not bad\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It sounds like the event left you with a pretty positive feeling! Is there anything else you'd like to add or remember about this day?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a brisk December day in 2024, the ocean's vibrant blue waves danced energetically under a sky electrified by a striking lightning bolt. The scene was set against the backdrop of 'Talent Zoo,' an event that seemed to capture the raw, untamed beauty of nature and creativity. Standing there, Chandra felt the salty breeze on their face and the thrill of the moment, as if the universe itself was putting on a show just for them, with President Biden also present, leaving them with a positive feeling.\\nWhat: Beach event experience\\nWhen: 2024-12-19\\nWhere: a beach or coastal area, possibly associated with a brand or event called 'Talent Zoo'.\\nWho: President Biden\\nEmotion: positive\\n\\nHere is what the user said: No\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Great, I've captured everything about this memory for you. You can go to the Wall view to check out your memories anytime! <END>"
+                    }
+                ],
+                "session_id": "4fe2593953854010af970c6223a5dc8a",
+                "draft": false
+            }
+        }
+    ]
+}

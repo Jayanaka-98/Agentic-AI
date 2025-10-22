@@ -1,0 +1,54 @@
+{
+  "user_id": "user_054",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How does the user's journey through Sri Lanka reflect a growing appreciation for nature and travel over time?",
+      "answer_gold": "From the peaceful morning by the pool in Unawatuna to the breathtaking sunset at Jungle Beach and the calm anticipation while waiting for the train in Ohiya, the user's memories reveal a deepening connection to nature. Each setting—from the southern coast to the central highlands—captures a moment of mindfulness and appreciation for travel's beauty and stillness.",
+      "evidence": [
+        "m01",
+        "m04",
+        "m06"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "In what ways did the user's experiences in Ella and Worlds End combine adventure and friendship?",
+      "answer_gold": "Exploring the railway tunnel in Ella and later posing for a group photo with friends at Worlds End both highlight the spirit of exploration and camaraderie. The rugged natural landscapes serve as the backdrop for shared discovery, laughter, and teamwork, blending adventure with the warmth of friendship.",
+      "evidence": [
+        "m03",
+        "m05"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How do the user's early student experiences connect with the sense of independence and belonging found in Moratuwa?",
+      "answer_gold": "The first day at the boarding place in Kos Boardima marked the beginning of a new chapter of independence. Soon after, dinners with boarding mates and participation in EXMO 2023 at the University of Moratuwa reflected the user's integration into student life and growing sense of community through shared experiences.",
+      "evidence": [
+        "m08",
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "What patterns of curiosity and creativity emerge from the user's shift from travel to AI-focused work?",
+      "answer_gold": "The user's memories of exploring tunnels and train journeys in Ella and Ohiya showcase curiosity and a desire to understand how things work. This same curiosity evolves into creativity and technical ambition in the later memory of coding at JASECI Labs in Moratuwa, where exploration becomes intellectual and innovative rather than physical.",
+      "evidence": [
+        "m01",
+        "m03",
+        "m11"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How do the user's group activities over the years illustrate a sense of community that bridges school, university, and professional life?",
+      "answer_gold": "From carefree group selfies on a school trip to Nuwara Eliya in 2019, to the collaborative EXMO 2023 event at university, and later teamwork at JASECI Labs in 2025, the user's memories trace a consistent theme of community. Each stage—school, university, and career—builds upon shared experiences and collective motivation toward growth.",
+      "evidence": [
+        "m07",
+        "m08",
+        "m11"
+      ]
+    }
+  ]
+}

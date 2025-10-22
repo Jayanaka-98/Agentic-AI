@@ -4,5 +4,7 @@ email_sender_2.py
 venv/
 mydatabase
 .env
-*.json
+user_credentials.json
 *.jsonl
+tobu_data/
+raw/

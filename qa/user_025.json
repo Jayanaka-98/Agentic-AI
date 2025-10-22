@@ -1,0 +1,53 @@
+{
+  "user_id": "user_025",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Who did Olivia collaborate with internationally, and what did those partnerships achieve?",
+      "answer_gold": "She worked with NGOs in Nairobi and Oslo, researchers in Berlin, and activists in Cape Town, collectively advancing reforestation, cleanups, and awareness campaigns.",
+      "evidence": [
+        "m02",
+        "m04",
+        "m06",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "How did Olivia combine education and activism during her travels?",
+      "answer_gold": "She taught sustainability to students in Seattle while sharing global experiences, and used her Bangkok cleanup documentation as a learning tool for her followers.",
+      "evidence": [
+        "m05",
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What events demonstrated Olivia's leadership in global environmental initiatives?",
+      "answer_gold": "Her keynote in Nairobi, UN talk in Geneva, and leadership at the Cape Town tree-planting project show her influence as a global sustainability advocate.",
+      "evidence": [
+        "m02",
+        "m08",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "How did Olivia's work evolve from local action to global impact?",
+      "answer_gold": "She began with a local beach cleanup in Vancouver and gradually moved into international policy discussions and documentary storytelling that reached a global audience.",
+      "evidence": [
+        "m01",
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What does Olivia's documentary at the end of the year symbolize?",
+      "answer_gold": "It represents reflection, outreach, and the culmination of a year dedicated to hands-on activism and international cooperation.",
+      "evidence": [
+        "m10"
+      ]
+    }
+  ]
+}

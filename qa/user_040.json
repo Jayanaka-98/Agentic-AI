@@ -1,0 +1,56 @@
+{
+  "user_id": "user_040",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How did Ethan's early classroom pilots shape the global direction of his AI learning initiative?",
+      "answer_gold": "His pilot in Helsinki and gamified system in Singapore provided foundational feedback that guided later technical improvements in Seoul and policy collaborations in Sydney, culminating in a scalable UNESCO partnership.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m04",
+        "m08",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What connections can be seen between Ethan's teacher training in Toronto and his policy advocacy in Washington?",
+      "answer_gold": "His Toronto workshops emphasized human-centered AI integration, a theme he later expanded in Washington, where he argued that educators should remain central in AI-driven decision-making.",
+      "evidence": [
+        "m03",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did Ethan adapt his platform for inclusivity across different technological contexts?",
+      "answer_gold": "By developing offline tools in Nairobi and improving fairness algorithms in Seoul, he ensured both equitable access and unbiased learning experiences across diverse student populations.",
+      "evidence": [
+        "m04",
+        "m06"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which sequence of projects demonstrates the evolution of Ethan's AI system from technical innovation to educational policy impact?",
+      "answer_gold": "Beginning with algorithmic optimization in Seoul, expanding through generative AI integration in San Francisco, and formalized through policy frameworks in Sydney, his system evolved from tool creation to global policy relevance.",
+      "evidence": [
+        "m04",
+        "m07",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How did Ethan's international collaborations culminate in the Global Learning Futures Forum?",
+      "answer_gold": "His iterative projects across Asia, Africa, and North America fed into the final presentation in Helsinki, where he showcased an inclusive, globally validated education framework adopted for UNESCO implementation.",
+      "evidence": [
+        "m02",
+        "m06",
+        "m09",
+        "m10"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "user_id": "user_048",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which memories reflect the user's gratitude for friendship and support, and how do these friendships appear across different times and places?",
+      "answer_gold": "The user's bonds with Ed appear in both the 70th birthday celebration at the Henry and their hangout before a Mayo Clinic appointment, showing enduring friendship and comfort during both joyful and anxious moments. The breakfast with Eric and Matt in Laguna Beach also reflects meaningful camaraderie.",
+      "evidence": [
+        "m01",
+        "m04",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "How do the memories involving Marley highlight family pride and important life transitions?",
+      "answer_gold": "Marley's first day at Calvary Chapel School, her church visit with her best friend Bethy, and her senior graduation photos at Newport Beach each capture her growth, faith, and family's pride. Her parents' emotions—especially pride and excitement—are central to these memories.",
+      "evidence": [
+        "m07",
+        "m09",
+        "m11"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "In what ways does mentorship play a role in the user's relationships, and what shared values are reflected?",
+      "answer_gold": "The lunches with Matthew at Hopdadi and with Noah at Island's in Newport Beach both reveal the user's joy in guiding younger friends through life and purpose. Matthew's creative music journey and Noah's enthusiasm for AI studies reflect how the user values inspiration and mentorship.",
+      "evidence": [
+        "m06",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which memories capture moments of reflection or deep conversation, and what themes connect them?",
+      "answer_gold": "The sushi meal in Irvine with the user's dad and the lunch with Matthew at Hopdadi both feature thoughtful conversations about life and purpose. They express gratitude, mentorship, and emotional depth—showing that meaningful dialogue strengthens relationships across generations.",
+      "evidence": [
+        "m06",
+        "m12"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How do the user's experiences with family and friends reflect resilience and appreciation of life's blessings?",
+      "answer_gold": "Despite anxiety about his cancer check-up before meeting his doctor, the user surrounded himself with friends like Ed. Meanwhile, joyful gatherings such as celebrating baby Lucy and Tim with Andra and Bill, and Thanksgiving with the Millers, show ongoing gratitude for family and friendship amid challenges.",
+      "evidence": [
+        "m02",
+        "m05",
+        "m10"
+      ]
+    }
+  ]
+}

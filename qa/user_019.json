@@ -1,0 +1,65 @@
+{
+  "user_id": "user_019",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which continents did Daniel visit for photography in 2025?",
+      "answer_gold": "North America (Canada, U.S.), Africa (Morocco, South Africa), Europe (Italy, Greece, Iceland), Asia (Japan), and Australia (Sydney).",
+      "evidence": [
+        "m01",
+        "m02",
+        "m03",
+        "m04",
+        "m05",
+        "m06",
+        "m07",
+        "m08",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What types of photography did Daniel explore throughout the year?",
+      "answer_gold": "Landscape, cityscape, street, cultural, architectural, action, and night sky photography.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m03",
+        "m04",
+        "m05",
+        "m06",
+        "m07",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "Which memories show Daniel collaborating or sharing his work with others?",
+      "answer_gold": "Hiking with Olivia in Cape Town and exhibiting photos with Olivia and Maya in Ann Arbor.",
+      "evidence": [
+        "m08",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which locations best demonstrate Daniel's focus on natural beauty?",
+      "answer_gold": "Banff, Santorini, Cape Town, and Reykjavik, where he photographed mountains, sunsets, coastlines, and the Northern Lights.",
+      "evidence": [
+        "m01",
+        "m05",
+        "m08",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What shows Daniel's evolution from traveler to professional photographer?",
+      "answer_gold": "He began documenting his travels independently and ended the year hosting a curated photo exhibition in Ann Arbor.",
+      "evidence": [
+        "m01",
+        "m10"
+      ]
+    }
+  ]
+}

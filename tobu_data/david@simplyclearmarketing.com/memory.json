@@ -1,0 +1,71 @@
+{
+    "status": 200,
+    "reports": [
+        {
+            "id": "n:memory:6769a2847b2d1318b042104a",
+            "context": {
+                "memory_id": "9e86c4c41a2e46b49a5b6ccbd10958fb",
+                "summary": "In the cozy warmth of the bedroom, the air was filled with laughter and the soft glow of twinkling lights. Jennifer Diaz stood proudly wearing her delightfully tacky Christmas sweater, hands on hips, embodying the festive spirit with its playful snowflake design. This moment, captured on 2024-12-17 just before the holiday rush, was a joyful reminder of the simple pleasures and the warmth of home during the holiday season.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-17"
+                ],
+                "who": [
+                    "Jennifer Diaz"
+                ],
+                "where": [
+                    "Bedroom "
+                ],
+                "what": [
+                    "Wearing Christmas sweater"
+                ],
+                "natural_when": [
+                    "2024-12-17"
+                ],
+                "emotion": "",
+                "created_at": "2024-12-23 17:48:52",
+                "updated_at": "2024-12-23 17:48:52",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/david@simplyclearmarketing.com_66a2b7c209aff5bf6392da17/EC374B0A-9F61-42E9-B0AF-1ADF08D49D1B.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [],
+                "session_id": "141ff8ce6ddd447ea671ef445e406437",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:67732e252dee793519792925",
+            "context": {
+                "memory_id": "b2448bdebf26416ab0eb2024fb67b227",
+                "summary": "On a crisp December day in Nipomo, you found yourself amidst the chaos of a room in disarray. The torn doorway and damaged wall seemed to whisper stories of change and resilience, reminding you of the beauty in life's imperfections and the promise of new beginnings.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-30"
+                ],
+                "who": [],
+                "where": [
+                    "Nipomo"
+                ],
+                "what": [
+                    "room renovation chaos"
+                ],
+                "natural_when": [
+                    "2024-12-30"
+                ],
+                "emotion": "",
+                "created_at": "2024-12-30 23:35:01",
+                "updated_at": "2024-12-30 23:35:01",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/david@simplyclearmarketing.com_66a2b7c209aff5bf6392da17/43624454-5D15-49C5-96BF-46DBAEA813D7.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [],
+                "session_id": "47718d510e124586803a705beda4f1b7",
+                "draft": false
+            }
+        }
+    ]
+}

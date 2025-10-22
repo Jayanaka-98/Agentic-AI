@@ -1,0 +1,58 @@
+{
+  "user_id": "user_030",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How did Daniel's international collaborations across Munich and Toulouse contribute to the satellite's successful launch?",
+      "answer_gold": "His mechanical testing experience in Munich helped resolve structural stability issues, while his guidance simulations in Toulouse ensured accurate orbital control — both critical factors leading to the mission's smooth launch in Cape Canaveral.",
+      "evidence": [
+        "m03",
+        "m04",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What connection exists between Daniel's mentorship in Seattle and his earlier global research experiences?",
+      "answer_gold": "Daniel's exposure to diverse engineering teams in Europe and Asia gave him the insights to guide young engineers in automation and teamwork back in Seattle, strengthening his company's internal technical culture.",
+      "evidence": [
+        "m02",
+        "m03",
+        "m05",
+        "m06"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "In what ways did Daniel combine AI research from Bangalore with the operational demands of the Cape Canaveral launch?",
+      "answer_gold": "The AI fault detection system he co-developed in Bangalore was later integrated into the satellite diagnostics before launch, enabling real-time anomaly detection and contributing to post-launch system stability confirmed in Houston.",
+      "evidence": [
+        "m07",
+        "m08",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "How did Daniel's engineering leadership evolve throughout the year from design to public impact?",
+      "answer_gold": "He began managing subsystem design in Seattle, expanded into international testing and algorithm integration, and concluded the year by sharing his experiences in a keynote that motivated other engineers to pursue innovation.",
+      "evidence": [
+        "m01",
+        "m04",
+        "m08",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which series of events illustrate Daniel's balance between technical problem-solving and mentorship responsibilities?",
+      "answer_gold": "His coordination with Japanese manufacturers and AI research in Bangalore highlight his technical leadership, while mentoring new engineers and later delivering a keynote show his dedication to guiding others in aerospace development.",
+      "evidence": [
+        "m05",
+        "m06",
+        "m07",
+        "m10"
+      ]
+    }
+  ]
+}

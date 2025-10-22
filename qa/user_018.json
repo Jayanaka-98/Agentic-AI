@@ -1,0 +1,56 @@
+{
+  "user_id": "user_018",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How did Julia's fashion career evolve throughout 2025?",
+      "answer_gold": "She began attending major fashion shows, moved into collaborations and vlogging, expanded internationally, and ended the year as an established influencer with one million followers.",
+      "evidence": [
+        "m01",
+        "m03",
+        "m05",
+        "m06",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "Which international cities did Julia visit, and what was her purpose in each?",
+      "answer_gold": "Paris for a photoshoot, Milan for a fashion show, London for a vlog, Tokyo for market exploration, and Seoul for a designer collaboration.",
+      "evidence": [
+        "m02",
+        "m03",
+        "m04",
+        "m06",
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What topics did Julia use her platform to discuss beyond fashion?",
+      "answer_gold": "She addressed sustainability, ethical shopping, and managing creative burnout.",
+      "evidence": [
+        "m04",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Who collaborated with Julia across her career moments?",
+      "answer_gold": "Maya photographed her in Paris and celebrated with her in New York, and Minho worked with her on a Seoul collaboration.",
+      "evidence": [
+        "m02",
+        "m07",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which event best represents Julia's global recognition, and why?",
+      "answer_gold": "Her panel discussion at the Toronto blogger summit, where she spoke about women in digital entrepreneurship, showcasing her influence beyond fashion.",
+      "evidence": [
+        "m09"
+      ]
+    }
+  ]
+}

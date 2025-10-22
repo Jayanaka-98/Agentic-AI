@@ -1,0 +1,117 @@
+{
+  "user_id": "user_037",
+  "memories": [
+    {
+      "memory_id": "m01",
+      "summary": "Aria began the year in Los Angeles producing an experimental track that fused jazz harmonies with electronic textures. She collaborated with local instrumentalists to record live saxophone and drum samples.",
+      "when": "2025-01-15",
+      "who": ["Aria Kim", "Los Angeles musicians"],
+      "where": ["Los Angeles"],
+      "what": "Recording and producing an experimental jazz-electronic fusion track."
+    },
+    {
+      "memory_id": "m02",
+      "summary": "In Seoul, Aria partnered with a K-pop songwriter to co-produce a bilingual single. They combined traditional Korean percussion with modern synth layers to create a cross-cultural rhythm palette.",
+      "when": "2025-02-22",
+      "who": ["Aria Kim", "K-pop songwriter"],
+      "where": ["Seoul"],
+      "what": "Collaborating on a bilingual pop single blending cultural instruments."
+    },
+    {
+      "memory_id": "m03",
+      "summary": "Aria traveled to Nairobi to work with Afrobeat artists on rhythm sampling. She recorded live percussion sessions and field sounds, which she later transformed into digital loops for future projects.",
+      "when": "2025-03-29",
+      "who": ["Aria Kim", "Afrobeat musicians"],
+      "where": ["Nairobi"],
+      "what": "Recording African percussion and environmental sounds for digital use."
+    },
+    {
+      "memory_id": "m04",
+      "summary": "In Berlin, Aria attended a sound engineering residency focusing on spatial audio. She experimented with 3D soundscapes, mixing her Nairobi field recordings into immersive surround formats.",
+      "when": "2025-04-24",
+      "who": ["Aria Kim", "audio engineers"],
+      "where": ["Berlin"],
+      "what": "Creating immersive 3D soundscapes using field samples and surround mixing."
+    },
+    {
+      "memory_id": "m05",
+      "summary": "Back in London, Aria collaborated with a classical string quartet to compose orchestral elements for her upcoming album. She integrated acoustic and electronic layers in her studio sessions.",
+      "when": "2025-05-20",
+      "who": ["Aria Kim", "string quartet"],
+      "where": ["London"],
+      "what": "Composing hybrid orchestral-electronic arrangements for her album."
+    },
+    {
+      "memory_id": "m06",
+      "summary": "In São Paulo, Aria performed at an independent music festival. Her live set featured remixed versions of her Seoul and Nairobi collaborations, receiving strong audience acclaim for its cross-genre energy.",
+      "when": "2025-07-06",
+      "who": ["Aria Kim", "festival audience"],
+      "where": ["São Paulo"],
+      "what": "Performing live fusion remixes combining international collaborations."
+    },
+    {
+      "memory_id": "m07",
+      "summary": "Aria spent August in Mumbai producing tracks with Bollywood vocalists. She explored rhythmic syncopation and emotional dynamics in multilingual songwriting sessions.",
+      "when": "2025-08-14",
+      "who": ["Aria Kim", "Bollywood singers"],
+      "where": ["Mumbai"],
+      "what": "Producing multilingual songs with Bollywood vocalists."
+    },
+    {
+      "memory_id": "m08",
+      "summary": "In Paris, Aria mixed and mastered her debut album 'Woven Frequencies.' She collaborated with engineers to balance cultural sound textures and ensure consistency across genres and languages.",
+      "when": "2025-09-25",
+      "who": ["Aria Kim", "mixing engineers"],
+      "where": ["Paris"],
+      "what": "Finalizing the mixing and mastering of her global fusion album."
+    },
+    {
+      "memory_id": "m09",
+      "summary": "Aria traveled to New York to film a series of behind-the-scenes documentaries about the making of 'Woven Frequencies.' The short films captured her creative process and global collaborations.",
+      "when": "2025-10-29",
+      "who": ["Aria Kim", "film crew"],
+      "where": ["New York"],
+      "what": "Filming documentaries about the creative journey behind her album."
+    },
+    {
+      "memory_id": "m10",
+      "summary": "To close the year, Aria held a global livestream concert connecting artists from six countries. The event celebrated the release of 'Woven Frequencies' and raised funds for global music education initiatives.",
+      "when": "2025-12-20",
+      "who": ["Aria Kim", "international musicians"],
+      "where": ["Los Angeles"],
+      "what": "Hosting a worldwide livestream concert to launch her fusion album."
+    }
+  ],
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How did Aria's early collaborations influence the global sound identity of her album 'Woven Frequencies'?",
+      "answer_gold": "Her sessions in Seoul and Nairobi introduced rhythmic and instrumental diversity that became foundational to her album's aesthetic, later refined through orchestral and electronic integration in London and Paris.",
+      "evidence": ["m02", "m03", "m05", "m08"]
+    },
+    {
+      "qid": "qa_002",
+      "question": "In what ways did Aria bridge cultural and technical innovation throughout her creative process?",
+      "answer_gold": "She blended cultural instruments from Seoul and Mumbai with spatial mixing learned in Berlin, merging human tradition and technological depth into immersive sound environments.",
+      "evidence": ["m02", "m04", "m07"]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did Aria's performances and visual projects expand the reach of her musical storytelling?",
+      "answer_gold": "Her São Paulo live show and New York documentary project turned her studio work into global engagement, connecting her creative process to audiences worldwide before the album's launch.",
+      "evidence": ["m06", "m09", "m10"]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which chain of collaborations demonstrates Aria's transformation from producer to cultural ambassador?",
+      "answer_gold": "Her partnerships across Nairobi, London, and Mumbai evolved from technical experiments into intercultural artistic exchanges, culminating in the global livestream concert uniting six nations in performance.",
+      "evidence": ["m03", "m05", "m07", "m10"]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How did Aria's integration of fieldwork, live performance, and studio refinement shape her album's success?",
+      "answer_gold": "She transformed field recordings from Nairobi into immersive soundscapes in Berlin, performed reimagined versions in São Paulo, and polished the final sound in Paris, blending organic texture with professional precision.",
+      "evidence": ["m03", "m04", "m06", "m08"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "user_id": "user_006",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Across which cities did Noah work with teammates versus clients, and how did the activities differ?",
+      "answer_gold": "He collaborated with teammates in Chicago (planning), Austin (hackathon), Seattle (code review), San Francisco (conference), London/Tokyo (workshops/reviews), and met a client in Toronto (kickoff). Team activities were internal execution and learning, while the client meeting focused on scope and alignment.",
+      "evidence": [
+        "m02",
+        "m04",
+        "m05",
+        "m07",
+        "m08",
+        "m09",
+        "m06"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What moments mark progress milestones in Noah's year, and what signals them?",
+      "answer_gold": "The New York stakeholder demo, the Toronto client kickoff, the Tokyo cross-functional review, and the Denver promotion celebration; each is signaled by formal presentations, agreement on scope, completion of reviews, and a celebratory toast.",
+      "evidence": [
+        "m03",
+        "m06",
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How does the working environment shift from solo focus to public engagement through the year?",
+      "answer_gold": "It begins with solo focus in Ann Arbor, moves to small team rooms and cafés for planning and reviews, expands to conference floors and workshops, and culminates in a public celebration.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m05",
+        "m07",
+        "m08",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which international trips did Noah take, and what was the purpose of each?",
+      "answer_gold": "Toronto for a client kickoff, London for customer workshops, and Tokyo for cross-functional reviews and a team dinner.",
+      "evidence": [
+        "m06",
+        "m08",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which memory best illustrates cross-team collaboration and why?",
+      "answer_gold": "The Tokyo dinner after cross-functional reviews, because it follows a coordinated review effort across teams and ends with a shared team debrief.",
+      "evidence": [
+        "m09"
+      ]
+    }
+  ]
+}

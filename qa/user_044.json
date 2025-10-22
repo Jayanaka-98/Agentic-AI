@@ -1,0 +1,62 @@
+{
+  "user_id": "user_044",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "What moments show Alex's appreciation for companionship, both human and canine, across his memories?",
+      "answer_gold": "Alex enjoyed peaceful afternoons in Arcadia sitting outside with his dogs Cooper and Daisy, captured quiet evenings with Ava, Mia, and Lila by the fire pit, and shared a relaxing December walk in Mt. Grove with his wife Ava and daughter Lila, showing his deep value for connection and togetherness.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m03",
+        "m13"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "How does Alex's lifestyle reflect a balance between relaxation at home and outdoor adventures?",
+      "answer_gold": "He spent cozy afternoons in front of his house with his dogs, played tennis indoors in December, explored a snowy cityscape in winter, and joined friends for sports and social gatherings in Tucson and Phoenix, demonstrating a healthy mix of peaceful home life and active exploration.",
+      "evidence": [
+        "m02",
+        "m05",
+        "m07",
+        "m08",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "In which memories does Alex spend time with friends, and how do these social experiences differ across settings?",
+      "answer_gold": "He gathered with friends in Tucson on a sunny football field, met with others in Phoenix for casual moments, celebrated the Fourth of July surrounded by laughter, and dined by the sea in Atrani, moving from festive local gatherings to relaxed international experiences.",
+      "evidence": [
+        "m08",
+        "m09",
+        "m10",
+        "m11"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "How do Alex's memories from different months show the changing atmosphere and emotions of each season?",
+      "answer_gold": "Spring brought joy with family and dogs in Arcadia, autumn was filled with friendship and sports in Tucson, and winter carried quiet reflection through baking, tennis, and scenic photography, revealing his appreciation for both lively and tranquil seasonal rhythms.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m08",
+        "m04",
+        "m05",
+        "m13"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What themes of beauty and mindfulness appear across Alex's memories, and how do they manifest?",
+      "answer_gold": "From baking cookies with warmth in December to photographing palm trees with Ava and Lila, Alex's memories highlight mindfulness and appreciation of beauty — whether through family, nature, or quiet daily rituals like sitting in the shade with his dogs.",
+      "evidence": [
+        "m02",
+        "m04",
+        "m13"
+      ]
+    }
+  ]
+}

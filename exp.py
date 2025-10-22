@@ -1,79 +1,74 @@
 jac2_url = "http://localhost:8000"
 user_token = ""
 
-import random
-import string
-import json
-import os
-import datetime
-import requests
+import random, string, json, os, datetime, requests
 from pathlib import Path
 
 jac2_session = requests.Session()
 
 def generate_password(length=12):
     chars = string.ascii_letters + string.digits + string.punctuation
-    password = ''.join(random.choice(chars) for _ in range(length))
-    return password
+    return ''.join(random.choice(chars) for _ in range(length))
 
 def manage_user_credentials(username, existing_password="", credentials_file='user_credentials.json'):
-    # Create credentials file if it doesn't exist
     if not os.path.exists(credentials_file):
         with open(credentials_file, 'w') as f:
             json.dump({}, f)
-    
-    # Load existing credentials
+
     with open(credentials_file, 'r') as f:
         credentials = json.load(f)
-    
-    if existing_password:  # If password is provided, use it
+
+    if existing_password:
         password = existing_password
-    elif username not in credentials or 'password' not in credentials[username]:  # Generate new if needed
+    elif username not in credentials or 'password' not in credentials[username]:
         password = generate_password()
-    else:  # Use existing password from credentials
+    else:
         password = credentials[username]['password']
-    
-    # Update credentials in JSON
+
     credentials[username] = {
         'password': password,
         'created_at': str(datetime.datetime.now())
     }
-    
-    # Save updated credentials
+
     with open(credentials_file, 'w') as f:
         json.dump(credentials, f, indent=4)
-    
+
     return password
 
+
 def login_user(username, password):
-    # Placeholder for actual login logic
-    
     email = username
     pw = password
-    res = jac2_session.post(
-        f"{jac2_url}/user/register",
-        json={"email": user, "password": pw, "is_activated": True},
-    )
 
+    # --- Register user if not exists ---
+    try:
+        jac2_session.post(
+            f"{jac2_url}/user/register",
+            json={"email": email, "password": pw, "is_activated": True},
+        )
+    except Exception as e:
+        print(f"[warn] registration failed for {email}: {e}")
+
+    # --- Login ---
     res = jac2_session.post(
         f"{jac2_url}/user/login/",
-        json={"email": user, "password": pw},
+        json={"email": email, "password": pw},
     )
+
+    if res.status_code != 200:
+        raise RuntimeError(f"Login failed for {email}: {res.text}")
+
     jac2_session.headers.update({"Content-Type": "application/json"})
-    # print(res.json())
-    user_token = res.json()['token']
+    user_token = res.json().get("token", "")
     jac2_session.headers.update({"Authorization": f"bearer {user_token}"})
+
     jac2_session.post(f"{jac2_url}/walker/init_user", json={})
-    # load_data(username)
-    
+
 
 def load_data(username):
     localpart = username.split("@", 1)[0]
-    
-    # --- read from ./raw/ instead of ./test_data/ ---
     src_path = Path(f'./raw/{localpart}.json')
 
-    # --- output folders remain the same ---
     test_data_dir = Path("./test_data")
     qa_dir = Path("./qa")
     test_data_dir.mkdir(parents=True, exist_ok=True)
@@ -82,66 +77,93 @@ def load_data(username):
     test_data_out_path = test_data_dir / f"{localpart}.json"
     qa_out_path = qa_dir / f"{localpart}.json"
 
+    if not src_path.exists():
+        print(f"[warn] missing source file: {src_path}")
+        return
+
     with src_path.open('r', encoding='utf-8') as f:
         data = json.load(f)
-        
+
+    # ---------- auto-detect and extract memory blocks ----------
     if "memories" in data:
-        user_id = data.get("user_id", localpart)
+        # Old format: direct "memories" list
         memories = data.get("memories", [])
         qa_pairs = data.get("qa_pairs", [])
-
-        reports = []
-        for m in memories:
-            memory_id_val = m.get("memory_id", "")
-            summary_val   = m.get("summary", "")
-            when_val      = m.get("when", "")
-            who_val       = m.get("who", [])
-            where_val     = m.get("where", [])
-            what_val      = m.get("what", "")
-
-            reports.append({
-                "id": memory_id_val,
-                "context": {
-                    "memory_id": memory_id_val,
-                    "summary": summary_val,
-                    "comments_summary": "",
-                    "when": [when_val] if isinstance(when_val, str) else when_val,
-                    "who": who_val,
-                    "where": where_val,
-                    "what": [what_val] if isinstance(what_val, str) else what_val,
-                    "natural_when": "",
-                    "emotion": "",
-                    "created_at": "",
-                    "updated_at": "",
-                    "image_urls": [],
-                    "new_image_format": "",
-                    "shared_with": [],
-                    "conversation": [],
-                    "session_id": "",
-                    "draft": False
-                }
-            })
-
-        migrate_payload = {"status": 200, "reports": reports}
-
-        # --- Save migrated test_data ---
-        with test_data_out_path.open("w", encoding="utf-8") as f:
-            json.dump(migrate_payload, f, indent=2, ensure_ascii=False)
-
-        # --- Save QA to qa/<localpart>.json ---
-        qa_payload = {"user_id": user_id, "qa_pairs": qa_pairs}
-        with qa_out_path.open("w", encoding="utf-8") as f:
-            json.dump(qa_payload, f, indent=2, ensure_ascii=False)
-
-        profile_json = migrate_payload
+    elif "reports" in data:
+        # Already semi-migrated format
+        memories = []
+        for r in data["reports"]:
+            # either {id, context} or direct dict
+            if isinstance(r, dict):
+                context = r.get("context", r)
+                # ensure memory_id field
+                if "memory_id" not in context:
+                    context["memory_id"] = r.get("id", f"m{len(memories)+1:02d}")
+                memories.append(context)
+        qa_pairs = data.get("qa_pairs", [])
     else:
-        # Already migrated
-        profile_json = data
+        print(f"[warn] No recognizable memory structure in {src_path.name}")
+        return
 
-    # ---- migrate to backend ----
+    # ---------- normalize and rebuild unified structure ----------
+    reports = []
+    for i, m in enumerate(memories, start=1):
+        mem_id = m.get("memory_id") or m.get("id") or f"m{i:02d}"
+        summary = m.get("summary", "")
+        when = m.get("when", [])
+        if isinstance(when, str):
+            when = [when]
+        if not when or (isinstance(when, list) and len(when) == 0):
+            when = [""]  # <-- ensures non-empty list
+        who = m.get("who", [])
+        where = m.get("where", [])
+        what = m.get("what", [])
+        if isinstance(what, str):
+            what = [what]
+        session_id = m.get("session_id", "")
+        comments_summary = m.get("comments_summary", "")
+
+        context = {
+            "memory_id": mem_id,
+            "summary": summary,
+            "comments_summary": comments_summary,
+            "when": when,
+            "who": who,
+            "where": where,
+            "what": what,
+            "natural_when": m.get("natural_when", ""),
+            "emotion": m.get("emotion", ""),
+            "created_at": m.get("created_at", ""),
+            "updated_at": m.get("updated_at", ""),
+            "image_urls": m.get("image_urls", []),
+            "new_image_format": m.get("new_image_format", ""),
+            "shared_with": m.get("shared_with", []),
+            "conversation": m.get("conversation", []),
+            "session_id": session_id,
+            "draft": bool(m.get("draft", False)),
+        }
+
+        reports.append({
+            "id": mem_id,
+            "context": context,
+        })
+
+    # ---------- build final payload ----------
+    migrate_payload = {"status": 200, "reports": reports}
+    qa_payload = {"user_id": data.get("user_id", localpart), "qa_pairs": qa_pairs}
+
+    # ---------- save locally ----------
+    with test_data_out_path.open("w", encoding="utf-8") as f:
+        json.dump(migrate_payload, f, indent=2, ensure_ascii=False)
+    with qa_out_path.open("w", encoding="utf-8") as f:
+        json.dump(qa_payload, f, indent=2, ensure_ascii=False)
+
+    print(f"[debug] {username}: wrote {len(reports)} memories → {test_data_out_path}")
+
+    # ---------- migrate to backend ----------
     res = jac2_session.post(
         f"{jac2_url}/walker/migrate_profile_data",
-        json={"json_file_content": profile_json["reports"]},
+        json={"json_file_content": reports},  # pass only the list of reports[].context
     )
     try:
         print(res.json())
@@ -151,36 +173,28 @@ def load_data(username):
     if res.status_code == 200:
         print(f"Profile migrated for {username}")
 
+    # ---------- verify ----------
     res = jac2_session.post(f"{jac2_url}/walker/list_memories", json={})
     try:
         print(res.json())
     except Exception:
         print({"status_code": res.status_code, "text": res.text})
-    
-# Example usage:
-if __name__ == "__main__":
-    import os
-    import argparse
 
+if __name__ == "__main__":
+    import argparse
     parser = argparse.ArgumentParser(description="Pipeline runner")
-    parser.add_argument("mode", nargs="?", default="run", choices=["migrate", "run"],
-                        help="migrate: load_data once per user and exit; run: query QA only (no load_data)")
-    parser.add_argument("--exp", default="mtp", choices=["mtp", "mtp_with_sem", "pe"],
-                        help="experiment type controls result output directory")
+    parser.add_argument("mode", nargs="?", default="run", choices=["migrate", "run"])
+    parser.add_argument("--exp", default="mtp", choices=["mtp", "mtp_with_sem", "pe"])
     args = parser.parse_args()
 
-    MODE = args.mode  # "migrate" or "run"
-    EXP = args.exp
+    MODE, EXP = args.mode, args.exp
+    users = {f"user_{i:03d}@jaseci.org": "" for i in range(1, 61)}
 
-    # prepare passwords for all users
-    users = {f"user_{i:03d}@jaseci.org": "" for i in range(1, 41)}
     for u, pw in users.items():
         users[u] = manage_user_credentials(u, pw)
 
     if MODE == "migrate":
-        # --- MIGRATION PHASE: call load_data exactly once per user, no querying ---
         for email in sorted(users.keys()):
-            user = email
             try:
                 login_user(email, users[email])
                 load_data(email)
@@ -196,75 +210,86 @@ if __name__ == "__main__":
     exp_results_dir = base_results_dir / EXP
     exp_results_dir.mkdir(parents=True, exist_ok=True)
 
-    all_out_path = exp_results_dir / "all_users_answers.jsonl"
+    for run_idx in range(1, 11):  # 10 runs
+        run_dir = exp_results_dir / f"run{run_idx}"
+        run_dir.mkdir(parents=True, exist_ok=True)
 
-    with open(all_out_path, "w", encoding="utf-8") as all_out:
-        for email in sorted(users.keys()):
-            user = email  # IMPORTANT for login_user()
-            try:
-                login_user(email, users[email])
-            except Exception as e:
-                err = {"user": email, "error": f"login_failed: {repr(e)}"}
-                print(err)
-                all_out.write(json.dumps(err, ensure_ascii=False) + "\n")
-                continue
+        all_out_path = run_dir / "all_users_answers.jsonl"
+        print(f"\n[RUN {run_idx}] Starting {EXP.upper()} → saving to {run_dir}")
 
-            localpart = email.split("@", 1)[0]
-            qa_path = f"./qa/{localpart}.json"
-            results_path = exp_results_dir / f"{localpart}_answers.jsonl"
+        with open(all_out_path, "w", encoding="utf-8") as all_out:
+            for email in sorted(users.keys()):
+                user = email  # IMPORTANT for login_user()
+                try:
+                    login_user(email, users[email])
+                except Exception as e:
+                    err = {"user": email, "error": f"login_failed: {repr(e)}"}
+                    print(err)
+                    all_out.write(json.dumps(err, ensure_ascii=False) + "\n")
+                    continue
 
-            if not os.path.exists(qa_path):
-                warn = {"user": email, "warning": f"qa_file_missing: {qa_path}"}
-                print(warn)
-                all_out.write(json.dumps(warn, ensure_ascii=False) + "\n")
-                continue
+                localpart = email.split("@", 1)[0]
+                qa_path = f"./qa/{localpart}.json"
+                results_path = run_dir / f"{localpart}_answers.jsonl"
 
-            with open(qa_path, "r", encoding="utf-8") as f:
-                qa_payload = json.load(f)
+                if not os.path.exists(qa_path):
+                    warn = {"user": email, "warning": f"qa_file_missing: {qa_path}"}
+                    print(warn)
+                    all_out.write(json.dumps(warn, ensure_ascii=False) + "\n")
+                    continue
 
-            qa_pairs = qa_payload.get("qa_pairs", [])
-            with open(results_path, "w", encoding="utf-8") as out:
-                for qa in qa_pairs:
-                    qid = qa.get("qid")
-                    question = qa.get("question", "")
-                    gold = qa.get("answer_gold", "")
-                    evidence = qa.get("evidence", [])
+                with open(qa_path, "r", encoding="utf-8") as f:
+                    qa_payload = json.load(f)
 
-                    resp = jac2_session.post(
-                        f"{jac2_url}/walker/search_memories",
-                        json={"query": question},
-                    )
-                    try:
-                        resp_json = resp.json()
-                    except Exception:
-                        resp_json = {"status_code": resp.status_code, "text": resp.text}
+                qa_pairs = qa_payload.get("qa_pairs", [])
+                with open(results_path, "w", encoding="utf-8") as out:
+                    for qa in qa_pairs:
+                        qid = qa.get("qid")
+                        question = qa.get("question", "")
+                        gold = qa.get("answer_gold", "")
+                        evidence = qa.get("evidence", [])
 
-                    # extract ONLY memory_id(s) from arbitrarily nested "reports"
-                    memory_ids = []
-                    if isinstance(resp_json, dict):
-                        queue = list(resp_json.get("reports", []))
-                        while queue:
-                            item = queue.pop(0)
-                            if isinstance(item, list):
-                                queue.extend(item)
-                            elif isinstance(item, dict):
-                                mem = item.get("memory", item)
-                                mid = mem.get("memory_id") or mem.get("id")
-                                if isinstance(mid, str) and mid:
-                                    memory_ids.append(mid)
+                        payload = {"query": question}
+                        if EXP == "pe":
+                            payload["use_byllm"] = False
 
-                    record = {
-                        "user": email,
-                        "qid": qid,
-                        "question": question,
-                        "answer": evidence,
-                        "output": memory_ids,
-                    }
-                    print(record)
-                    line = json.dumps(record, ensure_ascii=False)
-                    out.write(line + "\n")
-                    all_out.write(line + "\n")
+                        resp = jac2_session.post(
+                            f"{jac2_url}/walker/search_memories",
+                            json=payload,
+                        )
+                        
+                        try:
+                            resp_json = resp.json()
+                        except Exception:
+                            resp_json = {"status_code": resp.status_code, "text": resp.text}
 
-            print(f"[done] {email} -> {results_path}")
+                        memory_ids = []
+                        if isinstance(resp_json, dict):
+                            queue = list(resp_json.get("reports", []))
+                            while queue:
+                                item = queue.pop(0)
+                                if isinstance(item, list):
+                                    queue.extend(item)
+                                elif isinstance(item, dict):
+                                    mem = item.get("memory", item)
+                                    mid = mem.get("memory_id") or mem.get("id")
+                                    if isinstance(mid, str) and mid:
+                                        memory_ids.append(mid)
 
-    print(f"[all done] wrote aggregate: {all_out_path}")
+                        record = {
+                            "user": email,
+                            "qid": qid,
+                            "question": question,
+                            "answer": evidence,
+                            "output": memory_ids,
+                        }
+                        print(record)
+                        line = json.dumps(record, ensure_ascii=False)
+                        out.write(line + "\n")
+                        all_out.write(line + "\n")
+
+                print(f"[done] {email} -> {results_path}")
+
+        print(f"[RUN {run_idx}] done. Aggregate → {all_out_path}")
+
+    print(f"\n[all done] Completed 10 runs for experiment: {EXP}")

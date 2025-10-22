@@ -1,0 +1,318 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "On January 11, 2025, in Ann Arbor, Sophia studied in the university library, laptop open beside stacks of textbooks.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-11"
+        ],
+        "who": [
+          "Sophia"
+        ],
+        "where": [
+          "Ann Arbor, MI"
+        ],
+        "what": [
+          "Studying in library."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "On February 6, 2025, in Chicago, Sophia attended a career fair with her classmate Daniel, both holding folders of résumés.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-06"
+        ],
+        "who": [
+          "Sophia",
+          "Daniel"
+        ],
+        "where": [
+          "Chicago, IL"
+        ],
+        "what": [
+          "Career fair."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "On March 9, 2025, in Boston, Sophia worked with a project team in a lab, discussing diagrams spread across a whiteboard.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-09"
+        ],
+        "who": [
+          "Sophia",
+          "Rachel",
+          "Leo"
+        ],
+        "where": [
+          "Boston, MA"
+        ],
+        "what": [
+          "Team project work."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "On April 18, 2025, in New York, Sophia joined friends at a tech talk, captured while listening in an auditorium.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-18"
+        ],
+        "who": [
+          "Sophia",
+          "Maya",
+          "Raj"
+        ],
+        "where": [
+          "New York, NY"
+        ],
+        "what": [
+          "Tech talk event."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "On May 12, 2025, in San Francisco, Sophia started her summer internship, standing in front of the office with a badge clipped to her shirt.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-12"
+        ],
+        "who": [
+          "Sophia"
+        ],
+        "where": [
+          "San Francisco, CA"
+        ],
+        "what": [
+          "Internship start."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "On June 25, 2025, in San Francisco, Sophia worked with mentor Alex over coffee, reviewing notes on her laptop.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-25"
+        ],
+        "who": [
+          "Sophia",
+          "Alex"
+        ],
+        "where": [
+          "San Francisco, CA"
+        ],
+        "what": [
+          "Mentorship meeting."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "On July 30, 2025, in San Francisco, Sophia presented her project to a small group, standing by a projector screen.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-30"
+        ],
+        "who": [
+          "Sophia",
+          "Alex",
+          "Rachel"
+        ],
+        "where": [
+          "San Francisco, CA"
+        ],
+        "what": [
+          "Internship presentation."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "On September 2, 2025, in Seattle, Sophia visited Pike Place Market with Daniel, holding a coffee cup in one hand.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-02"
+        ],
+        "who": [
+          "Sophia",
+          "Daniel"
+        ],
+        "where": [
+          "Seattle, WA"
+        ],
+        "what": [
+          "Market visit."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "On October 21, 2025, in Toronto, Sophia joined a university exchange trip, taking a group photo with classmates near the CN Tower.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-21"
+        ],
+        "who": [
+          "Sophia",
+          "Leo",
+          "Maya"
+        ],
+        "where": [
+          "Toronto, Canada"
+        ],
+        "what": [
+          "Exchange program trip."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "On December 15, 2025, in Ann Arbor, Sophia celebrated the end of the semester with her study group, holding a slice of cake at a café.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-15"
+        ],
+        "who": [
+          "Sophia",
+          "Rachel",
+          "Daniel"
+        ],
+        "where": [
+          "Ann Arbor, MI"
+        ],
+        "what": [
+          "End-of-semester celebration."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

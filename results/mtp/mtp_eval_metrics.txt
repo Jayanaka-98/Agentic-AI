@@ -1,18 +1,23 @@
 Retrieval Evaluation Metrics (MTP)
 ==================================================
-Questions evaluated: 200
-Exact Match (EM):   0.3400
+Questions evaluated: 300
+Exact Match (EM):   0.3100
 
 Macro Averages (mean over questions)
-  Precision: 0.7682
-  Recall: 0.8586
-  F1: 0.7768
+  Precision: 0.6972
+  Recall: 0.7767
+  F1: 0.7038
 
 Micro Averages (global counts)
-  Precision: 0.6847
-  Recall: 0.8596
-  F1: 0.7623
+  Precision: 0.6655
+  Recall: 0.7694
+  F1: 0.7137
 
 Cosine Similarity
-  Mean cosine(pred summaries vs gold answers): 0.2607
-  Mean cosine(gold summaries vs gold answers): 0.2734
+  Mean cosine(pred summaries vs gold answers): 0.2584
+  Mean cosine(gold summaries vs gold answers): 0.2980
+
+Counts
+  TP: 774
+  FP: 389
+  FN: 232

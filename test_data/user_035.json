@@ -1,0 +1,315 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "Elena began the year in Zurich, overseeing an fMRI study on how emotional stimuli affect memory consolidation. She collaborated with psychology postdocs to analyze brain activation patterns during recall tasks.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-09"
+        ],
+        "who": [
+          "Elena Morais",
+          "psychology postdocs"
+        ],
+        "where": [
+          "Zurich"
+        ],
+        "what": [
+          "Conducting fMRI experiments on emotional memory encoding."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "In Oxford, Elena presented early findings at a cognitive neuroscience symposium. She discussed correlations between amygdala activation and long-term memory retention, attracting interest from multiple research groups.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-25"
+        ],
+        "who": [
+          "Elena Morais",
+          "neuroscience researchers"
+        ],
+        "where": [
+          "Oxford"
+        ],
+        "what": [
+          "Presenting emotional memory research and networking with collaborators."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "Elena traveled to Tokyo to join a cross-lab project using EEG to study rapid memory reactivation during sleep. Her role involved synchronizing EEG and fMRI datasets for comparative neural pattern analysis.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-28"
+        ],
+        "who": [
+          "Elena Morais",
+          "Tokyo research team"
+        ],
+        "where": [
+          "Tokyo"
+        ],
+        "what": [
+          "Collaborating on EEG-fMRI integration for memory reactivation research."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "In Boston, Elena participated in a neuroinformatics workshop focused on machine learning tools for decoding brain signals. She developed an algorithm to identify memory reactivation events across multiple time windows.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-23"
+        ],
+        "who": [
+          "Elena Morais",
+          "neuroinformatics specialists"
+        ],
+        "where": [
+          "Boston"
+        ],
+        "what": [
+          "Developing ML-based analysis pipelines for brain signal decoding."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "Elena returned to Zurich to supervise undergraduate interns. She introduced a training module on neural data preprocessing, emphasizing ethical considerations and reproducibility in brain research.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-21"
+        ],
+        "who": [
+          "Elena Morais",
+          "undergraduate interns"
+        ],
+        "where": [
+          "Zurich"
+        ],
+        "what": [
+          "Mentoring interns on neural data analysis and research ethics."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "In San Diego, Elena joined a collaboration with neuroscientists studying hippocampal networks during spatial navigation tasks. She contributed analytical models from her memory encoding research to interpret connectivity data.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-27"
+        ],
+        "who": [
+          "Elena Morais",
+          "neuroscientists"
+        ],
+        "where": [
+          "San Diego"
+        ],
+        "what": [
+          "Applying memory models to hippocampal network analysis in navigation studies."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "Elena attended the Society for Neuroscience conference in Chicago, where she presented her integrated cross-lab findings. She emphasized how combining EEG, fMRI, and ML tools enhances understanding of distributed memory systems.",
+        "comments_summary": "",
+        "when": [
+          "2025-08-11"
+        ],
+        "who": [
+          "Elena Morais",
+          "SfN attendees"
+        ],
+        "where": [
+          "Chicago"
+        ],
+        "what": [
+          "Presenting integrated multimodal findings at a major neuroscience conference."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "In Tel Aviv, Elena collaborated with computational neuroscientists to simulate memory replay in artificial neural networks. Their model replicated hippocampal-cortical interactions observed in her empirical data.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-24"
+        ],
+        "who": [
+          "Elena Morais",
+          "computational neuroscientists"
+        ],
+        "where": [
+          "Tel Aviv"
+        ],
+        "what": [
+          "Modeling neural memory replay in artificial neural networks."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "Elena spent October in Vienna writing a joint publication summarizing her year-long cross-continental collaborations. The paper highlighted methodological bridges between biological and artificial memory research.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-29"
+        ],
+        "who": [
+          "Elena Morais",
+          "co-authors"
+        ],
+        "where": [
+          "Vienna"
+        ],
+        "what": [
+          "Co-authoring a paper integrating human and AI memory research."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "To close the year, Elena delivered a keynote in Geneva at the Global Brain Summit, reflecting on how collaborative science fosters ethical innovation. She proposed a shared open database for multimodal brain datasets.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-15"
+        ],
+        "who": [
+          "Elena Morais",
+          "conference participants"
+        ],
+        "where": [
+          "Geneva"
+        ],
+        "what": [
+          "Delivering a keynote on open collaboration and ethics in neuroscience."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

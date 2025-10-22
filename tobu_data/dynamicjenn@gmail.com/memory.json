@@ -1,0 +1,76 @@
+{
+    "status": 200,
+    "reports": [
+        {
+            "id": "n:memory:66cdf35666fb702a89551106",
+            "context": {
+                "memory_id": "210abbc85c654ac88427cfb42fafe303",
+                "summary": "You enjoyed the lovely weather during your four days at Savannah's new amazing apartment, but today the humidity is back.",
+                "comments_summary": "",
+                "when": [
+                    "2024-08-27"
+                ],
+                "who": [
+                    "You, me, and Trent"
+                ],
+                "where": [
+                    "Savannah's new amazing apartment"
+                ],
+                "what": [
+                    "weather"
+                ],
+                "natural_when": [
+                    "2024-08-27"
+                ],
+                "emotion": "Excitement",
+                "created_at": "2024-08-27 15:40:06",
+                "updated_at": "2024-08-27 15:40:06",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/dynamicjenn@gmail.com_66a2b7be09aff5bf6392d9ae/FAC38DE2-8B0F-44D5-B17A-CF7B05BB7C7E.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "We are at Savannah's new amazing apartment., {}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a great setting! Who was present at Savannah's apartment?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Just the two of us, but sometimes Trent would pop in., {\"summary\":\"You are at Savannah's new amazing apartment.\",\"what\":\"apartment\",\"where\":\"Savannah's new amazing apartment\"}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Sounds like a cozy gathering. Could you tell me when this happened?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I've been here four days now., {\"summary\":\"You are at Savannah's new amazing apartment.\",\"what\":\"apartment\",\"where\":\"Savannah's new amazing apartment\",\"who\":\"You, me, and Trent\",\"emotion\":\"Excitement\"}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thank you for sharing that. Is there a specific event or moment during these four days that stands out to you?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "The weather was lovely, comma, however today the humidity is back., {\"summary\":\"You are at Savannah's new amazing apartment.\",\"when\":\"four days\",\"what\":\"apartment\",\"where\":\"Savannah's new amazing apartment\",\"who\":\"You, me, and Trent\",\"emotion\":\"Excitement\"}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It sounds like you've had a mix of weather during your stay. Is there anything else you would like to add to this memory?"
+                    }
+                ],
+                "session_id": "19022f04-47c2-425d-9125-6c94d746ad3b",
+                "draft": false
+            }
+        }
+    ]
+}

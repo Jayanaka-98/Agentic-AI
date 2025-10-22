@@ -1,0 +1,312 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "On January 17, 2025, in Ann Arbor, Ethan practiced piano in a rehearsal room, sheet music spread across the stand under soft lighting.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-17"
+        ],
+        "who": [
+          "Ethan"
+        ],
+        "where": [
+          "Ann Arbor, MI"
+        ],
+        "what": [
+          "Solo piano rehearsal."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "On February 9, 2025, in Chicago, Ethan attended a jazz club with his friend Olivia, tapping along as a saxophonist performed on stage.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-09"
+        ],
+        "who": [
+          "Ethan",
+          "Olivia"
+        ],
+        "where": [
+          "Chicago, IL"
+        ],
+        "what": [
+          "Jazz night out."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "On March 14, 2025, in New York, Ethan sang in a student choir concert at a university hall, standing among rows of performers in black attire.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-14"
+        ],
+        "who": [
+          "Ethan"
+        ],
+        "where": [
+          "New York, NY"
+        ],
+        "what": [
+          "Choir concert."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "On April 19, 2025, in Boston, Ethan attended a symphony with his sister Julia, both seated in the balcony as violins played below.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-19"
+        ],
+        "who": [
+          "Ethan",
+          "Julia"
+        ],
+        "where": [
+          "Boston, MA"
+        ],
+        "what": [
+          "Classical concert outing."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "On May 23, 2025, in Austin, Ethan joined a street band performance, playing guitar while a small crowd gathered around.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-23"
+        ],
+        "who": [
+          "Ethan"
+        ],
+        "where": [
+          "Austin, TX"
+        ],
+        "what": [
+          "Street performance."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "On June 15, 2025, in Nashville, Ethan recorded in a small studio with his friend Noah, headphones on as they layered guitar and vocals.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-15"
+        ],
+        "who": [
+          "Ethan",
+          "Noah"
+        ],
+        "where": [
+          "Nashville, TN"
+        ],
+        "what": [
+          "Studio recording session."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "On July 27, 2025, in Los Angeles, Ethan performed at an open mic night, standing with a guitar under bright spotlights.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-27"
+        ],
+        "who": [
+          "Ethan"
+        ],
+        "where": [
+          "Los Angeles, CA"
+        ],
+        "what": [
+          "Open mic performance."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "On September 4, 2025, in Seattle, Ethan attended a music festival with Olivia and Raj, holding drinks while bands played across outdoor stages.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-04"
+        ],
+        "who": [
+          "Ethan",
+          "Olivia",
+          "Raj"
+        ],
+        "where": [
+          "Seattle, WA"
+        ],
+        "what": [
+          "Music festival."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "On October 20, 2025, in Toronto, Ethan gave a piano recital, bowing to applause after finishing a classical piece.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-20"
+        ],
+        "who": [
+          "Ethan"
+        ],
+        "where": [
+          "Toronto, Canada"
+        ],
+        "what": [
+          "Piano recital."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "On December 31, 2025, in New York, Ethan celebrated New Year's Eve at a concert in Times Square, cheering with friends as fireworks lit the sky.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-31"
+        ],
+        "who": [
+          "Ethan",
+          "Olivia",
+          "Julia"
+        ],
+        "where": [
+          "New York, NY"
+        ],
+        "what": [
+          "New Year's Eve concert celebration."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

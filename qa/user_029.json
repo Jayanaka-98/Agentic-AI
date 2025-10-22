@@ -1,0 +1,58 @@
+{
+  "user_id": "user_029",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How did Emma's early collaborations in Havana and Rio influence the later artistic direction of her documentary?",
+      "answer_gold": "Her work with Cuban musicians and Brazilian theater performers helped her emphasize the creative resilience of communities, shaping the narrative approach and cultural rhythm that guided her later co-direction in Cape Town and editing in Athens.",
+      "evidence": [
+        "m02",
+        "m03",
+        "m04",
+        "m05"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "In what ways did Emma's partnerships across different continents contribute to the film's final sound design and message?",
+      "answer_gold": "By collaborating with Zanele in Cape Town and later with a sound designer in Berlin, Emma blended diverse cultural voices and ambient sounds, turning regional experiences from Havana, Nairobi, and Seoul into a unified message of global identity.",
+      "evidence": [
+        "m04",
+        "m06",
+        "m07",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did Emma's time in Athens serve as a bridge between fieldwork and the film's completion?",
+      "answer_gold": "The Athens residency allowed Emma to pause filming and begin shaping the structure that later guided her editing process in London, ensuring the film's footage from multiple regions flowed cohesively into the final narrative.",
+      "evidence": [
+        "m05",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "What events collectively demonstrate Emma's ability to merge traditional art with modern storytelling techniques?",
+      "answer_gold": "Her documentation of street music in Havana, graffiti activism in Nairobi, and digital AR art in Seoul show her evolution from capturing traditional expressions to exploring technology as a new storytelling medium.",
+      "evidence": [
+        "m02",
+        "m06",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How did Emma's creative process evolve from concept to recognition throughout the year?",
+      "answer_gold": "Starting with interviews in New York and Havana, she expanded her project through international collaborations and editing residencies, culminating in a globally celebrated premiere in Toronto that validated her storytelling approach.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m04",
+        "m09",
+        "m10"
+      ]
+    }
+  ]
+}

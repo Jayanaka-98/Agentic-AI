@@ -1,0 +1,314 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "Julian began the year in Istanbul, covering the lives of refugees living in temporary housing near the city's outskirts. He focused on intimate portraits showing community adaptation and perseverance.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-07"
+        ],
+        "who": [
+          "Julian Carter",
+          "refugee families"
+        ],
+        "where": [
+          "Istanbul"
+        ],
+        "what": [
+          "Photographing refugee communities and documenting their resilience."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "In Beirut, Julian joined a nonprofit media program to train young journalists in conflict-sensitive storytelling. He co-led workshops on visual ethics and the power of narrative framing.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-16"
+        ],
+        "who": [
+          "Julian Carter",
+          "local journalists"
+        ],
+        "where": [
+          "Beirut"
+        ],
+        "what": [
+          "Teaching photojournalism ethics and conflict reporting to young journalists."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "Julian traveled to Nairobi to photograph drought-affected regions for an international climate awareness campaign. His images highlighted how communities managed water scarcity through cooperative systems.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-25"
+        ],
+        "who": [
+          "Julian Carter",
+          "climate activists"
+        ],
+        "where": [
+          "Nairobi"
+        ],
+        "what": [
+          "Documenting drought resilience and water conservation practices."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "In Dhaka, Julian collaborated with local NGOs to record urban flooding and displacement in low-income neighborhoods. He created a multimedia series combining photography, interviews, and short film clips.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-22"
+        ],
+        "who": [
+          "Julian Carter",
+          "local NGOs"
+        ],
+        "where": [
+          "Dhaka"
+        ],
+        "what": [
+          "Producing multimedia coverage of climate-induced urban displacement."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "Julian returned to London to curate an exhibition titled 'Displaced Light,' showcasing his Istanbul and Dhaka work. The exhibit raised funds for humanitarian aid through photo sales and public talks.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-27"
+        ],
+        "who": [
+          "Julian Carter",
+          "gallery visitors"
+        ],
+        "where": [
+          "London"
+        ],
+        "what": [
+          "Hosting a fundraising exhibition on refugee and climate displacement."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "In Cape Town, Julian partnered with marine researchers to document coastal communities affected by rising sea levels. His drone footage provided visual data for coastal erosion studies.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-30"
+        ],
+        "who": [
+          "Julian Carter",
+          "marine researchers"
+        ],
+        "where": [
+          "Cape Town"
+        ],
+        "what": [
+          "Filming coastal erosion and its impact on seaside populations."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "Julian visited São Paulo to cover social movements addressing urban inequality. He focused on grassroots art collectives using murals to reclaim neglected public spaces.",
+        "comments_summary": "",
+        "when": [
+          "2025-08-05"
+        ],
+        "who": [
+          "Julian Carter",
+          "local artists"
+        ],
+        "where": [
+          "São Paulo"
+        ],
+        "what": [
+          "Photographing urban activism and community-driven art projects."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "In Geneva, Julian attended a UN media roundtable on ethical visual storytelling. He shared insights from his fieldwork and advocated for greater protection of journalists in humanitarian zones.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-18"
+        ],
+        "who": [
+          "Julian Carter",
+          "UN media delegates"
+        ],
+        "where": [
+          "Geneva"
+        ],
+        "what": [
+          "Speaking on ethics and journalist safety in crisis reporting."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "Julian spent October in Mexico City editing his upcoming photo book 'Resilient Earth,' combining narratives from Istanbul, Dhaka, and Cape Town into a single cohesive project on climate migration.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-28"
+        ],
+        "who": [
+          "Julian Carter"
+        ],
+        "where": [
+          "Mexico City"
+        ],
+        "what": [
+          "Editing and compiling a global photo book on climate resilience."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "To close the year, Julian received the Global Press Award in New York for humanitarian journalism. His work was recognized for bridging visual art and activism to raise global awareness on displacement.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-19"
+        ],
+        "who": [
+          "Julian Carter",
+          "journalism community"
+        ],
+        "where": [
+          "New York"
+        ],
+        "what": [
+          "Receiving an award for humanitarian photojournalism and global impact."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+    "status": 200,
+    "reports": [
+        {
+            "id": "n:memory:6768ac447b2d1318b0420bc1",
+            "context": {
+                "memory_id": "f664eb7a5c804a528d955f9eeaa55fdd",
+                "summary": "On a crisp September day in Salt Lake, surrounded by the gentle whispers of the forest, Stella and her friends Ella, Phoebe, Brooke, and Brooklyn perched atop a grand rock, laughter echoing through the trees. The sunlight danced through the leaves, casting playful shadows as they captured this moment of pure joy and camaraderie, taking pictures for Christmas cards. It was a day where nature's beauty and their friendship intertwined, creating a memory as timeless as the forest itself.",
+                "comments_summary": "",
+                "when": [
+                    "2024-09-20"
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    "Salt Lake "
+                ],
+                "what": [
+                    "taking pictures for Christmas cards"
+                ],
+                "natural_when": [
+                    "2024-09-20"
+                ],
+                "emotion": "",
+                "created_at": "2024-12-23 00:18:12",
+                "updated_at": "2024-12-23 00:18:12",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/1307stellayost@gmail.com_6765bc1b33d03c3128f7427d/86728C97-1AD5-422C-ADDA-496CF5F189B0.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Stella . You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp September day, surrounded by the gentle whispers of the forest, we perched atop a grand rock, laughter echoing through the trees. The sunlight danced through the leaves, casting playful shadows as we captured this moment of pure joy and camaraderie. It was a day where nature's beauty and our friendship intertwined, creating a memory as timeless as the forest itself.\\nWhat: posing on rock\\nWhen: 2024-09-20\\nWhere: ['a forested area, possibly a national park or nature reserve']\\nWho: \\nEmotion: \\n\\nHere is what the user said: This is a picture of my friends Ella, Phoebe, Brooke, Brooklyn and I. \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like such a fun day with Ella, Phoebe, Brooke, and Brooklyn! How did you feel during this moment in the forest?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp September day, surrounded by the gentle whispers of the forest, Stella and her friends Ella, Phoebe, Brooke, and Brooklyn perched atop a grand rock, laughter echoing through the trees. The sunlight danced through the leaves, casting playful shadows as they captured this moment of pure joy and camaraderie. It was a day where nature's beauty and their friendship intertwined, creating a memory as timeless as the forest itself.\\nWhat: posing on rock\\nWhen: 2024-09-20\\nWhere: a forested area, possibly a national park or nature reserve\\nWho: Ella, Phoebe, Brooke, Brooklyn, Stella\\nEmotion: \\n\\nHere is what the user said: We were taking pictures for our Christmas cards \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Taking pictures for Christmas cards must have added a special touch to the day! What emotions did you feel while capturing these moments with your friends?"
+                    }
+                ],
+                "session_id": "c2319bd443a64a63ac2d04b1b645f336",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:6769861a7b2d1318b0420f22",
+            "context": {
+                "memory_id": "82d2c2a8093a4a19b67c3f937cd7a927",
+                "summary": "On a crisp November evening in 2024, Brooke, Ella, and Phoebe gathered at a lively celebration at sunset before the Utah football game on November 9, all dressed in vibrant red, a color that seemed to echo the warmth and joy of the occasion. They took the trax through Salt Lake City to Rice Eccles Stadium, adding to the excitement and anticipation of the day. The air was filled with laughter and the soft hum of music, as they posed together, capturing a moment of pure happiness and camaraderie. The smiles and shared glances in the photo are a testament to the bond they all share, a memory of friendship that feels as vivid and warm as the day it was made.",
+                "comments_summary": "",
+                "when": [
+                    "2024-11-09"
+                ],
+                "who": [
+                    "Brooke, Ella, Phoebe"
+                ],
+                "where": [
+                    "Salt Lake City, Rice Eccles Stadium"
+                ],
+                "what": [
+                    "Utah Football Game"
+                ],
+                "natural_when": [
+                    "2024-11-09"
+                ],
+                "emotion": "",
+                "created_at": "2024-12-23 15:47:38",
+                "updated_at": "2024-12-23 15:47:38",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/1307stellayost@gmail.com_6765bc1b33d03c3128f7427d/FECBFD56-6963-4922-B29D-918FB86C0422.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Stella . You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp November evening in 2024, you and three dear friends gathered at a lively celebration, all dressed in vibrant red, a color that seemed to echo the warmth and joy of the occasion. The air was filled with laughter and the soft hum of music, as you posed together, capturing a moment of pure happiness and camaraderie. The smiles and shared glances in the photo are a testament to the bond you all share, a memory of friendship that feels as vivid and warm as the day it was made.\\nWhat: Posing with friends\\nWhen: 2024-11-09\\nWhere: ['a social event or gathering, possibly a party or celebration']\\nWho: \\nEmotion: \\n\\nHere is what the user said: This photo is me Brooke, Ella, and Phoebe \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thanks for sharing, Stella! It sounds like a wonderful group of friends. Could you tell me more about the emotions you felt during this celebration?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp November evening in 2024, Stella and her three dear friends, Brooke, Ella, and Phoebe, gathered at a lively celebration, all dressed in vibrant red, a color that seemed to echo the warmth and joy of the occasion. The air was filled with laughter and the soft hum of music, as they posed together, capturing a moment of pure happiness and camaraderie. The smiles and shared glances in the photo are a testament to the bond they all share, a memory of friendship that feels as vivid and warm as the day it was made.\\nWhat: Posing with friends\\nWhen: 2024-11-09\\nWhere: a social event or gathering, possibly a party or celebration\\nWho: Brooke, Ella, Phoebe\\nEmotion: \\n\\nHere is what the user said: It was taken at sunset \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Sunset sounds like a beautiful time for such a memorable photo! How did you feel during this moment with your friends?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp November evening in 2024, Stella and her three dear friends, Brooke, Ella, and Phoebe, gathered at a lively celebration at sunset, all dressed in vibrant red, a color that seemed to echo the warmth and joy of the occasion. The air was filled with laughter and the soft hum of music, as they posed together, capturing a moment of pure happiness and camaraderie. The smiles and shared glances in the photo are a testament to the bond they all share, a memory of friendship that feels as vivid and warm as the day it was made.\\nWhat: Posing with friends\\nWhen: 2024-11-09\\nWhere: a social event or gathering, possibly a party or celebration\\nWho: Brooke, Ella, Phoebe\\nEmotion: \\n\\nHere is what the user said: Before the Utah football game \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like such a fun pre-game gathering! How did being with your friends before the game make you feel?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp November evening in 2024, Stella and her three dear friends, Brooke, Ella, and Phoebe, gathered at a lively celebration at sunset before the Utah football game, all dressed in vibrant red, a color that seemed to echo the warmth and joy of the occasion. The air was filled with laughter and the soft hum of music, as they posed together, capturing a moment of pure happiness and camaraderie. The smiles and shared glances in the photo are a testament to the bond they all share, a memory of friendship that feels as vivid and warm as the day it was made.\\nWhat: Posing with friends\\nWhen: 2024-11-09\\nWhere: a social event or gathering, possibly a party or celebration\\nWho: Brooke, Ella, Phoebe\\nEmotion: \\n\\nHere is what the user said: We took the trax through Salt Lake City to get to the game \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Taking the trax through Salt Lake City must have added to the excitement of the day! How did this journey with your friends make you feel?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp November evening in 2024, Stella and her three dear friends, Brooke, Ella, and Phoebe, gathered at a lively celebration at sunset before the Utah football game, all dressed in vibrant red, a color that seemed to echo the warmth and joy of the occasion. They took the trax through Salt Lake City, adding to the excitement and anticipation of the day. The air was filled with laughter and the soft hum of music, as they posed together, capturing a moment of pure happiness and camaraderie. The smiles and shared glances in the photo are a testament to the bond they all share, a memory of friendship that feels as vivid and warm as the day it was made.\\nWhat: Posing with friends\\nWhen: 2024-11-09\\nWhere: Salt Lake City\\nWho: Brooke, Ella, Phoebe\\nEmotion: \\n\\nHere is what the user said: The game was at Rice Eccles Stadium \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Rice Eccles Stadium is such an iconic venue! How did being there with your friends make you feel?"
+                    }
+                ],
+                "session_id": "9b7a15dfabc4443e857c8e426bf3563c",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:676987ba7b2d1318b0420f6d",
+            "context": {
+                "memory_id": "4c9c1be118bf44299bcb6881dabcfb6f",
+                "summary": "On a hot summer day, Ella stood at Saddleback Summer Camp for college students, held at a hotel in Palm Springs. Her smile was as bright as the sun, and clad in a matching gray tank top, she captured a moment of pure joy and camaraderie, her laughter echoing in the warm air. When not in chapel, she enjoyed the refreshing pool, making this snapshot of friendship a testament to the warmth, happiness, and fun she shared, even in the hottest of days.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-23"
+                ],
+                "who": [
+                    "Ella"
+                ],
+                "where": [
+                    "Palm Springs"
+                ],
+                "what": [
+                    "Summer Camp"
+                ],
+                "natural_when": [
+                    "2024-12-23"
+                ],
+                "emotion": "joyful",
+                "created_at": "2024-12-23 15:54:34",
+                "updated_at": "2024-12-23 15:54:34",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/1307stellayost@gmail.com_6765bc1b33d03c3128f7427d/C9A42394-2F1A-4416-A079-CFDFDFAEC4AB.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Stella . You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day, just before the holidays, two friends stood side by side, their smiles as bright as the winter sun. Clad in matching gray tank tops, they captured a moment of pure joy and camaraderie, their laughter echoing in the chilly air. This snapshot of friendship, taken on the brink of a new year, is a testament to the warmth and happiness they share, even in the coldest of seasons.\\nWhat: friends posing together\\nWhen: 2024-12-23\\nWhere: ['']\\nWho: \\nEmotion: \\n\\nHere is what the user said: This is a picture of me and Ella \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's wonderful, Stella! It sounds like a special moment with Ella. Could you tell me where this picture was taken?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day, just before the holidays, Stella and her friend Ella stood side by side, their smiles as bright as the winter sun. Clad in matching gray tank tops, they captured a moment of pure joy and camaraderie, their laughter echoing in the chilly air. This snapshot of friendship, taken on the brink of a new year, is a testament to the warmth and happiness they share, even in the coldest of seasons.\\nWhat: friends posing together\\nWhen: 2024-12-23\\nWhere: ['']\\nWho: Ella\\nEmotion: joyful\\n\\nHere is what the user said: We where at church summer camp\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a lovely setting for such a joyful memory! Is there anything else you'd like to add about this moment or how it made you feel?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day, just before the holidays, Stella and her friend Ella stood side by side at their church summer camp, their smiles as bright as the winter sun. Clad in matching gray tank tops, they captured a moment of pure joy and camaraderie, their laughter echoing in the chilly air. This snapshot of friendship, taken on the brink of a new year, is a testament to the warmth and happiness they share, even in the coldest of seasons.\\nWhat: friends posing together\\nWhen: 2024-12-23\\nWhere: church summer camp\\nWho: Ella\\nEmotion: joyful\\n\\nHere is what the user said: The church was called saddleback and it was for college students \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thanks for sharing that detail, Stella! It must have been a wonderful experience at Saddleback with fellow college students. If there's anything else you'd like to remember about this day, feel free to let me know!"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day, just before the holidays, Stella and her friend Ella stood side by side at Saddleback church summer camp for college students, their smiles as bright as the winter sun. Clad in matching gray tank tops, they captured a moment of pure joy and camaraderie, their laughter echoing in the chilly air. This snapshot of friendship, taken on the brink of a new year, is a testament to the warmth and happiness they share, even in the coldest of seasons.\\nWhat: friends posing together\\nWhen: 2024-12-23\\nWhere: Saddleback church summer camp\\nWho: Ella\\nEmotion: joyful\\n\\nHere is what the user said: The church camp was at a hotel in Palm Springs \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Palm Springs sounds like a beautiful backdrop for such a memorable day! If there's anything else you'd like to add or remember about this experience, just let me know."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day, just before the holidays, Stella and her friend Ella stood side by side at Saddleback church summer camp for college students, held at a hotel in Palm Springs. Their smiles were as bright as the winter sun, and clad in matching gray tank tops, they captured a moment of pure joy and camaraderie, their laughter echoing in the chilly air. This snapshot of friendship, taken on the brink of a new year, is a testament to the warmth and happiness they share, even in the coldest of seasons.\\nWhat: friends posing together\\nWhen: 2024-12-23\\nWhere: Palm Springs\\nWho: Ella\\nEmotion: joyful\\n\\nHere is what the user said: It was a lot of fun\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I'm glad to hear it was such a fun experience, Stella! If there's anything else you'd like to capture about this joyful day, feel free to share."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day, just before the holidays, Stella and her friend Ella stood side by side at Saddleback church summer camp for college students, held at a hotel in Palm Springs. Their smiles were as bright as the winter sun, and clad in matching gray tank tops, they captured a moment of pure joy and camaraderie, their laughter echoing in the chilly air. This snapshot of friendship, taken on the brink of a new year, is a testament to the warmth, happiness, and fun they shared, even in the coldest of seasons.\\nWhat: friends posing together\\nWhen: 2024-12-23\\nWhere: Palm Springs\\nWho: Ella\\nEmotion: joyful\\n\\nHere is what the user said: I remember it being really hot \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That must have been quite a contrast with the winter season! If there's anything else you'd like to add about this warm and joyful day, just let me know."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day, just before the holidays, Stella and her friend Ella stood side by side at Saddleback church summer camp for college students, held at a hotel in Palm Springs. Despite the winter season, the day was really hot, and their smiles were as bright as the sun. Clad in matching gray tank tops, they captured a moment of pure joy and camaraderie, their laughter echoing in the warm air. This snapshot of friendship, taken on the brink of a new year, is a testament to the warmth, happiness, and fun they shared, even in the hottest of days.\\nWhat: friends posing together\\nWhen: 2024-12-23\\nWhere: Palm Springs\\nWho: Ella\\nEmotion: joyful\\n\\nHere is what the user said: When we were in not in chapel we were in the pool\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a perfect way to enjoy the hot weather! If there's anything else you'd like to remember about this fun-filled day, feel free to share."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day, just before the holidays, Stella and her friend Ella stood side by side at Saddleback church summer camp for college students, held at a hotel in Palm Springs. Despite the winter season, the day was really hot, and their smiles were as bright as the sun. Clad in matching gray tank tops, they captured a moment of pure joy and camaraderie, their laughter echoing in the warm air. When not in chapel, they enjoyed the refreshing pool, making this snapshot of friendship a testament to the warmth, happiness, and fun they shared, even in the hottest of days.\\nWhat: friends posing together\\nWhen: 2024-12-23\\nWhere: Palm Springs\\nWho: Ella\\nEmotion: joyful\\n\\nHere is what the user said: We had lots of fun \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It sounds like an unforgettable day filled with joy and laughter! If there's anything else you'd like to add to this cherished memory, just let me know."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day, just before the holidays, Stella and her friend Ella stood side by side at Saddleback church summer camp for college students, held at a hotel in Palm Springs. Despite the winter season, the day was really hot, and their smiles were as bright as the sun. Clad in matching gray tank tops, they captured a moment of pure joy and camaraderie, their laughter echoing in the warm air. When not in chapel, they enjoyed the refreshing pool, making this snapshot of friendship a testament to the warmth, happiness, and fun they shared, even in the hottest of days.\\nWhat: friends posing together\\nWhen: 2024-12-23\\nWhere: Palm Springs\\nWho: Ella\\nEmotion: joyful\\n\\nHere is what the user said: This happened in the summer \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thanks for clarifying that, Stella! If there's anything else you'd like to add or adjust about this memory, feel free to let me know."
+                    }
+                ],
+                "session_id": "9050337ba71949daae62f8bef2d6040c",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:676988ba7b2d1318b0420f83",
+            "context": {
+                "memory_id": "0997a62c8a8f492ebd66b59867c3776e",
+                "summary": "On a crisp March day in 2024, the bustling city of Chicago, Illinois, served as the backdrop for a gathering of Brooke, Ella, Brooklynn, and Maddie. Originally on a spring break trip to Spain, their flight delay led them to an unexpected stop in Chicago, where Maddie's grandparents lived. Despite the stress of uncertainty about their travel plans, they felt thankful and relieved when Maddie's grandma picked them up from the airport and provided a warm place to stay. Standing in front of the iconic Chicago sign, their laughter and smiles captured the warmth of friendship amidst the chilly air, making it a cherished reminder of the bonds shared and the joy of being together.",
+                "comments_summary": "",
+                "when": [
+                    "2024-3-15"
+                ],
+                "who": [
+                    "Brooke, Ella, Brooklynn, Maddie"
+                ],
+                "where": [
+                    "Chicago, Illinois"
+                ],
+                "what": [
+                    "Unexpected stop in Chicago"
+                ],
+                "natural_when": [
+                    "2024-12-23"
+                ],
+                "emotion": "thankful",
+                "created_at": "2024-12-23 15:58:50",
+                "updated_at": "2024-12-23 16:04:14",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/1307stellayost@gmail.com_6765bc1b33d03c3128f7427d/A1AA8BB9-C01A-475E-A95E-CBC4F72003CD.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Stella . You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day in 2024, the bustling city of Chicago served as the backdrop for a joyful gathering of four friends. Standing in front of the iconic Chicago sign, their laughter and smiles captured the warmth of friendship amidst the chilly air. This moment, filled with camaraderie and the vibrant energy of the city, is a cherished reminder of the bonds shared and the joy of being together.\\nWhat: Posing in Chicago\\nWhen: 2024-12-23\\nWhere: ['Chicago, Illinois']\\nWho: \\nEmotion: \\n\\nHere is what the user said: In the photo is Brooke, ella, Brooklynn and I.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thanks for sharing that, Stella! It sounds like a wonderful moment with Brooke, Ella, and Brooklynn. How did you feel during this gathering in Chicago?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day in 2024, the bustling city of Chicago served as the backdrop for a joyful gathering of Stella and her three friends, Brooke, Ella, and Brooklynn. Standing in front of the iconic Chicago sign, their laughter and smiles captured the warmth of friendship amidst the chilly air. This moment, filled with camaraderie and the vibrant energy of the city, is a cherished reminder of the bonds shared and the joy of being together.\\nWhat: Posing in Chicago\\nWhen: 2024-12-23\\nWhere: Chicago, Illinois\\nWho: Brooke, Ella, Brooklynn\\nEmotion: \\n\\nHere is what the user said: We where on our spring break trip to Spain when our flight to Chicago got delayed.  This made us miss our connecting flight to Germany.  So we were stuck in the airport until our Maddie (who is taking the picture) realized her grandparents live in Chicago.  \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Wow, what an unexpected twist to your spring break trip! It sounds like Maddie's quick thinking turned things around. How did this unexpected stop in Chicago make you feel?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day in 2024, the bustling city of Chicago served as the backdrop for a joyful gathering of Stella and her three friends, Brooke, Ella, and Brooklynn. Originally on a spring break trip to Spain, their flight delay led them to an unexpected adventure in Chicago, where Maddie's grandparents lived. Standing in front of the iconic Chicago sign, their laughter and smiles captured the warmth of friendship amidst the chilly air, making it a cherished reminder of the bonds shared and the joy of being together.\\nWhat: Unexpected stop in Chicago\\nWhen: 2024-12-23\\nWhere: Chicago, Illinois\\nWho: Brooke, Ella, Brooklynn, Maddie\\nEmotion: \\n\\nHere is what the user said: I was really stressed in Chicago.  We didn\u2019t know if we were going to find a flight to Spain or where we were going to sleep \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds really stressful, Stella. It's amazing how you all managed to find some joy in the situation despite the uncertainty. Is there anything else about this experience that stands out to you?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day in 2024, the bustling city of Chicago served as the backdrop for a gathering of Stella and her three friends, Brooke, Ella, and Brooklynn. Originally on a spring break trip to Spain, their flight delay led them to an unexpected adventure in Chicago, where Maddie's grandparents lived. Despite the stress of uncertainty about their travel plans, standing in front of the iconic Chicago sign, their laughter and smiles captured the warmth of friendship amidst the chilly air, making it a cherished reminder of the bonds shared and the joy of being together.\\nWhat: Unexpected stop in Chicago\\nWhen: 2024-12-23\\nWhere: Chicago, Illinois\\nWho: Brooke, Ella, Brooklynn, Maddie\\nEmotion: stressed\\n\\nHere is what the user said: We were to thankful and relieved when Maddie\u2019s grandma picked us up form the airport and gave us beds to sleep in \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That must have been such a relief to have a warm place to stay and feel taken care of by Maddie's grandma. It sounds like her kindness really turned things around for you all. Is there anything else you'd like to add to this memory?"
+                    }
+                ],
+                "session_id": "d457b35e57bf44a9819e8f49e6ee5a5f",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:67698c4e7b2d1318b0420fe0",
+            "context": {
+                "memory_id": "1cce39e4021e45a2905d3640ea8eea71",
+                "summary": "On a bright March day in 2024, Brooke stood on a charming bridge in Girona, Spain, sunglasses shielding her eyes from the gentle sun. The river below whispered its secrets as she posed, capturing a moment of friendship against the picturesque backdrop during their Walk Around Girona. The warmth of the day and the laughter shared made this simple photo a cherished memory of companionship and joy.",
+                "comments_summary": "",
+                "when": [
+                    "2024-03-03"
+                ],
+                "who": [
+                    "Brooke"
+                ],
+                "where": [
+                    "Girona, Spain"
+                ],
+                "what": [
+                    "Walk Around Girona "
+                ],
+                "natural_when": [
+                    "2024-03-03"
+                ],
+                "emotion": "",
+                "created_at": "2024-12-23 16:14:06",
+                "updated_at": "2024-12-23 16:15:05",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/1307stellayost@gmail.com_6765bc1b33d03c3128f7427d/1DA65A74-5001-4114-B462-DFD27F99E9AE.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Stella . You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a bright March day, you and your friend stood side by side on a charming bridge, sunglasses shielding your eyes from the gentle sun. The river below whispered its secrets as you both posed, capturing a moment of friendship against the picturesque backdrop. The warmth of the day and the laughter shared made this simple photo a cherished memory of companionship and joy.\\nWhat: posing on bridge\\nWhen: 2024-03-03\\nWhere: ['a bridge over a river']\\nWho: \\nEmotion: \\n\\nHere is what the user said: This is a picture of me and my friend Brooke in girona Spain.  We were on our spinet break trip.\\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a wonderful trip with Brooke! How did you feel during this moment on the bridge in Girona, Spain?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a bright March day, Stella and her friend Brooke stood side by side on a charming bridge in Girona, Spain, sunglasses shielding their eyes from the gentle sun. The river below whispered its secrets as they both posed, capturing a moment of friendship against the picturesque backdrop during their spring break trip. The warmth of the day and the laughter shared made this simple photo a cherished memory of companionship and joy.\\nWhat: posing on bridge\\nWhen: 2024-03-03\\nWhere: Girona, Spain\\nWho: Brooke\\nEmotion: \\n\\nHere is what the user said: Spring break trip \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Spring break trips are always so memorable! How did you feel during this moment on the bridge with Brooke?"
+                    }
+                ],
+                "session_id": "73e3a0b7a10a4111843cb0b49fadadbd",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:676adcb87b2d1318b04212e0",
+            "context": {
+                "memory_id": "4569061a3d3d4be89e3775fd0344b811",
+                "summary": "Amidst the twinkling lights and festive cheer at Dana Point harbor, Stella and her boyfriend Jacob stood together beneath the glowing 'Merry Christmas' sign, capturing a moment of pure love and togetherness. The air was crisp with the scent of pine and mulled wine, and laughter echoed around them as they embraced the warmth of the season. It was a magical evening, where time seemed to pause, allowing them to savor the simple happiness of being together after helping with the kids' services at their church on 2024-12-23. Stella felt grateful and touched by Jacob's thoughtfulness in taking her to the sign she wanted to see.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-23"
+                ],
+                "who": [
+                    "Jacob"
+                ],
+                "where": [
+                    "Dana Point harbor"
+                ],
+                "what": [
+                    "posing at 'Merry Christmas' sign"
+                ],
+                "natural_when": [
+                    "2024-12-23"
+                ],
+                "emotion": "",
+                "created_at": "2024-12-24 16:09:28",
+                "updated_at": "2024-12-24 16:09:28",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/1307stellayost@gmail.com_6765bc1b33d03c3128f7427d/ED3981D7-4835-4D7A-8AEA-F1EDE3629705.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Stella . You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: Amidst the twinkling lights and festive cheer of the Christmas market, we stood together beneath the glowing 'Merry Christmas' sign, capturing a moment of pure joy and togetherness. The air was crisp with the scent of pine and mulled wine, and laughter echoed around us as we embraced the warmth of the season. It was a magical evening, where time seemed to pause, allowing us to savor the simple happiness of being together.\\nWhat: Posing at Christmas market\\nWhen: 2024-12-23\\nWhere: ['a Christmas market or holiday festival']\\nWho: \\nEmotion: \\n\\nHere is what the user said: Here is a picture of me and my boyfriend Jacob.  We went to the Dana Point harbor after we helped out with the kids services at our church. \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like such a lovely day spent together! How did being at the Dana Point harbor make you feel during that festive evening?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: Amidst the twinkling lights and festive cheer of the Christmas market, Stella and her boyfriend Jacob stood together beneath the glowing 'Merry Christmas' sign, capturing a moment of pure joy and togetherness. The air was crisp with the scent of pine and mulled wine, and laughter echoed around them as they embraced the warmth of the season. It was a magical evening, where time seemed to pause, allowing them to savor the simple happiness of being together after helping with the kids' services at their church.\\nWhat: posing at Christmas market\\nWhen: 2024-12-23\\nWhere: Dana Point harbor\\nWho: Jacob\\nEmotion: \\n\\nHere is what the user said: We were at the Dana point harbor not a Christmas market \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thanks for clarifying that! How did being at the Dana Point harbor make you feel during that festive evening?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: Amidst the twinkling lights and festive cheer at Dana Point harbor, Stella and her boyfriend Jacob stood together beneath the glowing 'Merry Christmas' sign, capturing a moment of pure joy and togetherness. The air was crisp with the scent of pine and mulled wine, and laughter echoed around them as they embraced the warmth of the season. It was a magical evening, where time seemed to pause, allowing them to savor the simple happiness of being together after helping with the kids' services at their church on 2024-12-23.\\nWhat: Dana Point harbor\\nWhen: 2024-12-23\\nWhere: Dana Point harbor\\nWho: Jacob\\nEmotion: \\n\\nHere is what the user said: I really wanted to go to the sign and Jacob was nice enough to take me \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That's so sweet of Jacob! It sounds like a truly special moment. How did this experience make you feel emotionally?"
+                    }
+                ],
+                "session_id": "1884bfc512384d67bf3df8abfedcab98",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:677433162dee793519792b28",
+            "context": {
+                "memory_id": "65b81228cc734fb9a8f718314712b6ab",
+                "summary": "On a crisp December day, Stella and her friend Brooke walked from Brooke's house to the beach, accompanied by Brooke's dogs, Bruno and Penny. The sky was super pretty, and the warmth in Stella's heart matched her smile as they strolled through the neighborhood. This simple walk was a cherished moment of simple joy and connection, captured forever in the gentle glow of winter's light.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-28"
+                ],
+                "who": [
+                    "Brooke"
+                ],
+                "where": [
+                    "from Brooke's house to the beach"
+                ],
+                "what": [
+                    "Walking with Brooke and dogs"
+                ],
+                "natural_when": [
+                    "2024-12-28"
+                ],
+                "emotion": "",
+                "created_at": "2024-12-31 18:08:22",
+                "updated_at": "2024-12-31 18:09:27",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/1307stellayost@gmail.com_6765bc1b33d03c3128f7427d/55C492B0-98E2-42B4-BF84-C224B7D76F3B.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Stella . You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp December day, the warmth in your heart matched your smile as you strolled through the neighborhood with your loyal companion by your side. The air was fresh, and each step resonated with contentment and companionship, as your furry friend trotted happily to your left, sniffing at every intriguing scent. This simple walk was a cherished moment of simple joy and connection, captured forever in the gentle glow of winter's light.\\nWhat: Walking the dog\\nWhen: 2024-12-28\\nWhere: ['a city park or residential neighborhood']\\nWho: \\nEmotion: \\n\\nHere is what the user said: This is a picture of me and Brooke walking her dogs: Bruno and penny.  We walked from her house down to the beach.  The sky was super pretty \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It sounds like a beautiful walk with Brooke and her dogs, Bruno and Penny. How did this walk make you feel emotionally?"
+                    }
+                ],
+                "session_id": "da05f26603324a2f935340c3d507e8bc",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:6775f4ad2dee793519792e3e",
+            "context": {
+                "memory_id": "902b3fba7f96420aa49e968cfada217a",
+                "summary": "On January 1, 2025, Stella and her friends sat on a worn wooden bench in Fallbrook, California, laughter echoing through the park as the crisp winter air filled their lungs. Mary, Mykah, Kaiya, and Mia were wrapped in coats and scarves, warmed by the joy of togetherness and the promise of a new year, while Stella captured their smiles against the backdrop of a stunning sunset. Amidst the lush greenery, their smiles captured the essence of friendship, making this simple moment feel extraordinary.",
+                "comments_summary": "",
+                "when": [
+                    "2025-01-01"
+                ],
+                "who": [
+                    "Mary, Mykah, Kaiya, Mia"
+                ],
+                "where": [
+                    "Fallbrook, California"
+                ],
+                "what": [
+                    "Sitting with friends"
+                ],
+                "natural_when": [
+                    "2025-01-01"
+                ],
+                "emotion": "joyful",
+                "created_at": "2025-01-02 02:06:37",
+                "updated_at": "2025-01-02 02:08:07",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/1307stellayost@gmail.com_6765bc1b33d03c3128f7427d/B76C62F0-7CB1-4553-9528-1AFCB2B08BDC.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Stella . You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On the first day of 2025, we sat on that worn wooden bench, laughter echoing through the park as the crisp winter air filled our lungs. The four of us, wrapped in coats and scarves, were warmed by the joy of togetherness and the promise of a new year. Amidst the lush greenery, our smiles captured the essence of friendship, making this simple moment feel extraordinary.\\nWhat: Sitting with friends\\nWhen: 2025-01-01\\nWhere: ['a park']\\nWho: \\nEmotion: \\n\\nHere is what the user said: We are in fallbrook California. Mary, mykah, Kaiya and I sat on this bench as Mia too k our photo.  This is a sunset \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It sounds like a beautiful moment with friends in Fallbrook, California. How did you feel during this sunset gathering with Mary, Mykah, Kaiya, and Mia?"
+                    }
+                ],
+                "session_id": "9dcff68795eb4b108da688c2c65082a3",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:67a6a7d4ba1eb70e47a9e027",
+            "context": {
+                "memory_id": "0eb2d307fae14be4aa3c93ac885ec0d2",
+                "summary": "On a crisp day in Laguna Beach, Stella and Isabella stood outside a cozy coffee shop, smiling warmly as Stella's white sweater blended perfectly with the rustic wooden table beside her. The simple joy of the moment captured the essence of a peaceful day out, where a smile can light up the world.",
+                "comments_summary": "",
+                "when": [
+                    "2025-02-08"
+                ],
+                "who": [
+                    "Isabella"
+                ],
+                "where": [
+                    "Laguna Beach"
+                ],
+                "what": [
+                    "Visiting a coffee shop"
+                ],
+                "natural_when": [
+                    "2025-02-08"
+                ],
+                "emotion": "joyful",
+                "created_at": "2025-02-08 00:39:48",
+                "updated_at": "2025-02-08 00:40:44",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/1307stellayost@gmail.com_6765bc1b33d03c3128f7427d/34F73779-8C68-4A24-8A9C-6787AA9688FF.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Stella . You can use this in your answers and you should use this when generating the summary in third person POV."
+                    },
+                    {
+                        "role": "user",
+                        "content": "Here is what you already know about the memory:\\nSummary: On a crisp day, standing outside a cozy coffee shop, she smiles warmly, her white sweater blending perfectly with the rustic wooden table beside her. The simple joy of the moment captures the essence of a peaceful day out, where a smile can light up the world.\\nWhat: Visiting a coffee shop\\nWhen: \\nWhere: ['a coffee shop']\\nWho: \\nEmotion: \\n\\nHere is what the user said: Isabella and I got coffee in laguna beach.  It was so much fun \\nBased on this, provide a response to the user and update the memory data accordingly."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a lovely time with Isabella in Laguna Beach! Do you remember when this delightful coffee outing took place?"
+                    }
+                ],
+                "session_id": "6406d4fce0bb48dcaffd1416a13313ff",
+                "draft": false
+            }
+        }
+    ]
+}

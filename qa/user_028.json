@@ -1,0 +1,56 @@
+{
+  "user_id": "user_028",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How did feedback from early investor meetings influence Lucas's later success at the international startup showcase?",
+      "answer_gold": "The rejection in New York pushed Lucas to refine his scalability and growth models, which, after technical improvements with Maya, became key factors that impressed investors in London and led to funding commitments.",
+      "evidence": [
+        "m03",
+        "m04",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What connections can be seen between Lucas's mentorship experience in Austin and his later leadership at the Toronto design sprint?",
+      "answer_gold": "The advice from mentors in Austin on structured product iteration helped Lucas lead the Toronto sprint more effectively, implementing predictive analytics and applying the project management principles he learned earlier.",
+      "evidence": [
+        "m02",
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "In what ways did Lucas's collaboration with Maya shape both technical progress and business outcomes?",
+      "answer_gold": "Their partnership not only improved AI performance in San Francisco but also enabled competitive success in Seattle and contributed directly to investor confidence during the London showcase.",
+      "evidence": [
+        "m04",
+        "m05",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "How did Lucas's exposure to industry leadership at the Boston conference connect to his company's later global expansion?",
+      "answer_gold": "His learning about scaling and team culture in Boston influenced how he structured global partnerships, which later helped him manage the Singapore pilot and announce expansion plans in San Francisco.",
+      "evidence": [
+        "m06",
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which events collectively show the transformation of Lucas's startup from concept to international recognition?",
+      "answer_gold": "Starting from early wireframing in San Francisco, through investor refinement in New York, technical breakthroughs with Maya, and final funding success in London, Lucas's journey charts the evolution from prototype to a globally recognized company.",
+      "evidence": [
+        "m01",
+        "m03",
+        "m04",
+        "m08",
+        "m10"
+      ]
+    }
+  ]
+}

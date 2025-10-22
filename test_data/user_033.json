@@ -1,0 +1,316 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "Sophia began the year in Copenhagen, leading an urban design study focused on green infrastructure. Her team proposed rooftop gardens and permeable pavements to reduce urban flooding risks in dense neighborhoods.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-10"
+        ],
+        "who": [
+          "Sophia Nguyen",
+          "urban design team"
+        ],
+        "where": [
+          "Copenhagen"
+        ],
+        "what": [
+          "Conducting research on sustainable urban drainage and green infrastructure."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "In Amsterdam, Sophia joined a cross-European workshop on waterfront revitalization. She collaborated with city planners to redesign old harbors into mixed-use public spaces with renewable energy lighting systems.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-23"
+        ],
+        "who": [
+          "Sophia Nguyen",
+          "city planners"
+        ],
+        "where": [
+          "Amsterdam"
+        ],
+        "what": [
+          "Collaborating on harbor redevelopment and renewable energy design."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "Sophia visited Singapore to study high-density housing models that integrate vertical greenery. She analyzed community satisfaction metrics and urban heat reduction effects from existing projects.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-28"
+        ],
+        "who": [
+          "Sophia Nguyen",
+          "local architects"
+        ],
+        "where": [
+          "Singapore"
+        ],
+        "what": [
+          "Researching vertical green housing and heat mitigation techniques."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "In Dubai, Sophia was invited to consult on an urban redevelopment plan emphasizing walkability. She proposed shaded pedestrian corridors and hybrid cooling systems inspired by desert architecture.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-26"
+        ],
+        "who": [
+          "Sophia Nguyen",
+          "municipal design team"
+        ],
+        "where": [
+          "Dubai"
+        ],
+        "what": [
+          "Consulting on walkable design and sustainable cooling in desert cities."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "Back in Copenhagen, Sophia taught a short university course on sustainable materials in architecture. She guided students through practical projects that reused local construction waste for new structural components.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-20"
+        ],
+        "who": [
+          "Sophia Nguyen",
+          "architecture students"
+        ],
+        "where": [
+          "Copenhagen"
+        ],
+        "what": [
+          "Teaching sustainable material reuse in architectural design."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "In Nairobi, Sophia collaborated with a nonprofit organization to design affordable housing using modular bamboo components. The project emphasized community participation and low-carbon materials.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-24"
+        ],
+        "who": [
+          "Sophia Nguyen",
+          "nonprofit architects",
+          "local community"
+        ],
+        "where": [
+          "Nairobi"
+        ],
+        "what": [
+          "Designing low-cost modular housing with local community input."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "Sophia traveled to Vancouver to present her findings on urban resilience at a global architecture symposium. She showcased models from Copenhagen, Amsterdam, and Nairobi to illustrate adaptable city frameworks.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-18"
+        ],
+        "who": [
+          "Sophia Nguyen",
+          "architecture symposium participants"
+        ],
+        "where": [
+          "Vancouver"
+        ],
+        "what": [
+          "Presenting case studies on climate-resilient urban design."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "In Seoul, Sophia joined a smart city research consortium exploring data-driven public space planning. She analyzed pedestrian flow data and designed sensor-based lighting to improve energy efficiency.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-03"
+        ],
+        "who": [
+          "Sophia Nguyen",
+          "smart city researchers"
+        ],
+        "where": [
+          "Seoul"
+        ],
+        "what": [
+          "Developing smart infrastructure models for urban public spaces."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "Sophia spent autumn in Rome restoring a historical plaza. She balanced heritage preservation with modern amenities, incorporating solar benches and digital wayfinding screens for tourists.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-19"
+        ],
+        "who": [
+          "Sophia Nguyen",
+          "heritage architects"
+        ],
+        "where": [
+          "Rome"
+        ],
+        "what": [
+          "Blending historical preservation with sustainable public utilities."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "To conclude the year, Sophia returned to Copenhagen to present her global projects at a public exhibition. Her showcase, titled 'Cities That Breathe,' received acclaim for uniting ecological design and cultural empathy.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-22"
+        ],
+        "who": [
+          "Sophia Nguyen",
+          "public visitors"
+        ],
+        "where": [
+          "Copenhagen"
+        ],
+        "what": [
+          "Curating an exhibition highlighting her international sustainable projects."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "Adrian began the year in Boston working on a multilingual text understanding model. He focused on integrating low-resource language datasets and optimizing tokenization for morphologically rich languages.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-13"
+        ],
+        "who": [
+          "Adrian Li"
+        ],
+        "where": [
+          "Boston"
+        ],
+        "what": [
+          "Developing a multilingual NLP model for low-resource languages."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "In Zurich, Adrian attended an AI ethics symposium where he joined discussions on bias mitigation in language models. He presented a short paper on balancing cultural context in multilingual training data.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-20"
+        ],
+        "who": [
+          "Adrian Li",
+          "AI researchers"
+        ],
+        "where": [
+          "Zurich"
+        ],
+        "what": [
+          "Presenting research on ethical multilingual dataset curation."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "Adrian traveled to Tokyo to collaborate with a research lab specializing in multimodal AI. Together they built a prototype that connected text prompts with visual grounding for scene description tasks.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-25"
+        ],
+        "who": [
+          "Adrian Li",
+          "Tokyo research team"
+        ],
+        "where": [
+          "Tokyo"
+        ],
+        "what": [
+          "Developing a text-to-image multimodal system prototype."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "In San Francisco, Adrian joined an academic-industry workshop on LLM interpretability. He presented his team's visualization tool that tracks attention shifts during dialogue generation.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-17"
+        ],
+        "who": [
+          "Adrian Li",
+          "industry researchers"
+        ],
+        "where": [
+          "San Francisco"
+        ],
+        "what": [
+          "Presenting a visualization tool for large language model interpretability."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "Adrian returned to Boston to mentor graduate students in his lab, guiding them on fine-tuning models for sentiment transfer. He emphasized reproducibility and open-source sharing of experimental setups.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-19"
+        ],
+        "who": [
+          "Adrian Li",
+          "graduate students"
+        ],
+        "where": [
+          "Boston"
+        ],
+        "what": [
+          "Mentoring graduate students on NLP experiments and research reproducibility."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "In Tel Aviv, Adrian collaborated with an NLP startup to apply his multilingual embeddings to real-world chatbots. He worked with product teams to measure improvements in response coherence and cultural tone adaptation.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-23"
+        ],
+        "who": [
+          "Adrian Li",
+          "NLP startup team"
+        ],
+        "where": [
+          "Tel Aviv"
+        ],
+        "what": [
+          "Applying multilingual models to commercial chatbot applications."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "Adrian spent several weeks in Singapore organizing a regional AI research meetup. He led a panel on open-source collaboration and helped launch a shared benchmark for cross-lingual question answering.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-21"
+        ],
+        "who": [
+          "Adrian Li",
+          "AI researchers"
+        ],
+        "where": [
+          "Singapore"
+        ],
+        "what": [
+          "Leading a regional AI meetup and launching a multilingual benchmark."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "In Berlin, Adrian co-authored a paper on multimodal reasoning that combined insights from his Tokyo and San Francisco projects. The paper was accepted to NeurIPS and received positive peer reviews for its interpretability framework.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-10"
+        ],
+        "who": [
+          "Adrian Li",
+          "international co-authors"
+        ],
+        "where": [
+          "Berlin"
+        ],
+        "what": [
+          "Publishing a paper integrating multimodal and interpretability research."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "Adrian attended NeurIPS in Vancouver, where he presented his Berlin paper and joined a roundtable on the future of ethical multilingual AI. He discussed his ongoing efforts to standardize fairness evaluation protocols.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-03"
+        ],
+        "who": [
+          "Adrian Li",
+          "conference participants"
+        ],
+        "where": [
+          "Vancouver"
+        ],
+        "what": [
+          "Presenting published research and participating in AI ethics discussions."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "To end the year, Adrian returned to Boston to summarize his 2025 research findings in a technical report. He shared open datasets, code repositories, and a reflection on global collaboration's role in advancing responsible AI.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-27"
+        ],
+        "who": [
+          "Adrian Li"
+        ],
+        "where": [
+          "Boston"
+        ],
+        "what": [
+          "Publishing a final research summary and open-source contributions."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

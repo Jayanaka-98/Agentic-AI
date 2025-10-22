@@ -1,0 +1,224 @@
+{
+    "status": 200,
+    "reports": [
+        {
+            "id": "n:memory:66e056f266fb702a8957370d",
+            "context": {
+                "memory_id": "e2e391bbdebf467ca610c6eb7d0234b1",
+                "summary": "Hello!",
+                "comments_summary": "",
+                "when": [
+                    ""
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    ""
+                ],
+                "what": [
+                    "Introduction"
+                ],
+                "natural_when": [
+                    ""
+                ],
+                "emotion": "neutral",
+                "created_at": "2024-09-10 14:25:54",
+                "updated_at": "2024-09-10 14:25:54",
+                "image_urls": [],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Hello., {\"summary\":\"\",\"when\":\"\",\"who\":\"\",\"where\":\"\",\"what\":\"\",\"natural_when\":\"\",\"emotion\":\"\",\"created_at\":\"\",\"updated_at\":\"\",\"image_urls\":[],\"new_image_format\":\"\",\"shared_with\":[],\"conversation\":[],\"session_id\":\"\",\"draft\":false}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Hello! How can I assist you in capturing a memory today?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Bye., {\"summary\":\"Hello!\",\"when\":\"\",\"who\":\"\",\"where\":\"\",\"what\":\"Introduction\",\"natural_when\":\"\",\"emotion\":\"neutral\",\"created_at\":\"\",\"updated_at\":\"\",\"image_urls\":[],\"new_image_format\":\"\",\"shared_with\":[],\"conversation\":[],\"session_id\":\"\",\"draft\":false}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Okay, have a great day! <END>"
+                    }
+                ],
+                "session_id": "c5ff4053-a2ff-4ea4-ab67-513db8ca0d84",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66e05d6466fb702a89573ba3",
+            "context": {
+                "memory_id": "797390a66a18492384709f4d04ff50ea",
+                "summary": "Hello!",
+                "comments_summary": "",
+                "when": [
+                    ""
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    ""
+                ],
+                "what": [
+                    "Introduction"
+                ],
+                "natural_when": [
+                    ""
+                ],
+                "emotion": "Neutral",
+                "created_at": "2024-09-10 14:53:24",
+                "updated_at": "2024-09-10 14:53:24",
+                "image_urls": [],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Hello., {\"summary\":\"\",\"when\":\"\",\"who\":\"\",\"where\":\"\",\"what\":\"\",\"natural_when\":\"\",\"emotion\":\"\",\"created_at\":\"\",\"updated_at\":\"\",\"image_urls\":[],\"new_image_format\":\"\",\"shared_with\":[],\"conversation\":[],\"session_id\":\"\",\"draft\":false}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Hello! How can I assist you in capturing a memory today?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Bye bye., {\"summary\":\"Hello!\",\"when\":\"\",\"who\":\"\",\"where\":\"\",\"what\":\"Introduction\",\"natural_when\":\"\",\"emotion\":\"Neutral\",\"created_at\":\"\",\"updated_at\":\"\",\"image_urls\":[],\"new_image_format\":\"\",\"shared_with\":[],\"conversation\":[],\"session_id\":\"\",\"draft\":false}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Goodbye! Feel free to return if you have any memories you'd like to capture. <END>"
+                    }
+                ],
+                "session_id": "f5680a11-27ef-441d-a60f-fb36413c78ca",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66e0658b66fb702a89574291",
+            "context": {
+                "memory_id": "84e5f897e735446b90c577e1fce61867",
+                "summary": "You had a great party with your college friends in Colombo.",
+                "comments_summary": "",
+                "when": [
+                    "2024-08-10"
+                ],
+                "who": [
+                    "college friends"
+                ],
+                "where": [
+                    "Colombo"
+                ],
+                "what": [
+                    "party"
+                ],
+                "natural_when": [
+                    "2024-08-10"
+                ],
+                "emotion": "happy",
+                "created_at": "2024-09-10 15:28:11",
+                "updated_at": "2024-09-10 15:28:11",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/a.ka@gmail.com_66df382e66fb702a89571b1f/c135d932-c17d-4f17-be9d-b0a075efcb7f.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Party with friends , {\"summary\":\"\",\"when\":\"\",\"who\":\"\",\"where\":\"\",\"what\":\"\",\"natural_when\":\"\",\"emotion\":\"\",\"created_at\":\"\",\"updated_at\":\"\",\"image_urls\":[],\"new_image_format\":\"\",\"shared_with\":[],\"conversation\":[],\"session_id\":\"\",\"draft\":false}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a fun memory! Could you please tell me when this party took place?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Colombo, {\"summary\":\"You had a great party with your friends.\",\"when\":\"\",\"who\":\"\",\"where\":\"\",\"what\":\"party\",\"natural_when\":\"\",\"emotion\":\"happy\",\"created_at\":\"\",\"updated_at\":\"\",\"image_urls\":[],\"new_image_format\":\"\",\"shared_with\":[],\"conversation\":[],\"session_id\":\"\",\"draft\":false}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "I'm sorry for the confusion, but it seems like you've mentioned a location instead of a time. Could you please tell me when this party happened?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "August 1st , {\"summary\":\"You had a great party with your friends.\",\"when\":\"\",\"who\":\"\",\"where\":\"Colombo\",\"what\":\"party\",\"natural_when\":\"\",\"emotion\":\"happy\",\"created_at\":\"\",\"updated_at\":\"\",\"image_urls\":[],\"new_image_format\":\"\",\"shared_with\":[],\"conversation\":[],\"session_id\":\"\",\"draft\":false}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Great! Now, could you please tell me who were the friends that attended this party?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "College friends, {\"summary\":\"You had a great party with your friends in Colombo.\",\"when\":\"August 1st\",\"who\":\"friends\",\"where\":\"Colombo\",\"what\":\"party\",\"natural_when\":\"\",\"emotion\":\"happy\",\"created_at\":\"\",\"updated_at\":\"\",\"image_urls\":[],\"new_image_format\":\"\",\"shared_with\":[],\"conversation\":[],\"session_id\":\"\",\"draft\":false}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thank you for sharing that. Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "No, {\"summary\":\"You had a great party with your college friends in Colombo.\",\"when\":\"August 1st\",\"who\":\"college friends\",\"where\":\"Colombo\",\"what\":\"party\",\"natural_when\":\"\",\"emotion\":\"happy\",\"created_at\":\"\",\"updated_at\":\"\",\"image_urls\":[],\"new_image_format\":\"\",\"shared_with\":[],\"conversation\":[],\"session_id\":\"\",\"draft\":false}"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Alright, I have captured your memory of the great party with your college friends in Colombo on August 1st. Thank you for sharing this with me. <END>"
+                    }
+                ],
+                "session_id": "1e6b60a6-189f-4f73-8984-9043763d2b49",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:66e065b966fb702a89574361",
+            "context": {
+                "memory_id": "8528d0ce1ed74da4af336d3b76b504b0",
+                "summary": "",
+                "comments_summary": "",
+                "when": [
+                    ""
+                ],
+                "who": [
+                    ""
+                ],
+                "where": [
+                    ""
+                ],
+                "what": [
+                    ""
+                ],
+                "natural_when": [
+                    ""
+                ],
+                "emotion": "",
+                "created_at": "2024-09-10 15:28:57",
+                "updated_at": "2024-09-10 15:28:57",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/a.ka@gmail.com_66df382e66fb702a89571b1f/64a633a8-01ca-4b89-9ac1-d8c79b707b47.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [],
+                "session_id": "ad7fdad2-cf5b-4312-aac7-bf34f6e45a07",
+                "draft": false
+            }
+        }
+    ]
+}

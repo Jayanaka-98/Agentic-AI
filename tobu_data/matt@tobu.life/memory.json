@@ -1,0 +1,76 @@
+{
+    "status": 200,
+    "reports": [
+        {
+            "id": "n:memory:66a69f5d204745c73cd6b089",
+            "context": {
+                "memory_id": "5261750ffff049a3ab1c79820872dfd0",
+                "summary": "You installed the Tobu app on your Android device and took a picture of your computer screen in Manhattan Beach on May 10th, 2024. It's a hazy day, and you plan to head down to see Pat to congratulate him on the app launch.",
+                "comments_summary": "",
+                "when": [
+                    "2023-05-10"
+                ],
+                "who": [
+                    "Pat"
+                ],
+                "where": [
+                    "Manhattan Beach"
+                ],
+                "what": [
+                    "Installing Tobu app and taking a picture"
+                ],
+                "natural_when": [
+                    "2023-05-10"
+                ],
+                "emotion": "excitement",
+                "created_at": "2024-05-10T16:35:51.836568",
+                "updated_at": "2024-05-10T16:35:51.836817",
+                "image_urls": [
+                    "https://tobu-mvp-dev.s3.amazonaws.com/matt@tobu.life_urn:uuid:7e95577c-e955-4e49-ad62-950a961ae45f/252597a1-63ef-446c-9fb4-db5a9a6d1aa8.png"
+                ],
+                "new_image_format": "raw",
+                "shared_with": [],
+                "conversation": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I just launched the Tobu app. I just installed it onto my Android device. I took a picture of the screen of my computer that I'm working at."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a significant moment! Who else was present when you installed the Tobu app and took the picture of your computer screen?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I'm in Manhattan Beach and it is May 10th, 2024. It's a little hazy day I'm trying to get a picture outside a little later to see what the day is like. It's a little cool typical June gloom weather here in Manhattan Beach."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "It seems like you're enjoying your day at Manhattan Beach. Can you tell me more about what you're doing there besides taking pictures?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "I'm going to head down and see Pat today to congratulate him on the launch of the app as well."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "That sounds like a wonderful plan! Is there anything else you would like to add to this memory?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "That is all."
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Thank you for sharing this memory with me. I have captured it as follows: On May 10th, 2024, you installed the Tobu app on your Android device in Manhattan Beach. It was a hazy, cool day typical of June gloom weather. You took a picture of your computer screen and planned to visit Pat to congratulate him on the launch of the app. <END>"
+                    }
+                ],
+                "session_id": "be184c7b-cd39-41e5-a59a-7256d22f741a",
+                "draft": false
+            }
+        }
+    ]
+}

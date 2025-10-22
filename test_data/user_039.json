@@ -1,0 +1,315 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "Clara began the year in Honolulu conducting coral reef biodiversity assessments. She used underwater drones to monitor bleaching events and collected coral DNA samples for genetic diversity analysis.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-18"
+        ],
+        "who": [
+          "Clara Lopez",
+          "marine biologists"
+        ],
+        "where": [
+          "Honolulu"
+        ],
+        "what": [
+          "Collecting coral samples and monitoring bleaching using drone-based surveys."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "In Jakarta, Clara partnered with local researchers to study mangrove restoration. They compared carbon sequestration rates between restored and natural mangrove forests to assess ecosystem recovery.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-26"
+        ],
+        "who": [
+          "Clara Lopez",
+          "local ecologists"
+        ],
+        "where": [
+          "Jakarta"
+        ],
+        "what": [
+          "Analyzing carbon storage and regeneration in mangrove ecosystems."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "Clara traveled to Cairns to deploy acoustic sensors tracking fish migration patterns around coral reefs. The project aimed to identify how temperature fluctuations affect spawning behavior.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-30"
+        ],
+        "who": [
+          "Clara Lopez",
+          "research divers"
+        ],
+        "where": [
+          "Cairns"
+        ],
+        "what": [
+          "Installing acoustic trackers for studying fish migration and climate impact."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "In Cape Town, Clara joined a workshop on ocean acidification and presented her coral bleaching data. She proposed adaptive reef restoration strategies based on genetic resilience mapping.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-27"
+        ],
+        "who": [
+          "Clara Lopez",
+          "marine scientists"
+        ],
+        "where": [
+          "Cape Town"
+        ],
+        "what": [
+          "Presenting research on coral resilience and acidification response."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "Back in Honolulu, Clara mentored graduate students on marine data modeling. She supervised the creation of a dashboard integrating reef, mangrove, and acoustic datasets into a unified analysis tool.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-21"
+        ],
+        "who": [
+          "Clara Lopez",
+          "graduate students"
+        ],
+        "where": [
+          "Honolulu"
+        ],
+        "what": [
+          "Mentoring students on integrating multi-ecosystem marine datasets."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "In Lisbon, Clara attended the International Marine Conservation Congress. She chaired a session on technology-driven monitoring, emphasizing how AI and sensors enhance long-term ecosystem management.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-24"
+        ],
+        "who": [
+          "Clara Lopez",
+          "marine policymakers"
+        ],
+        "where": [
+          "Lisbon"
+        ],
+        "what": [
+          "Leading a conference session on technological innovation in marine conservation."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "Clara conducted field research in Fiji, collecting coral larvae for a reef regeneration project. She experimented with controlled growth environments to optimize coral survival under varying salinity conditions.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-29"
+        ],
+        "who": [
+          "Clara Lopez",
+          "field technicians"
+        ],
+        "where": [
+          "Fiji"
+        ],
+        "what": [
+          "Performing coral larvae cultivation experiments for reef restoration."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "In Vancouver, Clara collaborated with marine policy experts to design a global database for biodiversity indicators. The system aimed to standardize reef health metrics across different research institutions.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-05"
+        ],
+        "who": [
+          "Clara Lopez",
+          "policy researchers"
+        ],
+        "where": [
+          "Vancouver"
+        ],
+        "what": [
+          "Designing a shared marine biodiversity data platform for policy use."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "Clara returned to Tokyo to consult with government agencies on integrating ocean data analytics into national marine management strategies. She proposed citizen-science models for coastal monitoring.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-14"
+        ],
+        "who": [
+          "Clara Lopez",
+          "government advisors"
+        ],
+        "where": [
+          "Tokyo"
+        ],
+        "what": [
+          "Advising on data-driven ocean policy and citizen participation programs."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "To conclude the year, Clara presented her integrated findings at the UN Ocean Forum in Geneva. Her keynote emphasized linking science, community engagement, and policy to protect global marine ecosystems.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-21"
+        ],
+        "who": [
+          "Clara Lopez",
+          "UN delegates"
+        ],
+        "where": [
+          "Geneva"
+        ],
+        "what": [
+          "Delivering a keynote on uniting scientific and policy efforts for ocean protection."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

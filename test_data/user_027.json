@@ -1,0 +1,314 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "Mia began the year in Honolulu, leading a coral reef survey to assess bleaching after an unusually warm season. Her team documented temperature data and collected coral samples for genetic resilience studies.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-07"
+        ],
+        "who": [
+          "Mia Chen",
+          "research team"
+        ],
+        "where": [
+          "Honolulu"
+        ],
+        "what": [
+          "Conducting coral reef health assessments and data collection."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "In Sydney, Mia collaborated with local divers to tag sea turtles for migration tracking. She spent several days diving off the Great Barrier Reef, carefully attaching transmitters and noting behavioral patterns.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-13"
+        ],
+        "who": [
+          "Mia Chen",
+          "local divers"
+        ],
+        "where": [
+          "Sydney"
+        ],
+        "what": [
+          "Tagging and tracking sea turtles in the Great Barrier Reef."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "Mia traveled to Bali to host a marine conservation workshop for students. She explained how coastal waste impacts coral ecosystems and demonstrated hands-on methods for monitoring microplastic accumulation.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-22"
+        ],
+        "who": [
+          "Mia Chen",
+          "students"
+        ],
+        "where": [
+          "Bali"
+        ],
+        "what": [
+          "Teaching a workshop on microplastic pollution and coral protection."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "In Cape Town, Mia joined a research expedition studying penguin population decline. She worked alongside ecologists to collect blood samples and measure chick growth rates over a two-week period.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-29"
+        ],
+        "who": [
+          "Mia Chen",
+          "ecologists"
+        ],
+        "where": [
+          "Cape Town"
+        ],
+        "what": [
+          "Participating in a penguin population monitoring expedition."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "While visiting Lisbon, Mia attended an international ocean policy summit. She delivered a talk on community-led marine restoration and emphasized the need for localized solutions in global conservation efforts.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-23"
+        ],
+        "who": [
+          "Mia Chen",
+          "summit delegates"
+        ],
+        "where": [
+          "Lisbon"
+        ],
+        "what": [
+          "Presenting at a global ocean conservation conference."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "During her fieldwork in Okinawa, Mia conducted nighttime dives to observe bioluminescent plankton behavior. She captured high-resolution images later used for a public science exhibition in Japan.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-17"
+        ],
+        "who": [
+          "Mia Chen"
+        ],
+        "where": [
+          "Okinawa"
+        ],
+        "what": [
+          "Documenting bioluminescent plankton through underwater photography."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "Mia spent several weeks in Vancouver collaborating with a local nonprofit to rehabilitate stranded seals. She assisted in medical care, feeding schedules, and public education about marine rescue operations.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-18"
+        ],
+        "who": [
+          "Mia Chen",
+          "marine rescue volunteers"
+        ],
+        "where": [
+          "Vancouver"
+        ],
+        "what": [
+          "Rehabilitating stranded seals and supporting marine animal care."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "In San Diego, Mia taught a summer course on oceanography, combining classroom lectures with beachside experiments. She encouraged students to collect sand samples and measure salinity changes across tides.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-02"
+        ],
+        "who": [
+          "Mia Chen",
+          "students"
+        ],
+        "where": [
+          "San Diego"
+        ],
+        "what": [
+          "Teaching field-based lessons on oceanography and marine chemistry."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "Mia returned to Tokyo to work with colleagues on a paper analyzing deep-sea sonar data. The team discovered previously undocumented coral formations at depths exceeding 2,000 meters.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-16"
+        ],
+        "who": [
+          "Mia Chen",
+          "colleagues"
+        ],
+        "where": [
+          "Tokyo"
+        ],
+        "what": [
+          "Researching deep-sea coral structures through sonar analysis."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "To conclude the year, Mia presented her findings at a UN ocean science forum in Geneva. She highlighted how cross-border collaboration can accelerate ocean restoration and shared visual footage from her global dives.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-28"
+        ],
+        "who": [
+          "Mia Chen",
+          "UN scientists"
+        ],
+        "where": [
+          "Geneva"
+        ],
+        "what": [
+          "Presenting global marine research outcomes at an international forum."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "user_id": "user_028",
+  "memories": [
+    {
+      "memory_id": "m01",
+      "summary": "Lucas began the year in San Francisco, sketching ideas for an AI-powered logistics platform designed to optimize urban deliveries. He spent most of January building the initial wireframes and conducting user interviews with local couriers.",
+      "when": "2025-01-09",
+      "who": ["Lucas Rivera"],
+      "where": ["San Francisco"],
+      "what": "Designing and prototyping an AI logistics startup concept."
+    },
+    {
+      "memory_id": "m02",
+      "summary": "In Austin, Lucas joined a tech incubator that offered mentorship and funding guidance. He presented his prototype to advisors who encouraged him to refine his data models before pitching to investors.",
+      "when": "2025-02-20",
+      "who": ["Lucas Rivera", "startup mentors"],
+      "where": ["Austin"],
+      "what": "Participating in a startup incubator and receiving product feedback."
+    },
+    {
+      "memory_id": "m03",
+      "summary": "Lucas traveled to New York to meet with venture capital firms. His first pitch was rejected due to unclear scalability, prompting him to rework his market projections and strengthen his growth plan.",
+      "when": "2025-03-14",
+      "who": ["Lucas Rivera", "investors"],
+      "where": ["New York"],
+      "what": "Pitching investors and revising growth models after early rejections."
+    },
+    {
+      "memory_id": "m04",
+      "summary": "Back in San Francisco, Lucas partnered with his college friend Maya, a data scientist, to improve the AI's routing algorithms. Together they achieved a 25% increase in delivery time efficiency during pilot tests.",
+      "when": "2025-04-11",
+      "who": ["Lucas Rivera", "Maya Chen"],
+      "where": ["San Francisco"],
+      "what": "Collaborating with a data scientist to optimize the platform's performance."
+    },
+    {
+      "memory_id": "m05",
+      "summary": "In Seattle, Lucas joined a regional startup competition where his team presented the improved product demo. They won second place and gained access to investor networking sessions.",
+      "when": "2025-05-29",
+      "who": ["Lucas Rivera", "Maya Chen", "startup team"],
+      "where": ["Seattle"],
+      "what": "Competing in a startup event and securing investor exposure."
+    },
+    {
+      "memory_id": "m06",
+      "summary": "Lucas attended a product management conference in Boston, where he exchanged ideas with established founders. He took notes on leadership strategies and began outlining his company's hiring roadmap.",
+      "when": "2025-06-18",
+      "who": ["Lucas Rivera", "founders"],
+      "where": ["Boston"],
+      "what": "Learning leadership and team-building approaches at a tech conference."
+    },
+    {
+      "memory_id": "m07",
+      "summary": "In Toronto, Lucas led a two-week design sprint with remote engineers to integrate predictive analytics into the platform. The updated model could now forecast delivery delays based on traffic and weather data.",
+      "when": "2025-07-23",
+      "who": ["Lucas Rivera", "engineering team"],
+      "where": ["Toronto"],
+      "what": "Leading a sprint to implement predictive analytics into the AI system."
+    },
+    {
+      "memory_id": "m08",
+      "summary": "Lucas visited London to pitch his company at an international startup showcase. The refined AI system impressed investors, leading to commitments for Series A funding later that quarter.",
+      "when": "2025-09-05",
+      "who": ["Lucas Rivera", "international investors"],
+      "where": ["London"],
+      "what": "Securing early commitments for Series A investment funding."
+    },
+    {
+      "memory_id": "m09",
+      "summary": "In Singapore, Lucas oversaw the company's first overseas pilot project with a logistics partner. The platform successfully managed hundreds of daily deliveries across the city using localized routing data.",
+      "when": "2025-10-21",
+      "who": ["Lucas Rivera", "logistics partner"],
+      "where": ["Singapore"],
+      "what": "Launching an international pilot for the logistics platform."
+    },
+    {
+      "memory_id": "m10",
+      "summary": "To close the year, Lucas returned to San Francisco to host an open demo event for investors, partners, and media. He announced that his company had officially raised $10 million in Series A funding and planned expansion to Europe.",
+      "when": "2025-12-19",
+      "who": ["Lucas Rivera", "Maya Chen", "investors"],
+      "where": ["San Francisco"],
+      "what": "Announcing Series A success and global expansion plans at a demo event."
+    }
+  ],
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How did feedback from early investor meetings influence Lucas's later success at the international startup showcase?",
+      "answer_gold": "The rejection in New York pushed Lucas to refine his scalability and growth models, which, after technical improvements with Maya, became key factors that impressed investors in London and led to funding commitments.",
+      "evidence": ["m03", "m04", "m08"]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What connections can be seen between Lucas's mentorship experience in Austin and his later leadership at the Toronto design sprint?",
+      "answer_gold": "The advice from mentors in Austin on structured product iteration helped Lucas lead the Toronto sprint more effectively, implementing predictive analytics and applying the project management principles he learned earlier.",
+      "evidence": ["m02", "m07"]
+    },
+    {
+      "qid": "qa_003",
+      "question": "In what ways did Lucas's collaboration with Maya shape both technical progress and business outcomes?",
+      "answer_gold": "Their partnership not only improved AI performance in San Francisco but also enabled competitive success in Seattle and contributed directly to investor confidence during the London showcase.",
+      "evidence": ["m04", "m05", "m08"]
+    },
+    {
+      "qid": "qa_004",
+      "question": "How did Lucas's exposure to industry leadership at the Boston conference connect to his company's later global expansion?",
+      "answer_gold": "His learning about scaling and team culture in Boston influenced how he structured global partnerships, which later helped him manage the Singapore pilot and announce expansion plans in San Francisco.",
+      "evidence": ["m06", "m09", "m10"]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which events collectively show the transformation of Lucas's startup from concept to international recognition?",
+      "answer_gold": "Starting from early wireframing in San Francisco, through investor refinement in New York, technical breakthroughs with Maya, and final funding success in London, Lucas's journey charts the evolution from prototype to a globally recognized company.",
+      "evidence": ["m01", "m03", "m04", "m08", "m10"]
+    }
+  ]
+}

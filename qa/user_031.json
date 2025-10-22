@@ -1,0 +1,55 @@
+{
+  "user_id": "user_031",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How did Lily's early research in Milan and Paris lay the foundation for her later international collaborations?",
+      "answer_gold": "Her experiments with biodegradable textiles in Milan and artisan embroidery in Paris established her design identity, which later guided her collaborations with digital artists in Tokyo and craftsmen in Marrakech to merge tradition with innovation.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m04",
+        "m06"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What connection can be drawn between Lily's sustainability advocacy and her educational mentorship?",
+      "answer_gold": "Her advocacy at the Copenhagen summit inspired her to mentor students in London, where she passed on the same values of eco-conscious design and ethical production to the next generation of designers.",
+      "evidence": [
+        "m03",
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "In what ways did Lily integrate cross-cultural and technological elements into her Milan Fashion Week collection?",
+      "answer_gold": "She fused digital projections from her Tokyo partnership with Marrakech's handmade accessories, showcasing both innovation and cultural appreciation in her Milan runway presentation.",
+      "evidence": [
+        "m04",
+        "m06",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "How did Lily's experiences with wearable technology expand the scope of her sustainable design philosophy?",
+      "answer_gold": "Her collaboration with engineers in Seoul introduced functionality to her eco-fashion focus, extending her sustainability mission into health-oriented innovation that complemented her previous artistic endeavors.",
+      "evidence": [
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which series of events best demonstrate the evolution of Lily's design philosophy from experimentation to recognition?",
+      "answer_gold": "Starting with material testing in Milan, through ethical advocacy in Copenhagen and mentorship in London, culminating in her award in Paris, Lily's journey reflects how creative experimentation evolved into globally acknowledged leadership.",
+      "evidence": [
+        "m01",
+        "m03",
+        "m07",
+        "m10"
+      ]
+    }
+  ]
+}

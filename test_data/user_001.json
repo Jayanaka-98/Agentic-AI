@@ -1,0 +1,315 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "On January 10, 2025, in Ann Arbor, John sat at his desk with a cup of coffee, working on his laptop while snow fell softly outside the window.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-10"
+        ],
+        "who": [
+          "John"
+        ],
+        "where": [
+          "Ann Arbor, MI"
+        ],
+        "what": [
+          "Working from home."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "On February 14, 2025, in Detroit, John posed with his sister Anna at a Valentine's Day dinner, smiling with heart-shaped balloons in the background.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-14"
+        ],
+        "who": [
+          "John",
+          "Anna"
+        ],
+        "where": [
+          "Detroit, MI"
+        ],
+        "what": [
+          "Dinner with family."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "On March 30, 2025, in Chicago, John stood with his friend Miguel at Millennium Park, both laughing while tourists crowded around Cloud Gate.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-30"
+        ],
+        "who": [
+          "John",
+          "Miguel"
+        ],
+        "where": [
+          "Chicago, IL"
+        ],
+        "what": [
+          "Sightseeing trip."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "On April 22, 2025, in New York City, John took a cheerful selfie with Anna during Earth Day celebrations in Central Park.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-22"
+        ],
+        "who": [
+          "John",
+          "Anna"
+        ],
+        "where": [
+          "New York, NY"
+        ],
+        "what": [
+          "Earth Day celebration."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "On May 18, 2025, in Boston, John clinked glasses with college friends at a graduation party, captured in a lively indoor scene.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-18"
+        ],
+        "who": [
+          "John",
+          "Rachel",
+          "Leo"
+        ],
+        "where": [
+          "Boston, MA"
+        ],
+        "what": [
+          "Graduation party."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "On June 5, 2025, in Toronto, John enjoyed a summer evening with Miguel, holding ice cream cones near the CN Tower.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-05"
+        ],
+        "who": [
+          "John",
+          "Miguel"
+        ],
+        "where": [
+          "Toronto, Canada"
+        ],
+        "what": [
+          "Tourist outing."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "On July 21, 2025, in San Francisco, John posed with Anna on the Golden Gate Bridge, fog rolling in behind them.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-21"
+        ],
+        "who": [
+          "John",
+          "Anna"
+        ],
+        "where": [
+          "San Francisco, CA"
+        ],
+        "what": [
+          "Walking on Golden Gate Bridge."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "On September 2, 2025, in Austin, John and Miguel laughed together at a food truck festival, holding tacos while music played nearby.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-02"
+        ],
+        "who": [
+          "John",
+          "Miguel"
+        ],
+        "where": [
+          "Austin, TX"
+        ],
+        "what": [
+          "Food truck festival."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "On October 15, 2025, in Seattle, John snapped a selfie with Anna at Pike Place Market, holding fresh flowers from a vendor.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-15"
+        ],
+        "who": [
+          "John",
+          "Anna"
+        ],
+        "where": [
+          "Seattle, WA"
+        ],
+        "what": [
+          "Visiting Pike Place Market."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "On December 25, 2025, in Denver, John and Anna smiled by a decorated Christmas tree, wearing winter sweaters inside a ski lodge.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-25"
+        ],
+        "who": [
+          "John",
+          "Anna"
+        ],
+        "where": [
+          "Denver, CO"
+        ],
+        "what": [
+          "Christmas celebration."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

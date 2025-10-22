@@ -1,0 +1,313 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "On February 1, 2025, in Ann Arbor, Lena studied at her apartment desk, a cup of tea beside her laptop, with snow outside the window.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-01"
+        ],
+        "who": [
+          "Lena"
+        ],
+        "where": [
+          "Ann Arbor, MI"
+        ],
+        "what": [
+          "Studying at home."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "On March 12, 2025, in Detroit, Lena and her friend Rachel posed together at a small art gallery opening.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-12"
+        ],
+        "who": [
+          "Lena",
+          "Rachel"
+        ],
+        "where": [
+          "Detroit, MI"
+        ],
+        "what": [
+          "Art gallery visit."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "On April 9, 2025, in Chicago, Lena enjoyed a sunny afternoon with David at Millennium Park, smiling near Cloud Gate.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-09"
+        ],
+        "who": [
+          "Lena",
+          "David"
+        ],
+        "where": [
+          "Chicago, IL"
+        ],
+        "what": [
+          "Sightseeing trip."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "On May 20, 2025, in Boston, Lena joined her cousin Julia for brunch outdoors, their table full of pancakes and orange juice.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-20"
+        ],
+        "who": [
+          "Lena",
+          "Julia"
+        ],
+        "where": [
+          "Boston, MA"
+        ],
+        "what": [
+          "Brunch with family."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "On June 28, 2025, in San Francisco, Lena walked with Omar across the Golden Gate Bridge, fog swirling in the background.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-28"
+        ],
+        "who": [
+          "Lena",
+          "Omar"
+        ],
+        "where": [
+          "San Francisco, CA"
+        ],
+        "what": [
+          "Golden Gate walk."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "On July 16, 2025, in Seattle, Lena snapped a photo with Rachel at Pike Place Market, holding flowers and coffee.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-16"
+        ],
+        "who": [
+          "Lena",
+          "Rachel"
+        ],
+        "where": [
+          "Seattle, WA"
+        ],
+        "what": [
+          "Market visit."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "On August 9, 2025, in Toronto, Lena stood near the CN Tower, smiling while eating an ice cream cone.",
+        "comments_summary": "",
+        "when": [
+          "2025-08-09"
+        ],
+        "who": [
+          "Lena"
+        ],
+        "where": [
+          "Toronto, Canada"
+        ],
+        "what": [
+          "Tourist outing."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "On September 14, 2025, in Austin, Lena laughed with David at a food truck festival, holding tacos in the evening crowd.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-14"
+        ],
+        "who": [
+          "Lena",
+          "David"
+        ],
+        "where": [
+          "Austin, TX"
+        ],
+        "what": [
+          "Food truck festival."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "On October 27, 2025, in New York City, Lena and Julia watched a Broadway show together, taking a quick selfie at intermission.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-27"
+        ],
+        "who": [
+          "Lena",
+          "Julia"
+        ],
+        "where": [
+          "New York, NY"
+        ],
+        "what": [
+          "Broadway outing."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "On December 24, 2025, in Denver, Lena sat with Rachel near a fireplace in a ski lodge, both holding mugs of hot chocolate.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-24"
+        ],
+        "who": [
+          "Lena",
+          "Rachel"
+        ],
+        "where": [
+          "Denver, CO"
+        ],
+        "what": [
+          "Christmas Eve at ski lodge."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

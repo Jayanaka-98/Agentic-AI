@@ -1,0 +1,54 @@
+{
+  "user_id": "user_049",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which memories capture the user's close family moments and how do they reveal the importance of family traditions and celebrations?",
+      "answer_gold": "The user's dad's birthday celebration at Nicks in Manhattan Beach, the Easter gathering with niece Monica and great-nephew Jacobi in Torrance, and the trip to Liberty University with daughter Marley and Lance all emphasize family bonds, milestones, and togetherness. Each reflects joy and shared family traditions.",
+      "evidence": [
+        "m02",
+        "m04",
+        "m05"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "How do the user's friendships reflect longevity and emotional connection across different life stages?",
+      "answer_gold": "The fly fishing trip with Ken Casey in Telluride after chemotherapy and the meeting with Pat, a college roommate of 40 years, in Laguna Beach show long-lasting friendships rooted in mutual support and reflection. Similarly, the Chicago gathering with Patrick, Johnny, and others demonstrates the value of enduring social bonds.",
+      "evidence": [
+        "m01",
+        "m06",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What memories illustrate resilience and gratitude in the user's journey through recovery and meaningful experiences afterward?",
+      "answer_gold": "The peaceful fly fishing trip in Telluride with Ken Casey after chemotherapy symbolizes healing and gratitude for life's calm moments. Later events—such as joyful family celebrations and reconnecting with friends—demonstrate a renewed appreciation for relationships and simple pleasures after hardship.",
+      "evidence": [
+        "m04",
+        "m08",
+        "m12"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "In what ways do the memories involving Marley and Austin highlight parental pride and generational growth?",
+      "answer_gold": "Watching Austin work hard under the Phoenix heat reflects admiration and pride in his determination, while the Liberty University trip with Marley captures excitement for her educational journey and independence. Together, they show the user's pride in seeing both children grow into adulthood.",
+      "evidence": [
+        "m05",
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How do social gatherings in various settings reflect the user's appreciation for connection and shared joy?",
+      "answer_gold": "From celebrating in Chicago and relaxing with Lisa and friends at The Bungalow in Corona del Mar, to enjoying graduations and birthdays, the user's memories portray an enduring love of community. These moments emphasize friendship, nostalgia, and a joyful embrace of togetherness.",
+      "evidence": [
+        "m01",
+        "m03",
+        "m12"
+      ]
+    }
+  ]
+}

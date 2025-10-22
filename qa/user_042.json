@@ -1,0 +1,54 @@
+{
+  "user_id": "user_042",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which events show the user's enjoyment of outdoor activities with friends, and what did they do?",
+      "answer_gold": "The user went to Manhattan Beach with fraternity brothers to play volleyball and enjoy a bonfire, played soccer with Ryan, and went hiking in the mountains, all reflecting their love for active and social outdoor experiences.",
+      "evidence": [
+        "m01",
+        "m08",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "How did the user's social interactions vary between casual outings and family experiences?",
+      "answer_gold": "They spent time with fraternity brothers at Manhattan Beach, played soccer with Ryan, and later shared a joyful family photo at the She Believes Cup in Glendale, showing a mix of friendships and family moments.",
+      "evidence": [
+        "m01",
+        "m08",
+        "m20"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What experiences reflect the user's appreciation for fine dining or unique food events?",
+      "answer_gold": "The user enjoyed a refined omakase-style seafood platter in Scottsdale, described with awe and sophistication, highlighting their taste for high-quality dining experiences.",
+      "evidence": [
+        "m19"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which memories together show the user's travel between different cities, and what were they doing in each?",
+      "answer_gold": "They visited Manhattan Beach in California for a beach trip, dined in Scottsdale for an omakase seafood experience, and went to Glendale for a family photo at a sports event, showing a lifestyle mixing leisure, travel, and family.",
+      "evidence": [
+        "m01",
+        "m19",
+        "m20"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What emotions are expressed across the user's experiences, and how do they differ by context?",
+      "answer_gold": "The user felt happiness during the beach day with fraternity brothers, excitement during the mountain hike, awe at the omakase dinner in Scottsdale, and joy at the family photo event in Glendale, reflecting a range from active thrill to sentimental warmth.",
+      "evidence": [
+        "m01",
+        "m09",
+        "m19",
+        "m20"
+      ]
+    }
+  ]
+}

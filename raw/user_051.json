@@ -1,0 +1,875 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "Captured a joyful moment with a loved one on 2024-12-04, celebrating togetherness and happiness.",
+        "comments_summary": "",
+        "when": [
+          "2024-12-04"
+        ],
+        "who": [
+          ""
+        ],
+        "where": [
+          ""
+        ],
+        "what": [
+          "Captured a joyful moment with a loved one, celebrating togetherness and happiness."
+        ],
+        "natural_when": [
+          "2024-12-04"
+        ],
+        "emotion": "",
+        "created_at": "2024-12-04 20:18:32",
+        "updated_at": "2024-12-04 20:18:32",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/10114394-511E-46E0-8D31-F77D6842FFF7.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "user",
+            "content": "Update what to Captured a joyful moment with a loved one, celebrating togetherness and happiness., Update where to , Update when to , "
+          }
+        ],
+        "session_id": "673c32e4b81a4104a6c8abc570d96d23",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "Patrick, Pauline celebrated their anniversary at Ocean 48 on 2024-12-06, enjoying a cozy car ride.",
+        "comments_summary": "",
+        "when": [
+          "2024-12-06"
+        ],
+        "who": [
+          "Patrick, Pauline"
+        ],
+        "where": [
+          "Ocean 48"
+        ],
+        "what": [
+          "Anniversary date celebration"
+        ],
+        "natural_when": [
+          "2024-12-06"
+        ],
+        "emotion": "",
+        "created_at": "2024-12-09 15:55:38",
+        "updated_at": "2024-12-09 15:55:38",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/BFAD09D1-E86E-4B03-9914-9621116BB6E9.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "user",
+            "content": "Update what to Cozy car ride, Update where to Pacific Auto Center, Phillips Auto, Fletcher Jones Motorcars, Update when to 2024-12-06, "
+          }
+        ],
+        "session_id": "5136ea7dbbe6471bba0321403e83c4a2",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "Patrick and Holly celebrated their 25th anniversary at Ocean 48.",
+        "comments_summary": "",
+        "when": [
+          "2024-12-08"
+        ],
+        "who": [
+          "Patrick, Holly"
+        ],
+        "where": [
+          "Ocean 48"
+        ],
+        "what": [
+          "celebrating 25th anniversary"
+        ],
+        "natural_when": [
+          "2024-12-08"
+        ],
+        "emotion": "joyful",
+        "created_at": "2024-12-09 21:24:37",
+        "updated_at": "2024-12-09 21:24:37",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/8C9ACC0B-4F3D-4F68-8881-554A9AC41A1C.png"
+        ],
+        "new_image_format": "raw",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+          },
+          {
+            "role": "user",
+            "content": "Thank you."
+          },
+          {
+            "role": "assistant",
+            "content": "Who were you celebrating this special occasion with?"
+          },
+          {
+            "role": "user",
+            "content": "Had a great dinner with my wife Holly at Ocean 48 celebrating our 25th anniversary."
+          },
+          {
+            "role": "assistant",
+            "content": "What specific date did you celebrate your 25th anniversary?"
+          },
+          {
+            "role": "user",
+            "content": "Yesterday"
+          },
+          {
+            "role": "assistant",
+            "content": "Is there anything special that you did during the dinner to make it memorable?"
+          },
+          {
+            "role": "user",
+            "content": "Just reminiscing about our last 25 years was a great time."
+          },
+          {
+            "role": "assistant",
+            "content": "Is there anything else you would like to add to this memory?"
+          },
+          {
+            "role": "user",
+            "content": "No."
+          },
+          {
+            "role": "assistant",
+            "content": "Thank you for sharing your memory! I have captured the details of your celebration. If you need anything else or want to add more memories in the future, feel free to let me know. <END>"
+          }
+        ],
+        "session_id": "847a3e86862c4038a49ddb6deaaa7ce4",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "Patsy Willard announced as 1964 Olympic diver in Tempe.",
+        "comments_summary": "",
+        "when": [
+          "1964-08-01"
+        ],
+        "who": [
+          "Patrick, Patsy Willard, Dick Smith"
+        ],
+        "where": [
+          "Tempe, Arizona"
+        ],
+        "what": [
+          "Olympic diver announcement"
+        ],
+        "natural_when": [
+          "1964-08-01"
+        ],
+        "emotion": "pride, excitement",
+        "created_at": "2024-12-12 20:01:26",
+        "updated_at": "2024-12-12 20:01:26",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/ED9D1497-31F5-4340-B6EA-D5BD566E9830.png"
+        ],
+        "new_image_format": "raw",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+          },
+          {
+            "role": "user",
+            "content": "MBC 뉴스 이덕영입니다."
+          },
+          {
+            "role": "assistant",
+            "content": "Can you tell me what specific event or experience you had while posing with the airplane?"
+          },
+          {
+            "role": "user",
+            "content": "This is a picture of my mother-in-law, Patsy Willard, being announced that she'll be a diver in the 1964 Olympics."
+          },
+          {
+            "role": "assistant",
+            "content": "When did this announcement take place?"
+          },
+          {
+            "role": "user",
+            "content": "August of 1964."
+          },
+          {
+            "role": "assistant",
+            "content": "Where did this announcement take place?"
+          },
+          {
+            "role": "user",
+            "content": "Tempe, Arizona"
+          },
+          {
+            "role": "assistant",
+            "content": "Who else was present during the announcement of your mother-in-law, Patsy Willard, becoming a diver in the 1964 Olympics?"
+          },
+          {
+            "role": "user",
+            "content": "with her swim coach Dick Smith."
+          },
+          {
+            "role": "assistant",
+            "content": "Is there anything else you would like to add to this memory?"
+          },
+          {
+            "role": "user",
+            "content": "No"
+          },
+          {
+            "role": "assistant",
+            "content": "Thank you for sharing this memory! Here's what I have captured:\n\n- **What:** Announcement of Patsy Willard as a diver in the 1964 Olympics\n- **When:** August 1964\n- **Where:** Tempe, Arizona\n- **Who:** Patsy Willard, Dick Smith\n\nIf you have any other memories or details you'd like to share, feel free to let me know! <END>"
+          }
+        ],
+        "session_id": "9f62aca3b64748a498b6483d6fde171d",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "Patrick celebrated his dad's 86th birthday with family in Torrance, California.",
+        "comments_summary": "",
+        "when": [
+          "2024-11-13"
+        ],
+        "who": [
+          "Bill and Mary Ann McLaughlin, Patrick's family"
+        ],
+        "where": [
+          "Torrance, California"
+        ],
+        "what": [
+          "celebrated dad's 86th birthday"
+        ],
+        "natural_when": [
+          "2024-11-13"
+        ],
+        "emotion": "joyful",
+        "created_at": "2024-12-12 20:10:29",
+        "updated_at": "2024-12-12 20:11:00",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/CDB60B34-EFC4-4326-9D48-8C7A16A2F136.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+          },
+          {
+            "role": "user",
+            "content": "This is one of my favorite pictures of my parents, Bill and Mary Ann McLaughlin. They are standing in the doorway of our lifelong home saying goodbye to us after we left a birthday celebration for my dad on November 13, 2024 in Torrance, California."
+          },
+          {
+            "role": "assistant",
+            "content": "What was the occasion for the birthday celebration for your dad?"
+          },
+          {
+            "role": "user",
+            "content": "It was my dad's 86th birthday."
+          },
+          {
+            "role": "assistant",
+            "content": "What specific activities or moments do you remember from the birthday celebration?"
+          },
+          {
+            "role": "user",
+            "content": "We had a really nice dinner and watched some football with my whole family to celebrate."
+          },
+          {
+            "role": "assistant",
+            "content": "Is there anything else you would like to add to this memory?"
+          },
+          {
+            "role": "user",
+            "content": "You"
+          },
+          {
+            "role": "assistant",
+            "content": "It seems like we have captured the event details well. Is there anything else you would like to add to this memory?"
+          },
+          {
+            "role": "user",
+            "content": "You"
+          },
+          {
+            "role": "assistant",
+            "content": "It looks like we have captured the event details well. However, I noticed that the \"What\" slot is currently filled with \"cherishing holiday moments.\" Would you like to provide a more specific description of the event or memory?"
+          },
+          {
+            "role": "user",
+            "content": "It was my dad's 86th birthday"
+          },
+          {
+            "role": "assistant",
+            "content": "It looks like we have the date, people involved, and location filled in. However, the \"What\" slot currently says \"cherishing holiday moments.\" Would you like to provide a more specific description of the event or memory?"
+          },
+          {
+            "role": "user",
+            "content": "No."
+          },
+          {
+            "role": "assistant",
+            "content": "It looks like we have captured the event details well. Is there anything else you would like to add to this memory?"
+          },
+          {
+            "role": "user",
+            "content": "No, save."
+          },
+          {
+            "role": "assistant",
+            "content": "Your memory has been saved successfully! Here are the details captured:\n\n- **When:** November 13, 2024\n- **Who:** Bill and Mary Ann McLaughlin, Patrick's family\n- **Where:** Torrance, California\n- **What:** Celebrated dad's 86th birthday\n\nIf you have any more memories to capture or anything else you'd like to share, feel free to let me know! <END>"
+          },
+          {
+            "role": "user",
+            "content": "Update where to Torrance, California, Update when to 2024-11-13, Update what to celebrated dad's 86th birthday, Update who to Bill and Mary Ann McLaughlin, Patrick's family, "
+          }
+        ],
+        "session_id": "ccc87269d64544d6b816d0f334970448",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "Patrick remembers Jack, Marley, and Austin capturing holiday joy on December 14, 2024.",
+        "comments_summary": "",
+        "when": [
+          "2024-12-14"
+        ],
+        "who": [
+          "Jack, Marley, austin "
+        ],
+        "where": [
+          ""
+        ],
+        "what": [
+          "capturing holiday joy"
+        ],
+        "natural_when": [
+          "2024-12-14"
+        ],
+        "emotion": "",
+        "created_at": "2024-12-14 18:26:26",
+        "updated_at": "2024-12-14 18:26:26",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/4DE1A2BF-E341-4A63-B874-0A062E7A092A.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "user",
+            "content": "Update when to 2024-12-14, Update what to capturing holiday joy, Update who to Jack, Marley, austin , "
+          }
+        ],
+        "session_id": "2e5a63f65844473bb58827b09a46d080",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "On a crisp November day, as the holiday season began to unfold, Patrick found himself in the bustling aisles of a craft store. The air was filled with the anticipation of upcoming festivities, with decorations and supplies sparking ideas for creative projects. Amidst the vibrant displays, he paused, perhaps contemplating a new DIY endeavor or selecting the perfect materials for a holiday gift. The moment captured a sense of creativity and preparation, a quiet yet meaningful pause in the midst of the season's hustle. Earlier that day, Patrick had his final MRI at the Mayo Clinic to ensure his brain cancer hadn't returned, marking a significant moment of relief and hope. He had traveled to Arizona alone for this important appointment. The MRI results came back stable, allowing him to celebrate his first Super Bowl, as his medical team equated reaching five years to winning the Super Bowl.",
+        "comments_summary": "",
+        "when": [
+          "2024-11-11"
+        ],
+        "who": [
+          "Patrick"
+        ],
+        "where": [
+          "Mayo Clinic"
+        ],
+        "what": [
+          "final MRI check"
+        ],
+        "natural_when": [
+          "2024-11-11"
+        ],
+        "emotion": "hopeful",
+        "created_at": "2024-12-16 23:59:20",
+        "updated_at": "2024-12-16 23:59:39",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/6E585181-9030-488C-9EB0-761694EA05EF.png"
+        ],
+        "new_image_format": "raw",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+          },
+          {
+            "role": "user",
+            "content": "This was my final MRI at the Mayo Clinic to make sure my brain cancer hasn't come back."
+          },
+          {
+            "role": "assistant",
+            "content": "Who was with you during your final MRI at the Mayo Clinic?"
+          },
+          {
+            "role": "user",
+            "content": "I just went out to Arizona by myself."
+          },
+          {
+            "role": "assistant",
+            "content": "It sounds like a significant moment for you. Is there anything else you would like to add to this memory?"
+          },
+          {
+            "role": "user",
+            "content": "I was happy because my MRI came back stable and I'm able to celebrate my first Super Bowl as the medical team told me if I get to five years it will be equivalent to winning the Super Bowl."
+          },
+          {
+            "role": "assistant",
+            "content": "It sounds like a truly uplifting experience, especially with the positive news about your MRI and the significance of celebrating your first Super Bowl. Is there anything else you would like to add to this memory?"
+          },
+          {
+            "role": "user",
+            "content": "No."
+          },
+          {
+            "role": "assistant",
+            "content": "Thank you for sharing this important memory with me. It sounds like a moment filled with hope and celebration. Would you like me to save this memory for you? <END>"
+          },
+          {
+            "role": "user",
+            "content": "yes"
+          },
+          {
+            "role": "assistant",
+            "content": "I've captured your memory about your final MRI at the Mayo Clinic, where you felt hopeful after receiving stable results. Would you like to add any details about how you celebrated your first Super Bowl or any other thoughts related to this experience?"
+          }
+        ],
+        "session_id": "bd656c9035ec4039b033d9f9acd8ac9d",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "Patrick and Chris Elliott enjoyed a summer reunion at Corona del Mar, California.",
+        "comments_summary": "",
+        "when": [
+          "2024-08-23"
+        ],
+        "who": [
+          "Patrick, Chris Elliott"
+        ],
+        "where": [
+          "Corona del Mar, California"
+        ],
+        "what": [
+          "enjoying summer reunion"
+        ],
+        "natural_when": [
+          "2024-08-23"
+        ],
+        "emotion": "joyful",
+        "created_at": "2024-12-17 23:41:30",
+        "updated_at": "2024-12-17 23:42:50",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/CD0A3F7A-5E38-4D27-A09B-1D5CEBD88593.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I will provide information about the memory and you will ask me follow-up questions based on what I have said so far in this conversation. Here are some instructions:\nYour main objective is to capture what is the event, when and where did the event take place, and who is part of it.\nOnly ask for information I have not already provided in this conversation. For example, if I already mentioned that I went to the park on Saturday, you will not ask about the time of the memory. Similarly, if I already told you about the people involved and the location of the memory, you will not ask about them again.\nOnly ask me for one piece of information at a time.\nAfter three conversation turns, stop asking specific questions and simply ask generally if there is anything else I would like to add to this memory\nIf I have indicate I am finished with this conversation or I just want you to save or capture the memory, end your response with <END>"
+          },
+          {
+            "role": "user",
+            "content": "This is a picture of Chris Elliott and myself. We have been best friends for 56 years. We both live in Orange County, California."
+          },
+          {
+            "role": "assistant",
+            "content": "Can you tell me where this picture was taken?"
+          },
+          {
+            "role": "user",
+            "content": "This picture was taken in Corona del Mar, California, at sunset by Pirates Cove. What a beautiful day."
+          },
+          {
+            "role": "assistant",
+            "content": "It sounds like a wonderful memory! Is there anything else you would like to add to this memory?"
+          },
+          {
+            "role": "user",
+            "content": "Please save."
+          },
+          {
+            "role": "assistant",
+            "content": "I've captured the memory of you and Chris Elliott enjoying a beautiful day at Pirates Cove in Corona del Mar, California. It sounds like a joyful reunion after 56 years of friendship! \n\nIs there anything else you would like to add or share about this memory? <END>"
+          },
+          {
+            "role": "user",
+            "content": "Update when to 2024-08-23, Update what to enjoying summer reunion, Update where to Corona del Mar, California, Update who to Patrick, Chris Elliott, "
+          }
+        ],
+        "session_id": "a6a26413a2c8415e938d8af8968d2027",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "In the vibrant atmosphere of the 1960 and 1964 Olympic diving competitions, Patrick's mother-in-law, Patsy, executed perfect dives from the high board as part of the USA Olympic diving team, winning a bronze medal in Tokyo. The crowd's cheers echoed around, blending with the splash of water as she entered the pool with grace and precision. This moment was a celebration of skill and family pride, where the excitement of the event was matched by the joy of knowing a loved one's remarkable achievement.",
+        "comments_summary": "Patsy's dedication and countless hours of practice were evident as she stood proudly on the podium, her achievement inspiring future generations of divers in her family.",
+        "when": [
+          "2024-12-18"
+        ],
+        "who": [
+          "Patsy"
+        ],
+        "where": [
+          "Olympic diving venue"
+        ],
+        "what": [
+          "Patsy's Olympic diving"
+        ],
+        "natural_when": [
+          "2024-12-18"
+        ],
+        "emotion": "pride",
+        "created_at": "2024-12-18 17:02:52",
+        "updated_at": "2024-12-18 17:03:41",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/769E6F24-D1E9-4A55-B3E2-E0E91B7EA4AB.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [
+          "6762315f85fe123f4da04bce"
+        ],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END>.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Patrick. You can use this in your answers and you should use this when generating the summary in third person POV."
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: In the shimmering depths of the underwater volleyball court, you felt the exhilarating rush of freedom as you dove gracefully, clutching the volleyball with determination. The water enveloped you in a cool embrace, muffling the world above and amplifying the thrill of the game. This moment, suspended in time, was a dance of strength and serenity, where the weightlessness of the water mirrored the lightness of your spirit.\\nWhat: underwater volleyball game\\nWhen: 2024-12-18\\nWhere: ['underwater volleyball court']\\nWho: \\nEmotion: \\n\\nHere is what the user said: Here's a picture of my mother-in-law diving off the high dive board for the Olympics.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "That's amazing! It sounds like your mother-in-law is quite the athlete. Was she part of the underwater volleyball game with you, or was this a separate event?"
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: In the shimmering depths of the underwater volleyball court, Patrick felt the exhilarating rush of freedom as he dove gracefully, clutching the volleyball with determination. The water enveloped him in a cool embrace, muffling the world above and amplifying the thrill of the game. This moment, suspended in time, was a dance of strength and serenity, where the weightlessness of the water mirrored the lightness of his spirit.\\nWhat: underwater volleyball game\\nWhen: 2024-12-18\\nWhere: underwater volleyball court\\nWho: \\nEmotion: \\n\\nHere is what the user said: This was a diving competition in the Olympics. There was no underwater volleyball game.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "Got it! So, this memory is about a diving competition at the Olympics. Could you tell me more about who was there with you during this event?"
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: In the vibrant atmosphere of the Olympic diving competition, Patrick watched in awe as his mother-in-law executed a perfect dive from the high board. The crowd's cheers echoed around him, blending with the splash of water as she entered the pool with grace and precision. This moment was a celebration of skill and family pride, where the excitement of the event was matched by the joy of witnessing a loved one's achievement.\\nWhat: Olympic diving competition\\nWhen: 2024-12-18\\nWhere: Olympic diving venue\\nWho: \\nEmotion: \\n\\nHere is what the user said: I was not there, only my mother-in-law Patsy was there in 1960 and 64 Olympics. She went with the USA Olympic diving team.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "Thank you for clarifying that, Patrick. It sounds like Patsy had an incredible experience at the Olympics. How does hearing about her achievements make you feel?"
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: In the vibrant atmosphere of the 1960 and 1964 Olympic diving competitions, Patrick's mother-in-law, Patsy, executed perfect dives from the high board as part of the USA Olympic diving team. The crowd's cheers echoed around, blending with the splash of water as she entered the pool with grace and precision. This moment was a celebration of skill and family pride, where the excitement of the event was matched by the joy of knowing a loved one's achievement.\\nWhat: Patsy's Olympic diving\\nWhen: 1960 and 1964\\nWhere: Olympic diving venue\\nWho: Patsy\\nEmotion: \\n\\nHere is what the user said: It's an amazing feeling that she went to the Olympics in 1960 and 1964 and won a bronze medal in Tokyo. What an accomplishment.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "That's truly inspiring, Patrick! Winning a bronze medal in Tokyo is such a remarkable achievement. Is there anything else about Patsy's Olympic journey that stands out to you?"
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: In the vibrant atmosphere of the 1960 and 1964 Olympic diving competitions, Patrick's mother-in-law, Patsy, executed perfect dives from the high board as part of the USA Olympic diving team, winning a bronze medal in Tokyo. The crowd's cheers echoed around, blending with the splash of water as she entered the pool with grace and precision. This moment was a celebration of skill and family pride, where the excitement of the event was matched by the joy of knowing a loved one's remarkable achievement.\\nWhat: Patsy's Olympic diving\\nWhen: 1960 and 1964\\nWhere: Olympic diving venue\\nWho: Patsy\\nEmotion: pride\\n\\nHere is what the user said: I am finished with this memory. Thank you.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "You're welcome, Patrick! I'm glad we could capture this special memory of Patsy's incredible achievements. If you ever want to revisit or add more details, just let me know. <END>"
+          }
+        ],
+        "session_id": "88d93a4637164579b7eb2a6d7b818983",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "On a sunlit June day, the air was filled with excitement and pride as Patrick and his family stood together, dressed in their finest formal attire, celebrating a momentous graduation ceremony. The warmth of the sun mirrored the joy in their hearts as they embraced the future with hope and anticipation, surrounded by the laughter and camaraderie of friends and family. This day marked not just an academic achievement for Jack and Mickey, but a cherished milestone shared with those who mean the most, including Patrick's wife Holly, Marley, his parents Bill and Mary Ann McLaughlin, and Mickey's mom and Jerry.",
+        "comments_summary": "",
+        "when": [
+          "2024-06-17"
+        ],
+        "who": [
+          "Patrick, Jack, Mickey, Holly, Marley, Bill McLaughlin, Mary Ann McLaughlin, Mickey's mom, Jerry"
+        ],
+        "where": [
+          "University at California Irvine"
+        ],
+        "what": [
+          "graduation ceremony celebration"
+        ],
+        "natural_when": [
+          "2024-06-17"
+        ],
+        "emotion": "pride",
+        "created_at": "2024-12-18 17:10:12",
+        "updated_at": "2024-12-18 17:10:34",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/05329D14-10BB-425F-81C3-42178CEBD5EC.png"
+        ],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END>.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Patrick. You can use this in your answers and you should use this when generating the summary in third person POV."
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: On a sunlit June day, the air was filled with excitement and pride as we stood together, dressed in our finest formal attire, celebrating a momentous graduation ceremony. The warmth of the sun mirrored the joy in our hearts as we embraced the future with hope and anticipation, surrounded by the laughter and camaraderie of friends. This day marked not just an academic achievement, but a cherished milestone shared with those who mean the most.\\nWhat: graduation ceremony celebration\\nWhen: 2024-06-17\\nWhere: \\nWho: \\nEmotion: \\n\\nHere is what the user said: We could not be more proud of our son Jack and his girlfriend Mickey who graduated from college at University at California Irvine.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "It sounds like a truly special day celebrating Jack and Mickey's achievements! Can you tell me more about where the ceremony took place?"
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: On a sunlit June day, the air was filled with excitement and pride as Patrick and his family stood together, dressed in their finest formal attire, celebrating a momentous graduation ceremony. The warmth of the sun mirrored the joy in their hearts as they embraced the future with hope and anticipation, surrounded by the laughter and camaraderie of friends. This day marked not just an academic achievement for Jack and Mickey, but a cherished milestone shared with those who mean the most.\\nWhat: graduation ceremony celebration\\nWhen: 2024-06-17\\nWhere: University at California Irvine\\nWho: Patrick, Jack, Mickey\\nEmotion: pride\\n\\nHere is what the user said: They both graduated from the business school at University of Irvine, California.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "That's wonderful to hear that they both graduated from the business school! Is there anyone else who was there with you to celebrate this special occasion?"
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: On a sunlit June day, the air was filled with excitement and pride as Patrick and his family stood together, dressed in their finest formal attire, celebrating a momentous graduation ceremony. The warmth of the sun mirrored the joy in their hearts as they embraced the future with hope and anticipation, surrounded by the laughter and camaraderie of friends. This day marked not just an academic achievement for Jack and Mickey, but a cherished milestone shared with those who mean the most.\\nWhat: graduation ceremony celebration\\nWhen: 2024-06-17\\nWhere: University at California Irvine\\nWho: Patrick, Jack, Mickey\\nEmotion: pride\\n\\nHere is what the user said: We were so happy that myself, my wife, Holly, Marley, my parents, Bill and Mary Ann McLaughlin and Mickey's mom and Jerry were also there. It was nice to have the whole family there.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "It must have been heartwarming to have the whole family there to celebrate such a significant milestone. Is there anything else about that day that stands out to you, like a special moment or something memorable?"
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: On a sunlit June day, the air was filled with excitement and pride as Patrick and his family stood together, dressed in their finest formal attire, celebrating a momentous graduation ceremony. The warmth of the sun mirrored the joy in their hearts as they embraced the future with hope and anticipation, surrounded by the laughter and camaraderie of friends and family. This day marked not just an academic achievement for Jack and Mickey, but a cherished milestone shared with those who mean the most, including Patrick's wife Holly, Marley, his parents Bill and Mary Ann McLaughlin, and Mickey's mom and Jerry.\\nWhat: graduation ceremony celebration\\nWhen: 2024-06-17\\nWhere: University at California Irvine\\nWho: Patrick, Jack, Mickey, Holly, Marley, Bill McLaughlin, Mary Ann McLaughlin, Mickey's mom, Jerry\\nEmotion: pride\\n\\nHere is what the user said: Now I'm finished with this memory.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "Thanks for sharing this beautiful memory with me, Patrick. I've captured all the details for you. <END>"
+          }
+        ],
+        "session_id": "7aaee2c186104b3080cc3e62c67b8d5c",
+        "draft": false
+      }
+    },
+    {
+      "id": "m11",
+      "context": {
+        "memory_id": "m11",
+        "summary": "On a warm August day in 2024, Patrick's daughter Marley was captured in a heartwarming photograph with her grandparents, Bill and Marianne McLaughlin, at their cozy home. The living room was filled with laughter and joy, creating a perfect backdrop for this cherished moment of togetherness. The warmth of family enveloped the room, making it a day to remember as they treasured every precious moment together, especially as the grandparents grow older. Patrick and Holly deeply appreciate the effort Marley puts into nurturing her relationship with her grandparents.",
+        "comments_summary": "",
+        "when": [
+          "2024-08-07"
+        ],
+        "who": [
+          "Marley, Bill, Marianne McLaughlin, Holly"
+        ],
+        "where": [
+          "Bill and Marianne's home"
+        ],
+        "what": [
+          "Marley with grandparents"
+        ],
+        "natural_when": [
+          "2024-08-07"
+        ],
+        "emotion": "sentimental",
+        "created_at": "2024-12-18 17:26:15",
+        "updated_at": "2024-12-18 17:26:15",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/9880B741-E338-4950-9D31-5DA1C9A571E8.png"
+        ],
+        "new_image_format": "raw",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END>.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Patrick. You can use this in your answers and you should use this when generating the summary in third person POV."
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: On a warm August day in 2024, the living room was filled with laughter and joy as three friends gathered, their smiles as bright as the summer sun. The cozy setting, with its inviting couch and nearby dining table, created a perfect backdrop for this cherished moment of togetherness. The warmth of friendship enveloped the room, making it a day to remember.\\nWhat: Friends posing together\\nWhen: 2024-08-07\\nWhere: ['The Living Room', 'The Living Room']\\nWho: \\nEmotion: \\n\\nHere is what the user said: We love this picture of our daughter, Marley, who is with her grandparents, Bill and Marianne McLaughlin, at their home. Every moment we get to spend with them is precious as they get older.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "It sounds like a truly special moment with Marley and her grandparents, Bill and Marianne. Could you share how you felt during this visit with them?"
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: On a warm August day in 2024, Patrick's daughter Marley was captured in a heartwarming photograph with her grandparents, Bill and Marianne McLaughlin, at their cozy home. The living room was filled with laughter and joy, creating a perfect backdrop for this cherished moment of togetherness. The warmth of family enveloped the room, making it a day to remember as they treasured every precious moment together.\\nWhat: Marley with grandparents\\nWhen: 2024-08-07\\nWhere: Bill and Marianne's home\\nWho: Marley, Bill, Marianne McLaughlin\\nEmotion: \\n\\nHere is what the user said: You\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "It must have been a touching experience to see Marley with her grandparents. How would you describe the overall emotion of that day?"
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: On a warm August day in 2024, Patrick's daughter Marley was captured in a heartwarming photograph with her grandparents, Bill and Marianne McLaughlin, at their cozy home. The living room was filled with laughter and joy, creating a perfect backdrop for this cherished moment of togetherness. The warmth of family enveloped the room, making it a day to remember as they treasured every precious moment together.\\nWhat: Marley with grandparents\\nWhen: 2024-08-07\\nWhere: Bill and Marianne's home\\nWho: Marley, Bill, Marianne McLaughlin\\nEmotion: \\n\\nHere is what the user said: As they get older, every moment we spend with them is precious.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "It sounds like a deeply cherished and sentimental time with your family. If there's anything else you'd like to add or if you're ready to save this memory, just let me know!"
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: On a warm August day in 2024, Patrick's daughter Marley was captured in a heartwarming photograph with her grandparents, Bill and Marianne McLaughlin, at their cozy home. The living room was filled with laughter and joy, creating a perfect backdrop for this cherished moment of togetherness. The warmth of family enveloped the room, making it a day to remember as they treasured every precious moment together, especially as the grandparents grow older.\\nWhat: Marley with grandparents\\nWhen: 2024-08-07\\nWhere: Bill and Marianne's home\\nWho: Marley, Bill, Marianne McLaughlin\\nEmotion: sentimental\\n\\nHere is what the user said: Holly and I love the relationship that Marlee has with both her grandparents. She really puts in the effort to spend good time with them.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "It's wonderful to hear how much Marley values her time with her grandparents. If there's anything else you'd like to capture about this special relationship or moment, feel free to share!"
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: On a warm August day in 2024, Patrick's daughter Marley was captured in a heartwarming photograph with her grandparents, Bill and Marianne McLaughlin, at their cozy home. The living room was filled with laughter and joy, creating a perfect backdrop for this cherished moment of togetherness. The warmth of family enveloped the room, making it a day to remember as they treasured every precious moment together, especially as the grandparents grow older. Patrick and Holly deeply appreciate the effort Marley puts into nurturing her relationship with her grandparents.\\nWhat: Marley with grandparents\\nWhen: 2024-08-07\\nWhere: Bill and Marianne's home\\nWho: Marley, Bill, Marianne McLaughlin, Holly\\nEmotion: sentimental\\n\\nHere is what the user said: Finished with this memory.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "Great! I've captured this beautiful memory for you. If you ever want to revisit it or add more details, just let me know. <END>"
+          }
+        ],
+        "session_id": "1507f6ff43d2408aba6c4cf64c2ed053",
+        "draft": false
+      }
+    },
+    {
+      "id": "m12",
+      "context": {
+        "memory_id": "m12",
+        "summary": "On a warm June day in 2024, Patrick and his brother Chris stood side by side at Jack's graduation from UC Irvine, capturing a moment of camaraderie and pride. One in a sharp suit and the other in casual blue pants, they posed against a backdrop that whispered stories of shared laughter and friendship. The air was filled with the promise of summer adventures, and the bond between them was as vibrant as the day itself, celebrating Jack's remarkable achievement with family and friends.",
+        "comments_summary": "",
+        "when": [
+          "2024-06-17"
+        ],
+        "who": [
+          "Patrick, Chris, Jack, Holly, Jack's grandparents, Marley, friends"
+        ],
+        "where": [
+          "UC Irvine"
+        ],
+        "what": [
+          "Family celebrating graduation"
+        ],
+        "natural_when": [
+          "2024-06-17"
+        ],
+        "emotion": "pride and joy",
+        "created_at": "2024-12-18 20:37:32",
+        "updated_at": "2024-12-18 20:37:32",
+        "image_urls": [
+          "https://tobu-jac2-dev.s3.amazonaws.com/pat@tobu.life_66a2b7ce09aff5bf6392db85/37718B72-F91E-4326-8CE4-8012A0804FC8.png"
+        ],
+        "new_image_format": "raw",
+        "shared_with": [],
+        "conversation": [
+          {
+            "role": "system",
+            "content": "You are a helpful assistant called Tobu that helps me capture important events in my life as memories. I want you to have a natural conversation with me to gather information about a memory that I'd like to remember. To get the conversation started, you will be provided with some initial information about the memory. You goal is to, through conversation with me, capture the following information about the memory:\\n- summary: a 2 - 3 sentence descriptions of the memory. This should be personal and memorable\\n- what: the description of the memory\\n- when: when did the memory take place\\n- who: who is part of the memory\\n- where: where did the memory take place\\n- emotion: the overall emotional tone of the memory\\nWith the initial information provided, you should ask me follow-up questions to gather the missing information. You should acknowledge what I said and ask a follow-up question. Your follow up question should focus on any information that is still missing from the above list. \\nBased on my response, you should incorporate any new information into the memory and update above fields accordingly. \\nAt any point of the conversation, I can indicate that I am finished with this conversation or I just want you to save or capture the memory. If I do, end your response with the special token <END> and also acknowledge it and mention that I can go to the Wall view to check out my memories.\\nTalk to me like a friend and use friendly and personable tones. \\nMy name is Patrick. You can use this in your answers and you should use this when generating the summary in third person POV."
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: On a warm June day in 2024, two friends stood side by side, capturing a moment of camaraderie and joy. One in a sharp suit and the other in casual blue pants, they posed against a backdrop that whispered stories of shared laughter and friendship. The air was filled with the promise of summer adventures, and the bond between them was as vibrant as the day itself.\\nWhat: Friends posing together\\nWhen: 2024-06-17\\nWhere: \\nWho: \\nEmotion: \\n\\nHere is what the user said: Here's a great picture of my brother Chris, who lives in Seattle, Washington, and myself at my son Jack's graduation from UC Irvine.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "That sounds like a wonderful moment, Patrick! Can you tell me more about how you felt during Jack's graduation?"
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: On a warm June day in 2024, Patrick and his brother Chris stood side by side at Jack's graduation from UC Irvine, capturing a moment of camaraderie and joy. One in a sharp suit and the other in casual blue pants, they posed against a backdrop that whispered stories of shared laughter and friendship. The air was filled with the promise of summer adventures, and the bond between them was as vibrant as the day itself.\\nWhat: Friends posing together\\nWhen: 2024-06-17\\nWhere: UC Irvine\\nWho: Patrick, Chris, Jack\\nEmotion: \\n\\nHere is what the user said: Holly and I were very proud of our son Jack because he's our first son to graduate college and he did so at a very good college and he was in the top 2% of all graduates.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "That's truly an incredible achievement, and it must have been such a proud moment for you and Holly. How would you describe the overall emotion of that day?"
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: On a warm June day in 2024, Patrick and his brother Chris stood side by side at Jack's graduation from UC Irvine, capturing a moment of camaraderie and pride. One in a sharp suit and the other in casual blue pants, they posed against a backdrop that whispered stories of shared laughter and friendship. The air was filled with the promise of summer adventures, and the bond between them was as vibrant as the day itself, celebrating Jack's remarkable achievement.\\nWhat: Family celebrating graduation\\nWhen: 2024-06-17\\nWhere: UC Irvine\\nWho: Patrick, Chris, Jack, Holly\\nEmotion: \\n\\nHere is what the user said: The whole day was truly blessed as Jack's grandparents and his sister Marley and friends came down for his graduation. It was really special.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "It sounds like a truly special day with so many loved ones around. Would you say the overall emotion of the day was one of joy and pride?"
+          },
+          {
+            "role": "user",
+            "content": "Here is what you already know about the memory:\\nSummary: On a warm June day in 2024, Patrick and his brother Chris stood side by side at Jack's graduation from UC Irvine, capturing a moment of camaraderie and pride. One in a sharp suit and the other in casual blue pants, they posed against a backdrop that whispered stories of shared laughter and friendship. The air was filled with the promise of summer adventures, and the bond between them was as vibrant as the day itself, celebrating Jack's remarkable achievement with family and friends.\\nWhat: Family celebrating graduation\\nWhen: 2024-06-17\\nWhere: UC Irvine\\nWho: Patrick, Chris, Jack, Holly, Jack's grandparents, Marley, friends\\nEmotion: pride and joy\\n\\nHere is what the user said: Yes.\\nBased on this, provide a response to the user and update the memory data accordingly."
+          },
+          {
+            "role": "assistant",
+            "content": "Thanks for sharing this beautiful memory, Patrick! I've captured it for you. You can go to the Wall view to check out your memories. <END>"
+          }
+        ],
+        "session_id": "837c0f1bb9f24810be2124c2b438a351",
+        "draft": false
+      }
+    }
+  ],
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which memories show how Patrick's family celebrated milestones and honored their shared history across generations?",
+      "answer_gold": "Patrick's son Jack's graduation from UC Irvine brought the entire family together, including Holly, Marley, and his parents, Bill and Mary Ann McLaughlin, celebrating academic success and unity. Similarly, Marley's visit with her grandparents at their home reflected love and intergenerational connection, while the family gathering for Bill's 86th birthday in Torrance emphasized respect for family legacy and continued traditions.",
+      "evidence": ["m05", "m10", "m11", "m12"]
+    },
+    {
+      "qid": "qa_002",
+      "question": "How do Patrick's experiences with his wife Holly and long-time friends reveal themes of love, loyalty, and gratitude?",
+      "answer_gold": "Patrick and Holly's 25th anniversary dinner at Ocean 48 represented enduring love and reflection on shared years. The summer reunion with Chris Elliott in Corona del Mar celebrated 56 years of friendship, showing the same loyalty and warmth that defines his marriage. These moments underscore Patrick's deep appreciation for lifelong bonds built on trust and shared joy.",
+      "evidence": ["m03", "m08"]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What memories reflect personal resilience and emotional milestones in Patrick's health journey?",
+      "answer_gold": "Patrick's final MRI at the Mayo Clinic marked a deeply emotional milestone—five years cancer-free—symbolized by his comparison to winning a Super Bowl. The solo trip to Arizona and his reflection on gratitude and hope highlight courage and renewal. Later family celebrations, such as holiday gatherings and graduations, further reflect his return to normalcy and appreciation for life after recovery.",
+      "evidence": ["m07", "m06", "m10"]
+    },
+    {
+      "qid": "qa_004",
+      "question": "How does the legacy of athletic excellence in Patrick's family appear across generations?",
+      "answer_gold": "Patrick's mother-in-law, Patsy Willard, being announced as a diver in the 1964 Olympics and winning a bronze medal in Tokyo represents an enduring family legacy of discipline and achievement. Decades later, Patrick's children, including Jack and Marley, continued to make the family proud through their own academic and personal milestones—embodying the same spirit of dedication and excellence.",
+      "evidence": ["m04", "m09", "m10", "m11"]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How do moments of joy and togetherness across everyday settings reflect Patrick's appreciation for life's simple blessings?",
+      "answer_gold": "From a joyful photo captured with a loved one to cozy car rides, family dinners, and holiday snapshots, Patrick's memories show contentment in life's quieter joys. Whether celebrating anniversaries, enjoying festive gatherings, or simply cherishing a heartfelt photograph, these memories embody gratitude, love, and appreciation for meaningful connection in daily life.",
+      "evidence": ["m01", "m02", "m03", "m06"]
+    }
+  ]
+}

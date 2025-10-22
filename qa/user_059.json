@@ -1,0 +1,55 @@
+{
+  "user_id": "user_059",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How do Brian's experiences during his 10-year anniversary in Hawaii and Andy's 30th birthday in Puerto Vallarta reveal his appreciation for both adventure and quality time with loved ones?",
+      "answer_gold": "Brian's 10-year anniversary trip with Lypha to Hawaii was filled with adventure — snorkeling, hiking, and exploring volcanoes, celebrating a decade of shared memories in nature. Months later, celebrating Andy's 30th birthday in Puerto Vallarta allowed Brian and Lypha to enjoy a rare getaway without the kids, emphasizing connection and relaxation. Together, these memories show how Brian balances excitement for exploration with a deep appreciation for intimate, meaningful time with loved ones.",
+      "evidence": [
+        "m02",
+        "m10",
+        "m11"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "How do Zoey's imaginative and playful moments, from pretending to be a Ghostbuster to cheering at major soccer events, illustrate her joyful and energetic personality?",
+      "answer_gold": "Zoey's pretend play as a Ghostbuster at home shows her playful imagination and love for fun storytelling. That same enthusiasm shines when she cheers passionately at the Women's Gold Cup finals in San Diego and the Copa America quarterfinals at State Farm Stadium, where her excitement for sports mirrors her adventurous spirit. These memories reveal a child full of energy, creativity, and unfiltered joy shared across both everyday and extraordinary experiences.",
+      "evidence": [
+        "m05",
+        "m07",
+        "m15"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What connection can be seen between Brian's family travels — from the Royal Caribbean cruise to Legoland and Marioland — and his commitment to creating fun, lasting experiences for his family?",
+      "answer_gold": "Across the cruise to Cococay, the family's first day exploring the ship, and fun theme park days at Marioland and Legoland, Brian shows his dedication to building joyful family memories. Whether watching Zoey win a giant dinosaur prize, exploring Bowser Junior's Castle, or relaxing at sea, these experiences reflect his desire to make shared adventures a foundation of family bonding and happiness.",
+      "evidence": [
+        "m01",
+        "m08",
+        "m09",
+        "m12"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "How do Brian's work-related dining experiences — from salmon sashimi in Manhattan Beach to the omakase dinner in Scottsdale — reflect his appreciation for good food and meaningful professional relationships?",
+      "answer_gold": "During in-person Tobu meetings, Brian enjoyed trying new-style salmon sashimi with Pat at a small Manhattan Beach restaurant — a simple but memorable culinary first. Later, the omakase dinner at Shinbay Scottsdale with Lingjia, Jason, and Lypha transformed another workday into a night of reflection, laughter, and connection. These meals illustrate how Brian finds warmth and meaning in professional relationships and shared appreciation for fine dining.",
+      "evidence": [
+        "m16",
+        "m17"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What do Brian's memories of moving back to Arizona, unboxing Trails of Reverie, and celebrating Christmas Eve in Gilbert reveal about his sense of home and comfort?",
+      "answer_gold": "Moving back to Arizona brought Brian both nostalgia and excitement as his family rediscovered old restaurants and familiar routines. Later, moments like unboxing Trails of Reverie alone at home captured his personal joys, while Christmas Eve in Gilbert, surrounded by family and warmth, reflected fulfillment and belonging. Together, these memories show Brian's deep connection to home as a space of renewal, comfort, and togetherness.",
+      "evidence": [
+        "m04",
+        "m13",
+        "m18"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "user_id": "user_036",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How did Julian's early refugee documentation evolve into broader environmental storytelling?",
+      "answer_gold": "His Istanbul portraits laid the foundation for later coverage in Dhaka and Cape Town, where he expanded his focus from human migration to environmental displacement, integrating social and ecological narratives.",
+      "evidence": [
+        "m01",
+        "m04",
+        "m06"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "In what ways did Julian merge journalism, education, and activism through his international work?",
+      "answer_gold": "By teaching ethics in Beirut, hosting an awareness exhibition in London, and speaking at the UN in Geneva, he transformed field experience into advocacy and education platforms for responsible journalism.",
+      "evidence": [
+        "m02",
+        "m05",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did collaboration with researchers and artists deepen Julian's visual storytelling?",
+      "answer_gold": "His work with scientists in Cape Town and artists in São Paulo diversified his lens, allowing him to merge data-driven reporting with cultural expression that enriched the narrative scope of his projects.",
+      "evidence": [
+        "m06",
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which chain of events illustrates Julian's journey from field documentation to global recognition?",
+      "answer_gold": "From refugee stories in Istanbul and climate crises in Dhaka to the ‘Displaced Light' exhibition and final recognition in New York, his trajectory reflects the progression from observation to impact.",
+      "evidence": [
+        "m01",
+        "m04",
+        "m05",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How did Julian's global collaborations influence the creation of his photo book 'Resilient Earth'?",
+      "answer_gold": "The book unified stories and visuals from multiple continents—climate projects in Nairobi and Cape Town, displacement coverage in Dhaka, and ethical advocacy from Geneva—culminating in a cohesive narrative of global resilience.",
+      "evidence": [
+        "m03",
+        "m04",
+        "m06",
+        "m08",
+        "m09"
+      ]
+    }
+  ]
+}

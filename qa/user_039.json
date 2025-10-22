@@ -1,0 +1,59 @@
+{
+  "user_id": "user_039",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How did Clara's coral and mangrove research inform her later conservation strategies?",
+      "answer_gold": "Her coral bleaching work in Honolulu and mangrove studies in Jakarta provided complementary insights on coastal resilience, forming the foundation for her adaptive reef restoration proposals in Cape Town and Fiji.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m04",
+        "m07"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What connections can be seen between Clara's mentorship in Honolulu and her leadership roles in global conferences?",
+      "answer_gold": "Her experience training students to integrate multi-ecosystem datasets prepared her to lead international discussions in Lisbon and Geneva, where she emphasized cross-disciplinary collaboration.",
+      "evidence": [
+        "m05",
+        "m06",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did Clara's work with technology and data platforms contribute to policy development?",
+      "answer_gold": "Her projects involving acoustic sensors, AI-driven monitoring, and biodiversity databases led to her Tokyo policy consultations, where she helped establish frameworks for data-informed marine governance.",
+      "evidence": [
+        "m03",
+        "m06",
+        "m08",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "In what ways did Clara link field research with international advocacy?",
+      "answer_gold": "Her fieldwork in Fiji and analytical modeling in Vancouver translated into policy recommendations presented at the UN Forum in Geneva, demonstrating how localized research informs global conservation decisions.",
+      "evidence": [
+        "m07",
+        "m08",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which sequence of experiences illustrates Clara's evolution from scientist to policy leader?",
+      "answer_gold": "Beginning with coral and mangrove research in the Pacific, through data-driven collaborations in Vancouver and policy advising in Tokyo, Clara's career culminated in her Geneva keynote advocating integrated marine protection.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m08",
+        "m09",
+        "m10"
+      ]
+    }
+  ]
+}

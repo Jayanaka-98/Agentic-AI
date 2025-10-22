@@ -1,0 +1,57 @@
+{
+  "user_id": "user_051",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which memories show how Patrick's family celebrated milestones and honored their shared history across generations?",
+      "answer_gold": "Patrick's son Jack's graduation from UC Irvine brought the entire family together, including Holly, Marley, and his parents, Bill and Mary Ann McLaughlin, celebrating academic success and unity. Similarly, Marley's visit with her grandparents at their home reflected love and intergenerational connection, while the family gathering for Bill's 86th birthday in Torrance emphasized respect for family legacy and continued traditions.",
+      "evidence": [
+        "m05",
+        "m10",
+        "m11",
+        "m12"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "How do Patrick's experiences with his wife Holly and long-time friends reveal themes of love, loyalty, and gratitude?",
+      "answer_gold": "Patrick and Holly's 25th anniversary dinner at Ocean 48 represented enduring love and reflection on shared years. The summer reunion with Chris Elliott in Corona del Mar celebrated 56 years of friendship, showing the same loyalty and warmth that defines his marriage. These moments underscore Patrick's deep appreciation for lifelong bonds built on trust and shared joy.",
+      "evidence": [
+        "m03",
+        "m08"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What memories reflect personal resilience and emotional milestones in Patrick's health journey?",
+      "answer_gold": "Patrick's final MRI at the Mayo Clinic marked a deeply emotional milestone—five years cancer-free—symbolized by his comparison to winning a Super Bowl. The solo trip to Arizona and his reflection on gratitude and hope highlight courage and renewal. Later family celebrations, such as holiday gatherings and graduations, further reflect his return to normalcy and appreciation for life after recovery.",
+      "evidence": [
+        "m07",
+        "m06",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "How does the legacy of athletic excellence in Patrick's family appear across generations?",
+      "answer_gold": "Patrick's mother-in-law, Patsy Willard, being announced as a diver in the 1964 Olympics and winning a bronze medal in Tokyo represents an enduring family legacy of discipline and achievement. Decades later, Patrick's children, including Jack and Marley, continued to make the family proud through their own academic and personal milestones—embodying the same spirit of dedication and excellence.",
+      "evidence": [
+        "m04",
+        "m09",
+        "m10",
+        "m11"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "How do moments of joy and togetherness across everyday settings reflect Patrick's appreciation for life's simple blessings?",
+      "answer_gold": "From a joyful photo captured with a loved one to cozy car rides, family dinners, and holiday snapshots, Patrick's memories show contentment in life's quieter joys. Whether celebrating anniversaries, enjoying festive gatherings, or simply cherishing a heartfelt photograph, these memories embody gratitude, love, and appreciation for meaningful connection in daily life.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m03",
+        "m06"
+      ]
+    }
+  ]
+}

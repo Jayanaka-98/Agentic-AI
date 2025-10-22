@@ -1,0 +1,117 @@
+{
+  "user_id": "user_022",
+  "memories": [
+    {
+      "memory_id": "m01",
+      "summary": "Liam began his photography year in Banff, hiking across frozen trails to capture sunrise reflections on Lake Louise. He spent hours adjusting his tripod to catch the perfect balance between ice texture and the golden mountain light.",
+      "when": "2025-01-08",
+      "who": ["Liam Rodriguez"],
+      "where": ["Banff"],
+      "what": "Photographing frozen mountain landscapes at sunrise."
+    },
+    {
+      "memory_id": "m02",
+      "summary": "In New York, Liam woke before dawn to photograph the skyline from the Brooklyn Bridge. The city lights faded into an orange morning sky as he practiced long-exposure techniques for his urban nature series.",
+      "when": "2025-02-11",
+      "who": ["Liam Rodriguez"],
+      "where": ["New York"],
+      "what": "Capturing sunrise cityscapes for his urban nature collection."
+    },
+    {
+      "memory_id": "m03",
+      "summary": "Liam traveled to Marrakech, where he wandered through the medina photographing vibrant spice stalls and colorful textiles. He befriended a local artisan named Rafiq, who allowed him to document his lantern-making process for a cultural feature.",
+      "when": "2025-03-18",
+      "who": ["Liam Rodriguez", "Rafiq Hassan"],
+      "where": ["Marrakech"],
+      "what": "Photographing local markets and artisans for a culture-meets-nature project."
+    },
+    {
+      "memory_id": "m04",
+      "summary": "In Rome, Liam focused on street photography near the Colosseum, experimenting with lighting contrasts between ancient stone and bustling life. He shared an impromptu espresso break with a group of student photographers he met on location.",
+      "when": "2025-04-22",
+      "who": ["Liam Rodriguez", "Italian photography students"],
+      "where": ["Rome"],
+      "what": "Practicing street and architectural photography."
+    },
+    {
+      "memory_id": "m05",
+      "summary": "While visiting Santorini, Liam photographed white cliffside houses glowing against the sunset. His friend Sofia joined him on the shoot, helping carry lenses and suggesting composition angles for their shared exhibition project.",
+      "when": "2025-05-26",
+      "who": ["Liam Rodriguez", "Sofia Petros"],
+      "where": ["Santorini"],
+      "what": "Sunset coastal photography with a fellow artist."
+    },
+    {
+      "memory_id": "m06",
+      "summary": "Liam continued to Kyoto to capture temple architecture framed by red torii gates. He spent a quiet morning photographing monks sweeping pathways and reflected on the serenity of routine in his travel journal.",
+      "when": "2025-06-14",
+      "who": ["Liam Rodriguez"],
+      "where": ["Kyoto"],
+      "what": "Documenting temples and daily rituals."
+    },
+    {
+      "memory_id": "m07",
+      "summary": "In Sydney, Liam joined a group of surfers at Bondi Beach for a motion photography experiment. Using a waterproof camera case, he captured dynamic shots of waves and human interaction with the sea.",
+      "when": "2025-07-19",
+      "who": ["Liam Rodriguez", "local surfers"],
+      "where": ["Sydney"],
+      "what": "Action photography capturing surfing scenes."
+    },
+    {
+      "memory_id": "m08",
+      "summary": "During his trip to Cape Town, Liam and his partner Olivia hiked up Table Mountain with their camera gear. They took panoramic shots of the coastline and recorded time-lapses of clouds rolling over the cliffs.",
+      "when": "2025-09-02",
+      "who": ["Liam Rodriguez", "Olivia Chen"],
+      "where": ["Cape Town"],
+      "what": "Landscape photography hike with his partner."
+    },
+    {
+      "memory_id": "m09",
+      "summary": "In Reykjavik, Liam spent three nights waiting for the perfect Northern Lights display. On the final night, he captured a brilliant green aurora over an icy plain and celebrated with a small group of fellow photographers at a local lodge.",
+      "when": "2025-10-10",
+      "who": ["Liam Rodriguez", "fellow photographers"],
+      "where": ["Reykjavik"],
+      "what": "Photographing the Northern Lights and celebrating the success."
+    },
+    {
+      "memory_id": "m10",
+      "summary": "To close his year, Liam curated a personal exhibition in Ann Arbor showcasing his favorite prints from around the world. Olivia helped him arrange the gallery layout, and they hosted a discussion about the emotional side of landscape photography.",
+      "when": "2025-12-28",
+      "who": ["Liam Rodriguez", "Olivia Chen"],
+      "where": ["Ann Arbor"],
+      "what": "Curating a global photography exhibition and artist talk."
+    }
+  ],
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Who did Liam collaborate with during his travels, and what roles did they play?",
+      "answer_gold": "He worked with Rafiq in Marrakech to document artisan crafts, Sofia in Santorini on composition planning, and Olivia in Cape Town and Ann Arbor on landscape shots and gallery curation.",
+      "evidence": ["m03", "m05", "m08", "m10"]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What challenges or waiting periods did Liam face during his photography work?",
+      "answer_gold": "He waited several nights in Reykjavik to capture the Northern Lights and spent long hours in Banff's freezing dawn light to photograph mountain reflections.",
+      "evidence": ["m01", "m09"]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How did Liam's photography themes evolve over the year?",
+      "answer_gold": "He started with natural landscapes in Banff, expanded to cultural and human elements in Marrakech and Rome, and ended with emotional storytelling through his exhibition in Ann Arbor.",
+      "evidence": ["m01", "m03", "m04", "m10"]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which experiences show Liam blending nature and human presence in his work?",
+      "answer_gold": "His shots of surfers in Sydney, artisans in Marrakech, and monks in Kyoto reveal how people interact harmoniously with natural and cultural environments.",
+      "evidence": ["m03", "m06", "m07"]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What moment signifies both professional fulfillment and personal connection for Liam?",
+      "answer_gold": "The exhibition in Ann Arbor, where he displayed photos taken with Olivia's support, represents both artistic achievement and shared emotional growth.",
+      "evidence": ["m10"]
+    }
+  ]
+}

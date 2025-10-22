@@ -1,0 +1,52 @@
+{
+  "user_id": "user_055",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How do Holly's memories of Patsy connect across time, from her mother's 1964 groundbreaking ceremony in Mesa to the holiday cheesecake tradition she continues today?",
+      "answer_gold": "The 1964 photograph of Patsy at the groundbreaking of Dick Smith's Swim Gym reflects Holly's deep pride in her mother's achievements as an Olympian and community figure. Decades later, baking Patsy's cheesecake recipe has become Holly's way of honoring that legacy — transforming pride into personal tradition. The act of baking symbolizes continuity, love, and remembrance, showing how Patsy's influence remains an enduring presence in Holly's life.",
+      "evidence": [
+        "m11",
+        "m12"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What do Holly's memories of family gatherings at Las Brisas, In-N-Out Burger, and Newport Beach reveal about her values during the holiday season?",
+      "answer_gold": "Across these gatherings, Holly's memories highlight togetherness and gratitude as central themes. The dinner at Las Brisas with family captures warmth and laughter by the ocean, while the joyful night at In-N-Out after Christmas Eve service radiates lighthearted camaraderie. Finally, Christmas Day at Newport Beach, wrapped in blankets with family and their dog Duke, embodies comfort and love. Together, these show Holly's view that the holidays are about connection and shared joy more than formality or grandeur.",
+      "evidence": [
+        "m10",
+        "m13",
+        "m14"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How does Holly's sense of nostalgia manifest in her reflections on old photographs from Mesa and Scottsdale?",
+      "answer_gold": "Holly's nostalgia appears through her bittersweet reflections on the childhood orchard photo of her mom, aunt, and uncle in Mesa, which evokes longing for lost loved ones. Similarly, the picture of her baby daughter Marley with Santa in Scottsdale fills her with joy and wonder but also mirrors her mother's legacy of family warmth and tradition. Both moments bridge generations — one remembered, one newly created — expressing love through visual memories that connect the past and present.",
+      "evidence": [
+        "m08",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "How do Holly's experiences with the McLaughlins in Torrance and her encounters with friends Brett and Pat in Corona Del Mar reflect themes of community and continuity?",
+      "answer_gold": "Holly's Thanksgiving visit with Mom and Dad McLaughlin in Torrance captures warmth and familial connection beyond blood relations, blending gratitude and nostalgia. Her later reunion with Brett and Pat, old college friends in Corona Del Mar, continues this pattern — emphasizing sustained relationships and the joy of reconnection. Together, these memories illustrate how Holly values long-term bonds and the comfort of shared history across both family and friendships.",
+      "evidence": [
+        "m16",
+        "m17"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What do Holly's travel and leisure memories in Hawaii, Newport Beach, and Mesa suggest about how she balances adventure with sentimentality?",
+      "answer_gold": "From cycling through Hawaii in 2014 to spending quiet, reflective moments at Newport Beach, Holly's memories capture both her love for adventure and her emotional grounding in family and tradition. Even the historical Mesa memories, tied to her family's roots, reveal her appreciation for meaningful places. Whether exploring the outdoors or revisiting the past, she finds fulfillment through experiences that combine joy, reflection, and connection with loved ones.",
+      "evidence": [
+        "m08",
+        "m13",
+        "m15"
+      ]
+    }
+  ]
+}

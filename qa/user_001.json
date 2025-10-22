@@ -1,0 +1,66 @@
+{
+  "user_id": "user_001",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which friends or family did John spend time with in different cities, and what were they doing?",
+      "answer_gold": "He was with Anna at dinners and trips, with Miguel on sightseeing and festivals, and with college friends at a graduation party.",
+      "evidence": [
+        "m02",
+        "m03",
+        "m04",
+        "m05",
+        "m06",
+        "m08",
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "Which memories involve food or drink, and what do they suggest about the occasions?",
+      "answer_gold": "Dinner with Anna, graduation party drinks, ice cream by the CN Tower, tacos at a festival, and Christmas hot drinks — they suggest celebrations and relaxed social time.",
+      "evidence": [
+        "m02",
+        "m05",
+        "m06",
+        "m08",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "What sequence of activities shows John moving from solo time to group celebrations over the year?",
+      "answer_gold": "He worked alone at home, met family and friends for dinners and trips, joined bigger gatherings like a graduation party, and ended the year with a holiday celebration.",
+      "evidence": [
+        "m01",
+        "m02",
+        "m03",
+        "m05",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which trips took John outside his home state, and who was with him?",
+      "answer_gold": "Chicago with Miguel, New York and San Francisco with Anna, Toronto with Miguel, Seattle with Anna, Austin with Miguel, and Denver with Anna.",
+      "evidence": [
+        "m03",
+        "m04",
+        "m06",
+        "m07",
+        "m08",
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which memory best reflects a festive family moment, and what details support it?",
+      "answer_gold": "The Christmas celebration with Anna by a decorated tree in a ski lodge; holiday décor and winter sweaters signal a festive family moment.",
+      "evidence": [
+        "m10"
+      ]
+    }
+  ]
+}

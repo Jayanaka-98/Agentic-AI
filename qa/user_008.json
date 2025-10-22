@@ -1,0 +1,60 @@
+{
+  "user_id": "user_008",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Which holidays did David celebrate with family, and how?",
+      "answer_gold": "Easter brunch with Anna, Fourth of July fireworks with his kids, Halloween in costumes, and Christmas Eve by the tree.",
+      "evidence": [
+        "m04",
+        "m07",
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What community or charitable activities did David join?",
+      "answer_gold": "He helped at a Detroit neighborhood clean-up and ran a 5K charity race in Boston.",
+      "evidence": [
+        "m03",
+        "m05"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "Who are the family members appearing in David's memories?",
+      "answer_gold": "His wife Sarah, children Emma and Liam, sister Anna, and parents Helen and Robert.",
+      "evidence": [
+        "m02",
+        "m04",
+        "m07",
+        "m08",
+        "m09",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which memories highlight David's role as a father?",
+      "answer_gold": "Playing with Emma and Liam during a snow day, watching fireworks with Emma on his shoulders, and trick-or-treating in costumes.",
+      "evidence": [
+        "m01",
+        "m07",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which trips took David outside of Ann Arbor, and for what purpose?",
+      "answer_gold": "Detroit for community work, Chicago for Easter brunch, Boston for a race, Washington D.C. for fireworks, and Toronto for family sightseeing.",
+      "evidence": [
+        "m03",
+        "m04",
+        "m05",
+        "m07",
+        "m08"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "user_id": "user_058",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "How do Kuge's visits to the Taj Mahal and Rock Garden reflect his curiosity for architecture and appreciation of cultural beauty?",
+      "answer_gold": "Both experiences highlight Kuge's admiration for grand designs and cultural heritage. The Taj Mahal visit filled him with awe and freedom under the sunny March sky, while the Rock Garden exploration years earlier inspired fascination with art, balance, and creativity in stone formations. Together, these moments show Kuge's appreciation for human artistry and his reflective, observant nature during travel.",
+      "evidence": [
+        "m01",
+        "m13"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What do the Galle Fort night out and the group dinner at One Galleface Mall reveal about Kuge's social life and bonds with friends?",
+      "answer_gold": "The Galle Fort evening, filled with warmth and laughter under the night lights, shows Kuge's joy in spontaneous adventures with close friends. The group dinner at One Galleface Mall complements this by capturing deeper connection — hours of conversation and shared meals with his electrical engineering friends. These memories reveal how Kuge values both fun and heartfelt connection in his friendships.",
+      "evidence": [
+        "m02",
+        "m03"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "How do the waterfall trip, river rafting day, and Hanthana Mountain hike show Kuge's love for nature and adventure?",
+      "answer_gold": "Across these three memories, Kuge's adventurous spirit shines through. The waterfall outing brought carefree enjoyment and laughter with friends, the river rafting day was a thrilling mix of teamwork and joy, and the Hanthana Mountain hike captured peace and beauty at sunset. Together, these experiences demonstrate how Kuge seeks energy, tranquility, and connection to nature through outdoor exploration.",
+      "evidence": [
+        "m04",
+        "m08",
+        "m14"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "How do the lakeside guitar session and the under-bridge sunset with his best friend reflect Kuge's introspective and creative side?",
+      "answer_gold": "Both memories show Kuge finding calm and inspiration in solitude and companionship. The lakeside guitar session captured quiet reflection, blending music with nature's rhythm, while the evening under the bridge with his best friend mixed playfulness, nostalgia, and peace. Together, they reveal a contemplative personality who cherishes creative expression and emotional grounding in serene environments.",
+      "evidence": [
+        "m11",
+        "m15"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "What do the team photo at the movie theater and the lunch meetup with Jaseci-Labs colleagues tell us about Kuge's connection to his professional community?",
+      "answer_gold": "The team photo at the movie theater shows Kuge's excitement and pride in shared achievements, capturing the team's unity and enthusiasm. The lunch meetup at a rustic restaurant later reinforces that same camaraderie, as laughter and joy blend work with friendship. Together, these memories highlight Kuge's appreciation for teamwork, shared goals, and the personal bonds that enrich his professional life.",
+      "evidence": [
+        "m06",
+        "m07"
+      ]
+    }
+  ]
+}

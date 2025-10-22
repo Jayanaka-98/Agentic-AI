@@ -1,0 +1,315 @@
+{
+  "status": 200,
+  "reports": [
+    {
+      "id": "m01",
+      "context": {
+        "memory_id": "m01",
+        "summary": "Olivia began the year in Vancouver, organizing a New Year's beach cleanup with a team of volunteers. Despite freezing temperatures, they collected over 300 kilograms of plastic waste and shared hot cocoa afterward to celebrate their effort.",
+        "comments_summary": "",
+        "when": [
+          "2025-01-06"
+        ],
+        "who": [
+          "Olivia Park",
+          "volunteers"
+        ],
+        "where": [
+          "Vancouver"
+        ],
+        "what": [
+          "Leading a winter beach cleanup and community awareness event."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m02",
+      "context": {
+        "memory_id": "m02",
+        "summary": "In Nairobi, Olivia attended a youth climate leadership summit where she delivered a keynote on grassroots sustainability movements. She met representatives from African NGOs and discussed collaborative reforestation projects.",
+        "comments_summary": "",
+        "when": [
+          "2025-02-22"
+        ],
+        "who": [
+          "Olivia Park",
+          "environmental NGO representatives"
+        ],
+        "where": [
+          "Nairobi"
+        ],
+        "what": [
+          "Speaking at a climate leadership summit and networking with NGOs."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m03",
+      "context": {
+        "memory_id": "m03",
+        "summary": "Olivia traveled to New Delhi to volunteer with a local waste management startup. She spent the week sorting recyclables and helping train workers in digital tracking methods for landfill reduction.",
+        "comments_summary": "",
+        "when": [
+          "2025-03-25"
+        ],
+        "who": [
+          "Olivia Park",
+          "waste management staff"
+        ],
+        "where": [
+          "New Delhi"
+        ],
+        "what": [
+          "Assisting a startup in developing sustainable recycling practices."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m04",
+      "context": {
+        "memory_id": "m04",
+        "summary": "In Berlin, Olivia collaborated with university researchers to pilot a plastic-to-fuel conversion prototype. She co-authored a paper on how community-level technology adoption can reduce dependency on imported fuel sources.",
+        "comments_summary": "",
+        "when": [
+          "2025-04-28"
+        ],
+        "who": [
+          "Olivia Park",
+          "Berlin research team"
+        ],
+        "where": [
+          "Berlin"
+        ],
+        "what": [
+          "Testing sustainable energy technology and co-writing a research paper."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m05",
+      "context": {
+        "memory_id": "m05",
+        "summary": "Back home in Seattle, Olivia hosted a workshop for high school students on everyday sustainability. She introduced practical tips for waste reduction and shared her experiences working abroad.",
+        "comments_summary": "",
+        "when": [
+          "2025-05-31"
+        ],
+        "who": [
+          "Olivia Park",
+          "students"
+        ],
+        "where": [
+          "Seattle"
+        ],
+        "what": [
+          "Teaching sustainability practices to students in a community workshop."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m06",
+      "context": {
+        "memory_id": "m06",
+        "summary": "In Oslo, Olivia met with an environmental NGO to plan a campaign focused on ocean microplastics. They developed an online pledge platform to encourage individuals to track their plastic use.",
+        "comments_summary": "",
+        "when": [
+          "2025-06-19"
+        ],
+        "who": [
+          "Olivia Park",
+          "NGO partners"
+        ],
+        "where": [
+          "Oslo"
+        ],
+        "what": [
+          "Planning an anti-microplastic global campaign."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m07",
+      "context": {
+        "memory_id": "m07",
+        "summary": "Olivia participated in a large-scale river cleanup in Bangkok, joining over 200 volunteers to remove debris from the Chao Phraya River. She documented the event for her social media channel to inspire others worldwide.",
+        "comments_summary": "",
+        "when": [
+          "2025-07-25"
+        ],
+        "who": [
+          "Olivia Park",
+          "volunteers"
+        ],
+        "where": [
+          "Bangkok"
+        ],
+        "what": [
+          "Coordinating and filming a major river cleanup operation."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m08",
+      "context": {
+        "memory_id": "m08",
+        "summary": "In Cape Town, Olivia reunited with fellow activists from the Nairobi summit to plant native trees around drought-affected areas. They celebrated reaching their goal of 1,000 saplings planted within three days.",
+        "comments_summary": "",
+        "when": [
+          "2025-09-09"
+        ],
+        "who": [
+          "Olivia Park",
+          "fellow activists"
+        ],
+        "where": [
+          "Cape Town"
+        ],
+        "what": [
+          "Organizing a reforestation drive with international volunteers."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m09",
+      "context": {
+        "memory_id": "m09",
+        "summary": "Olivia spoke at a United Nations side event in Geneva about youth-led climate innovation. She emphasized equitable funding for local initiatives and highlighted success stories from her Berlin and Nairobi projects.",
+        "comments_summary": "",
+        "when": [
+          "2025-10-16"
+        ],
+        "who": [
+          "Olivia Park",
+          "UN delegates"
+        ],
+        "where": [
+          "Geneva"
+        ],
+        "what": [
+          "Delivering a policy-focused talk at a UN climate forum."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    },
+    {
+      "id": "m10",
+      "context": {
+        "memory_id": "m10",
+        "summary": "To close the year, Olivia returned to Vancouver to produce a documentary short summarizing her global campaigns. She worked with local filmmakers and narrated reflections on collaboration, resilience, and hope for 2026.",
+        "comments_summary": "",
+        "when": [
+          "2025-12-22"
+        ],
+        "who": [
+          "Olivia Park",
+          "filmmakers"
+        ],
+        "where": [
+          "Vancouver"
+        ],
+        "what": [
+          "Producing a documentary on her environmental advocacy journey."
+        ],
+        "natural_when": "",
+        "emotion": "",
+        "created_at": "",
+        "updated_at": "",
+        "image_urls": [],
+        "new_image_format": "",
+        "shared_with": [],
+        "conversation": [],
+        "session_id": "",
+        "draft": false
+      }
+    }
+  ]
+}

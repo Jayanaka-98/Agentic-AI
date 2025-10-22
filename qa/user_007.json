@@ -1,0 +1,58 @@
+{
+  "user_id": "user_007",
+  "qa_pairs": [
+    {
+      "qid": "qa_001",
+      "question": "Who did Sophia work with on academic or internship projects?",
+      "answer_gold": "Rachel and Leo in Boston, Alex in San Francisco, and classmates during the Toronto trip.",
+      "evidence": [
+        "m03",
+        "m06",
+        "m07",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_002",
+      "question": "What milestones mark Sophia’s academic and professional growth?",
+      "answer_gold": "Attending a career fair, starting an internship, presenting her project, and going on an exchange trip.",
+      "evidence": [
+        "m02",
+        "m05",
+        "m07",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_003",
+      "question": "Which memories involve food or drink, and what do they reflect?",
+      "answer_gold": "Coffee with mentor Alex, coffee at Pike Place Market, and cake with her study group — showing casual bonding moments.",
+      "evidence": [
+        "m06",
+        "m08",
+        "m10"
+      ]
+    },
+    {
+      "qid": "qa_004",
+      "question": "Which cities did Sophia travel to outside her home in Ann Arbor?",
+      "answer_gold": "Chicago, Boston, New York, San Francisco, Seattle, and Toronto.",
+      "evidence": [
+        "m02",
+        "m03",
+        "m04",
+        "m05",
+        "m08",
+        "m09"
+      ]
+    },
+    {
+      "qid": "qa_005",
+      "question": "Which memory best reflects celebration, and what details indicate it?",
+      "answer_gold": "The café gathering in Ann Arbor with cake, marking the end of the semester.",
+      "evidence": [
+        "m10"
+      ]
+    }
+  ]
+}

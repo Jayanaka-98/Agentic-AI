@@ -1,0 +1,107 @@
+{
+    "status": 200,
+    "reports": [
+        {
+            "id": "n:memory:6768f7ff7b2d1318b0420e39",
+            "context": {
+                "memory_id": "dbbe486596f740c49030c9ac507d995b",
+                "summary": "In the heart of Irvine, amidst the twinkling lights and festive cheer of a beautifully adorned Christmas tree at the Spectrum, my mom and I captured a moment of joy and warmth on December 17, 2024. Our smiles, framed by our glasses, radiated the love and companionship that filled the air, as I wrapped a gentle arm around her. This snapshot of friendship and holiday spirit is a testament to the enduring bonds that light up even the coldest of seasons.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-17"
+                ],
+                "who": [
+                    "Me and my mom"
+                ],
+                "where": [
+                    "Irvine"
+                ],
+                "what": [
+                    "Christmas Shopping at the Spectrum"
+                ],
+                "natural_when": [
+                    "2024-12-17"
+                ],
+                "emotion": "",
+                "created_at": "2024-12-23 05:41:19",
+                "updated_at": "2024-12-23 05:41:19",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/bethiewoods7@gmail.com_66a2b7a109aff5bf6392d654/9F696219-3839-4217-9B3A-683E7742F57B.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [],
+                "session_id": "5c750f73eee1433cb66edffd07ca9197",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:6768f88d7b2d1318b0420e4f",
+            "context": {
+                "memory_id": "8a7137cdb4e042208a2754c9506f76fe",
+                "summary": "On a lively December evening in Irvine, the air buzzed with laughter and animated conversations as I, Harry, and Lucas, my friends, gathered for dinner. The warmth of our smiles and the gentle hum of our voices created a tapestry of joy and camaraderie, capturing the essence of a perfect social gathering. The blurred figures in motion painted a picture of a night filled with energy and connection, leaving a lasting impression of shared happiness.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-13"
+                ],
+                "who": [
+                    "Me, Harry and Lucas my friends"
+                ],
+                "where": [
+                    "Irvine"
+                ],
+                "what": [
+                    "Getting dinner with some friends"
+                ],
+                "natural_when": [
+                    "2024-12-13"
+                ],
+                "emotion": "",
+                "created_at": "2024-12-23 05:43:41",
+                "updated_at": "2024-12-23 05:43:41",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/bethiewoods7@gmail.com_66a2b7a109aff5bf6392d654/24CCCC3B-7F24-41C0-A46D-A64A708C1D46.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [],
+                "session_id": "714181a4b13b457ca7000d401945490f",
+                "draft": false
+            }
+        },
+        {
+            "id": "n:memory:6768f91e7b2d1318b0420e69",
+            "context": {
+                "memory_id": "7d284db1841b406aab214f03a16a6543",
+                "summary": "On a crisp December evening in Lynchburg, the air was filled with the festive spirit as Me, Marley, Addison, and Sophia gathered for the Christmas Coffeehouse Talent Show in front of a whimsical candy cane backdrop. Dressed in our elegant white sweaters, we posed together, capturing a moment of joy and camaraderie. The warmth of friendship and the holiday cheer enveloped us, making this memory a cherished snapshot of togetherness.",
+                "comments_summary": "",
+                "when": [
+                    "2024-12-07"
+                ],
+                "who": [
+                    "Me, Marley, Addison and Sophia"
+                ],
+                "where": [
+                    "Lynchburg"
+                ],
+                "what": [
+                    "Christmas Coffeehouse Talent show"
+                ],
+                "natural_when": [
+                    "2024-12-07"
+                ],
+                "emotion": "",
+                "created_at": "2024-12-23 05:46:06",
+                "updated_at": "2024-12-23 05:46:06",
+                "image_urls": [
+                    "https://tobu-jac2-dev.s3.amazonaws.com/bethiewoods7@gmail.com_66a2b7a109aff5bf6392d654/B5488C9C-07EE-4C98-9EFC-8BEC9F6B5922.png"
+                ],
+                "new_image_format": "",
+                "shared_with": [],
+                "conversation": [],
+                "session_id": "72cf83585ccd4b948fe4b4299055979b",
+                "draft": false
+            }
+        }
+    ]
+}

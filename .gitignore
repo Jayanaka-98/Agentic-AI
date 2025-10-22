@@ -6,5 +6,5 @@ mydatabase
 .env
 user_credentials.json
 *.jsonl
-tobu_data/
 raw/
+synthetic_users/

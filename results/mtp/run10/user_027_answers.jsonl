@@ -1,0 +1,5 @@
+{"user": "user_027@jaseci.org", "qid": "qa_001", "question": "Who did Mia collaborate with during her marine research, and what did they achieve together?", "answer": ["m02", "m04", "m09"], "output": ["m02", "m07", "m09"]}
+{"user": "user_027@jaseci.org", "qid": "qa_002", "question": "What events illustrate Mia's role as an educator and advocate for ocean conservation?", "answer": ["m03", "m08"], "output": ["m03", "m05", "m08", "m10"]}
+{"user": "user_027@jaseci.org", "qid": "qa_003", "question": "How did Mia integrate scientific research with public outreach?", "answer": ["m06", "m10"], "output": ["m03", "m05", "m06", "m07", "m08", "m10"]}
+{"user": "user_027@jaseci.org", "qid": "qa_004", "question": "Which of Mia's projects contributed directly to species preservation?", "answer": ["m02", "m07"], "output": ["m02", "m04", "m07"]}
+{"user": "user_027@jaseci.org", "qid": "qa_005", "question": "What milestone symbolized Mia's impact as a global marine researcher?", "answer": ["m10"], "output": ["m10"]}

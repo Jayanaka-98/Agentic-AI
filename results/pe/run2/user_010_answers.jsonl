@@ -1,0 +1,5 @@
+{"user": "user_010@jaseci.org", "qid": "qa_001", "question": "Which sports did Liam play competitively versus casually?", "answer": ["m02", "m04", "m07", "m09", "m08", "m10", "m06"], "output": ["m02", "m04", "m07", "m09", "m10", "m08"]}
+{"user": "user_010@jaseci.org", "qid": "qa_002", "question": "What outdoor activities show Liam's love for nature?", "answer": ["m05", "m06", "m07", "m09", "m10"], "output": ["m05", "m06", "m09", "m10"]}
+{"user": "user_010@jaseci.org", "qid": "qa_003", "question": "Which friends joined Liam in different sports?", "answer": ["m02", "m03", "m04", "m05", "m06", "m08", "m09", "m10"], "output": ["m02", "m06", "m09", "m10", "m08", "m05"]}
+{"user": "user_010@jaseci.org", "qid": "qa_004", "question": "Which international trip involved competition, and what event was it?", "answer": ["m07"], "output": ["m07"]}
+{"user": "user_010@jaseci.org", "qid": "qa_005", "question": "Which memory best reflects a festive sports atmosphere?", "answer": ["m10"], "output": ["m04", "m09", "m10"]}

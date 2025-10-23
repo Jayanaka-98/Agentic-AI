@@ -1,0 +1,5 @@
+{"user": "user_013@jaseci.org", "qid": "qa_001", "question": "What milestones marked Rachel's academic progress across 2025?", "answer": ["m02", "m05", "m07", "m09", "m10"], "output": ["m02", "m03", "m04", "m05", "m06", "m07", "m09", "m10"]}
+{"user": "user_013@jaseci.org", "qid": "qa_002", "question": "Which collaborators worked with Rachel on research projects, and in what contexts?", "answer": ["m03", "m06", "m07", "m10"], "output": ["m06", "m07"]}
+{"user": "user_013@jaseci.org", "qid": "qa_003", "question": "What international experiences did Rachel have in 2025?", "answer": ["m07", "m09"], "output": ["m07", "m09"]}
+{"user": "user_013@jaseci.org", "qid": "qa_004", "question": "Which activities reflect Rachel as an attendee versus as a presenter?", "answer": ["m04", "m08", "m02", "m05", "m07", "m09"], "output": ["m02", "m04", "m05", "m07", "m09", "m08"]}
+{"user": "user_013@jaseci.org", "qid": "qa_005", "question": "Which memory best captures Rachel's academic success, and why?", "answer": ["m10"], "output": ["m09"]}

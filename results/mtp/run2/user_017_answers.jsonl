@@ -1,0 +1,5 @@
+{"user": "user_017@jaseci.org", "qid": "qa_001", "question": "Which causes did Leo support through his volunteer work?", "answer": ["m02", "m03", "m05", "m07", "m08"], "output": ["m01", "m02", "m03", "m04", "m05", "m06", "m07", "m08", "m09", "m10"]}
+{"user": "user_017@jaseci.org", "qid": "qa_002", "question": "Which international volunteer activities did Leo participate in?", "answer": ["m07", "m08"], "output": ["m07", "m08"]}
+{"user": "user_017@jaseci.org", "qid": "qa_003", "question": "What shows Leo's shift from volunteer work to advocacy and leadership?", "answer": ["m02", "m05", "m04", "m06", "m10"], "output": ["m06", "m09", "m10"]}
+{"user": "user_017@jaseci.org", "qid": "qa_004", "question": "Who collaborated with Leo in his volunteer work, and where?", "answer": ["m02", "m04", "m05", "m07", "m08"], "output": ["m01", "m02", "m05", "m07", "m08"]}
+{"user": "user_017@jaseci.org", "qid": "qa_005", "question": "Which memory best captures Leo's role as a community motivator?", "answer": ["m10"], "output": ["m10"]}

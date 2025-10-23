@@ -1,0 +1,5 @@
+{"user": "user_018@jaseci.org", "qid": "qa_001", "question": "How did Julia's fashion career evolve throughout 2025?", "answer": ["m01", "m03", "m05", "m06", "m10"], "output": ["m01", "m02", "m03", "m04", "m05", "m06", "m07", "m08", "m09", "m10"]}
+{"user": "user_018@jaseci.org", "qid": "qa_002", "question": "Which international cities did Julia visit, and what was her purpose in each?", "answer": ["m02", "m03", "m04", "m06", "m07"], "output": ["m02", "m03", "m04", "m05", "m06", "m07", "m09"]}
+{"user": "user_018@jaseci.org", "qid": "qa_003", "question": "What topics did Julia use her platform to discuss beyond fashion?", "answer": ["m04", "m08"], "output": ["m04", "m08", "m09"]}
+{"user": "user_018@jaseci.org", "qid": "qa_004", "question": "Who collaborated with Julia across her career moments?", "answer": ["m02", "m07", "m10"], "output": ["m05", "m07"]}
+{"user": "user_018@jaseci.org", "qid": "qa_005", "question": "Which event best represents Julia's global recognition, and why?", "answer": ["m09"], "output": ["m10"]}

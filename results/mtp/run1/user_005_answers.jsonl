@@ -1,0 +1,5 @@
+{"user": "user_005@jaseci.org", "qid": "qa_001", "question": "Which friends and family did Emily spend time with across different places?", "answer": ["m02", "m03", "m04", "m05", "m06", "m07", "m08", "m09", "m10"], "output": ["m02", "m03", "m04", "m05", "m06", "m07", "m08", "m09", "m10"]}
+{"user": "user_005@jaseci.org", "qid": "qa_002", "question": "Which memories involved food or drinks, and what do they suggest about the occasions?", "answer": ["m01", "m06", "m07", "m09", "m10"], "output": ["m05", "m06", "m07", "m09"]}
+{"user": "user_005@jaseci.org", "qid": "qa_003", "question": "Which events mark big celebrations, and how do they differ?", "answer": ["m03", "m04", "m10"], "output": ["m03", "m04", "m10"]}
+{"user": "user_005@jaseci.org", "qid": "qa_004", "question": "What shows Emily's travels across the country and abroad?", "answer": ["m02", "m03", "m04", "m05", "m06", "m07", "m08", "m09", "m10"], "output": ["m01", "m02", "m03", "m04", "m05", "m06", "m07", "m08", "m09", "m10"]}
+{"user": "user_005@jaseci.org", "qid": "qa_005", "question": "Which memory best reflects a cozy winter atmosphere?", "answer": ["m09"], "output": ["m09"]}

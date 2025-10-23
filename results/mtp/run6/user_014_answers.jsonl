@@ -1,0 +1,5 @@
+{"user": "user_014@jaseci.org", "qid": "qa_001", "question": "Which regions did Jack explore across 2025, and what activities did he do there?", "answer": ["m01", "m02", "m03", "m04", "m06", "m07", "m08", "m09"], "output": ["m01", "m02", "m03", "m04", "m05", "m06", "m07", "m08", "m09", "m10"]}
+{"user": "user_014@jaseci.org", "qid": "qa_002", "question": "Which memories show Jack traveling with others, and who were they?", "answer": ["m02", "m03", "m05", "m06", "m08"], "output": ["m02", "m03", "m05", "m06", "m08"]}
+{"user": "user_014@jaseci.org", "qid": "qa_003", "question": "Which outdoor activities involved water?", "answer": ["m03", "m04", "m06"], "output": ["m04", "m06"]}
+{"user": "user_014@jaseci.org", "qid": "qa_004", "question": "What shows Jack's shift from adventure to reflection through the year?", "answer": ["m01", "m02", "m08", "m10"], "output": ["m01", "m02", "m03", "m04", "m05", "m06", "m07", "m08", "m09", "m10"]}
+{"user": "user_014@jaseci.org", "qid": "qa_005", "question": "Which memory best captures natural beauty, and what details emphasize it?", "answer": ["m07"], "output": ["m07"]}

@@ -1,0 +1,5 @@
+{"user": "user_050@jaseci.org", "qid": "qa_001", "question": "Which memories capture meaningful family transitions and celebrations, and how do they connect across time?", "answer": ["m01", "m02", "m12"], "output": ["m05", "m02", "m01"]}
+{"user": "user_050@jaseci.org", "qid": "qa_002", "question": "How do professional and social gatherings reflect the user's sense of teamwork and community?", "answer": ["m04", "m06", "m07", "m09"], "output": ["m05", "m02", "m01"]}
+{"user": "user_050@jaseci.org", "qid": "qa_003", "question": "Which memories highlight reconnection and the passage of time within family relationships?", "answer": ["m02", "m05"], "output": ["m05"]}
+{"user": "user_050@jaseci.org", "qid": "qa_004", "question": "In what ways do pets appear across the user's memories, and what emotions do they symbolize?", "answer": ["m03", "m12"], "output": ["m12", "m03"]}
+{"user": "user_050@jaseci.org", "qid": "qa_005", "question": "How do the user's late-2024 memories together reflect joy, reflection, and a balance of personal and professional life?", "answer": ["m06", "m07", "m08", "m11"], "output": ["m12", "m05"]}

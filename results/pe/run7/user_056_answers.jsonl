@@ -1,0 +1,5 @@
+{"user": "user_056@jaseci.org", "qid": "qa_001", "question": "How do the coconut cracking event at the island resort and the trip to Athens together show the user's enthusiasm for exploring new cultures?", "answer": ["m01", "m02", "m04"], "output": ["m02", "m01"]}
+{"user": "user_056@jaseci.org", "qid": "qa_002", "question": "How do the soccer memories reveal both the user's competitive and lighthearted side?", "answer": ["m03", "m06"], "output": ["m06", "m03"]}
+{"user": "user_056@jaseci.org", "qid": "qa_003", "question": "What connection can be made between the desert and the music festival experiences?", "answer": ["m07", "m08"], "output": ["m08", "m07"]}
+{"user": "user_056@jaseci.org", "qid": "qa_004", "question": "How does the ‘important event' memory involving seeing Cinderella reflect the user's tendency to find meaning in shared experiences?", "answer": ["m09", "m08"], "output": ["m09"]}
+{"user": "user_056@jaseci.org", "qid": "qa_005", "question": "What does the user's mix of leisure, curiosity, and humor across different travel memories say about their personality?", "answer": ["m01", "m02", "m04"], "output": []}

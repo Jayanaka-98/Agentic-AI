@@ -1,0 +1,5 @@
+{"user": "user_012@jaseci.org", "qid": "qa_001", "question": "What shows Ethan's transition from student practice to public performances?", "answer": ["m01", "m03", "m05", "m07", "m09"], "output": ["m01", "m03", "m07", "m09"]}
+{"user": "user_012@jaseci.org", "qid": "qa_002", "question": "Which cities did Ethan travel to for music-related experiences?", "answer": ["m02", "m03", "m04", "m05", "m06", "m07", "m08", "m09"], "output": ["m01", "m02", "m03", "m04", "m05", "m06", "m07", "m08", "m09", "m10"]}
+{"user": "user_012@jaseci.org", "qid": "qa_003", "question": "Who accompanied Ethan in his music-related outings?", "answer": ["m02", "m04", "m06", "m08", "m10"], "output": ["m02", "m04", "m06", "m08"]}
+{"user": "user_012@jaseci.org", "qid": "qa_004", "question": "Which memory reflects Ethan as a performer in a professional setting?", "answer": ["m09"], "output": ["m06", "m07", "m09"]}
+{"user": "user_012@jaseci.org", "qid": "qa_005", "question": "Which events highlight Ethan's enjoyment of music as an audience member rather than performer?", "answer": ["m02", "m04", "m08", "m10"], "output": ["m02", "m04", "m08", "m10"]}

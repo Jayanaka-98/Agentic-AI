@@ -1,0 +1,5 @@
+{"user": "user_008@jaseci.org", "qid": "qa_001", "question": "Which holidays did David celebrate with family, and how?", "answer": ["m04", "m07", "m09", "m10"], "output": ["m02", "m04", "m07", "m09", "m10"]}
+{"user": "user_008@jaseci.org", "qid": "qa_002", "question": "What community or charitable activities did David join?", "answer": ["m03", "m05"], "output": ["m03", "m05"]}
+{"user": "user_008@jaseci.org", "qid": "qa_003", "question": "Who are the family members appearing in David's memories?", "answer": ["m02", "m04", "m07", "m08", "m09", "m10"], "output": ["m02", "m04", "m07", "m08", "m09", "m10"]}
+{"user": "user_008@jaseci.org", "qid": "qa_004", "question": "Which memories highlight David's role as a father?", "answer": ["m01", "m07", "m09"], "output": ["m01", "m07", "m09", "m10"]}
+{"user": "user_008@jaseci.org", "qid": "qa_005", "question": "Which trips took David outside of Ann Arbor, and for what purpose?", "answer": ["m03", "m04", "m05", "m07", "m08"], "output": ["m03", "m04", "m05", "m07", "m08"]}

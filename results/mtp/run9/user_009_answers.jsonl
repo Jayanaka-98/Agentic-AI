@@ -1,0 +1,5 @@
+{"user": "user_009@jaseci.org", "qid": "qa_001", "question": "Which forms of art did Maya practice during her travels?", "answer": ["m01", "m04", "m07", "m08"], "output": ["m01", "m04", "m07", "m08"]}
+{"user": "user_009@jaseci.org", "qid": "qa_002", "question": "Which trips abroad did Maya take with family versus friends?", "answer": ["m03", "m05", "m09", "m10", "m06"], "output": ["m02", "m03", "m05", "m09"]}
+{"user": "user_009@jaseci.org", "qid": "qa_003", "question": "Which memories show Maya connecting with local culture?", "answer": ["m05", "m07", "m08"], "output": ["m05", "m07", "m08"]}
+{"user": "user_009@jaseci.org", "qid": "qa_004", "question": "Which memory best reflects celebration, and what details highlight it?", "answer": ["m10"], "output": ["m10"]}
+{"user": "user_009@jaseci.org", "qid": "qa_005", "question": "Which continents did Maya visit in 2025?", "answer": ["m03", "m04", "m05", "m06", "m07", "m08", "m09", "m10"], "output": ["m02", "m03", "m04", "m05", "m06", "m07", "m08", "m09", "m10"]}

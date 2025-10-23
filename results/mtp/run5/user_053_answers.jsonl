@@ -1,0 +1,5 @@
+{"user": "user_053@jaseci.org", "qid": "qa_001", "question": "How did Patrick find comfort and meaning in family connections during times of loss and remembrance?", "answer": ["m04", "m10"], "output": ["m04", "m02", "m12"]}
+{"user": "user_053@jaseci.org", "qid": "qa_002", "question": "What do Patrick's hospital memories of Marley reveal about her resilience and the family's emotional strength?", "answer": ["m01", "m05"], "output": ["m05", "m01"]}
+{"user": "user_053@jaseci.org", "qid": "qa_003", "question": "In what ways do Patrick's family gatherings around the holidays capture the theme of gratitude and togetherness?", "answer": ["m06", "m09"], "output": ["m06", "m11"]}
+{"user": "user_053@jaseci.org", "qid": "qa_004", "question": "How do Patrick's friendships bring lightness and reflection into his life alongside family moments?", "answer": ["m02", "m08"], "output": ["m08", "m06", "m02", "m12", "m11"]}
+{"user": "user_053@jaseci.org", "qid": "qa_005", "question": "How does Patrick's perspective on family evolve from early memories of his children to their adult lives?", "answer": ["m03", "m07"], "output": ["m07", "m06", "m05", "m04", "m03", "m01", "m11"]}

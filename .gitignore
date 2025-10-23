@@ -6,5 +6,6 @@ mydatabase
 .env
 user_credentials.json
 *.jsonl
+!results/**/*.jsonl
 raw/
 synthetic_users/

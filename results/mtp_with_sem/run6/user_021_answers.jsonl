@@ -1,0 +1,5 @@
+{"user": "user_021@jaseci.org", "qid": "qa_001", "question": "Who did Ava collaborate or reconnect with during her travels, and what did they do together?", "answer": ["m02", "m06", "m09"], "output": ["m02", "m04", "m06", "m09"]}
+{"user": "user_021@jaseci.org", "qid": "qa_002", "question": "What mishap occurred during Ava's filming, and how did she respond to it?", "answer": ["m08"], "output": ["m08"]}
+{"user": "user_021@jaseci.org", "qid": "qa_003", "question": "How did Ava's filming focus evolve throughout her journey?", "answer": ["m01", "m03", "m04", "m06", "m09", "m10"], "output": ["m01", "m02", "m03", "m04", "m06", "m09", "m10"]}
+{"user": "user_021@jaseci.org", "qid": "qa_004", "question": "What moments show Ava balancing work and personal enjoyment?", "answer": ["m04", "m07"], "output": ["m04", "m08", "m09"]}
+{"user": "user_021@jaseci.org", "qid": "qa_005", "question": "What does the final episode in Cape Town symbolize for Ava's journey?", "answer": ["m10"], "output": ["m10"]}

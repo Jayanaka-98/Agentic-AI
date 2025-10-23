@@ -1,0 +1,5 @@
+{"user": "user_003@jaseci.org", "qid": "qa_001", "question": "What types of social activities did Julia take part in throughout the year?", "answer": ["m01", "m03", "m06", "m07", "m09"], "output": ["m03", "m06", "m07", "m09"]}
+{"user": "user_003@jaseci.org", "qid": "qa_002", "question": "Which memories capture moments with food or drinks?", "answer": ["m01", "m03", "m05", "m08", "m10"], "output": ["m01", "m03", "m05", "m06", "m08", "m10"]}
+{"user": "user_003@jaseci.org", "qid": "qa_003", "question": "Who did Omar spend time with in different places?", "answer": ["m04", "m06", "m08", "m10"], "output": ["m02", "m04", "m06", "m08", "m10"]}
+{"user": "user_003@jaseci.org", "qid": "qa_004", "question": "What travel destinations outside the U.S. appear in these memories?", "answer": ["m05"], "output": ["m05"]}
+{"user": "user_003@jaseci.org", "qid": "qa_005", "question": "Which memory best reflects a festive family gathering?", "answer": ["m09"], "output": ["m09"]}

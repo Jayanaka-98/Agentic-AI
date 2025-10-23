@@ -1,0 +1,5 @@
+{"user": "user_020@jaseci.org", "qid": "qa_001", "question": "What forms of wellness did Emma practice or promote throughout 2025?", "answer": ["m01", "m02", "m03", "m07", "m08"], "output": ["m01", "m02", "m03", "m04", "m05", "m06", "m07", "m08", "m09", "m10"]}
+{"user": "user_020@jaseci.org", "qid": "qa_002", "question": "Which events show Emma engaging with her community rather than focusing on personal wellness?", "answer": ["m03", "m08", "m09"], "output": ["m02", "m03", "m04", "m07", "m08", "m09"]}
+{"user": "user_020@jaseci.org", "qid": "qa_003", "question": "How did Emma balance travel with maintaining her health routines?", "answer": ["m05", "m06", "m07"], "output": ["m01", "m02", "m03", "m04", "m05", "m06", "m07", "m08", "m09", "m10"]}
+{"user": "user_020@jaseci.org", "qid": "qa_004", "question": "Which memory reflects Emma's shift toward teaching and leadership?", "answer": ["m09"], "output": ["m03", "m09"]}
+{"user": "user_020@jaseci.org", "qid": "qa_005", "question": "Which memory best captures reflection and inner peace?", "answer": ["m10"], "output": ["m10", "m02"]}

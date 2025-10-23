@@ -1,0 +1,5 @@
+{"user": "user_007@jaseci.org", "qid": "qa_001", "question": "Who did Sophia work with on academic or internship projects?", "answer": ["m03", "m06", "m07", "m09"], "output": ["m03", "m06"]}
+{"user": "user_007@jaseci.org", "qid": "qa_002", "question": "What milestones mark Sophia’s academic and professional growth?", "answer": ["m02", "m05", "m07", "m09"], "output": ["m01", "m02", "m03", "m04", "m05", "m06", "m07", "m09"]}
+{"user": "user_007@jaseci.org", "qid": "qa_003", "question": "Which memories involve food or drink, and what do they reflect?", "answer": ["m06", "m08", "m10"], "output": ["m06", "m08", "m10"]}
+{"user": "user_007@jaseci.org", "qid": "qa_004", "question": "Which cities did Sophia travel to outside her home in Ann Arbor?", "answer": ["m02", "m03", "m04", "m05", "m08", "m09"], "output": ["m02", "m03", "m04", "m05", "m06", "m07", "m08", "m09"]}
+{"user": "user_007@jaseci.org", "qid": "qa_005", "question": "Which memory best reflects celebration, and what details indicate it?", "answer": ["m10"], "output": ["m10"]}

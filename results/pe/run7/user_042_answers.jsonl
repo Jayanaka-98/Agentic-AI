@@ -1,0 +1,5 @@
+{"user": "user_042@jaseci.org", "qid": "qa_001", "question": "Which events show the user's enjoyment of outdoor activities with friends, and what did they do?", "answer": ["m01", "m08", "m09"], "output": ["m09", "m08", "m01"]}
+{"user": "user_042@jaseci.org", "qid": "qa_002", "question": "How did the user's social interactions vary between casual outings and family experiences?", "answer": ["m01", "m08", "m20"], "output": ["m20", "m08", "m01"]}
+{"user": "user_042@jaseci.org", "qid": "qa_003", "question": "What experiences reflect the user's appreciation for fine dining or unique food events?", "answer": ["m19"], "output": ["m19"]}
+{"user": "user_042@jaseci.org", "qid": "qa_004", "question": "Which memories together show the user's travel between different cities, and what were they doing in each?", "answer": ["m01", "m19", "m20"], "output": ["m20", "m19", "m09", "m01"]}
+{"user": "user_042@jaseci.org", "qid": "qa_005", "question": "What emotions are expressed across the user's experiences, and how do they differ by context?", "answer": ["m01", "m09", "m19", "m20"], "output": ["m20", "m19", "m01"]}

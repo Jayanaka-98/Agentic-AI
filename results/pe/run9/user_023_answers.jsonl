@@ -1,0 +1,5 @@
+{"user": "user_023@jaseci.org", "qid": "qa_001", "question": "Who did Sophia collaborate with on her robotics projects throughout the year, and what did they work on?", "answer": ["m02", "m04", "m06"], "output": ["m02", "m03", "m04", "m06", "m08"]}
+{"user": "user_023@jaseci.org", "qid": "qa_002", "question": "What moments highlight Sophia's mentorship and advocacy for education?", "answer": ["m05", "m09"], "output": ["m05", "m09"]}
+{"user": "user_023@jaseci.org", "qid": "qa_003", "question": "What accomplishment demonstrated Sophia's technical innovation to a public audience?", "answer": ["m07"], "output": ["m07"]}
+{"user": "user_023@jaseci.org", "qid": "qa_004", "question": "How did Sophia's international experiences shape her research perspective?", "answer": ["m04", "m06", "m08", "m10"], "output": ["m02", "m03", "m04", "m05", "m06", "m08", "m09"]}
+{"user": "user_023@jaseci.org", "qid": "qa_005", "question": "What event marked the culmination of Sophia's year-long research efforts?", "answer": ["m10"], "output": ["m10"]}

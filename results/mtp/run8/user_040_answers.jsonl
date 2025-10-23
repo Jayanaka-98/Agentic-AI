@@ -1,0 +1,5 @@
+{"user": "user_040@jaseci.org", "qid": "qa_001", "question": "How did Ethan's early classroom pilots shape the global direction of his AI learning initiative?", "answer": ["m01", "m02", "m04", "m08", "m10"], "output": ["m01", "m05", "m10"]}
+{"user": "user_040@jaseci.org", "qid": "qa_002", "question": "What connections can be seen between Ethan's teacher training in Toronto and his policy advocacy in Washington?", "answer": ["m03", "m09"], "output": ["m03", "m09"]}
+{"user": "user_040@jaseci.org", "qid": "qa_003", "question": "How did Ethan adapt his platform for inclusivity across different technological contexts?", "answer": ["m04", "m06"], "output": ["m06"]}
+{"user": "user_040@jaseci.org", "qid": "qa_004", "question": "Which sequence of projects demonstrates the evolution of Ethan's AI system from technical innovation to educational policy impact?", "answer": ["m04", "m07", "m08"], "output": ["m01", "m02", "m04", "m07", "m08", "m09"]}
+{"user": "user_040@jaseci.org", "qid": "qa_005", "question": "How did Ethan's international collaborations culminate in the Global Learning Futures Forum?", "answer": ["m02", "m06", "m09", "m10"], "output": ["m10"]}

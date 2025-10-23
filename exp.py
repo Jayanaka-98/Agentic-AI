@@ -110,11 +110,12 @@ def load_data(username):
     for i, m in enumerate(memories, start=1):
         mem_id = m.get("memory_id") or m.get("id") or f"m{i:02d}"
         summary = m.get("summary", "")
-        when = m.get("when", [])
-        if isinstance(when, str):
-            when = [when]
-        if not when or (isinstance(when, list) and len(when) == 0):
-            when = [""]  # <-- ensures non-empty list
+        when = m.get("when", "")
+        if isinstance(when, list):
+            # take the first element if list provided
+            when = when[0] if len(when) > 0 else ""
+        elif not isinstance(when, str):
+            when = ""
         who = m.get("who", [])
         where = m.get("where", [])
         what = m.get("what", [])

@@ -5,6 +5,7 @@ from pathlib import Path
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import matplotlib.pyplot as plt
+import numpy as np
 
 
 # -------------------------------------------------
@@ -82,24 +83,15 @@ def load_user_qa_gold_text(localpart: str):
 
 
 # -------------------------------------------------
-# Evaluation pipeline (returns metrics)
+# Core evaluation per run
 # -------------------------------------------------
-def evaluate_results(exp_type: str):
-    base_dir = Path("results") / exp_type
-    os.makedirs(base_dir, exist_ok=True)
-
-    INPUT_JSONL = base_dir / "all_users_answers.jsonl"
-    OUTPUT_TXT = base_dir / f"{exp_type}_eval_metrics.txt"
-    SIM_JSONL = base_dir / f"{exp_type}_similarities.jsonl"
-
+def _evaluate_single_run(INPUT_JSONL: Path, base_dir: Path, exp_type: str):
     tp_micro = fp_micro = fn_micro = 0
     num_q = num_em = 0
     macro_p_sum = macro_r_sum = macro_f1_sum = 0.0
     cos_gold_sum = cos_pred_sum = num_cos = 0
 
-    if not os.path.exists(INPUT_JSONL):
-        print(f"[WARN] Missing input file: {INPUT_JSONL}")
-        return None
+    SIM_JSONL = base_dir / f"{exp_type}_similarities.jsonl"
 
     with open(SIM_JSONL, "w", encoding="utf-8") as sim_out, open(INPUT_JSONL, "r", encoding="utf-8") as f:
         for line in f:
@@ -157,47 +149,16 @@ def evaluate_results(exp_type: str):
                 "cosine_pred_vs_answer": cos_pred,
             }, ensure_ascii=False) + "\n")
 
-    # ---- Aggregate metrics ----
-    macro_p = macro_p_sum / num_q if num_q else 0.0
-    macro_r = macro_r_sum / num_q if num_q else 0.0
-    macro_f1 = macro_f1_sum / num_q if num_q else 0.0
-    exact_match = num_em / num_q if num_q else 0.0
+    if num_q == 0:
+        return None
+
+    macro_f1 = macro_f1_sum / num_q
     micro_p = tp_micro / (tp_micro + fp_micro) if (tp_micro + fp_micro) else 0.0
     micro_r = tp_micro / (tp_micro + fn_micro) if (tp_micro + fn_micro) else 0.0
     micro_f1 = f1(micro_p, micro_r)
     mean_cosine_pred = cos_pred_sum / num_cos if num_cos else 0.0
-    mean_cosine_gold = cos_gold_sum / num_cos if num_cos else 0.0
-
-    # ---- Write report in your desired format ----
-    with open(OUTPUT_TXT, "w", encoding="utf-8") as out:
-        out.write(f"Retrieval Evaluation Metrics ({exp_type.upper()})\n")
-        out.write("=" * 50 + "\n")
-        out.write(f"Questions evaluated: {num_q}\n")
-        out.write(f"Exact Match (EM):   {exact_match:.4f}\n\n")
-
-        out.write("Macro Averages (mean over questions)\n")
-        out.write(f"  Precision: {macro_p:.4f}\n")
-        out.write(f"  Recall: {macro_r:.4f}\n")
-        out.write(f"  F1: {macro_f1:.4f}\n\n")
-
-        out.write("Micro Averages (global counts)\n")
-        out.write(f"  Precision: {micro_p:.4f}\n")
-        out.write(f"  Recall: {micro_r:.4f}\n")
-        out.write(f"  F1: {micro_f1:.4f}\n\n")
-
-        out.write("Cosine Similarity\n")
-        out.write(f"  Mean cosine(pred summaries vs gold answers): {mean_cosine_pred:.4f}\n")
-        out.write(f"  Mean cosine(gold summaries vs gold answers): {mean_cosine_gold:.4f}\n\n")
-
-        out.write("Counts\n")
-        out.write(f"  TP: {tp_micro}\n")
-        out.write(f"  FP: {fp_micro}\n")
-        out.write(f"  FN: {fn_micro}\n")
-
-    print(f"[OK] {exp_type}: metrics written to {OUTPUT_TXT}")
 
     return {
-        "exp": exp_type,
         "macro_f1": macro_f1,
         "micro_f1": micro_f1,
         "cosine_pred": mean_cosine_pred,
@@ -205,7 +166,52 @@ def evaluate_results(exp_type: str):
 
 
 # -------------------------------------------------
-# Side-by-side comparison chart
+# Aggregate across runs
+# -------------------------------------------------
+def evaluate_results(exp_type: str):
+    base_dir = Path("results") / exp_type
+    run_dirs = sorted([d for d in base_dir.iterdir() if d.is_dir() and d.name.startswith("run")])
+    if not run_dirs:
+        run_dirs = [base_dir]
+
+    all_run_metrics = []
+
+    for run_dir in run_dirs:
+        INPUT_JSONL = run_dir / "all_users_answers.jsonl"
+        if not INPUT_JSONL.exists():
+            print(f"[WARN] Missing file: {INPUT_JSONL}")
+            continue
+        metrics = _evaluate_single_run(INPUT_JSONL, run_dir, exp_type)
+        if metrics:
+            all_run_metrics.append(metrics)
+
+    if not all_run_metrics:
+        return None
+
+    macro_f1_all = [m["macro_f1"] for m in all_run_metrics]
+    micro_f1_all = [m["micro_f1"] for m in all_run_metrics]
+    cosine_pred_all = [m["cosine_pred"] for m in all_run_metrics]
+
+    avg_metrics = {
+        "exp": exp_type,
+        "macro_f1": np.mean(macro_f1_all),
+        "micro_f1": np.mean(micro_f1_all),
+        "cosine_pred": np.mean(cosine_pred_all),
+        "macro_f1_all": macro_f1_all,
+        "micro_f1_all": micro_f1_all,
+        "cosine_pred_all": cosine_pred_all,
+    }
+
+    print(f"[OK] {exp_type}: mean ± std")
+    print(f"  Macro F1   = {np.mean(macro_f1_all):.4f} ± {np.std(macro_f1_all):.4f}")
+    print(f"  Micro F1   = {np.mean(micro_f1_all):.4f} ± {np.std(micro_f1_all):.4f}")
+    print(f"  Cosine Sim = {np.mean(cosine_pred_all):.4f} ± {np.std(cosine_pred_all):.4f}")
+    print()
+    return avg_metrics
+
+
+# -------------------------------------------------
+# Visualization (true boxplots)
 # -------------------------------------------------
 def visualize_overall_comparison(results):
     if not results:
@@ -213,104 +219,94 @@ def visualize_overall_comparison(results):
         return
 
     labels = [r["exp"].upper() for r in results]
-    macro_f1 = [r["macro_f1"] for r in results]
-    micro_f1 = [r["micro_f1"] for r in results]
-    cosine_pred = [r["cosine_pred"] for r in results]
+    macro_all = [r["macro_f1_all"] for r in results]
+    micro_all = [r["micro_f1_all"] for r in results]
+    cosine_all = [r["cosine_pred_all"] for r in results]
+
+    def get_ylim(data_lists, pad=0.05):
+        """Compute adaptive ylim with small padding."""
+        vals = np.concatenate(data_lists)
+        vmin, vmax = np.min(vals), np.max(vals)
+        rng = vmax - vmin
+        return max(0, vmin - pad * rng), min(1, vmax + pad * rng)
 
     plt.figure(figsize=(12, 4))
 
+    # --- Macro F1 ---
     plt.subplot(1, 3, 1)
-    bars = plt.bar(labels, macro_f1, color="steelblue")
+    plt.boxplot(macro_all, vert=True, patch_artist=True,
+                boxprops=dict(facecolor="steelblue", alpha=0.7))
     plt.title("Macro F1")
-    plt.ylim(0, 1)
-    for b in bars:
-        plt.text(b.get_x() + b.get_width() / 2, b.get_height() + 0.01, f"{b.get_height():.3f}", ha="center")
+    plt.xticks(range(1, len(labels) + 1), labels)
+    plt.ylim(*get_ylim(macro_all))
     plt.grid(axis="y", linestyle="--", alpha=0.5)
 
+    # --- Micro F1 ---
     plt.subplot(1, 3, 2)
-    bars = plt.bar(labels, micro_f1, color="darkorange")
+    plt.boxplot(micro_all, vert=True, patch_artist=True,
+                boxprops=dict(facecolor="darkorange", alpha=0.7))
     plt.title("Micro F1")
-    plt.ylim(0, 1)
-    for b in bars:
-        plt.text(b.get_x() + b.get_width() / 2, b.get_height() + 0.01, f"{b.get_height():.3f}", ha="center")
+    plt.xticks(range(1, len(labels) + 1), labels)
+    plt.ylim(*get_ylim(micro_all))
     plt.grid(axis="y", linestyle="--", alpha=0.5)
 
+    # --- Cosine Similarity ---
     plt.subplot(1, 3, 3)
-    bars = plt.bar(labels, cosine_pred, color="seagreen")
+    plt.boxplot(cosine_all, vert=True, patch_artist=True,
+                boxprops=dict(facecolor="seagreen", alpha=0.7))
     plt.title("Cosine Similarity (Pred vs Gold)")
-    plt.ylim(0, 1)
-    for b in bars:
-        plt.text(b.get_x() + b.get_width() / 2, b.get_height() + 0.01, f"{b.get_height():.3f}", ha="center")
+    plt.xticks(range(1, len(labels) + 1), labels)
+    plt.ylim(*get_ylim(cosine_all))
     plt.grid(axis="y", linestyle="--", alpha=0.5)
 
-    plt.suptitle("Cross-Experiment Metric Comparison", fontsize=14, y=1.05)
+    plt.suptitle("Cross-Experiment Metric Comparison (Boxplots over 10 runs)", fontsize=14, y=1.05)
     plt.tight_layout()
-    out_path = Path("results") / "metrics.png"
+    out_path = Path("results") / "metrics_boxplot.png"
     plt.savefig(out_path, dpi=300, bbox_inches="tight")
     plt.close()
-
-    print(f"[OK] Saved comparison chart → {out_path}")
+    print(f"[OK] Saved zoomed boxplot → {out_path}")
 
 def visualize_normalized_gain(results):
-    """Plot normalized metrics (PE as baseline = 1.0)."""
+    """Plot normalized metrics (PE as baseline = 1.0) as vertical boxplots."""
     if not results:
         print("[WARN] No results to normalize.")
         return
 
-    # --- Identify baseline (PE) ---
     base = next((r for r in results if r["exp"].lower() == "pe"), None)
     if not base:
         print("[WARN] PE baseline not found; skipping normalization.")
         return
 
-    # --- Compute normalized values ---
-    def norm(x, base_val):
-        return x / base_val if base_val != 0 else 0.0
+    def norm_list(values, base_vals):
+        b = np.mean(base_vals)
+        return [v / b if b != 0 else 0.0 for v in values]
 
     labels = [r["exp"].upper() for r in results]
-    macro_gain = [norm(r["macro_f1"], base["macro_f1"]) for r in results]
-    micro_gain = [norm(r["micro_f1"], base["micro_f1"]) for r in results]
-    cos_gain = [norm(r["cosine_pred"], base["cosine_pred"]) for r in results]
+    macro_gain = [norm_list(r["macro_f1_all"], base["macro_f1_all"]) for r in results]
+    micro_gain = [norm_list(r["micro_f1_all"], base["micro_f1_all"]) for r in results]
+    cos_gain = [norm_list(r["cosine_pred_all"], base["cosine_pred_all"]) for r in results]
 
     plt.figure(figsize=(12, 4))
+    for i, (data, title, color) in enumerate([
+        (macro_gain, "Macro F1 Gain (vs PE)", "royalblue"),
+        (micro_gain, "Micro F1 Gain (vs PE)", "darkorange"),
+        (cos_gain, "Cosine Gain (vs PE)", "seagreen")
+    ]):
+        plt.subplot(1, 3, i + 1)
+        plt.boxplot(data, vert=True, patch_artist=True,
+                    boxprops=dict(facecolor=color, alpha=0.7))
+        plt.title(title)
+        plt.xticks(range(1, len(labels) + 1), labels)
+        plt.axhline(1.0, color="gray", linestyle="--", lw=1)
+        plt.grid(axis="y", linestyle="--", alpha=0.5)
 
-    plt.subplot(1, 3, 1)
-    bars = plt.bar(labels, macro_gain, color="royalblue")
-    plt.title("Macro F1 Gain (vs PE)")
-    plt.ylim(0, max(macro_gain) * 1.2)
-    for b in bars:
-        plt.text(b.get_x() + b.get_width() / 2, b.get_height() + 0.02,
-                 f"{b.get_height():.2f}×", ha="center")
-    plt.axhline(1.0, color="gray", linestyle="--", lw=1)
-    plt.grid(axis="y", linestyle="--", alpha=0.5)
-
-    plt.subplot(1, 3, 2)
-    bars = plt.bar(labels, micro_gain, color="darkorange")
-    plt.title("Micro F1 Gain (vs PE)")
-    plt.ylim(0, max(micro_gain) * 1.2)
-    for b in bars:
-        plt.text(b.get_x() + b.get_width() / 2, b.get_height() + 0.02,
-                 f"{b.get_height():.2f}×", ha="center")
-    plt.axhline(1.0, color="gray", linestyle="--", lw=1)
-    plt.grid(axis="y", linestyle="--", alpha=0.5)
-
-    plt.subplot(1, 3, 3)
-    bars = plt.bar(labels, cos_gain, color="seagreen")
-    plt.title("Cosine Gain (vs PE)")
-    plt.ylim(0, max(cos_gain) * 1.2)
-    for b in bars:
-        plt.text(b.get_x() + b.get_width() / 2, b.get_height() + 0.02,
-                 f"{b.get_height():.2f}×", ha="center")
-    plt.axhline(1.0, color="gray", linestyle="--", lw=1)
-    plt.grid(axis="y", linestyle="--", alpha=0.5)
-
-    plt.suptitle("Normalized Metric Gains (PE = 1.0)", fontsize=14, y=1.05)
+    plt.suptitle("Normalized Metric Gains (Boxplot, PE = 1.0)", fontsize=14, y=1.05)
     plt.tight_layout()
-    out_path = Path("results") / "metrics_normalized_gain.png"
+    out_path = Path("results") / "metrics_normalized_gain_boxplot.png"
     plt.savefig(out_path, dpi=300, bbox_inches="tight")
     plt.close()
-    print(f"[OK] Saved normalized gain chart → {out_path}")
-    
+    print(f"[OK] Saved normalized gain boxplot → {out_path}")
+
 
 # -------------------------------------------------
 # Main entry

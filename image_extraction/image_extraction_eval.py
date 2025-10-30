@@ -230,11 +230,12 @@ def plot_avg_scores(summary_df, save_path):
 # -------------------------------------------------
 if __name__ == "__main__":
     import argparse
+    import seaborn as sns
 
     parser = argparse.ArgumentParser(description="Run memory extraction evaluation")
     parser.add_argument(
         "--exp",
-        default="mtp",
+        default="all",
         choices=["mtp", "mtp_with_sem", "pe", "all"],
         help="Which experiment pipeline to run. Use 'all' to run all three sequentially.",
     )
@@ -246,21 +247,22 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
+    # Always compare the three main pipelines if "all" is chosen
     experiments = (
-        ["mtp", "mtp_with_sem", "pe"] if args.exp == "all" else [args.exp]
+        ["mtp", "mtp_with_sem"] if args.exp == "all" else [args.exp]
     )
 
     base_dir = Path.cwd() / "results"
     base_dir.mkdir(parents=True, exist_ok=True)
 
     print(f"\nStarting evaluation for experiments: {', '.join(experiments)}")
-    print(f"Saving all results under: {base_dir}\n")
+    print(f"📂 Saving all results under: {base_dir}\n")
 
     summary_records = []
 
     for exp_name in experiments:
         print(f"\n==============================")
-        print(f"Running experiment: {exp_name.upper()}")
+        print(f"▶ Running experiment: {exp_name.upper()}")
         print(f"==============================")
 
         exp_dir = base_dir / exp_name
@@ -284,15 +286,38 @@ if __name__ == "__main__":
             except Exception:
                 pass
 
-    # Save summary CSV + seaborn barplot
+    # ---- Final Comparison: Summary CSV + Seaborn barplot ----
     if summary_records:
         summary_df = pd.DataFrame(summary_records)
         summary_csv = base_dir / "summary_scores.csv"
-        summary_plot = base_dir / "summary_avg_barplot.png"
+        summary_plot = base_dir / "comparison_barplot.png"
 
+        # Save numeric summary
         summary_df.to_csv(summary_csv, index=False)
         print(f"\nSaved summary averages to: {summary_csv}")
 
-        plot_avg_scores(summary_df, summary_plot)
+        # Plot comparison using seaborn
+        plt.figure(figsize=(8, 6))
+        melted = summary_df.melt(
+            id_vars="experiment",
+            value_vars=["avg_cosine", "avg_bm25", "avg_hybrid"],
+            var_name="metric",
+            value_name="score",
+        )
+        sns.barplot(data=melted, x="experiment", y="score", hue="metric", palette="pastel")
+        plt.title("Comparison of Average Scores Across Experiments")
+        plt.xlabel("Experiment")
+        plt.ylabel("Average Score")
+        plt.ylim(0, 1)
+        plt.legend(title="Metric", loc="upper right")
+        plt.tight_layout()
+        plt.savefig(summary_plot)
+        plt.close()
+        print(f"Saved comparison plot to: {summary_plot}")
+
+        # Print summary table in console
+        print("\n---------------- Overall Comparison ----------------")
+        print(summary_df.to_string(index=False))
+        print("----------------------------------------------------")
 
     print("\nAll experiments completed!")

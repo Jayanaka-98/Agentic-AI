@@ -14,8 +14,12 @@ from datasets import load_dataset
 from sentence_transformers import SentenceTransformer, util
 from rank_bm25 import BM25Okapi
 
-from byllm.lib import Image as ByImage
-from image_extraction import extract_memory_details
+
+from ai_client import Openai_SDK
+openai_sdk = Openai_SDK()
+
+from byllm.lib import Image
+from image_extraction import extract_memory_details, InitResponse
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 N_SAMPLES = 300
@@ -70,11 +74,12 @@ def run_extraction(target_n=300, exp_type="mtp"):
             if not img_path:
                 continue
 
-            img = ByImage(img_path)
-            use_byllm = False if exp_type == "pe" else True
+            img = Image(img_path)
 
-            # Extraction
-            res = extract_memory_details(img)
+            if exp_type == "pe":
+                res = openai_sdk.extract_memory_details(img_path)
+            else:
+                res = extract_memory_details(img)
 
             if not res or not getattr(res, "summary", "").strip():
                 continue
@@ -82,11 +87,11 @@ def run_extraction(target_n=300, exp_type="mtp"):
             results.append({
                 "caption": example.get("caption", ""),
                 "summary": res.summary,
-                "who": res.who,
-                "what": res.what,
-                "when": res.when,
-                "location_type": res.location_type,
-                "follow_up_questions": res.follow_up_questions,
+                "who": getattr(res, "who", ""),
+                "what": getattr(res, "what", ""),
+                "when": getattr(res, "when", ""),
+                "location_type": getattr(res, "location_type", ""),
+                "follow_up_questions": getattr(res, "follow_up_questions", ""),
                 "image_path": img_path,
                 "exp_type": exp_type,
             })
@@ -249,7 +254,7 @@ if __name__ == "__main__":
 
     # Always compare the three main pipelines if "all" is chosen
     experiments = (
-        ["mtp", "mtp_with_sem"] if args.exp == "all" else [args.exp]
+        ["mtp", "mtp_with_sem", "pe"] if args.exp == "all" else [args.exp]
     )
 
     base_dir = Path.cwd() / "results"

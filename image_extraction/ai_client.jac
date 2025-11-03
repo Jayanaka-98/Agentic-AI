@@ -1,10 +1,11 @@
 import json;
 import from typing { List, Dict, Any, Optional }
 import from datetime { datetime }
-import from jac_cloud.jaseci.utils.logger { logger }
+# import from jac_cloud.jaseci.utils.logger { logger }
 import from openai { OpenAI }
-import os
 import from types { SimpleNamespace }
+import from byllm {Image}
+import from os { getenv }
 
 glob tools = [
         {
@@ -107,12 +108,11 @@ glob tools = [
 
 obj Openai_SDK {
     def init {
-        let api_key = os.getenv("OPENAI_API_KEY")
-        if not api_key {
-            raise Exception("Missing environment variable: OPENAI_API_KEY")
-        }
-        self.client = OpenAI(api_key=api_key)
+        self.client = OpenAI(
+            api_key=get_env_variable("OPENAI_API_KEY")
+        );
     }
+
 
     def extract_memory_details(
         image_url: str, 
@@ -139,6 +139,8 @@ obj Openai_SDK {
         IMAGE_CONTENT = [];
 
         if image_url {
+            image = Image(image_url);
+            image_url = image.url;
             IMAGE_CONTENT.append({"type": "image_url", "image_url": {"url": image_url}});
         }
 
@@ -159,13 +161,13 @@ obj Openai_SDK {
             messages=messages,
             tools=tools
         );
-        logger.debug(f"ai_client | extract_memory_details | OpenAI response: {response}");
+        # logger.debug(f"ai_client | extract_memory_details | OpenAI response: {response}");
          try {
             arguments = response.choices[0].message.tool_calls[0].function.arguments;
             arguments = json.loads(arguments);
             return SimpleNamespace(**arguments);
         } except Exception as e {
-            logger.error(f"open_ai_sdk | execute_tools | error: {e}");
+            # logger.error(f"open_ai_sdk | execute_tools | error: {e}");
             return None;
         }
     }
@@ -235,13 +237,13 @@ obj Openai_SDK {
             messages=messages,
             tools=tools
         );
-        logger.debug(f"ai_client | extract_memory_details | OpenAI response: {response}");
+        # logger.debug(f"ai_client | extract_memory_details | OpenAI response: {response}");
          try {
             arguments = response.choices[0].message.tool_calls[0].function.arguments;
             arguments = json.loads(arguments);
             return SimpleNamespace(**arguments);
         } except Exception as e {
-            logger.error(f"open_ai_sdk | execute_tools | error: {e}");
+            # logger.error(f"open_ai_sdk | execute_tools | error: {e}");
             return None;
         }
     }
@@ -311,13 +313,13 @@ obj Openai_SDK {
             messages=messages,
             tools=search_memory_tool
         );
-        logger.debug(f"ai_client | extract_memory_details | OpenAI response: {response}");
+        # logger.debug(f"ai_client | extract_memory_details | OpenAI response: {response}");
          try {
             arguments = response.choices[0].message.tool_calls[0].function.arguments;
             arguments = json.loads(arguments);
             return SimpleNamespace(**arguments);
         } except Exception as e {
-            logger.error(f"open_ai_sdk | execute_tools | error: {e}");
+            # logger.error(f"open_ai_sdk | execute_tools | error: {e}");
             arguments = {"ids": []};
             return SimpleNamespace(**arguments);
         }

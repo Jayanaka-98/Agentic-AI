@@ -326,23 +326,41 @@ def main():
     print(" - 'summarize tasks'                              (TaskHandling → summarize)")
     print(" - 'email Brian about the meeting next week'      (EmailHandling → draft)")
 
-    while True:
-        user = input("You: ").strip()
-        if user.lower() in {"exit", "quit"}:
-            print("Bye.")
-            break
+    import json
+    import datetime
 
-        carry_keys = {"email_to", "email_subject", "email_content"}
-        carry_forward = {k: v for k, v in last_state.items() if k in carry_keys}
+    with open("generalized_synthetic_agent_data.json", "r") as f :
+        data = json.load(f)
+    timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+    for type in data.keys() :
+        for utterance in data[type] :
+            
+    # while True:
+            # user = input("You: ").strip()
+            # if user.lower() in {"exit", "quit"}:
+            #     print("Bye.")
+            #     break
 
-        state: AppState = {"utterance": user, "history": history, **carry_forward}
-        out = app.invoke(state)
-        reply = out.get("response", "")
-        print("\nAssistant:", reply, "\n")
+            carry_keys = {"email_to", "email_subject", "email_content"}
+            carry_forward = {k: v for k, v in last_state.items() if k in carry_keys}
 
-        history.append(HumanMessage(content=user))
-        history.append(AIMessage(content=reply))
-        last_state = out
+            state: AppState = {"utterance": utterance, "history": history, **carry_forward}
+            out = app.invoke(state)
+            reply = out.get("response", "")
+            print("\nAssistant:", reply, "\n")
+
+            history.append(HumanMessage(content=utterance))
+            history.append(AIMessage(content=reply))
+            last_state = out
+
+            record = {
+                "type": type,
+                "utterance": utterance,
+                "response": reply
+            }
+
+            with open(f"taskman_{timestamp}.jsonl", "a") as out_f:
+                out_f.write(json.dumps(record) + "\n")
 
 if __name__ == "__main__":
     main()

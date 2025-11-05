@@ -8,6 +8,7 @@ import os;
 walker task_manager {
     has utterance: str = "";
     has session_id: str = "";
+    has response: str = "";
 
     obj __specs__ {
         static has auth: bool = False;
@@ -33,6 +34,7 @@ walker task_manager {
         out = app.invoke(state);
         reply = out.get("response", "");
         print("\nAssistant:", reply, "\n");
+        self.response = reply;
         report {
             "response": reply,
             "session_id": jid(self.session),
@@ -45,4 +47,27 @@ walker task_manager {
 
 with entry {
     load_dotenv();
+    import json;
+    import datetime;
+    with open("generalized_synthetic_agent_data.json", "r") as f {
+        data = json.load(f);
+    }
+    timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S");
+    for type in data.keys() {
+        for utterance in data[type] {
+            try {
+            root spawn (x := task_manager(utterance=utterance));
+            } except Exception as e {
+                print(f"Error processing utterance '{utterance}': {e}");
+            }
+            record = {
+                "type": type,
+                "utterance": x.utterance,
+                "response": x.response
+            };
+            with open(f"taskman_{timestamp}.jsonl", "a") as out_f {
+                out_f.write(json.dumps(record) + "\n");
+            }
+        }
+    }
 }

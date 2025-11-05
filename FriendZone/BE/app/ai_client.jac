@@ -1,10 +1,13 @@
 import json;
+import os;
 import from typing { List, Dict, Any, Optional }
 import from datetime { datetime }
-import from jac_cloud.jaseci.utils.logger { logger }
+# import from jac_cloud.jaseci.utils.logger { logger }
 import from openai { OpenAI }
-import from utils { get_env_variable }
 import from types { SimpleNamespace }
+import from byllm {Image}
+import from os { getenv }
+import from utils {get_env_variable}
 
 glob tools = [
         {
@@ -108,7 +111,8 @@ glob tools = [
 obj Openai_SDK {
     def init {
         self.client = OpenAI(
-            api_key=get_env_variable("OPENAI_API_KEY")
+            base_url=os.getenv("OLLAMA_BASE_URL", "http://localhost:11434/v1"),
+            api_key=os.getenv("OLLAMA_API_KEY", "ollama")  # any non-empty string works locally
         );
     }
 
@@ -137,6 +141,8 @@ obj Openai_SDK {
         IMAGE_CONTENT = [];
 
         if image_url {
+            image = Image(image_url);
+            image_url = image.url;
             IMAGE_CONTENT.append({"type": "image_url", "image_url": {"url": image_url}});
         }
 
@@ -153,17 +159,17 @@ obj Openai_SDK {
             }
         ];
         response = self.client.chat.completions.create(
-            model="gpt-4.1",
+            model=os.getenv("OLLAMA_MODEL", "gemma3:27b"),
             messages=messages,
             tools=tools
         );
-        logger.debug(f"ai_client | extract_memory_details | OpenAI response: {response}");
+        # logger.debug(f"ai_client | extract_memory_details | OpenAI response: {response}");
          try {
             arguments = response.choices[0].message.tool_calls[0].function.arguments;
             arguments = json.loads(arguments);
             return SimpleNamespace(**arguments);
         } except Exception as e {
-            logger.error(f"open_ai_sdk | execute_tools | error: {e}");
+            # logger.error(f"open_ai_sdk | execute_tools | error: {e}");
             return None;
         }
     }
@@ -233,13 +239,13 @@ obj Openai_SDK {
             messages=messages,
             tools=tools
         );
-        logger.debug(f"ai_client | extract_memory_details | OpenAI response: {response}");
+        # logger.debug(f"ai_client | extract_memory_details | OpenAI response: {response}");
          try {
             arguments = response.choices[0].message.tool_calls[0].function.arguments;
             arguments = json.loads(arguments);
             return SimpleNamespace(**arguments);
         } except Exception as e {
-            logger.error(f"open_ai_sdk | execute_tools | error: {e}");
+            # logger.error(f"open_ai_sdk | execute_tools | error: {e}");
             return None;
         }
     }
@@ -309,13 +315,13 @@ obj Openai_SDK {
             messages=messages,
             tools=search_memory_tool
         );
-        logger.debug(f"ai_client | extract_memory_details | OpenAI response: {response}");
+        # logger.debug(f"ai_client | extract_memory_details | OpenAI response: {response}");
          try {
             arguments = response.choices[0].message.tool_calls[0].function.arguments;
             arguments = json.loads(arguments);
             return SimpleNamespace(**arguments);
         } except Exception as e {
-            logger.error(f"open_ai_sdk | execute_tools | error: {e}");
+            # logger.error(f"open_ai_sdk | execute_tools | error: {e}");
             arguments = {"ids": []};
             return SimpleNamespace(**arguments);
         }
